@@ -54,13 +54,17 @@ class FilesFinder:
             relative_file: RelativeFile = groups.get(key_without_pair)[0]
 
             if relative_file.locale == 'en-US':
-                ru_file = self.create_ru_analog(relative_file)
-                self.created_files.append(ru_file)
+                # ru_file = self.create_ru_analog(relative_file)
+                # self.created_files.append(ru_file)
+                self.warn_xx_analog_not_exist(relative_file, 'en-US', 'ru-RU')
             elif relative_file.locale == 'ru-RU':
-                is_engine_files = "robust-toolbox" in (relative_file.file.full_path)
-                is_corvax_files = "corvax" in (relative_file.file.full_path)
-                if not is_engine_files and not is_corvax_files:
-                    self.warn_en_analog_not_exist(relative_file)
+                # is_engine_files = "robust-toolbox" in (relative_file.file.full_path)
+                # is_corvax_files = "corvax" in (relative_file.file.full_path)
+                #if not is_engine_files and not is_corvax_files:
+                    #self.warn_en_analog_not_exist(relative_file)
+                en_file=self.create_en_analog(relative_file)
+                self.created_files.append(en_file)
+                    
             else:
                 raise Exception(f'Файл {relative_file.file.full_path} имеет неизвестную локаль "{relative_file.locale}"')
 
@@ -76,124 +80,130 @@ class FilesFinder:
 
         return py_.group_by(relative_files, 'relative_path_from_locale')
 
+    def create_xx_analog(self, src_relative_file: RelativeFile, src='en-US', dst="'ru-RU") -> FluentFile:
+        src_file: FluentFile = src_relative_file.file
+        src_file_data = src_file.read_data()
+        dst_file_path = src_file.full_path.replace(src, dst)
+        dst_file = FluentFile(dst_file_path)
+        dst_file.save_data(src_file_data)
+        logging.info(f'Created file {dst_file_path} with translations from the {src} file')
+        return dst_file
+    
     def create_ru_analog(self, en_relative_file: RelativeFile) -> FluentFile:
-        en_file: FluentFile = en_relative_file.file
-        en_file_data = en_file.read_data()
-        ru_file_path = en_file.full_path.replace('en-US', 'ru-RU')
-        ru_file = FluentFile(ru_file_path)
-        ru_file.save_data(en_file_data)
+        return self.create_xx_analog(en_relative_file)
 
-        logging.info(f'Создан файл {ru_file_path} с переводами из английского файла')
+    def create_en_analog(self, ru_relative_file: RelativeFile) -> FluentFile:
+        return self.create_xx_analog(ru_relative_file, 'ru-RU', 'en-US')
 
-        return ru_file
+    def warn_xx_analog_not_exist(self, src_relative_file: RelativeFile, src,  dst):
+        file: FluentFile = src_relative_file.file
+        dst_file_path = file.full_path.replace(src, dst)
 
-    def warn_en_analog_not_exist(self, ru_relative_file: RelativeFile):
-        file: FluentFile = ru_relative_file.file
-        en_file_path = file.full_path.replace('ru-RU', 'en-US')
-
-        logging.warning(f'Файл {file.full_path} не имеет английского аналога по пути {en_file_path}')
+        logging.warning(f'File {file.full_path} does not have an equivalent at path {dst_file_path}')
 
 
 class KeyFinder:
-    def __init__(self, files_dict):
+    def __init__(self, files_dict, src='en-US', dst='ru-RU'):
+        self.src=src
+        self.dst=dst
         self.files_dict = files_dict
         self.changed_files: typing.List[FluentFile] = []
 
     def execute(self) -> typing.List[FluentFile]:
         self.changed_files = []
         for pair in self.files_dict:
-            ru_relative_file = py_.find(self.files_dict[pair], {'locale': 'ru-RU'})
-            en_relative_file = py_.find(self.files_dict[pair], {'locale': 'en-US'})
+            dst_relative_file = py_.find(self.files_dict[pair], {'locale': self.dst})
+            src_relative_file = py_.find(self.files_dict[pair], {'locale': self.src})
 
-            if not en_relative_file or not ru_relative_file:
+            if not src_relative_file or not dst_relative_file:
                 continue
 
-            ru_file: FluentFile = ru_relative_file.file
-            en_file: FluentFile = en_relative_file.file
+            dst_file: FluentFile = dst_relative_file.file
+            src_file: FluentFile = src_relative_file.file
 
-            self.compare_files(en_file, ru_file)
+            self.compare_files(src_file, dst_file)
 
         return self.changed_files
 
 
-    def compare_files(self, en_file, ru_file):
-        ru_file_parsed: ast.Resource = ru_file.parse_data(ru_file.read_data())
-        en_file_parsed: ast.Resource = en_file.parse_data(en_file.read_data())
+    def compare_files(self, src_file, dst_file):
+        dst_file_parsed: ast.Resource = dst_file.parse_data(dst_file.read_data())
+        src_file_parsed: ast.Resource = src_file.parse_data(src_file.read_data())
 
-        self.write_to_ru_files(ru_file, ru_file_parsed, en_file_parsed)
-        self.log_not_exist_en_files(en_file, ru_file_parsed, en_file_parsed)
+        self.write_to_xx_files(dst_file, dst_file_parsed, src_file_parsed)
+        self.log_not_exist_en_files(src_file, dst_file_parsed, src_file_parsed)
 
 
-    def write_to_ru_files(self, ru_file, ru_file_parsed, en_file_parsed):
-        for idx, en_message in enumerate(en_file_parsed.body):
-            if isinstance(en_message, ast.ResourceComment) or isinstance(en_message, ast.GroupComment) or isinstance(en_message, ast.Comment):
+    def write_to_xx_files(self, dst_file, dst_file_parsed, src_file_parsed):
+        for idx, src_message in enumerate(src_file_parsed.body):
+            if isinstance(src_message, ast.ResourceComment) or isinstance(src_message, ast.GroupComment) or isinstance(src_message, ast.Comment):
                 continue
 
-            ru_message_analog_idx = py_.find_index(ru_file_parsed.body, lambda ru_message: self.find_duplicate_message_id_name(ru_message, en_message))
+            dst_message_analog_idx = py_.find_index(dst_file_parsed.body, lambda dst_message: self.find_duplicate_message_id_name(dst_message, src_message))
             have_changes = False
 
             # Attributes
-            if getattr(en_message, 'attributes', None) and ru_message_analog_idx != -1:
-                if not ru_file_parsed.body[ru_message_analog_idx].attributes:
-                    ru_file_parsed.body[ru_message_analog_idx].attributes = en_message.attributes
+            if getattr(src_message, 'attributes', None) and dst_message_analog_idx != -1:
+                if not dst_file_parsed.body[dst_message_analog_idx].attributes:
+                    dst_file_parsed.body[dst_message_analog_idx].attributes = src_message.attributes
                     have_changes = True
                 else:
-                    for en_attr in en_message.attributes:
-                        ru_attr_analog = py_.find(ru_file_parsed.body[ru_message_analog_idx].attributes, lambda ru_attr: ru_attr.id.name == en_attr.id.name)
-                        if not ru_attr_analog:
-                            ru_file_parsed.body[ru_message_analog_idx].attributes.append(en_attr)
+                    for src_attr in src_message.attributes:
+                        dst_attr_analog = py_.find(dst_file_parsed.body[dst_message_analog_idx].attributes, lambda ru_attr: ru_attr.id.name == src_attr.id.name)
+                        if not dst_attr_analog:
+                            dst_file_parsed.body[dst_message_analog_idx].attributes.append(src_attr)
                             have_changes = True
 
             # New elements
-            if ru_message_analog_idx == -1:
-                ru_file_body = ru_file_parsed.body
-                if (len(ru_file_body) >= idx + 1):
-                    ru_file_parsed = self.append_message(ru_file_parsed, en_message, idx)
+            if dst_message_analog_idx == -1:
+                dst_file_body = dst_file_parsed.body
+                if (len(dst_file_body) >= idx + 1):
+                    dst_file_parsed = self.append_message(dst_file_parsed, src_message, idx)
                 else:
-                    ru_file_parsed = self.push_message(ru_file_parsed, en_message)
+                    dst_file_parsed = self.push_message(dst_file_parsed, src_message)
                 have_changes = True
 
             if have_changes:
-                serialized = serializer.serialize(ru_file_parsed)
-                self.save_and_log_file(ru_file, serialized, en_message)
+                serialized = serializer.serialize(dst_file_parsed)
+                self.save_and_log_file(dst_file, serialized, src_message)
 
-    def log_not_exist_en_files(self, en_file, ru_file_parsed, en_file_parsed):
-        for idx, ru_message in enumerate(ru_file_parsed.body):
-            if isinstance(ru_message, ast.ResourceComment) or isinstance(ru_message, ast.GroupComment) or isinstance(ru_message, ast.Comment):
+    def log_not_exist_en_files(self, src_file, dst_file_parsed, src_file_parsed):
+        for idx, dst_message in enumerate(dst_file_parsed.body):
+            if isinstance(dst_message, ast.ResourceComment) or isinstance(dst_message, ast.GroupComment) or isinstance(dst_message, ast.Comment):
                 continue
 
-            en_message_analog = py_.find(en_file_parsed.body, lambda en_message: self.find_duplicate_message_id_name(ru_message, en_message))
+            src_message_analog = py_.find(src_file_parsed.body, lambda src_message: self.find_duplicate_message_id_name(dst_message, src_message))
 
-            if not en_message_analog:
-                logging.warning(f'Ключ "{FluentAstAbstract.get_id_name(ru_message)}" не имеет английского аналога по пути {en_file.full_path}"')
+            if not src_message_analog:
+                logging.warning(f'The key "{FluentAstAbstract.get_id_name(dst_message)}" does not have an equivalent at the path {src_file.full_path}"')
 
-    def append_message(self, ru_file_parsed, en_message, en_message_idx):
-        ru_message_part_1 = ru_file_parsed.body[0:en_message_idx]
-        ru_message_part_middle = [en_message]
-        ru_message_part_2 = ru_file_parsed.body[en_message_idx:]
-        new_body = py_.flatten_depth([ru_message_part_1, ru_message_part_middle, ru_message_part_2], depth=1)
-        ru_file_parsed.body = new_body
+    def append_message(self, dst_file_parsed, src_message, src_message_idx):
+        dst_message_part_1 = dst_file_parsed.body[0:src_message_idx]
+        dst_message_part_middle = [src_message]
+        dst_message_part_2 = dst_file_parsed.body[src_message_idx:]
+        new_body = py_.flatten_depth([dst_message_part_1, dst_message_part_middle, dst_message_part_2], depth=1)
+        dst_file_parsed.body = new_body
 
-        return ru_file_parsed
+        return dst_file_parsed
 
-    def push_message(self,  ru_file_parsed, en_message):
-        ru_file_parsed.body.append(en_message)
-        return ru_file_parsed
+    def push_message(self,  dst_file_parsed, src_message):
+        dst_file_parsed.body.append(src_message)
+        return dst_file_parsed
 
     def save_and_log_file(self, file, file_data, message):
         file.save_data(file_data)
         logging.info(f'В файл {file.full_path} добавлен ключ "{FluentAstAbstract.get_id_name(message)}"')
         self.changed_files.append(file)
 
-    def find_duplicate_message_id_name(self, ru_message, en_message):
-        ru_element_id_name = FluentAstAbstract.get_id_name(ru_message)
-        en_element_id_name = FluentAstAbstract.get_id_name(en_message)
+    def find_duplicate_message_id_name(self, dst_message, src_message):
+        dst_element_id_name = FluentAstAbstract.get_id_name(dst_message)
+        src_element_id_name = FluentAstAbstract.get_id_name(src_message)
 
-        if not ru_element_id_name or not en_element_id_name:
+        if not dst_element_id_name or not src_element_id_name:
             return False
 
-        if ru_element_id_name == en_element_id_name:
-            return ru_message
+        if dst_element_id_name == src_element_id_name:
+            return dst_message
         else:
             return None
 
@@ -204,7 +214,7 @@ project = Project()
 parser = FluentParser()
 serializer = FluentSerializer(with_junk=True)
 files_finder = FilesFinder(project)
-key_finder = KeyFinder(files_finder.get_files_pars())
+key_finder = KeyFinder(files_finder.get_files_pars(), src='ru-RU', dst='en-US')
 
 ########################################################################################################################
 
@@ -212,6 +222,7 @@ print('Проверка актуальности файлов ...')
 created_files = files_finder.execute()
 if len(created_files):
     print('Форматирование созданных файлов ...')
+    print(created_files)
     FluentFormatter.format(created_files)
 print('Проверка актуальности ключей ...')
 changed_files = key_finder.execute()
