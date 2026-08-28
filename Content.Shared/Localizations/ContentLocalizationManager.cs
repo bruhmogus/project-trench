@@ -11,7 +11,7 @@ namespace Content.Shared.Localizations
 
         // If you want to change your codebase's language, do it here.
         private const string Culture = "en-US"; // Russian-Localization
-        private const string FallbackCulture = "ru-RU"; // Russian-Localization
+        //private const string FallbackCulture = "ru-RU"; // Russian-Localization
 
         /// <summary>
         /// Custom format strings used for parsing and displaying minutes:seconds timespans.
@@ -27,11 +27,11 @@ namespace Content.Shared.Localizations
         public void Initialize()
         {
             var culture = new CultureInfo(Culture);
-            var fallbackCulture = new CultureInfo(FallbackCulture); // Russian-Localization
+            //var fallbackCulture = new CultureInfo(FallbackCulture); // Russian-Localization
 
             _loc.LoadCulture(culture);
-            _loc.LoadCulture(fallbackCulture); // Russian-Localization
-            _loc.SetFallbackCluture(fallbackCulture); // Russian-Localization
+            //_loc.LoadCulture(fallbackCulture); // Russian-Localization
+            //_loc.SetFallbackCluture(fallbackCulture); // Russian-Localization
             _loc.AddFunction(culture, "PRESSURE", FormatPressure);
             _loc.AddFunction(culture, "POWERWATTS", FormatPowerWatts);
             _loc.AddFunction(culture, "POWERJOULES", FormatPowerJoules);
