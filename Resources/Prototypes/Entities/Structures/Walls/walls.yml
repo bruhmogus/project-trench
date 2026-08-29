@@ -171,7 +171,6 @@
   parent: BaseWall
   id: WallClown
   name: bananium wall
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Sprite
     sprite: Structures/Walls/clown.rsi
@@ -217,7 +216,6 @@
   id: WallMeat
   name: meat wall
   description: Sticky.
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Tag
     tags:
@@ -251,7 +249,6 @@
   parent: BaseWall
   id: WallCult
   name: cult wall
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Sprite
     sprite: Structures/Walls/cult.rsi
@@ -515,7 +512,6 @@
   id: WallPlastitaniumIndestructible
   name: plastitanium wall
   suffix: indestructible
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Ricochetable
     chance: 1
@@ -547,8 +543,7 @@
   parent: WallPlastitaniumIndestructible
   id: WallPlastitanium
   name: plastitanium wall
-  suffix: ""
-  categories: [ HideSpawnMenu ] # Fire added
+  suffix: indestructible
   components:
   - type: Destructible
     thresholds:
@@ -589,7 +584,6 @@
   id: WallPlastitaniumDiagonal
   name: plastitanium wall
   suffix: diagonal
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Sprite
     drawdepth: Walls
@@ -619,7 +613,6 @@
   parent: BaseWall
   id: WallReinforced
   name: reinforced wall
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Pierceable
     level: HardenedMetal
@@ -694,7 +687,6 @@
   parent: WallReinforced
   id: WallReinforcedRust
   suffix: rusted
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Sprite
     sprite: Structures/Walls/solid_rust.rsi
@@ -734,7 +726,6 @@
   parent: WallDiagonalBaseSunrise # Sunrise-Edit
   id: WallReinforcedDiagonal
   name: reinforced wall
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Sprite
     drawdepth: Walls
@@ -776,7 +767,6 @@
   parent: BaseWall
   id: WallRiveted
   name: riveted wall
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Sprite
     sprite: Structures/Walls/riveted.rsi
@@ -881,7 +871,6 @@
   parent: WallDiagonalBase
   id: WallShuttleDiagonal
   name: shuttle wall
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Sprite
     drawdepth: Walls
@@ -954,7 +943,6 @@
   parent: BaseWall
   id: WallShuttle
   name: shuttle wall
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Damageable
     damageContainer: StructuralInorganic
@@ -1029,7 +1017,6 @@
   parent: [BaseWall, BaseDeltaPressurePlasma]
   id: WallSolid
   name: solid wall
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Sprite
     sprite: Structures/Walls/solid.rsi
@@ -1073,7 +1060,6 @@
   parent: WallDiagonalBaseSunrise # Sunrise-Edit
   id: WallSolidDiagonal
   name: solid wall
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Sprite
     drawdepth: Walls
@@ -1111,7 +1097,6 @@
   parent: WallSolid
   id: WallSolidRust
   suffix: rusted
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Sprite
     sprite: Structures/Walls/solid_rust.rsi
@@ -1353,7 +1338,6 @@
 - type: entity
   parent: BaseWall
   id: WallWood
-  categories: [ HideSpawnMenu ] # Fire edit
   name: wood wall
   description: The traditional assistant defense.
   components:
@@ -1471,7 +1455,6 @@
 - type: entity
   parent: BaseWall
   id: WallMining
-  categories: [ HideSpawnMenu ] # Fire edit
   name: mining wall
   components:
   - type: Sprite
@@ -1497,7 +1480,6 @@
 - type: entity
   parent: WallDiagonalBaseSunrise # Sunrise-Edit
   id: WallMiningDiagonal
-  categories: [ HideSpawnMenu ] # Fire edit
   name: mining wall
   components:
   - type: Sprite
