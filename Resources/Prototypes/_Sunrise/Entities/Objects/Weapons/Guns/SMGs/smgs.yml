@@ -2,7 +2,7 @@
   parent: BaseWeaponSubMachineGun
   id: WeaponSubMachineGunP90
   name: FN P90
-  description: The P90, produced by FN Herstal. A really unconventional gun that looks like it got ripped straight out of a sci-fi film.
+  description: The P90, produced by FN Herstal. A really unconventional gun that looks like it got ripped straight out of a sci-fi film. Chambered in .35 auto.
   components:
   - type: Item
     size: Large
@@ -64,7 +64,7 @@
   parent: BaseWeaponSubMachineGun
   id: WeaponSubMachineGunMP5
   name: H&K MP5
-  description: A classic German submachine gun produced by Heckler and Koch, known as the Maschinenpistole 5. Used by both the Foundation and random police departments in the United States.
+  description: A classic German submachine gun produced by Heckler and Koch, known as the Maschinenpistole 5. Used by both the Foundation and random police departments in the United States. Chambered in .35 auto.
   components:
   - type: Sprite
     sprite: _Sunrise/Objects/Weapons/Guns/SMGs/mp5/big.rsi
