@@ -2,7 +2,7 @@
   parent: [ BaseWeaponRifle, BaseGunWieldable ]
   id: WeaponSniperDragunov
   name: SVD designated marksman rifle
-  description: The Snayperskaya Vintovka Dragunova, literally "Dragunov's sniper rifle." An antique semi-automatic Soviet DMR. Despite its' age, it remains in active production and active service.
+  description: The Snayperskaya Vintovka Dragunova, literally "Dragunov's sniper rifle." An antique semi-automatic Soviet DMR. Despite its' age, it remains in active production and active service. Chambered in 7.62.
   components:
   - type: Sprite
     sprite: _Sunrise/Objects/Weapons/Guns/Snipers/dragunov/big.rsi
