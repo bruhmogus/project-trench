@@ -1,5 +1,6 @@
 - type: entity
   id: Window
+  categories: [ HideSpawnMenu ] # Fire edit
   parent: [BaseDeltaPressureGlass, BaseStructure]
   name: window
   description: Don't smudge up the glass down there.
@@ -102,6 +103,7 @@
 - type: entity
   parent: Window
   id: TintedWindow
+  categories: [ HideSpawnMenu ] # Fire edit
   name: tinted window
   components:
   - type: Sprite
@@ -128,6 +130,7 @@
 
 - type: entity
   id: WindowDirectional
+  categories: [ HideSpawnMenu ] # Fire edit
   parent: [BaseDeltaPressureGlassQuarter, BaseStructure]
   name: directional window
   description: Don't smudge up the glass down there.
@@ -254,6 +257,7 @@
 - type: entity
   parent: Window
   id: WindowDiagonal
+  categories: [ HideSpawnMenu ] # Fire edit
   suffix: diagonal
   placement:
     mode: SnapgridCenter
