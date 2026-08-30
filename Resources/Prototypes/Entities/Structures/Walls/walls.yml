@@ -103,7 +103,6 @@
   parent: BaseWall
   id: WallBrick
   name: brick wall
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Pierceable
     level: Metal
@@ -141,7 +140,6 @@
   parent: BaseWall
   id: WallClock
   name: clock wall
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Sprite
     sprite: Structures/Walls/clock.rsi
