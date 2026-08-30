@@ -542,7 +542,6 @@
 - type: entity
   parent: WallPlastitaniumIndestructible
   id: WallPlastitanium
-  categories: [ HideSpawnMenu ] # Fire edit
   name: plastitanium wall
   suffix: indestructible
   components:
@@ -583,7 +582,6 @@
 - type: entity
   parent: WallPlastitaniumDiagonalIndestructible
   id: WallPlastitaniumDiagonal
-  categories: [ HideSpawnMenu ] # Fire edit
   name: plastitanium wall
   suffix: diagonal
   components:
@@ -614,7 +612,6 @@
 - type: entity
   parent: BaseWall
   id: WallReinforced
-  categories: [ HideSpawnMenu ] # Fire edit
   name: reinforced wall
   components:
   - type: Pierceable
@@ -689,7 +686,6 @@
 - type: entity
   parent: WallReinforced
   id: WallReinforcedRust
-  categories: [ HideSpawnMenu ] # Fire edit
   suffix: rusted
   components:
   - type: Sprite
@@ -729,7 +725,6 @@
 - type: entity
   parent: WallDiagonalBaseSunrise # Sunrise-Edit
   id: WallReinforcedDiagonal
-  categories: [ HideSpawnMenu ] # Fire edit
   name: reinforced wall
   components:
   - type: Sprite
@@ -771,7 +766,6 @@
 - type: entity
   parent: BaseWall
   id: WallRiveted
-  categories: [ HideSpawnMenu ] # Fire edit
   name: riveted wall
   components:
   - type: Sprite
@@ -1022,7 +1016,6 @@
 - type: entity
   parent: [BaseWall, BaseDeltaPressurePlasma]
   id: WallSolid
-  categories: [ HideSpawnMenu ] # Fire edit
   name: solid wall
   components:
   - type: Sprite
@@ -1066,7 +1059,6 @@
 - type: entity
   parent: WallDiagonalBaseSunrise # Sunrise-Edit
   id: WallSolidDiagonal
-  categories: [ HideSpawnMenu ] # Fire edit
   name: solid wall
   components:
   - type: Sprite
@@ -1104,7 +1096,6 @@
 - type: entity
   parent: WallSolid
   id: WallSolidRust
-  categories: [ HideSpawnMenu ] # Fire edit
   suffix: rusted
   components:
   - type: Sprite
@@ -1347,7 +1338,6 @@
 - type: entity
   parent: BaseWall
   id: WallWood
-  categories: [ HideSpawnMenu ] # Fire edit
   name: wood wall
   description: The traditional assistant defense.
   components:
@@ -1465,7 +1455,6 @@
 - type: entity
   parent: BaseWall
   id: WallMining
-  categories: [ HideSpawnMenu ] # Fire edit
   name: mining wall
   components:
   - type: Sprite
@@ -1491,7 +1480,6 @@
 - type: entity
   parent: WallDiagonalBaseSunrise # Sunrise-Edit
   id: WallMiningDiagonal
-  categories: [ HideSpawnMenu ] # Fire edit
   name: mining wall
   components:
   - type: Sprite

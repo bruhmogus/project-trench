@@ -199,7 +199,6 @@
 - type: entity
   parent: BasePDA
   id: PassengerPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: passenger PDA
   description: Why isn't it gray?
   components:
@@ -211,7 +210,6 @@
 - type: entity
   parent: BasePDA
   id: TechnicalAssistantPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: technical assistant PDA
   description: Why isn't it yellow?
   components:
@@ -233,7 +231,6 @@
 - type: entity
   parent: BaseMedicalPDA
   id: MedicalInternPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: medical intern PDA
   description: Why isn't it white?
   components:
@@ -258,7 +255,6 @@
 - type: entity
   parent: BaseSecurityPDA
   id: SecurityCadetPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: security cadet PDA
   description: Why isn't it red?
   components:
@@ -280,7 +276,6 @@
 - type: entity
   parent: BasePDA
   id: ResearchAssistantPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: research assistant PDA
   description: Why isn't it purple?
   components:
@@ -302,7 +297,6 @@
 - type: entity
   parent: BasePDA
   id: ServiceWorkerPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: service worker PDA
   description: Why isn't it gray?
   components:
@@ -324,7 +318,6 @@
 - type: entity
   parent: BasePDA
   id: ChefPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: chef PDA
   description: Covered in grease and flour.
   components:
@@ -346,7 +339,6 @@
 - type: entity
   parent: BasePDA
   id: BotanistPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: botanist PDA
   description: Has an earthy scent.
   components:
@@ -382,7 +374,6 @@
 - type: entity
   parent: BasePDA
   id: ClownPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: clown PDA
   description: Looks can be deceiving.
   components:
@@ -434,7 +425,6 @@
 - type: entity
   parent: ClownPDA
   id: VisitorClownPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   suffix: Visitor
   components:
   - type: Pda
@@ -446,7 +436,6 @@
 - type: entity
   parent: BasePDA
   id: MimePDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: mime PDA
   description: Suprisingly not on mute.
   components:
@@ -503,7 +492,6 @@
   name: chaplain PDA
   parent: BasePDA
   id: ChaplainPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   description: God's chosen PDA.
   components:
   - type: Pda
@@ -524,7 +512,6 @@
 - type: entity
   parent: ChaplainPDA
   id: VisitorChaplainPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   suffix: Visitor
   components:
   - type: Pda
@@ -537,7 +524,6 @@
   name: quartermaster PDA
   parent: BasePDA
   id: QuartermasterPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   description: PDA for the guy that orders the guns.
   components:
   - type: Pda
@@ -578,7 +564,6 @@
 - type: entity
   parent: BasePDA
   id: CargoPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: cargo PDA
   description: PDA for the guys that order the pizzas.
   components:
@@ -599,7 +584,6 @@
 - type: entity
   parent: BasePDA
   id: SalvagePDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: salvage PDA
   description: Smells like ash.
   components:
@@ -635,7 +619,6 @@
 - type: entity
   parent: BasePDA
   id: BartenderPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: bartender PDA
   description: Smells like beer.
   components:
@@ -658,7 +641,6 @@
 - type: entity
   parent: BasePDA # Sunrise-Edit
   id: LibrarianPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: librarian PDA
   description: Smells like books.
   components:
@@ -690,7 +672,6 @@
 - type: entity
   parent: LibrarianPDA
   id: VisitorLibrarianPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   suffix: Visitor
   components:
   - type: Pda
@@ -702,7 +683,6 @@
 - type: entity
   parent: BaseSecurityPDA
   id: LawyerPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: lawyer PDA
   description: For lawyers to poach dubious clients.
   components:
@@ -729,7 +709,6 @@
 - type: entity
   parent: LawyerPDA
   id: VisitorLawyerPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   suffix: Visitor
   components:
   - type: Pda
@@ -741,7 +720,6 @@
 - type: entity
   parent: BasePDA
   id: JanitorPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: janitor PDA
   description: Smells like bleach.
   components:
@@ -762,7 +740,6 @@
 - type: entity
   parent: BasePDA
   id: CaptainPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: captain PDA
   description: Surprisingly no different from your PDA.
   components:
@@ -791,7 +768,6 @@
 - type: entity
   parent: BasePDA
   id: HoPPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: head of personnel PDA
   description: Looks like it's been chewed on.
   components:
@@ -820,7 +796,6 @@
 - type: entity
   parent: BasePDA
   id: CEPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: chief engineer PDA
   description: Looks like it's barely been used.
   components:
@@ -849,7 +824,6 @@
 - type: entity
   parent: BasePDA
   id: EngineerPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: engineer PDA
   description: Rugged and well-worn.
   components:
@@ -871,7 +845,6 @@
 - type: entity
   parent: BaseMedicalPDA
   id: CMOPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: chief medical officer PDA
   description: Extraordinarily shiny and sterile.
   components:
@@ -900,7 +873,6 @@
 - type: entity
   parent: BaseMedicalPDA
   id: MedicalPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: medical PDA
   description: Shiny and sterile.
   components:
@@ -925,7 +897,6 @@
 - type: entity
   parent: MedicalPDA
   id: VisitorMedicalPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   suffix: Visitor
   components:
   - type: Pda
@@ -937,7 +908,6 @@
 - type: entity
   parent: BaseMedicalPDA
   id: ParamedicPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: paramedic PDA
   description: Shiny and sterile.
   components:
@@ -960,7 +930,6 @@
 - type: entity
   parent: BaseMedicalPDA
   id: ChemistryPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: chemistry PDA
   description: It has a few discolored blotches here and there.
   components:
@@ -982,7 +951,6 @@
 - type: entity
   parent: BasePDA
   id: RnDPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: research director PDA
   description: It appears surprisingly ordinary.
   components:
@@ -1011,7 +979,6 @@
 - type: entity
   parent: BasePDA
   id: SciencePDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: science PDA
   description: It's covered with an unknown gooey substance.
   components:
@@ -1033,7 +1000,6 @@
 - type: entity
   parent: BaseSecurityPDA
   id: HoSPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: head of security PDA
   description: Whosoever bears this PDA is the law.
   components:
@@ -1076,7 +1042,6 @@
 - type: entity
   parent: BaseSecurityPDA
   id: WardenPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: warden PDA
   description: The OS appears to have been jailbroken.
   components:
@@ -1099,7 +1064,6 @@
 - type: entity
   parent: BaseSecurityPDA
   id: SecurityPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: security PDA
   description: Red to hide the stains of passenger blood.
   components:
@@ -1121,7 +1085,6 @@
 - type: entity
   parent: BaseSecurityPDA
   id: CentcomPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: CentComm PDA
   description: Light green sign of walking bureaucracy.
   components:
@@ -1167,7 +1130,6 @@
 - type: entity
   parent: CentcomPDA
   id: CentcomOperatorPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: CentComm PDA
   description: Light green sign of walking bureaucracy.
   components:
@@ -1190,7 +1152,6 @@
 - type: entity
   parent: CentcomPDA
   id: AdminPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: Admin PDA
   suffix: Admin
   description: If you are not an admin please return this PDA to the nearest admin.
@@ -1228,7 +1189,6 @@
 - type: entity
   parent: CentcomPDA
   id: DeathsquadPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   suffix: Death Squad
   components:
   - type: Pda
@@ -1251,7 +1211,6 @@
 - type: entity
   parent: BasePDA
   id: MusicianPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: musician PDA
   description: It fills you with inspiration.
   components:
@@ -1278,7 +1237,6 @@
 - type: entity
   parent: MusicianPDA
   id: VisitorMusicianPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   suffix: Visitor
   components:
   - type: Pda
@@ -1290,7 +1248,6 @@
 - type: entity
   parent: BasePDA
   id: AtmosPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: atmos PDA
   description: Still smells like plasma.
   components:
@@ -1312,7 +1269,6 @@
 - type: entity
   parent: BasePDA
   id: ClearPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: clear PDA
   description: 99 and 44/100ths percent pure plastic.
   components:
@@ -1333,7 +1289,6 @@
 - type: entity
   parent: ClearPDA
   id: VisitorPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   components:
   - type: Pda
     id: VisitorIDCard
@@ -1344,7 +1299,6 @@
 - type: entity
   parent: [ BasePDA, BaseSyndicateContraband ]
   id: SyndiPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: syndicate PDA
   description: Ok, time to be a productive member of- oh cool I'm a bad guy time to kill people!
   components:
@@ -1440,7 +1394,6 @@
 - type: entity
   parent: BaseSecurityPDA
   id: ERTLeaderPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: ERT Leader PDA
   suffix: Leader
   description: Red for firepower.
@@ -1481,7 +1434,6 @@
 - type: entity
   parent: ERTLeaderPDA
   id: ERTChaplainPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: ERT Chaplain PDA
   suffix: Chaplain
   description: Red for firepower, it's blessed.
@@ -1525,7 +1477,6 @@
 - type: entity
   parent: ERTLeaderPDA
   id: ERTSecurityPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: ERT Security PDA
   suffix: Security
   description: Red for firepower, it has tally marks etched on the side.
@@ -1536,7 +1487,6 @@
 - type: entity
   parent: ERTLeaderPDA
   id: CBURNPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: CBURN PDA
   description: Smells like rotten flesh.
   components:
@@ -1552,7 +1502,6 @@
 - type: entity
   parent: BasePDA
   id: PsychologistPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: psychologist PDA
   description: Looks immaculately cleaned.
   components:
@@ -1574,7 +1523,6 @@
 - type: entity
   parent: BasePDA
   id: ReporterPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: reporter PDA
   description: Smells like freshly printed press.
   components:
@@ -1602,7 +1550,6 @@
 - type: entity
   parent: BasePDA
   id: ZookeeperPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: zookeeper PDA
   description: Made with genuine synthetic leather. Crikey!
   components:
@@ -1624,7 +1571,6 @@
 - type: entity
   parent: BasePDA
   id: BoxerPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: boxer PDA
   description: Float like a butterfly, ringtone like a bee.
   components:
@@ -1646,7 +1592,6 @@
 - type: entity
   parent: BaseSecurityPDA
   id: DetectivePDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: detective PDA
   description: Smells like rain... pouring down the rooftops...
   components:
@@ -1683,7 +1628,6 @@
 - type: entity
   parent: BaseMedicalPDA
   id: BrigmedicPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: brigmedic PDA
   description: I wonder whose pulse is on the screen? I hope it doesn't stop...
   components:
@@ -1720,7 +1664,6 @@
 - type: entity
   parent: ClownPDA
   id: CluwnePDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: cluwne PDA
   suffix: Unremoveable
   description: Cursed cluwne PDA.
@@ -1750,7 +1693,6 @@
 - type: entity
   parent: BasePDA
   id: SeniorEngineerPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: senior engineer PDA
   description: Seems to have been taken apart and put back together several times.
   components:
@@ -1773,7 +1715,6 @@
 - type: entity
   parent: BasePDA
   id: SeniorResearcherPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: senior researcher PDA
   description: Looks like it's been through years of chemical burns and explosions.
   components:
@@ -1796,7 +1737,6 @@
 - type: entity
   parent: BaseMedicalPDA
   id: SeniorPhysicianPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: senior physician PDA
   description: Smells faintly like iron and chemicals.
   components:
@@ -1819,7 +1759,6 @@
 - type: entity
   parent: BaseSecurityPDA
   id: SeniorOfficerPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: senior officer PDA
   description: Beaten, battered and broken, but just barely useable.
   components:
@@ -1881,7 +1820,6 @@
 - type: entity
   parent: [ BaseMajorContraband, SyndiPDA ]
   id: PiratePDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: pirate PDA
   description: Yargh!
   components:
@@ -1912,7 +1850,6 @@
 - type: entity
   parent: [BasePDA, SelectableLock]
   id: ChameleonPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: passenger PDA
   description: Why isn't it gray?
   suffix: Chameleon
@@ -1958,7 +1895,6 @@
 - type: entity
   parent: BaseWidePDA
   id: WizardPDA
-  categories: [ HideSpawnMenu ] # Fire edit
   name: wizard PDA
   description: You hear faint whispers coming from it.
   components:
