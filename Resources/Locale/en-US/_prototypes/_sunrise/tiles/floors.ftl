@@ -1,1 +1,2 @@
-ent-FloorLightFancyWood = большой деревянный светлый пол
+# [AUTO_EN]
+ent-FloorLightFancyWood = large wooden light floor

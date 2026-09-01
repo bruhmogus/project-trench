@@ -1,1 +1,2 @@
-tab-container-not-tab-title-provided = Без названия
+# [AUTO_EN]
+tab-container-not-tab-title-provided = Untitled

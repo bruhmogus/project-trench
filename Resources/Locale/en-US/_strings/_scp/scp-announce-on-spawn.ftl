@@ -12,6 +12,7 @@ class-d-announce-on-spawn = New Class D personnel registered: { $name }, { $job 
 mtf-announce-on-spawn =
     ATTENTION! A Mobile Task Force has entered the facility. 
     All survivors are advised to remain in a shelter or any other secure location until the Task Force has cleared the facility.
+# [AUTO_EN]
 chaos-announce-on-spawn =
-    ВНИМАНИЕ! Зафиксировано проникновение на территорию учреждения!
-    Всем сотрудникам Службы Безопасности следует незамедлительно реагировать на информацию о неизвестных лицах в пределах Участка.
+    WARNING! Unauthorized access to the facility has been detected!
+    All Security Service personnel must immediately respond to information about unknown individuals within the Sector.

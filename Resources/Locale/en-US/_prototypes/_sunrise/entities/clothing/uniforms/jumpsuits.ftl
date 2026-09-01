@@ -104,13 +104,18 @@ ent-ClothingUniformJumpsuitSalvageMercGreen = green scrapper jumpsuit
     .desc = Utilitarian clothing for salvagers.
 ent-ClothingUniformJumpsuitSalvageMercBrown = brown scrapper jumpsuit
     .desc = Utilitarian clothing for salvagers.
-ent-ClothingUniformJumpsuitCapTurtleneck = черенок капитана
-    .desc = Истинный черенок капитана.
-ent-ClothingUniformJumpsuitHoPTurtleneck = черенок начальника персонала
-    .desc = Это черенок начальника персонала.
-ent-ClothingUniformJumpsuitHoSBlack = чёрный костюм начальника охраны
-    .desc = Это чёрный костюм начальника охраны.
-ent-ClothingUniformJumpsuitRDClassical = классический костюм директора исследований
-    .desc = Это классический костюм директора исследований.
-ent-ClothingUniformJumpsuitMilirUniform = облегающий комбинезон милир
-    .desc = Простой облегающий бодик, адаптированный под анатомию милиров.
+# [AUTO_EN]
+ent-ClothingUniformJumpsuitCapTurtleneck = Captain's handle
+    .desc = The true captain's blade.
+# [AUTO_EN]
+ent-ClothingUniformJumpsuitHoPTurtleneck = staff manager's handle
+    .desc = This is the handle of the personnel chief.
+# [AUTO_EN]
+ent-ClothingUniformJumpsuitHoSBlack = black security chief uniform
+    .desc = This is the black security chief uniform.
+# [AUTO_EN]
+ent-ClothingUniformJumpsuitRDClassical = classical director of research jumpsuit
+    .desc = This is the classical director of research jumpsuit.
+# [AUTO_EN]
+ent-ClothingUniformJumpsuitMilirUniform = fitted military jumpsuit
+    .desc = Simple form-fitting bodysuit, adapted to the anatomy of the milir.

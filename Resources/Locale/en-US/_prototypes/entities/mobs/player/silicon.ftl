@@ -40,56 +40,74 @@ ent-PlayerBorgDerelict = { ent-BorgChassisDerelict }
 ent-PlayerBorgDerelictGhostRole = { ent-PlayerBorgDerelict }
     .suffix = Ghost role
     .desc = { ent-PlayerBorgDerelict.desc }
-ent-PlayerEngineeringBorgDerelict = киборг-инженер (заброшенный)
-    .suffix = Батарея, Модуль
-    .desc = Оснащён инженерными инструментами, RCD и кабелями.
+# [AUTO_EN]
+ent-PlayerEngineeringBorgDerelict = cyborg engineer (derelict)
+    .suffix = Battery, Module
+    .desc = Equipped with engineering tools, RCDs, and cables.
+# [AUTO_EN]
 ent-PlayerEngineeringBorgDerelictGhostRole = { ent-PlayerEngineeringBorgDerelict }
-    .suffix = Призрачная роль
+    .suffix = Ghost role
     .desc = { ent-PlayerEngineeringBorgDerelict.desc }
-ent-PlayerJanitorBorgDerelict = киборг-уборщик (заброшенный)
-    .suffix = Батарея, Модуль
-    .desc = Укомплектован модулями для уборки.
+# [AUTO_EN]
+ent-PlayerJanitorBorgDerelict = cyborg janitor (derelict)
+    .suffix = Battery, Module
+    .desc = Equipped with cleaning modules.
+# [AUTO_EN]
 ent-PlayerJanitorBorgDerelictGhostRole = { ent-PlayerJanitorBorgDerelict }
-    .suffix = Призрачная роль
+    .suffix = Ghost role
     .desc = { ent-PlayerJanitorBorgDerelict.desc }
-ent-PlayerMedicalBorgDerelict = медицинский киборг (заброшенный)
-    .suffix = Батарея, Модуль
-    .desc = Несёт медикаменты, спасательное и химическое оборудование.
+# [AUTO_EN]
+ent-PlayerMedicalBorgDerelict = medical cyborg (derelict)
+    .suffix = Battery, Module
+    .desc = Carries medical supplies, rescue, and chemical equipment.
+# [AUTO_EN]
 ent-PlayerMedicalBorgDerelictGhostRole = { ent-PlayerMedicalBorgDerelict }
-    .suffix = Призрачная роль
+    .suffix = Ghost role
     .desc = { ent-PlayerMedicalBorgDerelict.desc }
-ent-PlayerMiningBorgDerelict = шахтёрский киборг (заброшенный)
-    .suffix = Батарея, Модуль
-    .desc = Оснащён для добычи руды и оценки ресурсов.
+# [AUTO_EN]
+ent-PlayerMiningBorgDerelict = mining cyborg (derelict)
+    .suffix = Battery, Module
+    .desc = Equipped for ore mining and resource assessment.
+# [AUTO_EN]
 ent-PlayerMiningBorgDerelictGhostRole = { ent-PlayerMiningBorgDerelict }
-    .suffix = Призрачная роль
+    .suffix = Ghost role
     .desc = { ent-PlayerMiningBorgDerelict.desc }
-ent-PlayerSyndicateAssaultBorgDerelict = штурмовой киборг Синдиката (заброшенный)
-    .suffix = Батарея, Модуль
-    .desc = Штурмовой корпус Синдиката, вооружённый C-20r и энергомечом.
+# [AUTO_EN]
+ent-PlayerSyndicateAssaultBorgDerelict = Syndicate Assault Borg Derelict
+    .suffix = Battery, Module
+    .desc = Syndicate Assault Corps, armed with C-20r and an energized lightsaber.
+# [AUTO_EN]
 ent-PlayerBorgSyndicateDerelictGhostRole = { ent-PlayerSyndicateAssaultBorgDerelict }
-    .suffix = Призрачная роль
+    .suffix = Ghost role
     .desc = { ent-PlayerSyndicateAssaultBorgDerelict.desc }
-ent-PlayerSyndicateReaperBorgDerelict = киборг-жнец Синдиката (заброшенный)
-    .suffix = Батарея, Модуль
-    .desc = Бронированный корпус с боевыми модулями Синдиката.
+# [AUTO_EN]
+ent-PlayerSyndicateReaperBorgDerelict = Syndicate Reaper Borg Derelict
+    .suffix = Battery, Module
+    .desc = Armored hull with Syndicate combat modules.
+# [AUTO_EN]
 ent-PlayerBorgSyndicateReaperDerelictGhostRoleSunrise = { ent-PlayerSyndicateReaperBorgDerelict }
-    .suffix = Призрачная роль
+    .suffix = Ghost role
     .desc = { ent-PlayerSyndicateReaperBorgDerelict.desc }
-ent-PlayerSyndicateSaboteurBorgDerelict = киборг-диверсант Синдиката (заброшенный)
-    .suffix = Батарея, Модуль
-    .desc = Оснащён скрытными и инженерными модулями Синдиката.
+# [AUTO_EN]
+ent-PlayerSyndicateSaboteurBorgDerelict = Syndicate cyborg saboteur (derelict)
+    .suffix = Battery, Module
+    .desc = Equipped with Syndicate stealth and engineering modules.
+# [AUTO_EN]
 ent-PlayerBorgSyndicateSaboteurDerelictGhostRoleSunrise = { ent-PlayerSyndicateSaboteurBorgDerelict }
-    .suffix = Призрачная роль
+    .suffix = Ghost role
     .desc = { ent-PlayerSyndicateSaboteurBorgDerelict.desc }
-ent-PlayerSyndicateMedicalBorgDerelict = медицинский киборг Синдиката (заброшенный)
-    .suffix = Батарея, Модуль
-    .desc = Боевой медкорпус Синдиката с медоборудованием.
+# [AUTO_EN]
+ent-PlayerSyndicateMedicalBorgDerelict = medical syndicate cyborg (derelict)
+    .suffix = Battery, Module
+    .desc = Syndicate Combat Medical Corps with medical equipment.
+# [AUTO_EN]
 ent-PlayerBorgSyndicateMedicalDerelictGhostRoleSunrise = { ent-PlayerSyndicateMedicalBorgDerelict }
-    .suffix = Призрачная роль
+    .suffix = Ghost role
     .desc = { ent-PlayerSyndicateMedicalBorgDerelict.desc }
+# [AUTO_EN]
 ent-PlayerBorgGeneric = { ent-BorgChassisGeneric }
-    .suffix = Батарея, Модули на выбор
+    .suffix = Battery, Modules to choose from
     .desc = { ent-BorgChassisGeneric.desc }
-ent-DungeonMasterCircuitBoard = плата «повелитель подземелий» (админ/тест)
-    .desc = Плата для консоли генерации подземелий, используется только для тестов.
+# [AUTO_EN]
+ent-DungeonMasterCircuitBoard = "Lord of the Dungeon" circuit board (admin/test)
+    .desc = Board for dungeon generation console, used only for testing.

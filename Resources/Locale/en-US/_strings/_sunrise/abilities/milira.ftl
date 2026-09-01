@@ -1,4 +1,8 @@
-wing-toggle-open-blocked = Невозможно расправить крылья, пока есть верхняя одежда.
-wing-flight-popup-not-enough-stamina = Недостаточно выносливости для полёта.
-wing-flight-popup-activation-blocked = Ты слишком вымотан, чтобы подняться в воздух.
-wing-flight-popup-auto-disable = Усталость заставляет тебя прекратить полёт.
+# [AUTO_EN]
+wing-toggle-open-blocked = You can't spread your wings while wearing outerwear.
+# [AUTO_EN]
+wing-flight-popup-not-enough-stamina = Not enough stamina to fly.
+# [AUTO_EN]
+wing-flight-popup-activation-blocked = You are too exhausted to fly.
+# [AUTO_EN]
+wing-flight-popup-auto-disable = Fatigue makes you stop flying.

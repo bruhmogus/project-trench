@@ -13,6 +13,7 @@ ent-PoweredStrobeLightSiren = { ent-PoweredStrobeLightEmpty }
 ent-PoweredStrobeLightEpsilon = { ent-PoweredStrobeLightEmpty }
     .suffix = Empty, epsilon
     .desc = { ent-PoweredStrobeLightEmpty.desc }
+# [AUTO_EN]
 ent-AlwaysPoweredStrobeDimLight = { ent-PoweredStrobeLightEmpty }
-    .suffix = Всегда запитанный, приглушенный
+    .suffix = Always powered, dimmed
     .desc = { ent-PoweredStrobeLightEmpty.desc }

@@ -27,4 +27,5 @@ objective-issuer-abductors = [color=#FD0098]Mothership[/color]
 objective-condition-abduct-title = Abduct { $count } people.
 objective-condition-abduct-description = (Use the Gizmo on an immobilized victim, then use the Gizmo on an Abductor console and select the "Pull" action); then, replace their heart with one of the glands, place them in the Experimenter, and press "Complete Experiment." abductor-role-greeting = I am a professional combat scientist of a high-tech race. My mission is to abduct humans, conduct experiments upon them, and return them unharmed to ensure the integrity of the experiment. Destroying the station, committing murder, or aiding the crew is not in my interest.
 roles-antag-abductor-objective = Abduct members of the station crew and conduct your experiments upon them!
-abductor-role-greeting = Я профессиональный боевой ученый высокотехнологичной расы. Моя задача — похищать людей, проводить на них эксперименты и возвращать их невредимыми для чистоты эксперимента. Уничтожение станции, убийства или помощь экипажу не в моих интересах.
+# [AUTO_EN]
+abductor-role-greeting = I am a professional combat scientist from a high-tech species. My mission is to abduct people, conduct experiments on them, and return them unharmed for the purity of the experiment. Destroying the station, killing, or helping the crew is not in my interests.

@@ -7,4 +7,5 @@ server-info-forum-button = Forum
 server-info-telegram-button = Telegram
 server-info-report-button = Report Bugs
 server-info-credits-button = Credits
-server-info-github-button = Гитхаб
+# [AUTO_EN]
+server-info-github-button = GitHub

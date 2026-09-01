@@ -84,5 +84,6 @@ ent-ClothingOuterCoatExpensive = expensive coat
     .desc = Very fluffy pink coat, made out of very expensive fur (clearly).
 ent-ClothingOuterCoatExpensiveOpened = expensive coat
     .desc = { ent-ClothingOuterStorageFoldableBaseOpened.desc }
-ent-ClothingOuterCoatInspector = пальто инспектора
-    .desc = Строгое пальто инспектора, чтобы наводить страх во время проверок.
+# [AUTO_EN]
+ent-ClothingOuterCoatInspector = inspector's coat
+    .desc = A strict inspector's coat to instill fear during inspections.

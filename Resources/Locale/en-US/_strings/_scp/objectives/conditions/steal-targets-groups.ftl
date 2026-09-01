@@ -1,3 +1,6 @@
-steal-target-groups-scps = Живые объекты SCP
-steal-target-groups-item-scps = Карманные объекты SCP
-steal-target-groups-info-papers = Секретные документы Фонда
+# [AUTO_EN]
+steal-target-groups-scps = Living SCP objects
+# [AUTO_EN]
+steal-target-groups-item-scps = Pocket SCPs
+# [AUTO_EN]
+steal-target-groups-info-papers = Secret documents of the Foundation

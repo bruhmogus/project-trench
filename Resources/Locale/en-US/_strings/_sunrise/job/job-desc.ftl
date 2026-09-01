@@ -41,6 +41,9 @@ job-description-ntrg = You serve as the pillar and shield of the Legal Departmen
 job-description-ntrofficer = You serve as the pillar and shield of the Legal Department, enforcing the rulings and decrees of the Magistrate himself and the NanoTrasen Representative!
 job-description-miningspec = Stay station-side and enrich the station with materials using your salvage magnet and ore processors.
 job-description-commaid = A specially trained maid designated for the priority cleaning of Command areas.
-job-description-prison-doctor = Лечите побитых заключённых.
-job-description-mining-borg = Придерживайтесь своих законов, служите экипажу и преследуйте учёных с просьбами апгрейда.
-job-description-sec-borg = Придерживайтесь своих законов, служите экипажу и преследуйте учёных с просьбами апгрейда.
+# [AUTO_EN]
+job-description-prison-doctor = Treat the beaten prisoners.
+# [AUTO_EN]
+job-description-mining-borg = Stick to your laws, serve the crew, and pursue scientists with upgrade requests.
+# [AUTO_EN]
+job-description-sec-borg = Stick to your laws, serve the crew, and pursue scientists with upgrade requests.

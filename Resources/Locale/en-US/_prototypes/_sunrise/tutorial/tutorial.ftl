@@ -1,1 +1,2 @@
-ent-BaseTutorialPlayer = Вы!
+# [AUTO_EN]
+ent-BaseTutorialPlayer = You!

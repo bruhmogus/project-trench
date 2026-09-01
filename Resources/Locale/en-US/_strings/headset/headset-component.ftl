@@ -23,4 +23,5 @@ chat-radio-xenoborg = Xenoborg
 chat-radio-mothership = Mothership
 chat-radio-tsf = TSF
 # Sunrise-Edit
-chat-radio-no-id = Без ID
+# [AUTO_EN]
+chat-radio-no-id = No ID

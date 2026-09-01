@@ -1,15 +1,30 @@
-food-you-need-to-hold-utensil = Вы должны держать { $utensil }, чтобы съесть это!
-food-nom = Ням. { $flavors }
-food-swallow = Вы проглатываете { $food }. { $flavors }
-food-has-used-storage = Вы не можете съесть { $food } пока внутри что-то есть.
-food-system-remove-mask = Сначала вам нужно снять { $entity }.
-food-system-you-cannot-eat-any-more = В вас больше не лезет!
-food-system-you-cannot-eat-any-more-other = { CAPITALIZE(SUBJECT($target)) } больше не может есть!
-food-system-try-use-food-is-empty = В { $entity } пусто!
-food-system-wrong-utensil = Вы не можете есть { $food } с помощью { $utensil }.
-food-system-cant-digest = Вы не можете переварить { $entity }!
-food-system-cant-digest-other = { CAPITALIZE(SUBJECT($target)) } не может переварить { $entity }!
-food-system-verb-eat = Съесть
-food-system-force-feed = { CAPITALIZE($user) } пытается вам что-то скормить!
-food-system-force-feed-success = { CAPITALIZE($user) } вам что-то скормил! { $flavors }
-food-system-force-feed-success-user = Вы успешно накормили { $target }
+# [AUTO_EN]
+food-you-need-to-hold-utensil = You must hold { $utensil } to eat this!
+# [AUTO_EN]
+food-nom = Yum. { $flavors }
+# [AUTO_EN]
+food-swallow = You swallow { $food }. { $flavors }
+# [AUTO_EN]
+food-has-used-storage = You cannot eat { $food } while there is something inside.
+# [AUTO_EN]
+food-system-remove-mask = First, you need to remove { $entity }.
+# [AUTO_EN]
+food-system-you-cannot-eat-any-more = You can't eat any more!
+# [AUTO_EN]
+food-system-you-cannot-eat-any-more-other = { CAPITALIZE(SUBJECT($target)) } can no longer eat!
+# [AUTO_EN]
+food-system-try-use-food-is-empty = In { $entity } is empty!
+# [AUTO_EN]
+food-system-wrong-utensil = You cannot eat { $food } with { $utensil }.
+# [AUTO_EN]
+food-system-cant-digest = You cannot digest { $entity }!
+# [AUTO_EN]
+food-system-cant-digest-other = { CAPITALIZE(SUBJECT($target)) } cannot digest { $entity }!
+# [AUTO_EN]
+food-system-verb-eat = Eat
+# [AUTO_EN]
+food-system-force-feed = { CAPITALIZE($user) } is trying to feed you something!
+# [AUTO_EN]
+food-system-force-feed-success = { CAPITALIZE($user) } fed you something! { $flavors }
+# [AUTO_EN]
+food-system-force-feed-success-user = You successfully fed { $target }

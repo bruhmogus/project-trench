@@ -14,5 +14,6 @@ ent-ClothingNeckMantleQM = quartermaster's mantle
     .desc = For the master of goods and materials to rule over the department, a befitting mantle to show off superiority!
 ent-ClothingNeckMantle = mantle
     .desc = A soft mantle, made with the same 'synthetic' animal furs of the iconic winter coat.
-ent-ClothingNeckMantleHOSShoulder = наплечная мантия главы службы безопасности
-    .desc = Перестрелка с ядерными оперативниками - обычный вторник для этого ГСБ. Эта мантия - символ его преданности станции.
+# [AUTO_EN]
+ent-ClothingNeckMantleHOSShoulder = shoulder mantle of the head of security
+    .desc = Gunfight with nuclear operatives is just a Tuesday for this GSB. This mantle is a symbol of his devotion to the station.

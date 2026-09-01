@@ -1,18 +1,34 @@
-hypospray-all-mode-text = Только ввод
-hypospray-mobs-only-mode-text = Забор и ввод
-hypospray-invalid-text = Ошибка
+# [AUTO_EN]
+hypospray-all-mode-text = Input only
+# [AUTO_EN]
+hypospray-mobs-only-mode-text = Fence and input
+# [AUTO_EN]
+hypospray-invalid-text = Error
+# [AUTO_EN]
 hypospray-volume-label =
-    Объём: [color=white]{ $currentVolume }/{ $totalVolume } ед.[/color]
-    Режим: [color=white]{ $modeString }[/color]
-hypospray-component-inject-other-message = Вы вводите { $other }.
-hypospray-component-inject-self-message = Вы делаете себе инъекцию.
-hypospray-component-inject-self-clumsy-message = Ой! Вы сделали себе инъекцию.
-hypospray-component-empty-message = Нечего вводить!
-hypospray-component-feel-prick-message = Вы чувствуете слабый укольчик!
-hypospray-component-transfer-already-full-message = { $owner } уже заполнен!
-hypospray-verb-mode-label = Переключить на набор из контейнеров
-hypospray-verb-mode-inject-all = Вы больше не можете набирать из контейнеров.
-hypospray-verb-mode-inject-mobs-only = Теперь вы можете набирать из контейнеров.
-hypospray-cant-inject = Нельзя сделать инъекцию в { $target }!
-borg-hypospray-inject-announcement = Ввожу { $reagent } в { $target }.
-hypospay-component-failure-hardsuit = Вы не сможете провести иглу через толстое покрытие!
+    Volume: [color=white]{ $currentVolume }/{ $totalVolume } units.[/color]
+    Mode: [color=white]{ $modeString }[/color]
+# [AUTO_EN]
+hypospray-component-inject-other-message = You are entering { $other }.
+# [AUTO_EN]
+hypospray-component-inject-self-message = You are injecting yourself.
+# [AUTO_EN]
+hypospray-component-inject-self-clumsy-message = Oops! You injected yourself.
+# [AUTO_EN]
+hypospray-component-empty-message = Nothing to enter!
+# [AUTO_EN]
+hypospray-component-feel-prick-message = You feel a slight prick!
+# [AUTO_EN]
+hypospray-component-transfer-already-full-message = { $owner } is already full!
+# [AUTO_EN]
+hypospray-verb-mode-label = Switch to container input mode
+# [AUTO_EN]
+hypospray-verb-mode-inject-all = You can no longer pick up from containers.
+# [AUTO_EN]
+hypospray-verb-mode-inject-mobs-only = You can now type from containers.
+# [AUTO_EN]
+hypospray-cant-inject = Cannot inject into { $target }!
+# [AUTO_EN]
+borg-hypospray-inject-announcement = Injecting { $reagent } into { $target }.
+# [AUTO_EN]
+hypospay-component-failure-hardsuit = You won't be able to push the needle through the thick coating!

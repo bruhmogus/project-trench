@@ -1,2 +1,3 @@
 # Sent to admin chat
-rule-secret-selected-preset = Для Секрета выбран пресет { $preset }.
+# [AUTO_EN]
+rule-secret-selected-preset = The preset { $preset } has been selected for the Secret.

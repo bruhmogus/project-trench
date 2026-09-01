@@ -223,5 +223,6 @@ ent-FloorTileItemXenoMaint = xeno techmaint
     .desc = { ent-FloorTileItemBase.desc }
 ent-FloorTileItemDarkSquiggly = dark steel squiggly tile
     .desc = { ent-FloorTileItemDark.desc }
-ent-FloorTileItemXenoborg = ксеноборговая плитка
+# [AUTO_EN]
+ent-FloorTileItemXenoborg = Xenoborg tile
     .desc = { ent-FloorTileItemBase.desc }

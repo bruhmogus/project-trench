@@ -1,203 +1,383 @@
 ui-vote-storyteller-entry = Storyteller
 ui-vote-storyteller-title = Select Storyteller type
 ui-vote-storyteller-auto-set = Only one Storyteller type is available: { $type }. The vote was skipped.
-storyteller-preset-title = Рассказчик: Классический
-storyteller-preset-description = Судьба станции — в руках незримого режиссера. Он чутко реагирует на происходящее, создавая уникальную историю взлетов и падений вашего экипажа.
-storyteller-preset-calm-title = Рассказчик: Спокойный
-storyteller-preset-calm-description = Затишье в космосе. Рассказчик предпочитает размеренное развитие сюжета, давая экипажу больше времени на передышку и стараясь не разводить лишний хаос.
-storyteller-preset-insane-title = Рассказчик: Безумный
-storyteller-preset-insane-description = Абсолютный хаос. Рассказчик будет безжалостно бросать на станцию одну угрозу за другой, пуская в ход самые коварные и разрушительные события.
-ui-vote-preset-category-title = Выбор типа игрового режима
-ui-vote-preset-category-regular = Обычные режимы
-ui-vote-preset-category-auto-set = Доступна только одна категория: { $category }. В остальных категориях нет режимов, доступных для запуска. Голосование пропущено.
-ui-vote-preset-category-tie = Ничья! Случайно выбрана категория: { $category }
-ui-vote-preset-category-win = Голосование завершено! Выбрана категория: { $category }
-ui-vote-storyteller-type-calm = Спокойный
-ui-vote-storyteller-type-classic = Классический
-ui-vote-storyteller-type-insane = Безумный
-ui-vote-storyteller-type-tie = Ничья! Случайно выбран тип Рассказчика: { $type }
-ui-vote-storyteller-type-win = Голосование завершено! Выбран тип Рассказчика: { $type }
-ui-vote-storyteller-type-calm-name = Спокойный
-ui-vote-storyteller-type-classic-name = Классический
-ui-vote-storyteller-type-insane-name = Безумный
-round-end-summary-window-storyteller-name-label = Активный рассказчик: [color=#7DF9FF]{$storyteller}[/color]
-round-end-summary-window-storyteller-history-tab-title = История Рассказчика
-round-end-summary-window-storyteller-history-empty = История пуста. В этом раунде не произошло ничего примечательного.
-storyteller-history-event-started = В логах станции зафиксировано начало события: [color=#FF8C00]{$name}[/color].
-storyteller-history-event-ended = Событие [color=#FF8C00]{$name}[/color] завершилось, продлившись {$duration} мин.
-storyteller-history-threat-started = Сенсоры зафиксировали возникновение угрозы: [color=#FF4500]{$name}[/color].
+# [AUTO_EN]
+storyteller-preset-title = Storyteller: Classic
+# [AUTO_EN]
+storyteller-preset-description = The fate of the station is in the hands of an invisible director. He is sensitive to what happens, creating a unique story of your crew's rises and falls.
+# [AUTO_EN]
+storyteller-preset-calm-title = Narrator: Calm
+# [AUTO_EN]
+storyteller-preset-calm-description = Calm in space. The storyteller prefers a measured plot development, giving the crew more time to rest and avoiding unnecessary chaos.
+# [AUTO_EN]
+storyteller-preset-insane-title = Storyteller: Insane
+# [AUTO_EN]
+storyteller-preset-insane-description = Absolute chaos. The storyteller will mercilessly throw one threat after another at the station, unleashing the most treacherous and destructive events.
+# [AUTO_EN]
+ui-vote-preset-category-title = Game mode selection
+# [AUTO_EN]
+ui-vote-preset-category-regular = Regular modes
+# [AUTO_EN]
+ui-vote-preset-category-auto-set = Only one category is available: { $category }. No modes are available in the other categories. Voting was skipped.
+# [AUTO_EN]
+ui-vote-preset-category-tie = Tie! A category was randomly selected: { $category }
+# [AUTO_EN]
+ui-vote-preset-category-win = Voting complete! Category selected: { $category }
+# [AUTO_EN]
+ui-vote-storyteller-type-calm = Calm
+# [AUTO_EN]
+ui-vote-storyteller-type-classic = Classic
+# [AUTO_EN]
+ui-vote-storyteller-type-insane = Insane
+# [AUTO_EN]
+ui-vote-storyteller-type-tie = Tie! A random Storyteller type was selected: { $type }
+# [AUTO_EN]
+ui-vote-storyteller-type-win = Voting complete! Storyteller type selected: { $type }
+# [AUTO_EN]
+ui-vote-storyteller-type-calm-name = Calm
+# [AUTO_EN]
+ui-vote-storyteller-type-classic-name = Classic
+# [AUTO_EN]
+ui-vote-storyteller-type-insane-name = Insane
+# [AUTO_EN]
+round-end-summary-window-storyteller-name-label = Active storyteller: [color=#7DF9FF]{$storyteller}[/color]
+# [AUTO_EN]
+round-end-summary-window-storyteller-history-tab-title = Storyteller History
+# [AUTO_EN]
+round-end-summary-window-storyteller-history-empty = The history is empty. Nothing noteworthy happened in this round.
+# [AUTO_EN]
+storyteller-history-event-started = Station logs have recorded the start of the event: [color=#FF8C00]{$name}[/color].
+# [AUTO_EN]
+storyteller-history-event-ended = Event [color=#FF8C00]{$name}[/color] has ended, lasting {$duration} minutes.
+# [AUTO_EN]
+storyteller-history-threat-started = Sensors detected a threat: [color=#FF4500]{$name}[/color].
 # Randomized crew death templates (using genitive prepositions)
-storyteller-history-crew-death-1 = Член экипажа [color=#FFD700]{$name}[/color] ({$job}) трагически погиб в районе [color=#ADFF2F]{$location}[/color] вследствие [color=#FF69B4]{$cause}[/color].
-storyteller-history-crew-death-2 = В окрестностях [color=#ADFF2F]{$location}[/color] из-за [color=#FF69B4]{$cause}[/color] оборвалась жизнь члена экипажа [color=#FFD700]{$name}[/color] ({$job}).
-storyteller-history-crew-death-3 = Роковой случай настиг [color=#FFD700]{$name}[/color] ({$job}) неподалеку от [color=#ADFF2F]{$location}[/color], причиной смерти послужило [color=#FF69B4]{$cause}[/color].
-storyteller-history-crew-death-4 = Возле [color=#ADFF2F]{$location}[/color] было обнаружено безжизненное тело [color=#FFD700]{$name}[/color] ({$job}), скончавшегося от [color=#FF69B4]{$cause}[/color].
+# [AUTO_EN]
+storyteller-history-crew-death-1 = Crew member [color=#FFD700]{$name}[/color] ({$job}) tragically died in the area [color=#ADFF2F]{$location}[/color] due to [color=#FF69B4]{$cause}[/color].
+# [AUTO_EN]
+storyteller-history-crew-death-2 = In the vicinity of [color=#ADFF2F]{$location}[/color], due to [color=#FF69B4]{$cause}[/color], the life of the crew member [color=#FFD700]{$name}[/color] ({$job}) was cut short.
+# [AUTO_EN]
+storyteller-history-crew-death-3 = A fatal accident befell [color=#FFD700]{$name}[/color] ({$job}) near [color=#ADFF2F]{$location}[/color], with the cause of death being [color=#FF69B4]{$cause}[/color].
+# [AUTO_EN]
+storyteller-history-crew-death-4 = A lifeless body of [color=#FFD700]{$name}[/color] ({$job}) was found near [color=#ADFF2F]{$location}[/color], having died from [color=#FF69B4]{$cause}[/color].
 # Object/Anomaly/Engine spawns
-storyteller-history-singularity-spawned = В [color=#ADFF2F]{$location}[/color] материализовалась гравитационная [color=#FF00FF]сингулярность[/color], искажая пространство вокруг себя.
-storyteller-history-tesla-spawned = В [color=#ADFF2F]{$location}[/color] сокрушительно заискрился новорождённый энергетический шар Теслы.
-storyteller-history-supermatter-spawned = На территории [color=#ADFF2F]{$location}[/color] был запущен и успешно стабилизирован [color=#FF00FF]кристалл Суперматерии[/color].
+# [AUTO_EN]
+storyteller-history-singularity-spawned = In [color=#ADFF2F]{$location}[/color] a gravitational [color=#FF00FF]singularity[/color] materialized, distorting the space around it.
+# [AUTO_EN]
+storyteller-history-tesla-spawned = In [color=#ADFF2F]{$location}[/color] the newborn Tesla energy sphere flashed brilliantly.
+# [AUTO_EN]
+storyteller-history-supermatter-spawned = On the territory [color=#ADFF2F]{$location}[/color], a [color=#FF00FF]Supermatter crystal[/color] was launched and successfully stabilized.
 # Containment breaches & collapses (literary, non-all-caps)
-storyteller-history-singularity-escaped = Гравитационная [color=#FF00FF]сингулярность[/color] вырвалась из сдерживающих полей в [color=#ADFF2F]{$location}[/color] и начала поглощать станцию.
-storyteller-history-tesla-escaped = Энергетический шар Тесла преодолел сдерживающий барьер в [color=#ADFF2F]{$location}[/color], неся электрическую смерть.
-storyteller-history-supermatter-collapse = [color=#FF00FF]Кристалл Суперматерии[/color] в [color=#ADFF2F]{$location}[/color] достиг предела нестабильности и сколлапсировал.
+# [AUTO_EN]
+storyteller-history-singularity-escaped = Gravitational [color=#FF00FF]singularity[/color] broke free from the containment fields in [color=#ADFF2F]{$location}[/color] and began consuming the station.
+# [AUTO_EN]
+storyteller-history-tesla-escaped = Tesla's energy sphere breached the containment barrier in [color=#ADFF2F]{$location}[/color], carrying electric death.
+# [AUTO_EN]
+storyteller-history-supermatter-collapse = [color=#FF00FF]Supermatter Crystal[/color] in [color=#ADFF2F]{$location}[/color] reached the limit of instability and collapsed.
 # Other timeline events
-storyteller-history-explosion-weak = слабый
-storyteller-history-explosion-strong = сильный
-storyteller-history-explosion-destructive = разрушительный
-storyteller-history-large-explosion = Станцию сотряс {$severity} взрыв в [color=#ADFF2F]{$location}[/color].
-storyteller-history-research-complete = Научный сектор торжествует: завершено полное исследование научной дисциплины [color=#1E90FF]{$discipline}[/color]!
-storyteller-history-arrival = Бортовой компьютер зарегистрировал прибытие: [color=#FFD700]{$name}[/color] заступил на пост [color=#00FF7F]{$job}[/color].
-storyteller-history-cryo-departure = [color=#FFD700]{$name}[/color] ({$job}) погрузился в криогенный сон, оставив свои обязанности.
+# [AUTO_EN]
+storyteller-history-explosion-weak = weak
+# [AUTO_EN]
+storyteller-history-explosion-strong = strong
+# [AUTO_EN]
+storyteller-history-explosion-destructive = destructive
+# [AUTO_EN]
+storyteller-history-large-explosion = The station was shaken by a {$severity} explosion in [color=#ADFF2F]{$location}[/color].
+# [AUTO_EN]
+storyteller-history-research-complete = The scientific sector celebrates: the complete research of the scientific discipline [color=#1E90FF]{$discipline}[/color] is finished!
+# [AUTO_EN]
+storyteller-history-arrival = Onboard computer registered arrival: [color=#FFD700]{$name}[/color] took the post [color=#00FF7F]{$job}[/color].
+# [AUTO_EN]
+storyteller-history-cryo-departure = [color=#FFD700]{$name}[/color] ({$job}) drifted into cryogenic sleep, leaving his duties behind.
 # Alert level codes
-storyteller-history-alert-level-changed = На станции установлен [color={$color}]{$level} код[/color] безопасности.
-storyteller-history-alert-level-ended = Действие [color={$color}]{$level} кода[/color] подошло к концу. Он продлился {$duration} мин.
-storyteller-history-alert-level-changed-with-prev = Действие [color={$prevColor}]{$prev} кода[/color] подошло к концу (он продлился {$duration} мин). На станции установлен [color={$color}]{$level} код[/color] безопасности.
+# [AUTO_EN]
+storyteller-history-alert-level-changed = A [color={$color}]{$level}[/color] security code is installed at the station.
+# [AUTO_EN]
+storyteller-history-alert-level-ended = Action [color={$color}]{$level}[/color] code has come to an end. It lasted {$duration} minutes.
+# [AUTO_EN]
+storyteller-history-alert-level-changed-with-prev = The [color={$prevColor}]{$prev}[/color] code action has come to an end (it lasted {$duration} min). A [color={$color}]{$level}[/color] security code is set at the station.
 # Genitive prepositions helper
-storyteller-history-location-space-genitive = открытого космоса
-storyteller-history-location-unknown-genitive = неизвестного отсека
-storyteller-history-location-room-genitive = отсека {$room}
+# [AUTO_EN]
+storyteller-history-location-space-genitive = of open space
+# [AUTO_EN]
+storyteller-history-location-unknown-genitive = unknown compartment
+# [AUTO_EN]
+storyteller-history-location-room-genitive = from the {$room}
 # Filters
-storyteller-history-filter-events = События
-storyteller-history-filter-antagonists = Антагонисты
-storyteller-history-filter-station = Станция
-storyteller-history-filter-deaths = Смерти
-storyteller-history-filter-anomalies = Аномалии
-storyteller-history-filter-explosions = Взрывы
-storyteller-history-filter-research = Исследования
-storyteller-history-filter-arrivals = Прибытия
-storyteller-history-filter-cryo = Крио
-storyteller-history-arrival-no-job = Пассажир
-storyteller-history-location-unknown = Неизвестно
-storyteller-history-location-space = Космос
+# [AUTO_EN]
+storyteller-history-filter-events = Events
+# [AUTO_EN]
+storyteller-history-filter-antagonists = Antagonists
+# [AUTO_EN]
+storyteller-history-filter-station = Station
+# [AUTO_EN]
+storyteller-history-filter-deaths = Deaths
+# [AUTO_EN]
+storyteller-history-filter-anomalies = Anomalies
+# [AUTO_EN]
+storyteller-history-filter-explosions = Explosions
+# [AUTO_EN]
+storyteller-history-filter-research = Research
+# [AUTO_EN]
+storyteller-history-filter-arrivals = Arrivals
+# [AUTO_EN]
+storyteller-history-filter-cryo = Cryo
+# [AUTO_EN]
+storyteller-history-arrival-no-job = Passenger
+# [AUTO_EN]
+storyteller-history-location-unknown = Unknown
+# [AUTO_EN]
+storyteller-history-location-space = Space
 # Causes of death (Genitive case for seamless preposition flow)
-storyteller-cause-death-unknown = неизвестных факторов
-storyteller-cause-death-asphyxiation = удушья
-storyteller-cause-death-bloodloss = острой кровопотери
-storyteller-cause-death-blunt = тяжелых тупых травм
-storyteller-cause-death-slash = глубоких резаных ран
-storyteller-cause-death-piercing = проникающих ранений
-storyteller-cause-death-heat = сильных термических ожогов
-storyteller-cause-death-cold = тяжелого обморожения
-storyteller-cause-death-shock = смертельного удара током
-storyteller-cause-death-acid = сильных кислотных ожогов
-storyteller-cause-death-poison = избытка ядов в организме
-storyteller-cause-death-radiation = смертельной дозы радиационного облучения
-storyteller-cause-death-cellular = необратимого разрушения клеток
+# [AUTO_EN]
+storyteller-cause-death-unknown = unknown factors
+# [AUTO_EN]
+storyteller-cause-death-asphyxiation = asphyxiation
+# [AUTO_EN]
+storyteller-cause-death-bloodloss = severe blood loss
+# [AUTO_EN]
+storyteller-cause-death-blunt = severe blunt trauma
+# [AUTO_EN]
+storyteller-cause-death-slash = deeply slashed wounds
+# [AUTO_EN]
+storyteller-cause-death-piercing = piercing wounds
+# [AUTO_EN]
+storyteller-cause-death-heat = severe thermal burns
+# [AUTO_EN]
+storyteller-cause-death-cold = severe frostbite
+# [AUTO_EN]
+storyteller-cause-death-shock = fatal electric shock
+# [AUTO_EN]
+storyteller-cause-death-acid = severe acid burns
+# [AUTO_EN]
+storyteller-cause-death-poison = excess of poisons in the body
+# [AUTO_EN]
+storyteller-cause-death-radiation = lethal dose of radiation
+# [AUTO_EN]
+storyteller-cause-death-cellular = irreversible destruction of cells
 # Custom rule metadata literary descriptions
-storyteller-metadata-solarflare-start = Светило разразилось мощнейшим выбросом плазмы: на станцию обрушилась [color=#FF8C00]Солнечная вспышка[/color].
-storyteller-metadata-solarflare-end = Солнечная активность стабилизировалась, [color=#FF8C00]Солнечная вспышка[/color] завершилась после {$duration} мин. буйства.
-storyteller-metadata-ionstorm-start = Космическая аномалия настигла энергосистемы: станция вошла в зону действия [color=#1E90FF]Ионного шторма[/color].
-storyteller-metadata-ionstorm-end = Напряжение в электросетях спало, [color=#1E90FF]Ионный шторм[/color] утих, продлившись {$duration} мин.
-storyteller-metadata-randomsentience-start = Нанотрейзен провела секретный эксперимент: некоторые обитатели фауны станции внезапно обрели полноценный разум.
-storyteller-metadata-anomalyspawn-start = Физическая реальность дала трещину: в одном из отсеков материализовалась загадочная космическая [color=#FF00FF]Аномалия[/color].
-storyteller-metadata-kudzugrowth-start = Биологическая тревога: быстрорастущие агрессивные споры [color=#228B22]Кудзу[/color] проросли сквозь обшивку станции.
-storyteller-metadata-gasleak-start = Оповещение систем жизнеобеспечения: зафиксирована опасная утечка технических газов в атмосферу.
-storyteller-metadata-mimicvendorrule-start = Бортовой ИИ предупреждает: некоторые торговые автоматы были заражены агрессивными формами жизни, известными как [color=#FF69B4]Мимики[/color].
+# [AUTO_EN]
+storyteller-metadata-solarflare-start = The flare erupted in a massive plasma burst: a [color=#FF8C00]solar flare[/color] struck the station.
+# [AUTO_EN]
+storyteller-metadata-solarflare-end = Solar activity has stabilized, [color=#FF8C00]Solar flare[/color] ended after {$duration} minutes of turmoil.
+# [AUTO_EN]
+storyteller-metadata-ionstorm-start = A space anomaly struck the power systems: the station entered the zone of action of the [color=#1E90FF]Ion Storm[/color].
+# [AUTO_EN]
+storyteller-metadata-ionstorm-end = Tension in the power grid eased, the [color=#1E90FF]Ion Storm[/color] subsided, lasting {$duration} minutes.
+# [AUTO_EN]
+storyteller-metadata-randomsentience-start = A nanotrayzen conducted a secret experiment: some station fauna suddenly gained full sentience.
+# [AUTO_EN]
+storyteller-metadata-anomalyspawn-start = Physical reality cracked: a mysterious cosmic [color=#FF00FF]Anomaly[/color] materialized in one of the compartments.
+# [AUTO_EN]
+storyteller-metadata-kudzugrowth-start = Biological alarm: fast-growing aggressive Kudzu [color=#228B22]spores[/color] have grown through the station's hull.
+# [AUTO_EN]
+storyteller-metadata-gasleak-start = Life support system alert: dangerous leak of technical gases into the atmosphere detected.
+# [AUTO_EN]
+storyteller-metadata-mimicvendorrule-start = Onboard AI warns: some vending machines have been infected with aggressive life forms known as [color=#FF69B4]Mimics[/color].
 # Pest migrations
-storyteller-metadata-cockroachmigration-start = Настоящее бедствие для санитарной службы: зафиксирована массовая миграция космических тараканов.
-storyteller-metadata-mousemigration-start = Шорохи в стенах усилились: станцию захлестнула неожиданная волна грызунов.
-storyteller-metadata-ventbullmigration-start = Датчики движения зашкаливают: из вентиляционных шахт начали выползать опасные вентиляционные быки!
-storyteller-metadata-snailmigration-start = Медленная, но липкая угроза: в технических коридорах началась массовая миграция космических улиток.
-storyteller-metadata-snailmigrationlowpop-start = Тихие коридоры наполнились шорохом раковин: зафиксирована небольшая миграция улиток.
+# [AUTO_EN]
+storyteller-metadata-cockroachmigration-start = This is a disaster for the sanitation service: a mass migration of cockroaches has been recorded.
+# [AUTO_EN]
+storyteller-metadata-mousemigration-start = The noises in the walls grew louder: the station was suddenly overrun by a wave of rodents.
+# [AUTO_EN]
+storyteller-metadata-ventbullmigration-start = Motion sensors are maxed out: dangerous ventilation bulls are starting to emerge from the ventilation shafts!
+# [AUTO_EN]
+storyteller-metadata-snailmigration-start = A slow but sticky threat: a mass migration of space snails has begun in the technical corridors.
+# [AUTO_EN]
+storyteller-metadata-snailmigrationlowpop-start = The quiet corridors were filled with the rustling of shells: a small snail migration has been recorded.
 # Spawns
-storyteller-metadata-slimesspawnhorde-start = Утечка биоопасных отходов привела к появлению агрессивных разноцветных слаймов.
-storyteller-metadata-snakespawnhorde-start = Из заброшенных уголков станции выползли полчища ядовитых змей.
-storyteller-metadata-spiderspawnhorde-start = Глубокие технические шахты заполнились паутиной: началось нашествие гигантских пауков.
+# [AUTO_EN]
+storyteller-metadata-slimesspawnhorde-start = A leak of biohazardous waste led to the emergence of aggressive, multicolored slimes.
+# [AUTO_EN]
+storyteller-metadata-snakespawnhorde-start = From the abandoned corners of the station, hordes of venomous snakes emerged.
+# [AUTO_EN]
+storyteller-metadata-spiderspawnhorde-start = The deep technical shafts were filled with webs: the invasion of giant spiders had begun.
 # Disasters
-storyteller-metadata-gamerulemeteorswarmsmall-start = Навигационные системы предупреждают о приближении небольшого метеоритного роя.
-storyteller-metadata-gamerulemeteorswarmmedium-start = Внимание: станция входит в зону плотного метеоритного потока. Возможно повреждение обшивки.
-storyteller-metadata-gamerulemeteorswarmlarge-start = Критическая метеоритная угроза! Крупный астероидный рой обрушился на станцию!
+# [AUTO_EN]
+storyteller-metadata-gamerulemeteorswarmsmall-start = Navigation systems warn of the approach of a small meteor swarm.
+# [AUTO_EN]
+storyteller-metadata-gamerulemeteorswarmmedium-start = Warning: The station is entering a dense meteorite stream. Hull damage is possible.
+# [AUTO_EN]
+storyteller-metadata-gamerulemeteorswarmlarge-start = Critical meteor threat! A large asteroid swarm has crashed onto the station!
 # Antagonists & Threats (Literary starting events)
-storyteller-metadata-bloodcult-start = Древнее зло зашептало во тьме: среди экипажа зародились фанатичные последователи [color=#8B0000]Кровавого культа[/color].
-storyteller-metadata-fleshcult-start = Плоть алчет, плоть растет: жуткий [color=#800080]Культ плоти[/color] пустил свои отвратительные корни на станции.
-storyteller-metadata-ninjaspawn-start = Высокотехнологичные датчики зафиксировали фазовый сдвиг: на борт скрытно проник неуловимый [color=#4B0082]Космический ниндзя[/color].
-storyteller-metadata-dragonspawn-start = Космическая пустота породила чудовище: неподалеку от станции пробудился древний космический [color=#D2691E]Дракон[/color]!
-storyteller-metadata-zombieoutbreak-start = Медицинская катастрофа: мутировавший патоген вырвался на свободу, запуская неотвратимую [color=#00FF00]Зомби-эпидемию[/color]!
-storyteller-metadata-zombie-start = Вирус нежизни овладел телами усопших: по коридорам начали бродить восставшие мертвецы.
-storyteller-metadata-nukeops-start = В сектор скрытно проник элитный ударный отряд [color=#FF0000]Ядерных оперативников Синдиката[/color], несущий смертельную угрозу для всей станции.
-storyteller-metadata-wizardspawn-start = Звездные ветра принесли отголоски древних заклинаний: на станцию прибыл эксцентричный член Космической Федерации [color=#4169E1]Магов[/color].
-storyteller-metadata-wizard-start = Магические потоки возмущены: на борт телепортировался могущественный волшебник.
+# [AUTO_EN]
+storyteller-metadata-bloodcult-start = Ancient evil whispered in the darkness: among the crew, fanatical followers of the [color=#8B0000]Blood Cult[/color] began to arise.
+# [AUTO_EN]
+storyteller-metadata-fleshcult-start = Flesh yearns, flesh grows: the horrific [color=#800080]Flesh Cult[/color] has sent its repulsive roots sprouting on the station.
+# [AUTO_EN]
+storyteller-metadata-ninjaspawn-start = High-tech sensors detected a phase shift: an elusive [color=#4B0082]Space Ninja[/color] has secretly boarded.
+# [AUTO_EN]
+storyteller-metadata-dragonspawn-start = The cosmic void gave birth to a monster: an ancient cosmic [color=#D2691E]Dragon[/color] awakened nearby the station!
+# [AUTO_EN]
+storyteller-metadata-zombieoutbreak-start = Medical catastrophe: a mutated pathogen breaks free, triggering an inevitable [color=#00FF00]Zombie epidemic[/color]!
+# [AUTO_EN]
+storyteller-metadata-zombie-start = The virus of death has taken over the bodies of the deceased: the risen dead began to wander the corridors.
+# [AUTO_EN]
+storyteller-metadata-nukeops-start = An elite strike force of [color=#FF0000]Syndicate Nuclear Operatives[/color] has secretly infiltrated the sector, posing a mortal threat to the entire station.
+# [AUTO_EN]
+storyteller-metadata-wizardspawn-start = Stellar winds brought echoes of ancient spells: an eccentric member of the Space Federation [color=#4169E1]Mage[/color] arrived at the station.
+# [AUTO_EN]
+storyteller-metadata-wizard-start = The magical currents are disturbed: a powerful wizard has been teleported on board.
 # Gifts & Supplies
-storyteller-metadata-giftspizzapartylarge-start = Отдел снабжения празднует: заказана огромная пицца-вечеринка для всего экипажа!
-storyteller-metadata-giftspizzapartysmall-start = Командованию удалось выбить скромную пиццу для небольшого перекуса сотрудников.
-storyteller-metadata-giftssecurityriot-start = Служба безопасности получила партию новенького снаряжения для подавления беспорядков.
-storyteller-metadata-giftsvendingrestock-start = Чудо для любителей газировки и чипсов: технический персонал пополнил все торговые автоматы на станции.
-storyteller-metadata-giftssecurityguns-start = Оружейная комната пополнилась партией табельного огнестрельного оружия.
-storyteller-metadata-giftsspacingsupplies-start = Инженерный отсек получил комплект аварийных запасов для работы в открытом космосе.
-storyteller-metadata-giftsmedical-start = Медицинский отсек получил дополнительную поставку медикаментов и сывороток.
-storyteller-metadata-bluespacelocker-start = На палубе материализовался загадочный шкаф, окутанный мерцанием блюспейс-измерений.
+# [AUTO_EN]
+storyteller-metadata-giftspizzapartylarge-start = The supply department is celebrating: a huge pizza party has been ordered for the entire crew!
+# [AUTO_EN]
+storyteller-metadata-giftspizzapartysmall-start = The command managed to secure a modest pizza for a small employee snack.
+# [AUTO_EN]
+storyteller-metadata-giftssecurityriot-start = The security service received a shipment of new riot suppression gear.
+# [AUTO_EN]
+storyteller-metadata-giftsvendingrestock-start = A treat for soda and chip lovers: technical staff restocked all vending machines at the station.
+# [AUTO_EN]
+storyteller-metadata-giftssecurityguns-start = The armory has been replenished with a batch of standardized firearms.
+# [AUTO_EN]
+storyteller-metadata-giftsspacingsupplies-start = The engineer's compartment received a kit of emergency supplies for work in open space.
+# [AUTO_EN]
+storyteller-metadata-giftsmedical-start = The medical compartment received an additional supply of medicines and serums.
+# [AUTO_EN]
+storyteller-metadata-bluespacelocker-start = A mysterious cabinet materialized on the deck, shrouded in the flickering shimmer of bluespace measurements.
 # Unknown Shuttles
-storyteller-metadata-unknownshuttlentquark-start = Вблизи станции появился научно-исследовательский шаттл «НТ Кварк».
-storyteller-metadata-unknownshuttleflatline-start = Сенсоры обнаружили дрейфующий шаттл «Флетлайн» с отключенными системами жизнеобеспечения.
-storyteller-metadata-unknownshuttlecruiser-start = В сектор вошел старый заброшенный крейсер, окутанный космической пылью.
-storyteller-metadata-unknownshuttlemeatzone-start = Сканеры биосигналов зафиксировали пугающее явление: неподалеку дрейфует шаттл "Мясная зона".
-storyteller-metadata-unknownshuttlentincorporation-start = В окрестностях станции появился представительский шаттл корпорации нанотрейзен.
-storyteller-metadata-unknownshuttlemanowar-start = В сектор прибыл грозный боевой корабль типа "Мановар".
-storyteller-metadata-unknownshuttleeternal-start = Неподалеку от станции обнаружен древний шаттл "Вечный".
-storyteller-metadata-unknownshuttlelambordeere-start = В космосе замечен роскошный спортивный шаттл "Ламбордир", дрейфующий без экипажа.
-storyteller-metadata-unknownshuttlecargolost-start = Обнаружен потерянный грузовой шаттл с ценными контейнерами.
-storyteller-metadata-unknownshuttlejoe-start = Неподалеку от станции появился скромный шаттл странствующего торговца по имени Джо.
-storyteller-metadata-unknownshuttletravelingcuisine-start = Неподалеку от станции появился легендарный шаттл мобильной кухни «Тревелинг Кьюзин».
-storyteller-metadata-unknownshuttlemicroshuttle-start = Вблизи станции появился крошечный экспериментальный микро-шаттл.
-storyteller-metadata-unknownshuttleinstigator-start = В безмолвной пустоте космоса показался зловещий и угрожающий силуэт шаттла класса "Провокатор".
-storyteller-metadata-unknownshuttleflatline-end = Дрейфующий среди звёзд пустой челнок «Флетлайн» медленно покинул окрестности станции.
-storyteller-metadata-unknownshuttlecargo-end = Потерянный грузовой шаттл, мигнув навигационными огнями, скрылся в гиперпространстве.
+# [AUTO_EN]
+storyteller-metadata-unknownshuttlentquark-start = Near the station appeared the research shuttle "NT Quark".
+# [AUTO_EN]
+storyteller-metadata-unknownshuttleflatline-start = Sensors detected the drifting shuttle "Flatline" with life support systems offline.
+# [AUTO_EN]
+storyteller-metadata-unknownshuttlecruiser-start = An old, abandoned cruiser entered the sector, shrouded in cosmic dust.
+# [AUTO_EN]
+storyteller-metadata-unknownshuttlemeatzone-start = Signal scanners detected a terrifying phenomenon: a shuttle named "Meat Zone" is drifting nearby.
+# [AUTO_EN]
+storyteller-metadata-unknownshuttlentincorporation-start = A corporate shuttle of the Nanotrex Corporation appeared near the station.
+# [AUTO_EN]
+storyteller-metadata-unknownshuttlemanowar-start = A fearsome battlecruiser of the "Manowar" class arrived in the sector.
+# [AUTO_EN]
+storyteller-metadata-unknownshuttleeternal-start = An ancient shuttle named "Eternal" was discovered near the station.
+# [AUTO_EN]
+storyteller-metadata-unknownshuttlelambordeere-start = A luxurious sports shuttle "Lambordeer" is spotted in space, drifting without a crew.
+# [AUTO_EN]
+storyteller-metadata-unknownshuttlecargolost-start = A lost cargo shuttle with valuable containers has been found.
+# [AUTO_EN]
+storyteller-metadata-unknownshuttlejoe-start = Near the station appeared a humble shuttle belonging to a traveling merchant named Joe.
+# [AUTO_EN]
+storyteller-metadata-unknownshuttletravelingcuisine-start = Near the station appeared the legendary mobile kitchen shuttle "Traveling Cuisine".
+# [AUTO_EN]
+storyteller-metadata-unknownshuttlemicroshuttle-start = A tiny experimental micro-shuttle appeared near the station.
+# [AUTO_EN]
+storyteller-metadata-unknownshuttleinstigator-start = In the silent emptiness of space, a sinister and threatening silhouette of a "Provocator" class shuttle appeared.
+# [AUTO_EN]
+storyteller-metadata-unknownshuttleflatline-end = The drifting empty shuttle "Flatline" slowly left the vicinity of the station.
+# [AUTO_EN]
+storyteller-metadata-unknownshuttlecargo-end = A lost cargo shuttle, flashing its navigation lights, vanished into hyperspace.
 # Derelict Cyborgs
-storyteller-metadata-derelictmedicalcyborgspawn-start = Запылившиеся реле щёлкнули: на станции пробудился к жизни старый заброшенный мед-киборг.
-storyteller-metadata-derelictsyndicatereapercyborgspawn-start = В тёмных закоулках раздался тяжёлый механический скрежет: активирован грозный боевой киборг Синдиката класса "Жнец"!
-storyteller-metadata-derelictjanitorcyborgspawn-start = Электроника ожила с тихим писком: на палубу выкатился заброшенный киборг-уборщик.
-storyteller-metadata-derelictengineercyborgspawn-start = Индикаторы замигали зелёным: к выполнению задач приступил заброшенный инженерный киборг.
-storyteller-metadata-derelictminingcyborgspawn-start = На окраине астероида послышался гул сервоприводов: очнулся от сна заброшенный киборг-шахтёр.
-storyteller-metadata-derelictsyndicatesaboteurcyborgspawn-start = Локальные системы зафиксировали тревожную активность: активирован враждебный киборг-диверсант Синдиката.
-storyteller-metadata-derelictsyndicateassaultcyborgspawn-start = Палубы содрогнулись от тяжёлых шагов: в глубине коридоров проснулся штурмовой киборг Синдиката.
-storyteller-metadata-derelictsyndicatemedicalcyborgspawn-start = Медицинское оборудование зафиксировало подозрительный сигнал: очнулся перепрограммированный мед-киборг Синдиката.
+# [AUTO_EN]
+storyteller-metadata-derelictmedicalcyborgspawn-start = The dusty relays clicked: an old abandoned medical cyborg had awakened on the station.
+# [AUTO_EN]
+storyteller-metadata-derelictsyndicatereapercyborgspawn-start = In the dark alleys, a heavy mechanical screech echoed: a fearsome Syndicate-class Reaper cyborg has been activated!
+# [AUTO_EN]
+storyteller-metadata-derelictjanitorcyborgspawn-start = The electronics came to life with a soft whir: a derelict cyborg janitor rolled out onto the deck.
+# [AUTO_EN]
+storyteller-metadata-derelictengineercyborgspawn-start = The indicators flashed green: the derelict engineering cyborg began executing tasks.
+# [AUTO_EN]
+storyteller-metadata-derelictminingcyborgspawn-start = On the edge of the asteroid, the hum of servos was heard: the derelict mining cyborg woke from its sleep.
+# [AUTO_EN]
+storyteller-metadata-derelictsyndicatesaboteurcyborgspawn-start = Local systems detected alarming activity: a hostile Syndicate cyborg infiltrator has been activated.
+# [AUTO_EN]
+storyteller-metadata-derelictsyndicateassaultcyborgspawn-start = The decks shuddered from the heavy footsteps: a Syndicate assault cyborg had awakened deep in the corridors.
+# [AUTO_EN]
+storyteller-metadata-derelictsyndicatemedicalcyborgspawn-start = Medical equipment detected a suspicious signal: a reprogrammed Syndicate med-cyborg has awakened.
 # Specific Antagonists & Mid-round Threats
-storyteller-metadata-piratemedium-start = Сирены взвыли: в сектор бесцеремонно вторгся тяжело вооружённый корабль космических пиратов!
-storyteller-metadata-loneopsspawn-start = Сенсоры уловили кратковременный всплеск энергии: на станцию тайно высадился хладнокровный диверсант Синдиката.
-storyteller-metadata-subxenoborgs-start = Из вентиляционных люков донеслось жуткое шипение: станцию атаковали агрессивные кибер-ксеноморфы.
-storyteller-metadata-kingratmigration-start = Шорохи под половицами прекратились, уступив место писку: на станцию пробрался легендарный Король Крыс со своими верными подданными!
-storyteller-metadata-kingratmigrationhighpop-start = Подполье пришло в движение: началась массовая миграция полчищ грызунов под предводительством Короля Крыс.
-storyteller-metadata-masshallucinations-start = Аномальное пси-излучение накрыло палубы: рассудок членов экипажа затуманили пугающие галлюцинации.
-storyteller-metadata-abductorsspawn-start = Засечены искажения пространства: в сектор незаметно проникли инопланетные похитители — Абдукторы.
-storyteller-metadata-ventclog-start = Инженерные датчики сообщили о сбое: одна из ключевых вентиляционных труб оказалась намертво забита.
-storyteller-metadata-closetskeleton-start = Чья-то старая тайна буквально ожила: из глубин тёмного шкафа выбрался оживший скелет.
-storyteller-metadata-greytidevirus-start = По частотам связи распространилось хаотичное безумие: умы экипажа поразил разрушительный вирус Грейтайда.
-storyteller-metadata-immovablerodspawn-start = В абсолютной тишине космоса, презирая законы физики, к станции устремился смертоносный Неудержимый жезл!
-storyteller-metadata-gamerulespacedustminor-start = Обшивку станции слегка зашуршало: мы вошли в облако лёгкой космической пыли.
-storyteller-metadata-gamerulespacedustmajor-start = Корпус задрожал под ударами микрометеоритов: станция проходит сквозь плотное и опасное облако космической пыли.
-storyteller-metadata-breakerflip-start = Свет на мгновение погас: в распределительном щитке сработал один из главных выключателей.
-storyteller-metadata-sleeperagents-start = Засекреченные шифры активированы: среди экипажа пробудились законспирированные агенты Синдиката.
-storyteller-metadata-clericalerror-start = Бюрократические шестерни нанотрейзен дали сбой: из-за нелепой канцелярской ошибки на станции началась путаница.
-storyteller-metadata-fugitive-start = Скрываясь в тенях коридоров, на борт пробрался разыскиваемый галактическим правосудием беглец.
-storyteller-metadata-ventfleshworms-start = Из решёток воздуховода начали выползать скользкие и отвратительные плотяные черви.
-storyteller-metadata-revolutionary-start = Глухой ропот недовольства перерос в открытый бунт: среди экипажа вспыхнуло пламя революции!
-storyteller-metadata-paradoxclonespawn-start = Ткань реальности на мгновение исказилась: из временной петли материализовался парадоксальный клон одного из сотрудников.
-storyteller-metadata-assaultops-start = Прозвучал сигнал боевой тревоги: профессиональный штурмовой отряд Синдиката начал прямую атаку на станцию!
-storyteller-metadata-powergridcheck-start = Инженеры объявили о начале масштабных профилактических работ в энергосети станции.
-storyteller-metadata-thief-start = В толпе экипажа скрылся ловкий карманник, нацеленный на личные вещи сотрудников.
-storyteller-metadata-terminatorspawn-start = Блюспейс-вспышка озарила отсек: из далёкого будущего прибыл безжалостный Терминатор, чтобы забрать жизнь своей цели.
-storyteller-metadata-spiderclownspawnhorde-start = Безумный цирковой кошмар воплотился наяву: на борту материализовался ужасающий Паук-Клоун.
-storyteller-metadata-abductors-end = Чуждые сигналы утихли: биологическая активность Абдукторов в секторе прекратилась.
-storyteller-metadata-revolutionary-end = Волна мятежа спала, и революционный запал среди бунтовщиков сошёл на нет.
-storyteller-metadata-bloodcult-end = Тёмная скверна отступила: Кровавый культ был полностью изгнан со станции.
-storyteller-metadata-fleshcult-end = Пульсирующее гнездо плоти затихло и сгнило: органическое заражение станции полностью остановлено.
-storyteller-metadata-powergridcheck-end = Инженерная служба доложила об успешном завершении проверки стабильности энергосети.
+# [AUTO_EN]
+storyteller-metadata-piratemedium-start = The sirens shrieked: a heavily armed spaceship of space pirates had intruded into the sector without ceremony!
+# [AUTO_EN]
+storyteller-metadata-loneopsspawn-start = The sensors detected a brief surge of energy: a cool-headed Syndicate operative had secretly infiltrated the station.
+# [AUTO_EN]
+storyteller-metadata-subxenoborgs-start = A sinister hiss came from the ventilation grates: the station was being attacked by aggressive cyber-xenomorphs.
+# [AUTO_EN]
+storyteller-metadata-kingratmigration-start = The squeaking under the floorboards ceased, replaced by a squeal: the legendary King of Rats had infiltrated the station with his loyal subjects!
+# [AUTO_EN]
+storyteller-metadata-kingratmigrationhighpop-start = The Underworld stirred: a mass migration of rodent hordes began under the leadership of the King of Rats.
+# [AUTO_EN]
+storyteller-metadata-masshallucinations-start = Abnormal psi-radiation swept over the decks: the crew's minds were clouded by terrifying hallucinations.
+# [AUTO_EN]
+storyteller-metadata-abductorsspawn-start = Space distortions detected: extraterrestrial abductors — the Abductors — have stealthily infiltrated the sector.
+# [AUTO_EN]
+storyteller-metadata-ventclog-start = Engineering sensors reported a malfunction: one of the key ventilation ducts was found to be completely clogged.
+# [AUTO_EN]
+storyteller-metadata-closetskeleton-start = Someone's old secret literally came to life: from the depths of a dark closet, a living skeleton emerged.
+# [AUTO_EN]
+storyteller-metadata-greytidevirus-start = Radio frequencies were filled with chaotic madness: the crew's minds were struck by the Greytide virus.
+# [AUTO_EN]
+storyteller-metadata-immovablerodspawn-start = In the absolute silence of space, defying the laws of physics, the deadly Unstoppable Wand rushes toward the station!
+# [AUTO_EN]
+storyteller-metadata-gamerulespacedustminor-start = The station's covering rustled slightly: we had entered a cloud of light cosmic dust.
+# [AUTO_EN]
+storyteller-metadata-gamerulespacedustmajor-start = The hull shuddered under the impacts of micrometeorites: the station plowed through a dense and dangerous cloud of cosmic dust.
+# [AUTO_EN]
+storyteller-metadata-breakerflip-start = The light flickered out: one of the main breakers had tripped in the distribution panel.
+# [AUTO_EN]
+storyteller-metadata-sleeperagents-start = Encrypted codes activated: among the crew, syndicate agents have awakened.
+# [AUTO_EN]
+storyteller-metadata-clericalerror-start = The bureaucratic gears glitched: a ridiculous clerical error caused confusion on the station.
+# [AUTO_EN]
+storyteller-metadata-fugitive-start = Hiding in the shadows of the corridors, a fugitive pursued by galactic justice slipped aboard.
+# [AUTO_EN]
+storyteller-metadata-ventfleshworms-start = Slippery and repulsive flesh worms began crawling out of the ductwork grates.
+# [AUTO_EN]
+storyteller-metadata-revolutionary-start = A dull murmur of discontent grew into an open rebellion: among the crew, the flame of revolution flared!
+# [AUTO_EN]
+storyteller-metadata-paradoxclonespawn-start = The fabric of reality warped for a moment: a paradoxical clone of one of the employees materialized from the time loop.
+# [AUTO_EN]
+storyteller-metadata-assaultops-start = The alarm sounded: the Syndicate's professional assault squad launched a direct attack on the station!
+# [AUTO_EN]
+storyteller-metadata-powergridcheck-start = Engineers announced the start of large-scale preventive work in the power grid station.
+# [AUTO_EN]
+storyteller-metadata-thief-start = In the crowd of the carriage, a cunning pickpocket hid, targeting the personal belongings of the staff.
+# [AUTO_EN]
+storyteller-metadata-terminatorspawn-start = A Blipz flash illuminated the compartment: a ruthless Terminator from the distant future arrived to take the life of his target.
+# [AUTO_EN]
+storyteller-metadata-spiderclownspawnhorde-start = The mad circus nightmare came to life: on board materialized the terrifying Spider-Clown.
+# [AUTO_EN]
+storyteller-metadata-abductors-end = Hostile signals subsided: biological activity of the Abductors in the sector ceased.
+# [AUTO_EN]
+storyteller-metadata-revolutionary-end = The wave of rebellion subsided, and the revolutionary fervor among the insurgents faded.
+# [AUTO_EN]
+storyteller-metadata-bloodcult-end = The dark plague has receded: the Blood Cult has been completely expelled from the station.
+# [AUTO_EN]
+storyteller-metadata-fleshcult-end = The pulsating nest of flesh has quieted and rotted: the organic infection of the station has been completely stopped.
+# [AUTO_EN]
+storyteller-metadata-powergridcheck-end = The engineering service reported the successful completion of the power grid stability check.
 # Final 12 storyteller descriptions
-storyteller-metadata-bluespaceartifact-start = Приборы зафиксировали мощные блюспейс-колебания: в секторе обнаружен загадочный инопланетный [color=#FF00FF]артефакт[/color].
-storyteller-metadata-giftsjanitor-start = Уборщики ликуют: на станцию прибыла партия новеньких швабр и чистящих средств премиум-класса.
-storyteller-metadata-giftsancientguns-start = Коллекционеры оружия пришли в восторг: в руки экипажа попал ящик со старинным пороховым огнестрелом.
-storyteller-metadata-unknownshuttlecryptid-start = Датчики уловили странный, будто полупризрачный силуэт шаттла "Криптид", окутанного завесой тайны.
-storyteller-metadata-giftsengineering-start = Инженерный отсек получил долгожданный контейнер с качественными инструментами и материалами.
-storyteller-metadata-revenantspawn-start = Температура в коридорах резко упала, а лампы начали мигать: на станции пробудился мстительный Ревенант.
-storyteller-metadata-unknownshuttlegym-start = Неподалеку от станции появился заброшенный спортивный шаттл "Тренажёрный зал".
-storyteller-metadata-derelictgenericcyborgspawn-start = Старые реле со скрипом сомкнулись: активирован заброшенный киборг общего назначения.
-storyteller-metadata-traitor-start = Секретные частоты Синдиката ожили: среди экипажа активировался спящий [color=#FF4500]Предатель[/color].
-storyteller-metadata-piratesmall-start = Навигационные системы заметили лёгкую цель: в сектор проник юркий разведывательный катер пиратов.
-storyteller-metadata-giftsfireprotection-start = Пожарные расчёты получили посылку с современными средствами тушения пламени.
+# [AUTO_EN]
+storyteller-metadata-bluespaceartifact-start = The instruments detected powerful bluespace fluctuations: a mysterious alien artifact [color=#FF00FF]artifact[/color] was found in the sector.
+# [AUTO_EN]
+storyteller-metadata-giftsjanitor-start = Janitors rejoice: a shipment of new premium mops and cleaning supplies has arrived at the station.
+# [AUTO_EN]
+storyteller-metadata-giftsancientguns-start = The gun collectors were thrilled: the crew received a crate of antique flintlock firearms.
+# [AUTO_EN]
+storyteller-metadata-unknownshuttlecryptid-start = The sensors picked up a strange, almost ghostly silhouette of the "Cryptid" shuttle, shrouded in a veil of mystery.
+# [AUTO_EN]
+storyteller-metadata-giftsengineering-start = The engineering bay received a long-awaited container with quality tools and materials.
+# [AUTO_EN]
+storyteller-metadata-revenantspawn-start = The temperature in the corridors dropped sharply, and the lights began to flicker: the vengeful Revenant had awakened on the station.
+# [AUTO_EN]
+storyteller-metadata-unknownshuttlegym-start = Near the station appeared an abandoned sports shuttle "Gym".
+# [AUTO_EN]
+storyteller-metadata-derelictgenericcyborgspawn-start = Old relays clicked with a screech: a derelict general-purpose cyborg was activated.
+# [AUTO_EN]
+storyteller-metadata-traitor-start = The Syndicate's secret frequencies have come alive: among the crew, a sleeping [color=#FF4500]Traitor[/color] has been activated.
+# [AUTO_EN]
+storyteller-metadata-piratesmall-start = Navigation systems detected a light target: a nimble pirate reconnaissance skiff has infiltrated the sector.
+# [AUTO_EN]
+storyteller-metadata-giftsfireprotection-start = The fire department received a package with modern fire suppression equipment.
 # Nuke history events
-storyteller-history-nuke-armed = Критическая угроза: активирован механизм самоуничтожения станции в районе [color=#ADFF2F]{$location}[/color]!
-storyteller-history-nuke-disarmed = С облегчением: механизм самоуничтожения станции был успешно обезврежен отважными действиями экипажа.
-storyteller-history-nuke-exploded = Конец истории: ослепительная ядерная вспышка поглотила станцию, превратив её в облако звёздной пыли.
+# [AUTO_EN]
+storyteller-history-nuke-armed = Critical threat: self-destruction mechanism of the station has been activated in the area [color=#ADFF2F]{$location}[/color]!
+# [AUTO_EN]
+storyteller-history-nuke-disarmed = Relieved: the station's self-destruct mechanism was successfully disarmed by the crew's daring actions.
+# [AUTO_EN]
+storyteller-history-nuke-exploded = End of story: a blinding nuclear flash engulfed the station, turning it into a cloud of stardust.
 # Antagonist assignments
-storyteller-metadata-traitor-assigned = Опасными агентами Синдиката оказались: {$players}.
-storyteller-metadata-thief-assigned = В роли скрытных воришек выступили: {$players}.
-storyteller-metadata-nukeops-assigned = Членами ударного отряда оперативников Синдиката оказались: {$players}.
+# [AUTO_EN]
+storyteller-metadata-traitor-assigned = Dangerous Syndicate agents were: {$players}.
+# [AUTO_EN]
+storyteller-metadata-thief-assigned = The role of stealthy thieves was played by: {$players}.
+# [AUTO_EN]
+storyteller-metadata-nukeops-assigned = The members of the Syndicate's strike team were: {$players}.

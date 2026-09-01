@@ -289,6 +289,9 @@ uplink-sunrise-spray-paint-purple-name = Spray paint (purple)
 uplink-sunrise-spray-paint-white-name = Spray paint (white)
 uplink-sunrise-box-arbiter-bundle-name = Arbiter set
 uplink-sunrise-box-redmist-bundle-name = Red Mist set
-uplink-sunrise-rcd-ammo-name = Картридж РСУ
-uplink-sunrise-rcd-name = РСУ
-uplink-sunrise-holographic-paper-name = Голо-планшет
+# [AUTO_EN]
+uplink-sunrise-rcd-ammo-name = RSC cartridge
+# [AUTO_EN]
+uplink-sunrise-rcd-name = RSU
+# [AUTO_EN]
+uplink-sunrise-holographic-paper-name = Holo-pad

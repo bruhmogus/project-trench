@@ -47,4 +47,5 @@ preset-no-one-ready = Can't start {$presetName}. No players are ready.
 game-run-level-PreRoundLobby = Pre-round lobby
 game-run-level-InRound = In round
 game-run-level-PostRound = Post round
-preset-not-enough-ready-command-staff = Не удалось запустить пресет { $presetName }. Требуется { $minimumCommandStaff } членов командного состава, но может быть только { $readyCommandStaffCount }.
+# [AUTO_EN]
+preset-not-enough-ready-command-staff = Failed to run preset { $presetName }. Requires { $minimumCommandStaff } command staff members, but only { $readyCommandStaffCount } are available.

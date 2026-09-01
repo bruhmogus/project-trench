@@ -22,11 +22,14 @@ ent-ClothingEyesStuttering = stuttering glasses
     .desc = Glasses that give the owner knowledge...or stuttering
 ent-ClothingEyesGlassesSalvageMerc = scrapper glasses
     .desc = Glasses made for salvaging. They provide protection from welding and flashes.
+# [AUTO_EN]
 ent-ClothingEyesGlassesThermalSyndieBiocode = { ent-ClothingEyesGlassesThermalSyndie }
-    .suffix = БИОКОД
+    .suffix = BIOCODE
     .desc = { ent-ClothingEyesGlassesThermalSyndie.desc }
-ent-ClothingEyesGlassesSniperThermalSyndie = оптические тепловизионные снайперские очки
-    .suffix = Синдикат
-    .desc = Тепловизоры в форме качественных очков для уничтожения мерзавцев и важных шишек из нанотрейзен, версия для снайперов с ядерной батареей.
-ent-ClothingEyesGlassesThermalChameleon = хамелеонный термальный сканер
-    .desc = Термальные очки с модулем хамелеона; меняют внешний вид и дают термовизор.
+# [AUTO_EN]
+ent-ClothingEyesGlassesSniperThermalSyndie = optical thermal sniper glasses
+    .suffix = Syndicate
+    .desc = Thermal scopes in the form of quality glasses for eliminating scoundrels and important heads from nanotrace, sniper version with a nuclear battery.
+# [AUTO_EN]
+ent-ClothingEyesGlassesThermalChameleon = thermal chameleon scanner
+    .desc = Thermal glasses with a chameleon module; change appearance and provide a thermal vision.

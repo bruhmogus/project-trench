@@ -1,22 +1,33 @@
-ent-PartMilira = часть тела милиры
+# [AUTO_EN]
+ent-PartMilira = part of Milira's body
     .desc = { ent-BaseItem.desc }
-ent-TorsoMilira = туловище милиры
+# [AUTO_EN]
+ent-TorsoMilira = torso milira
     .desc = { ent-PartMilira.desc }
-ent-HeadMilira = голова милиры
+# [AUTO_EN]
+ent-HeadMilira = head of Milira
     .desc = { ent-PartMilira.desc }
-ent-LeftArmMilira = левая рука милиры
+# [AUTO_EN]
+ent-LeftArmMilira = Left arm of Milira
     .desc = { ent-PartMilira.desc }
-ent-RightArmMilira = правая рука милиры
+# [AUTO_EN]
+ent-RightArmMilira = Right Arm Milira
     .desc = { ent-PartMilira.desc }
-ent-LeftHandMilira = левая кисть милиры
+# [AUTO_EN]
+ent-LeftHandMilira = left hand of Milira
     .desc = { ent-PartMilira.desc }
-ent-RightHandMilira = правая кисть милиры
+# [AUTO_EN]
+ent-RightHandMilira = right hand of Milira
     .desc = { ent-PartMilira.desc }
-ent-LeftLegMilira = левая нога милиры
+# [AUTO_EN]
+ent-LeftLegMilira = Left leg of Milira
     .desc = { ent-PartMilira.desc }
-ent-RightLegMilira = правая нога милиры
+# [AUTO_EN]
+ent-RightLegMilira = Right leg of Milira
     .desc = { ent-PartMilira.desc }
-ent-LeftFootMilira = левая стопа милиры
+# [AUTO_EN]
+ent-LeftFootMilira = left foot of Milira
     .desc = { ent-PartMilira.desc }
-ent-RightFootMilira = правая стопа милиры
+# [AUTO_EN]
+ent-RightFootMilira = right foot of Milira
     .desc = { ent-PartMilira.desc }

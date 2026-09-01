@@ -1,4 +1,4 @@
-﻿roles-antag-generic-solo-antagonist-name = Solo Antagonist
+roles-antag-generic-solo-antagonist-name = Solo Antagonist
 
 roles-antag-generic-free-agent-name = Free Agent
 
@@ -50,25 +50,47 @@ roles-antag-mothership-core-objective = Use your xenoborgs to create even more x
 
 roles-antag-xenoborg-name = Xenoborg
 roles-antag-xenoborg-objective = Help the mothership create more xenoborgs.
-roles-antag-suspicion-innocent-name = Невиновный
-roles-antag-suspicion-innocent-objective = Найдите и уничтожьте всех предателей.
-roles-antag-suspicion-suspect-name = Подозреваемый
-roles-antag-suspicion-suspect-objective = Убейте невиновных.
-roles-antag-nuclear-operative-medic-name = Медик ядерных оперативников
-roles-antag-nuclear-operative-medic-objective = Как обычный оперативник, но с приоритетом на медпомощь отряду.
-roles-antag-changeling-description = Используйте свои способности к превращению, чтобы выполнить свои задачи.
-roles-antag-terminator-name = Терминатор
-roles-antag-terminator-objective = Убейте цель любой ценой, от этого зависит будущее.
-AntagNuclearMedic = Ядерный оперативник медик
-AntagNuclearOperative = Ядерный оперативник
-AntagNuclearCommander = Командир ядерных оперативников
-AntagSyndicateAgent = Агент Синдиката
-AntagSyndicateSleeperAgent = Спящий агент Синдиката
-AntagThief = Вор
-AntagHeadRevolutionary = Глава революции
-AntagRevolutionary = Революционер
-AntagZombie = Зомби
-AntagInitialInfected = Нулевой заражённый
-JobNinja = Космический ниндзя
-AntagDragon = Космический дракон
-AntagSubvertedSilicon = Враждебный силикон
+# [AUTO_EN]
+roles-antag-suspicion-innocent-name = Innocent
+# [AUTO_EN]
+roles-antag-suspicion-innocent-objective = Find and eliminate all traitors.
+# [AUTO_EN]
+roles-antag-suspicion-suspect-name = Suspect
+# [AUTO_EN]
+roles-antag-suspicion-suspect-objective = Kill the innocent.
+# [AUTO_EN]
+roles-antag-nuclear-operative-medic-name = Nuclear Operatives Medic
+# [AUTO_EN]
+roles-antag-nuclear-operative-medic-objective = As a regular operative, but with priority on medical support for the squad.
+# [AUTO_EN]
+roles-antag-changeling-description = Use your shapeshifting abilities to accomplish your tasks.
+# [AUTO_EN]
+roles-antag-terminator-name = Terminator
+# [AUTO_EN]
+roles-antag-terminator-objective = Kill the target at all costs, for it depends on the future.
+# [AUTO_EN]
+AntagNuclearMedic = Nuclear Medic Operator
+# [AUTO_EN]
+AntagNuclearOperative = Nuclear operative
+# [AUTO_EN]
+AntagNuclearCommander = Nuclear Operatives Commander
+# [AUTO_EN]
+AntagSyndicateAgent = Syndicate Agent
+# [AUTO_EN]
+AntagSyndicateSleeperAgent = Sleeper Agent of the Syndicate
+# [AUTO_EN]
+AntagThief = Thief
+# [AUTO_EN]
+AntagHeadRevolutionary = Revolutionary Head
+# [AUTO_EN]
+AntagRevolutionary = Revolutionary
+# [AUTO_EN]
+AntagZombie = Zombie
+# [AUTO_EN]
+AntagInitialInfected = Zero infected
+# [AUTO_EN]
+JobNinja = Space ninja
+# [AUTO_EN]
+AntagDragon = Space dragon
+# [AUTO_EN]
+AntagSubvertedSilicon = Hostile Silicon

@@ -1,8 +1,11 @@
-ent-ActionXenoborgControlMonitor = консоль управления ксеноборгами
-    .desc = Открыть консоль управления ксеноборгами.
-ent-ActionXenoborgCameraMonitor = монитор камер ксеноборгов
-    .desc = Открыть монитор камер ксеноборгов.
+# [AUTO_EN]
+ent-ActionXenoborgControlMonitor = xenoborg control console
+    .desc = Open the Xenoborg control console.
+# [AUTO_EN]
+ent-ActionXenoborgCameraMonitor = monitor xenoborg cameras
+    .desc = Open the Xenoborg camera monitor.
 ent-ChameleonProjectorNoBattery = { ent-ChameleonProjector }
     .desc = { ent-ChameleonProjector.desc }
-ent-PinpointerMothershipPiece = фрагмент пинпоинтера ядра
-    .desc = Фрагмент пинпоинтера ядра. Для восстановления нужны четыре фрагмента.
+# [AUTO_EN]
+ent-PinpointerMothershipPiece = kernel pinpointer fragment
+    .desc = Pinpointer core fragment. Four fragments are required for restoration.

@@ -1,1 +1,2 @@
-materials-office-paper = печатная бумага
+# [AUTO_EN]
+materials-office-paper = printing paper

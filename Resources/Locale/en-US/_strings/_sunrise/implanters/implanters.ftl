@@ -1,1 +1,2 @@
-implanter-only-self-implant = Этим имплантером вы можете имплантировать только себя.
+# [AUTO_EN]
+implanter-only-self-implant = With this implant you can implant only yourself.

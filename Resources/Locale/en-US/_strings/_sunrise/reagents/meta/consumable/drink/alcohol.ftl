@@ -4,23 +4,43 @@ reagent-name-redrum = redrum
 reagent-desc-redrum = A medicinal remedy based on rum, made with a closely guarded pirate recipe.
 reagent-name-dark-red-rum = dark red rum
 reagent-desc-dark-red-rum = A dangerously potent pirate rum that burns through the body and leaves a deep red trace.
-reagent-name-yorsh = ёрш
-reagent-desc-yorsh = Вкус беззаботного детства.
-reagent-name-alexander = александр
-reagent-desc-alexander = В ходе производства ни один Александр не пострадал. Наверное...
-reagent-name-campari = кампари
-reagent-desc-campari = Настойка на основе ароматических трав и цитрусовых. Без ГМО!
-reagent-name-negroni = негрони
-reagent-desc-negroni = Американо для алкоголиков.
-reagent-name-oldFashioned = олд фэшен
-reagent-desc-oldFashioned = Как сказал величайший классик: "Это классика".
-reagent-name-badTouch = проникновение
-reagent-desc-badTouch = Входит... И выходит... И входит... Замечательно выходит!
-reagent-name-bramble = брамбл
-reagent-desc-bramble = Ягодки, джин, и довольно стрёмный вид.
-reagent-name-maiTai = май тай
-reagent-desc-maiTai = Первый человек, попробовавший этот коктейль, воскликнул: «Май Тай — роа ай». Что в переводе с тайского означает... Да откуда мне знать? Звучит круто!
-reagent-name-paloma = палома
-reagent-desc-paloma = Сверху ковбои. Снизу маракасы. Что же выбрать?
-reagent-name-boyarsky = боярский
-reagent-desc-boyarsky = Что делать, если ты устал от жизни? СМЕШИВАТЬ ВОДКУ!
+# [AUTO_EN]
+reagent-name-yorsh = yersh
+# [AUTO_EN]
+reagent-desc-yorsh = The taste of carefree childhood.
+# [AUTO_EN]
+reagent-name-alexander = alexander
+# [AUTO_EN]
+reagent-desc-alexander = During production, no Alexander was harmed. Probably...
+# [AUTO_EN]
+reagent-name-campari = Campari
+# [AUTO_EN]
+reagent-desc-campari = Herbal and citrus-based tincture. GMO-free!
+# [AUTO_EN]
+reagent-name-negroni = negroni
+# [AUTO_EN]
+reagent-desc-negroni = Americano for alcoholics.
+# [AUTO_EN]
+reagent-name-oldFashioned = old fashioned
+# [AUTO_EN]
+reagent-desc-oldFashioned = As the greatest classic said: "This is classic."
+# [AUTO_EN]
+reagent-name-badTouch = infiltration
+# [AUTO_EN]
+reagent-desc-badTouch = Enters... Exits... Enters... Exits wonderfully!
+# [AUTO_EN]
+reagent-name-bramble = bramble
+# [AUTO_EN]
+reagent-desc-bramble = Berries, gin, and a rather shabby appearance.
+# [AUTO_EN]
+reagent-name-maiTai = Mai Tai
+# [AUTO_EN]
+reagent-desc-maiTai = The first person to try this cocktail exclaimed: "Mai Tai - roa ai." Which in Thai means... Well, who do I know? Sounds cool!
+# [AUTO_EN]
+reagent-name-paloma = paloma
+# [AUTO_EN]
+reagent-desc-paloma = Cowboys on top, maracas on the bottom. What should I choose?
+# [AUTO_EN]
+reagent-name-boyarsky = boyarsky
+# [AUTO_EN]
+reagent-desc-boyarsky = What to do if you're tired of life? MIX VODKA!

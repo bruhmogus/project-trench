@@ -1,2 +1,3 @@
-ent-BunnyEars = ушки кролика
-    .desc = Мягкие и пушистые ушки кролика, которые надеваются на голову.
+# [AUTO_EN]
+ent-BunnyEars = rabbit ears
+    .desc = Soft and fluffy rabbit ears that are worn on the head.

@@ -1,1 +1,2 @@
-observer-role-name = Наблюдатель
+# [AUTO_EN]
+observer-role-name = Observer

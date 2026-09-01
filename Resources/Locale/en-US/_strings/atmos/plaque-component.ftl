@@ -1,10 +1,20 @@
-atmos-plaque-component-desc-zum = Эта табличка увековечивает восхождение отдела Atmos ZUM. Пусть они несут факел, который оставили за собой отделы Atmos ZAS, LINDA и FEA.
-atmos-plaque-component-desc-fea = Эта табличка увековечивает падение отдела Atmos FEA. Для всех сожжённых, головокружительных и хрупких людей, которые погибли от его рук.
-atmos-plaque-component-desc-linda = Эта табличка увековечивает падение отдела Atmos LINDA. Для всех сожжённых, головокружительных и хрупких людей, которые погибли от его рук.
-atmos-plaque-component-desc-zas = Эта табличка увековечивает падение отдела Atmos ZAS. Для всех сожжённых, головокружительных и хрупких людей, которые погибли от его рук.
-atmos-plaque-component-desc-unset = Эмм
-atmos-plaque-component-name-zum = Табличка отдела Atmos ZUM
-atmos-plaque-component-name-fea = Табличка отдела Atmos FEA
-atmos-plaque-component-name-linda = Табличка отдела Atmos LINDA
-atmos-plaque-component-name-zas = Табличка отдела Atmos ZAS
-atmos-plaque-component-name-unset = Эмм
+# [AUTO_EN]
+atmos-plaque-component-desc-zum = This plaque commemorates the ascent of the Atmos ZUM department. May they carry the torch left behind by the Atmos ZAS, LINDA, and FEA departments.
+# [AUTO_EN]
+atmos-plaque-component-desc-fea = This plaque commemorates the fall of the Atmos FEA department. For all the burned, dizzy, and fragile people who perished from its hands.
+# [AUTO_EN]
+atmos-plaque-component-desc-linda = This plaque commemorates the fall of the Atmos LINDA department. For all the burned, dizzying, and fragile people who perished from its hands.
+# [AUTO_EN]
+atmos-plaque-component-desc-zas = This plaque commemorates the fall of the Atmos ZAS department. For all the burned, dizzy, and fragile people who perished from its hands.
+# [AUTO_EN]
+atmos-plaque-component-desc-unset = Hmm
+# [AUTO_EN]
+atmos-plaque-component-name-zum = Atmos ZUM department plaque
+# [AUTO_EN]
+atmos-plaque-component-name-fea = Atmos FEA department plaque
+# [AUTO_EN]
+atmos-plaque-component-name-linda = Atmos LINDA Department Plaque
+# [AUTO_EN]
+atmos-plaque-component-name-zas = Atmos ZAS department plaque
+# [AUTO_EN]
+atmos-plaque-component-name-unset = Hmm

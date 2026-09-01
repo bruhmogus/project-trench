@@ -54,15 +54,19 @@ ent-IDCardMTFStandard = { ent-IDCardStandard }
     .desc = { ent-IDCardStandard.desc }
 ent-BaseMTFPDA = { ent-AdjutantPDA }
     .desc = { ent-AdjutantPDA.desc }
-ent-CrateAdministrationAmnesiacA = ящик пробирок амнезиака класса А
-    .desc = Содержит коробку пробирок. Эффекты амнезиака: { reagent-amnesiac-a-desc }
-    .suffix = Заполненный
-ent-CrateAdministrationAmnesiacB = ящик пробирок амнезиака класса B
-    .desc = Содержит коробку пробирок. Эффекты амнезиака: { reagent-amnesiac-b-desc }
-    .suffix = Заполненный
-ent-CrateAdministrationAmnesiacC = ящик пробирок амнезиака класса C
-    .desc = Содержит коробку пробирок. Эффекты амнезиака: { reagent-amnesiac-c-desc }
-    .suffix = Заполненный
-ent-CrateAdministrationAmnesiacD = ящик пробирок амнезиака класса D
-    .desc = Содержит коробку пробирок. Эффекты амнезиака: { reagent-amnesiac-d-desc }
-    .suffix = Заполненный
+# [AUTO_EN]
+ent-CrateAdministrationAmnesiacA = amnesiac class A test tube box
+    .desc = Contains a box of test tubes. Amnesiac effects: { reagent-amnesiac-a-desc }
+    .suffix = Filled
+# [AUTO_EN]
+ent-CrateAdministrationAmnesiacB = amnesiac B test tube box
+    .desc = Contains a box of test tubes. Amnesiac effects: { reagent-amnesiac-b-desc }
+    .suffix = Filled
+# [AUTO_EN]
+ent-CrateAdministrationAmnesiacC = amnesiac class C test tube box
+    .desc = Contains a box of test tubes. Amnesiac effects: { reagent-amnesiac-c-desc }
+    .suffix = Filled
+# [AUTO_EN]
+ent-CrateAdministrationAmnesiacD = D-class amnesiac test tube box
+    .desc = Contains a box of test tubes. Amnesiac effects: { reagent-amnesiac-d-desc }
+    .suffix = Filled

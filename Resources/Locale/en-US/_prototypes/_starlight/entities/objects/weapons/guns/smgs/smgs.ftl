@@ -6,12 +6,15 @@ ent-WeaponSubMachineGunImprovised = improvised SMG
     .desc = It's tightly held together by cloth, steel and determination.
 ent-WeaponSubMachineGunForged = forged SMG
     .desc = The best a tider could get, steel and plasteel welded together for a pretty decent SMG, though the heavy bolt on it does slow the shooting down.
-ent-WeaponSubMachineGunWt550r = ВТ550К
-    .suffix = ГСБ
-    .desc = Специальная лимитированная версия ВТ550 красного цвета, ВТ550К. Разработан отделом стрелкового оружия Нанотрейзен как компактный пистолет-пулемёт, полностью управляемый одной рукой. Содержит экзотическую внутреннюю систему компенсации отдачи и использует специальные магазины калибра .35 с верхним расположением.
-ent-WeaponSubMachineGunWt550g = ВТ550З
-    .suffix = ЦК
-    .desc = Специальная лимитированная версия ВТ550 зелёного цвета, ВТ550З. Разработан отделом стрелкового оружия Нанотрейзен как компактный пистолет-пулемёт, полностью управляемый одной рукой. Содержит экзотическую внутреннюю систему компенсации отдачи и использует специальные магазины калибра .35 с верхним расположением.
-ent-WeaponSubMachineGunWt550b = ВТ550С
-    .suffix = Синий щит
-    .desc = Специальная лимитированная версия ВТ550 синего цвета, ВТ550С. Разработан отделом стрелкового оружия Нанотрейзен как компактный пистолет-пулемёт, полностью управляемый одной рукой. Содержит экзотическую внутреннюю систему компенсации отдачи и использует специальные магазины калибра .35 с верхним расположением.
+# [AUTO_EN]
+ent-WeaponSubMachineGunWt550r = VT550K
+    .suffix = GSG
+    .desc = Special limited edition version of the WT550 in red, the WT550K. Developed by the Nanotrex Arms small arms department as a compact submachine gun fully controllable with one hand. It contains an exotic recoil compensation system and uses special .35 caliber magazines with top-mounted placement.
+# [AUTO_EN]
+ent-WeaponSubMachineGunWt550g = VT550Z
+    .suffix = CZ
+    .desc = Special limited edition version of the WT550 in green, designated WT550Z. Developed by the Nanotrayzen small arms department as a compact submachine gun fully controllable with one hand. It features an exotic recoil compensation system and uses special .35 caliber magazines with a top-mounted design.
+# [AUTO_EN]
+ent-WeaponSubMachineGunWt550b = VT550C
+    .suffix = Blue shield
+    .desc = Special limited edition blue version of the WT550, WT550C. Developed by the Nanotrex Arms small arms department as a compact submachine gun fully controllable with one hand. Contains an exotic recoil compensation system and uses special .35 caliber magazines with top-mounted design.

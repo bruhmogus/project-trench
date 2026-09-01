@@ -14,5 +14,6 @@ ent-PieThrow = { "" }
     .desc = { "" }
 ent-ActionViewCrewManifest = View Crew Manifest
     .desc = View the View crew manifest station.
-ent-ActionChangeBorgVoice = Изменить голос
-    .desc = Изменяет голос TTS. Киборги могут говорить любым голосом благодаря своим динамикам.
+# [AUTO_EN]
+ent-ActionChangeBorgVoice = Change voice
+    .desc = Changes the TTS voice. Cyborgs can speak in any voice thanks to their speakers.

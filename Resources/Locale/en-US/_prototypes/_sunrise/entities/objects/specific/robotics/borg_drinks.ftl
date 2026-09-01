@@ -14,7 +14,8 @@ ent-DrinkGreenTeaJugBorg = { ent-DrinkGreenTeaJug }
     .desc = { ent-DrinkGreenTeaJug.desc }
 ent-DrinkIceJugBorg = { ent-DrinkIceJug }
     .desc = { ent-DrinkIceJug.desc }
-ent-DrinkJuiceLemonBottleFullBorg = бутылка лимонного сока
+# [AUTO_EN]
+ent-DrinkJuiceLemonBottleFullBorg = lemon juice bottle
     .desc = { ent-DrinkBottlePlasticBaseFull.desc }
 ent-DrinkJuiceLimeCartonXLBorg = { ent-DrinkJuiceLimeCartonXL }
     .desc = { ent-DrinkJuiceLimeCartonXL.desc }
@@ -22,7 +23,8 @@ ent-DrinkJuiceOrangeCartonXLBorg = { ent-DrinkJuiceOrangeCartonXL }
     .desc = { ent-DrinkJuiceOrangeCartonXL.desc }
 ent-DrinkLemonLimeJugBorg = { ent-DrinkLemonLimeJug }
     .desc = { ent-DrinkLemonLimeJug.desc }
-ent-DrinkMilkBottleFullBorg = бутылка молока
+# [AUTO_EN]
+ent-DrinkMilkBottleFullBorg = milk bottle
     .desc = { ent-DrinkBottlePlasticBaseFull.desc }
 ent-DrinkRootBeerJugBorg = { ent-DrinkRootBeerJug }
     .desc = { ent-DrinkRootBeerJug.desc }
@@ -30,7 +32,8 @@ ent-DrinkSodaWaterBottleFullBorg = { ent-DrinkSodaWaterBottleFull }
     .desc = { ent-DrinkSodaWaterBottleFull.desc }
 ent-DrinkSpaceMountainWindBottleFullBorg = { ent-DrinkSpaceMountainWindBottleFull }
     .desc = { ent-DrinkSpaceMountainWindBottleFull.desc }
-ent-DrinkSolDryBottleFullBorg = бутылка сол драй
+# [AUTO_EN]
+ent-DrinkSolDryBottleFullBorg = Borg Dry Sol Bottle
     .desc = { ent-DrinkBottlePlasticBaseFull.desc }
 ent-DrinkSpaceUpBottleFullBorg = { ent-DrinkSpaceUpBottleFull }
     .desc = { ent-DrinkSpaceUpBottleFull.desc }

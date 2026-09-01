@@ -16,11 +16,15 @@ ent-MagazineGrenadeFragTimer = timer frag grenade cartridge
     .desc = A grenade cartridge loaded with timer frag grenades.
 ent-MagazineGrenadeEMPTimer = timer EMP grenade cartridge
     .desc = A grenade cartridge loaded with timer EMP grenades.
-ent-MagazineGrenadeBlastTimer = картридж фугасных гранат с таймером
-    .desc = Картридж гранат, снаряженный фугасными гранатами с таймером.
-ent-MagazineGrenadeFragContact = картридж осколочных контактных гранат
-    .desc = Картридж гранат, снаряженный осколочными контактными гранатами.
-ent-MagazineGrenadeBlastContact = картридж фугасных контактных гранат
-    .desc = Картридж гранат, снаряженный фугасными контактными гранатами.
-ent-MagazineGrenadeEMPContact = картридж ЭМИ-контактных гранат
-    .desc = Картридж гранат, снаряженный ЭМИ-контактными гранатами.
+# [AUTO_EN]
+ent-MagazineGrenadeBlastTimer = grenade cartridge with timer
+    .desc = Grenade cartridge armed with timed explosive grenades.
+# [AUTO_EN]
+ent-MagazineGrenadeFragContact = fragmented contact grenade cartridge
+    .desc = Grenade cartridge loaded with contact fragmentation grenades.
+# [AUTO_EN]
+ent-MagazineGrenadeBlastContact = fuzed contact grenade cartridge
+    .desc = Grenade cartridge loaded with contact explosive grenades.
+# [AUTO_EN]
+ent-MagazineGrenadeEMPContact = EMP contact cartridge
+    .desc = Grenade cartridge loaded with EMP grenades.

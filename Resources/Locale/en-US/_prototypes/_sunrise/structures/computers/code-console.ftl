@@ -1,2 +1,3 @@
-ent-CodeConsole = кодовая консоль
-    .desc = Конcоль, предназначенная для ввода кода. Страшно пищит.
+# [AUTO_EN]
+ent-CodeConsole = code console
+    .desc = Console for entering code. It beeps loudly.

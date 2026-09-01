@@ -67,8 +67,9 @@ flesh-cult-round-end-count-destroy-flesh-hearts =
     *[other] { $heartsCount } flesh hearts were destroyed. 
 }
 flesh-cult-round-end-count-no-destroy-flesh-hearts = No flesh hearts were destroyed.
+# [AUTO_EN]
 flesh-cult-round-end-count-activate-flesh-hearts =
     { $heartsCount ->
-        [one] Было пробуждено одно сердце плоти.
-       *[other] Было пробуждено { $heartsCount } сердец плоти.
+        [one] One flesh heart has been awakened.
+       *[other] { $heartsCount } flesh hearts have been awakened.
     }

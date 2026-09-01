@@ -16,5 +16,6 @@ ent-PlastitaniumWindowDiagonalIndestructible = plastitanium window
 ent-PlastitaniumWindowDiagonal = plastitanium window
     .suffix = diagonal
     .desc = { ent-PlastitaniumWindowDiagonalBase.desc }
-ent-XenoborgWindow = окно ксеноборгов
+# [AUTO_EN]
+ent-XenoborgWindow = xenoborg window
     .desc = { ent-PlastitaniumWindow.desc }

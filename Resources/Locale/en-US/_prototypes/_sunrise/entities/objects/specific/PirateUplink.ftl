@@ -19,23 +19,30 @@ ent-ComputerPirateExchangerExpedition = black market exchanger
 ent-ComputerPirateExchangerWallmountExpedition = black market exchanger
     .suffix = Expedition
     .desc = { ent-ComputerPirateExchangerWallmount.desc }
-ent-DoubloonBase = дублон
-    .desc = Грязная монета, используемая для нечестивых пиратских сделок.
-ent-Doubloon = дублоны
+# [AUTO_EN]
+ent-DoubloonBase = doubloon
+    .desc = A dirty coin used for unscrupulous pirate deals.
+# [AUTO_EN]
+ent-Doubloon = doubloons
     .desc = { ent-DoubloonBase.desc }
-    .suffix = 100 ДБ
-ent-Doubloon1 = дублоны
+    .suffix = 100 DB
+# [AUTO_EN]
+ent-Doubloon1 = doubloons
     .desc = { ent-DoubloonBase.desc }
-    .suffix = 1 ДБ
-ent-Doubloon5 = дублоны
+    .suffix = 1 DB
+# [AUTO_EN]
+ent-Doubloon5 = doubloons
     .desc = { ent-DoubloonBase.desc }
-    .suffix = 5 ДБ
-ent-Doubloon15 = дублоны
+    .suffix = 5 DB
+# [AUTO_EN]
+ent-Doubloon15 = doubloons
     .desc = { ent-DoubloonBase.desc }
-    .suffix = 15 ДБ
-ent-Doubloon50 = дублоны
+    .suffix = 15 DB
+# [AUTO_EN]
+ent-Doubloon50 = doubloons
     .desc = { ent-DoubloonBase.desc }
-    .suffix = 50 ДБ
-ent-PirateUplinkDebug = радио чёрного рынка
-    .desc = Если вы не админ то как можно скорее верните эту штуку ближайшему админу.
-    .suffix = 999, ДЕБАГ
+    .suffix = 50 DB
+# [AUTO_EN]
+ent-PirateUplinkDebug = black market radio
+    .desc = If you are not an admin, please return this item to the nearest admin as soon as possible.
+    .suffix = 999, DEBUG

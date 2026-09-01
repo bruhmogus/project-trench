@@ -124,7 +124,8 @@ ent-ScpFloorTileItemAnechoic2 = { ent-ScpFloorTileItemAnechoic1 }
     .desc = { ent-ScpFloorTileItemAnechoic1.desc }
 ent-ScpFloorTileItemAnechoic3 = { ent-ScpFloorTileItemAnechoic1 }
     .desc = { ent-ScpFloorTileItemAnechoic1.desc }
-ent-ScpFloorAnechoic1 = покрытие безэховой камеры
+# [AUTO_EN]
+ent-ScpFloorAnechoic1 = anechoic chamber lining
     .desc = { ent-ScpFloorTileItemSteel.desc }
 ent-ScpFloorAnechoic2 = { ent-ScpFloorAnechoic1 }
     .desc = { ent-ScpFloorAnechoic1.desc }

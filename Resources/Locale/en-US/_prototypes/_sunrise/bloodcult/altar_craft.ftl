@@ -1,3 +1,6 @@
-cultistFactoryProduction-Whetstone = Точильный камень
-cultistFactoryProduction-ConstructShell = Оболочка Конструкта
-cultistFactoryProduction-UnholyWater = Флакон нечестивой воды
+# [AUTO_EN]
+cultistFactoryProduction-Whetstone = Whetstone
+# [AUTO_EN]
+cultistFactoryProduction-ConstructShell = Construct Shell
+# [AUTO_EN]
+cultistFactoryProduction-UnholyWater = Unholy Water Flask

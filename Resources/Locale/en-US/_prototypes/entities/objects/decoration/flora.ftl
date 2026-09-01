@@ -38,14 +38,18 @@ ent-ShadowTree = dark wood
     .desc = The leaves are whispering about you.
 ent-LightTree = glowing tree
     .desc = A marvelous tree filled with strange energy.
-ent-FloraRockSolid01 = валун
+# [AUTO_EN]
+ent-FloraRockSolid01 = boulder
     .desc = { ent-BaseRock.desc }
-ent-FloraRockSolid02 = валун
+# [AUTO_EN]
+ent-FloraRockSolid02 = boulder
     .desc = { ent-BaseRock.desc }
-ent-FloraRockSolid03 = валун
+# [AUTO_EN]
+ent-FloraRockSolid03 = boulder
     .desc = { ent-BaseRock.desc }
-ent-FloraStalagmite1 = сталагмит
-    .desc = Каменный шип природного происхождения.
+# [AUTO_EN]
+ent-FloraStalagmite1 = stalagmite
+    .desc = A natural stone spike.
 ent-FloraStalagmite2 = { ent-FloraStalagmite1 }
     .desc = { ent-FloraStalagmite1.desc }
 ent-FloraStalagmite3 = { ent-FloraStalagmite1 }
@@ -56,62 +60,90 @@ ent-FloraStalagmite5 = { ent-FloraStalagmite1 }
     .desc = { ent-FloraStalagmite1.desc }
 ent-FloraStalagmite6 = { ent-FloraStalagmite1 }
     .desc = { ent-FloraStalagmite1.desc }
-ent-FloraGreyStalagmite1 = серый сталагмит
+# [AUTO_EN]
+ent-FloraGreyStalagmite1 = grey stalagmite
     .desc = { ent-FloraStalagmite1.desc }
-ent-FloraGreyStalagmite2 = серый сталагмит
+# [AUTO_EN]
+ent-FloraGreyStalagmite2 = grey stalagmite
     .desc = { ent-FloraGreyStalagmite1.desc }
-ent-FloraGreyStalagmite3 = серый сталагмит
+# [AUTO_EN]
+ent-FloraGreyStalagmite3 = grey stalagmite
     .desc = { ent-FloraGreyStalagmite1.desc }
-ent-FloraGreyStalagmite4 = серый сталагмит
+# [AUTO_EN]
+ent-FloraGreyStalagmite4 = grey stalagmite
     .desc = { ent-FloraGreyStalagmite1.desc }
-ent-FloraGreyStalagmite5 = серый сталагмит
+# [AUTO_EN]
+ent-FloraGreyStalagmite5 = grey stalagmite
     .desc = { ent-FloraGreyStalagmite1.desc }
-ent-FloraGreyStalagmite6 = серый сталагмит
+# [AUTO_EN]
+ent-FloraGreyStalagmite6 = grey stalagmite
     .desc = { ent-FloraGreyStalagmite1.desc }
-ent-FloraTree01 = дерево
+# [AUTO_EN]
+ent-FloraTree01 = tree
     .desc = { ent-BaseTree.desc }
-ent-FloraTree02 = дерево
+# [AUTO_EN]
+ent-FloraTree02 = tree
     .desc = { ent-BaseTree.desc }
-ent-FloraTree03 = дерево
+# [AUTO_EN]
+ent-FloraTree03 = tree
     .desc = { ent-BaseTree.desc }
-ent-FloraTree04 = дерево
+# [AUTO_EN]
+ent-FloraTree04 = tree
     .desc = { ent-BaseTree.desc }
-ent-FloraTree05 = дерево
+# [AUTO_EN]
+ent-FloraTree05 = tree
     .desc = { ent-BaseTree.desc }
-ent-FloraTree06 = дерево
+# [AUTO_EN]
+ent-FloraTree06 = tree
     .desc = { ent-BaseTree.desc }
-ent-FloraTreeSnow01 = заснеженное дерево
+# [AUTO_EN]
+ent-FloraTreeSnow01 = snow-covered tree
     .desc = { ent-BaseTreeSnow.desc }
-ent-FloraTreeSnow02 = заснеженное дерево
+# [AUTO_EN]
+ent-FloraTreeSnow02 = snow-covered tree
     .desc = { ent-BaseTreeSnow.desc }
-ent-FloraTreeSnow03 = заснеженное дерево
+# [AUTO_EN]
+ent-FloraTreeSnow03 = snow-covered tree
     .desc = { ent-BaseTreeSnow.desc }
-ent-FloraTreeSnow04 = заснеженное дерево
+# [AUTO_EN]
+ent-FloraTreeSnow04 = snow-covered tree
     .desc = { ent-BaseTreeSnow.desc }
-ent-FloraTreeSnow05 = заснеженное дерево
+# [AUTO_EN]
+ent-FloraTreeSnow05 = snow-covered tree
     .desc = { ent-BaseTreeSnow.desc }
-ent-FloraTreeSnow06 = заснеженное дерево
+# [AUTO_EN]
+ent-FloraTreeSnow06 = snow-covered tree
     .desc = { ent-BaseTreeSnow.desc }
-ent-FloraTreeLarge01 = большое дерево
+# [AUTO_EN]
+ent-FloraTreeLarge01 = large tree
     .desc = { ent-BaseTreeLarge.desc }
-ent-FloraTreeLarge02 = большое дерево
+# [AUTO_EN]
+ent-FloraTreeLarge02 = large tree
     .desc = { ent-BaseTreeLarge.desc }
-ent-FloraTreeLarge03 = большое дерево
+# [AUTO_EN]
+ent-FloraTreeLarge03 = large tree
     .desc = { ent-BaseTreeLarge.desc }
-ent-FloraTreeLarge04 = большое дерево
+# [AUTO_EN]
+ent-FloraTreeLarge04 = large tree
     .desc = { ent-BaseTreeLarge.desc }
-ent-FloraTreeLarge05 = большое дерево
+# [AUTO_EN]
+ent-FloraTreeLarge05 = large tree
     .desc = { ent-BaseTreeLarge.desc }
-ent-FloraTreeLarge06 = большое дерево
+# [AUTO_EN]
+ent-FloraTreeLarge06 = large tree
     .desc = { ent-BaseTreeLarge.desc }
-ent-FloraTreeConifer01 = заснеженная хвоя
+# [AUTO_EN]
+ent-FloraTreeConifer01 = snow-covered needles
     .desc = { ent-BaseTreeConifer.desc }
-ent-FloraTreeConifer02 = заснеженная хвоя
+# [AUTO_EN]
+ent-FloraTreeConifer02 = snow-covered needles
     .desc = { ent-BaseTreeConifer.desc }
-ent-FloraTreeConifer03 = заснеженная хвоя
+# [AUTO_EN]
+ent-FloraTreeConifer03 = snow-covered needles
     .desc = { ent-BaseTreeConifer.desc }
-ent-ShadowTree01 = тёмное дерево
-    .desc = Листья шепчутся о тебе.
+# [AUTO_EN]
+ent-ShadowTree01 = dark tree
+    .desc = The leaves whisper to you.
 ent-ShadowTree02 = { ent-ShadowTree01 }
     .desc = { ent-ShadowTree01.desc }
 ent-ShadowTree03 = { ent-ShadowTree01 }
@@ -122,8 +154,9 @@ ent-ShadowTree05 = { ent-ShadowTree01 }
     .desc = { ent-ShadowTree01.desc }
 ent-ShadowTree06 = { ent-ShadowTree01 }
     .desc = { ent-ShadowTree01.desc }
-ent-LightTree01 = светящееся дерево
-    .desc = Удивительное дерево, наполненное странной энергией.
+# [AUTO_EN]
+ent-LightTree01 = glowing tree
+    .desc = An amazing tree filled with strange energy.
 ent-LightTree02 = { ent-LightTree01 }
     .desc = { ent-LightTree01.desc }
 ent-LightTree03 = { ent-LightTree01 }

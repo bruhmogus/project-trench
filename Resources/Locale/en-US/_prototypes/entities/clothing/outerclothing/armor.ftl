@@ -50,9 +50,11 @@ ent-CardArmour = cardboard armour
 ent-ChangelingClothingOuterArmor = chitinous armor
     .desc = An all-consuming chitinous mass of armor.
     .suffix = Unremoveable
+# [AUTO_EN]
 ent-ClothingOuterVestWebBiocode = { ent-ClothingOuterVestWeb }
-    .suffix = БИОКОД
+    .suffix = BIOCODE
     .desc = { ent-ClothingOuterVestWeb.desc }
+# [AUTO_EN]
 ent-ClothingOuterVestWebEliteBiocode = { ent-ClothingOuterVestWebElite }
-    .suffix = БИОКОД
+    .suffix = BIOCODE
     .desc = { ent-ClothingOuterVestWebElite.desc }

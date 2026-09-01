@@ -1,5 +1,6 @@
-ent-SalvageTicket = тикет
-    .desc = Обменивается на снаряжение в тикет-автоматах.
+# [AUTO_EN]
+ent-SalvageTicket = ticket
+    .desc = Exchanges for gear at ticket machines.
 ent-SalvageTicket2 = { ent-SalvageTicket }
     .desc = { ent-SalvageTicket.desc }
 ent-SalvageTicket3 = { ent-SalvageTicket }

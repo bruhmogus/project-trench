@@ -91,4 +91,5 @@ ban-kick-reason = You have been banned
 ban-panel-role-selection-antag = Antagonist
 ban-panel-role-selection-antag-all-option = All
 cmd-banlistF-hint = <name/user ID>
-server-ban-unknown-round = Неизвестный
+# [AUTO_EN]
+server-ban-unknown-round = Unknown

@@ -1,1 +1,2 @@
-command-description-stationevent-lsprobtime = Перечисляет вероятность различных событий станции в зависимости от указанной продолжительности раунда.
+# [AUTO_EN]
+command-description-stationevent-lsprobtime = Lists the probability of various station events depending on the specified round duration.

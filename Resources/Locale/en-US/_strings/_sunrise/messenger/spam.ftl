@@ -1,1 +1,2 @@
-messenger-spam-prince-sender-4 = Профессор
+# [AUTO_EN]
+messenger-spam-prince-sender-4 = Professor

@@ -5,4 +5,5 @@ marking-BigFoxTail = Big Fox Tail
 marking-SharkTail = Shark Tail
 
 marking-LizardTail = Lizard Tail
-marking-RabbitTail = кроличий хвост
+# [AUTO_EN]
+marking-RabbitTail = rabbit tail

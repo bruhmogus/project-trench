@@ -20,11 +20,15 @@ ent-LeftFootTajaran = left tajaran foot
     .desc = { ent-PartTajaran.desc }
 ent-RightFootTajaran = right tajaran foot
     .desc = { ent-PartTajaran.desc }
-ent-LeftLegTajaranCurved = левая нога таяра (изогнутая)
+# [AUTO_EN]
+ent-LeftLegTajaranCurved = left leg tajara (curved)
     .desc = { ent-BaseLeftLeg.desc }
-ent-RightLegTajaranCurved = правая нога таяра (изогнутая)
+# [AUTO_EN]
+ent-RightLegTajaranCurved = right leg tajara (curved)
     .desc = { ent-BaseRightLeg.desc }
-ent-LeftFootTajaranCurved = левая ступня таяра (изогнутая)
+# [AUTO_EN]
+ent-LeftFootTajaranCurved = left foot tajara (curved)
     .desc = { ent-BaseLeftFoot.desc }
-ent-RightFootTajaranCurved = правая ступня таяра (изогнутая)
+# [AUTO_EN]
+ent-RightFootTajaranCurved = right foot tajara (curved)
     .desc = { ent-BaseRightFoot.desc }

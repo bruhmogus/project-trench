@@ -1,2 +1,3 @@
-ent-DoubleStunbaton = двойной  станбатон
-    .desc = Модифицированная дубинка с двумя разрядниками. Шокирует вдвое сильнее, но требует больше времени на перезарядку.
+# [AUTO_EN]
+ent-DoubleStunbaton = double stun baton
+    .desc = Modified baton with two shockers. Stuns twice as hard, but requires more time to reload.

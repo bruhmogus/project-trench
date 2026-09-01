@@ -64,30 +64,56 @@ markings-layer-RFoot = Right Foot
 markings-layer-LFoot = Left Foot
 markings-layer-Overlay = Overlay
 markings-layer-TailOverlay = Overlay
-markings-used = Используемые черты
-markings-unused = Неиспользуемые черты
-markings-add = Добавить черту
-markings-remove = Убрать черту
-markings-rank-up = Вверх
-markings-rank-down = Вниз
-marking-points-remaining = Черт осталось: { $points }
+# [AUTO_EN]
+markings-used = Used markings
+# [AUTO_EN]
+markings-unused = Unused markings
+# [AUTO_EN]
+markings-add = Add a line
+# [AUTO_EN]
+markings-remove = Remove line
+# [AUTO_EN]
+markings-rank-up = Up
+# [AUTO_EN]
+markings-rank-down = Down
+# [AUTO_EN]
+marking-points-remaining = Points remaining: { $points }
 marking-used = { $marking-name }
-marking-used-forced = { $marking-name } (Принудительно)
-marking-slot-add = Добавить
-marking-slot-remove = Удалить
-marking-slot = Слот { $number }
-markings-category-Special = Специальное
-markings-category-Hair = Причёска
-markings-category-FacialHair = Лицевая растительность
-markings-category-Head = Голова
-markings-category-HeadTop = Голова (верх)
-markings-category-HeadSide = Голова (бок)
-markings-category-Snout = Морда
-markings-category-UndergarmentTop = Верхнее бельё
-markings-category-UndergarmentBottom = Нижнее бельё
-markings-category-Chest = Грудь
-markings-category-Arms = Руки
-markings-category-Legs = Ноги
-markings-category-Tail = Хвост
-markings-category-Overlay = Наложение
-markings-category-Back = Спина
+# [AUTO_EN]
+marking-used-forced = { $marking-name } (Forced)
+# [AUTO_EN]
+marking-slot-add = Add
+# [AUTO_EN]
+marking-slot-remove = Remove
+# [AUTO_EN]
+marking-slot = Slot { $number }
+# [AUTO_EN]
+markings-category-Special = Special
+# [AUTO_EN]
+markings-category-Hair = Hairstyle
+# [AUTO_EN]
+markings-category-FacialHair = Facial Hair
+# [AUTO_EN]
+markings-category-Head = Head
+# [AUTO_EN]
+markings-category-HeadTop = Head (top)
+# [AUTO_EN]
+markings-category-HeadSide = Head (side)
+# [AUTO_EN]
+markings-category-Snout = Snout
+# [AUTO_EN]
+markings-category-UndergarmentTop = Undergarment Tops
+# [AUTO_EN]
+markings-category-UndergarmentBottom = Undergarment Bottom
+# [AUTO_EN]
+markings-category-Chest = Chest
+# [AUTO_EN]
+markings-category-Arms = Hands
+# [AUTO_EN]
+markings-category-Legs = Legs
+# [AUTO_EN]
+markings-category-Tail = Tail
+# [AUTO_EN]
+markings-category-Overlay = Overlay
+# [AUTO_EN]
+markings-category-Back = Back

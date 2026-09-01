@@ -45,11 +45,15 @@ ent-ClothingHeadHelmetHardsuitPirateSwashbuckler = swashbuckler hardsuit helmet
     .suffix = Pirate
 ent-ClothingHeadHelmetHardsuitInfiltration = syndicate infiltration hardsuit helmet
     .desc = { ent-ClothingHeadHardsuitBase.desc }
-ent-ClothingHeadHelmetHardsuitSalvageGoliath = шлем скафандра «Голиаф»
-    .desc = Прочный шлем, украшенный глазами голиафа а так же его хитиновым панцирем. похоже фонарик шлема заменен на ПНВ.
-ent-ClothingHeadHelmetHardsuitSpaceHazard = шлем шахтёрской опасной среды
-    .desc = Защищает от агрессивной и холодной космической среды.
-ent-ClothingHeadHelmetHardsuitAdvancedMining = шлем продвинутого шахтёрского скафандра
-    .desc = Специализированный шлем для шахтёрских операций.
-ent-ClothingHeadHelmetHardsuitMining = шлем шахтёрского скафандра
-    .desc = Шлем для работы в опасной среде и условиях низкого давления.
+# [AUTO_EN]
+ent-ClothingHeadHelmetHardsuitSalvageGoliath = Goliath hard-suit helmet
+    .desc = Sturdy helmet adorned with Goliath's eyes and carapace. The helmet's flashlight appears to have been replaced with a PNV.
+# [AUTO_EN]
+ent-ClothingHeadHelmetHardsuitSpaceHazard = helmet of the hazardous environment
+    .desc = Protects against the hostile and cold space environment.
+# [AUTO_EN]
+ent-ClothingHeadHelmetHardsuitAdvancedMining = helmet of the advanced mining hard suit
+    .desc = Specialized helmet for mining operations.
+# [AUTO_EN]
+ent-ClothingHeadHelmetHardsuitMining = helmet of the mining hard suit
+    .desc = Helmet for working in hazardous environments and low-pressure conditions.

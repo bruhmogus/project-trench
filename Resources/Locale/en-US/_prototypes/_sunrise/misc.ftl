@@ -13,66 +13,92 @@ ent-CableDetStack1 = { ent-CableDetStack }
 
 ent-EmptyDetonator = detonator cap
     .desc = A detonator cap. Requires a trigger and wire.
-ent-MobGorillaRampaging = буйная горилла
-    .desc = Горилла, вышедшая из-под контроля. Беги!
-ent-MachineArtifactCrusherXenoborg = дробилка тел
-    .desc = Лучше не засовывать туда голову...
-ent-WeaponSubMachineGunBriefcase = коричневый портфель
-    .desc = Полезен для переноски вещей в руках.
-    .suffix = Оружие
-ent-FoodBreadCottonNutriBatard = хлопковый нутри-батард
-    .desc = Бон аппетит!
-ent-CrazyLube = сумасшедшая смазка
-    .desc = Бутылка суперскользкой сумасшедшей смазки от Хонк! Ко.
-ent-ClothingBackpackMessengerPirateDecoyKitFilled = набор обманок
-    .desc = Содержит визуальные отвлекашки и набор ПТСР утилизатора.
+# [AUTO_EN]
+ent-MobGorillaRampaging = rampaging gorilla
+    .desc = Out of control gorilla. Run!
+# [AUTO_EN]
+ent-MachineArtifactCrusherXenoborg = body crusher
+    .desc = Better not stick your head in there...
+# [AUTO_EN]
+ent-WeaponSubMachineGunBriefcase = brown briefcase
+    .desc = Useful for carrying items in your hands.
+    .suffix = Weapon
+# [AUTO_EN]
+ent-FoodBreadCottonNutriBatard = cotton nutri-batard
+    .desc = Bon appetite!
+# [AUTO_EN]
+ent-CrazyLube = crazy lube
+    .desc = CrazyLube super-slippery bottle from Honk! Co.
+# [AUTO_EN]
+ent-ClothingBackpackMessengerPirateDecoyKitFilled = decoy kit
+    .desc = Contains visual decoys and a set of PTSD disposal tools.
+# [AUTO_EN]
 ent-CurtainsSkyBlue = { ent-BaseCurtains }
-    .suffix = Красивые небесно-голубые
+    .suffix = Beautiful sky blue
     .desc = { ent-BaseCurtains.desc }
+# [AUTO_EN]
 ent-CurtainsSkyBlueOpen = { ent-CurtainsSkyBlue }
-    .suffix = Открытые, Красивые небесно-голубые
+    .suffix = Open, Beautiful sky blue
     .desc = { ent-CurtainsSkyBlue.desc }
-ent-FloorTileItemDarkAstroGrass = тёмная астро-трава
+# [AUTO_EN]
+ent-FloorTileItemDarkAstroGrass = dark astro grass
     .desc = { ent-FloorTileItemAstroGrass.desc }
-ent-FloorTileItemLightAstroGrass = светлая астро-трава
+# [AUTO_EN]
+ent-FloorTileItemLightAstroGrass = light astro-grass
     .desc = { ent-FloorTileItemAstroGrass.desc }
-ent-EngineeringBorgChassisDerelict = заброшенный киборг-инженер
-    .desc = Гибрид человека и машины, помогающий инженерному отделу. Этот, похоже, весь в странных кристаллах.
-ent-JanitorBorgChassisDerelict = заброшенный киборг-уборщик
-    .desc = Гибрид человека и машины, помогающий сервисному отделу. Он сам грязнее любого мусора, который может убрать.
-ent-MedicalBorgChassisDerelict = заброшенный медицинский киборг
-    .desc = Гибрид человека и машины, помогающий медицинскому отделу. Его иглы выглядят не очень стерильно.
-ent-MiningBorgChassisDerelict = заброшенный киборг-утилизатор
-    .desc = Гибрид человека и машины, помогающий карго. Похоже, его потрепал кусок гибтонита.
-ent-SyndicateAssaultBorgChassisDerelictSunrise = заброшенный штурмовой киборг Синдиката
-    .desc = Смертоносная машина с доступом к разнообразным модулям. Этот скорее ржаво-оранжевый, чем кроваво-красный.
+# [AUTO_EN]
+ent-EngineeringBorgChassisDerelict = abandoned cybernetic engineer
+    .desc = A hybrid of human and machine, assisting the engineering department. This one seems to be covered in strange crystals.
+# [AUTO_EN]
+ent-JanitorBorgChassisDerelict = abandoned janitor droid
+    .desc = A hybrid of man and machine, helping the service department. He is dirtier than any trash he could possibly clean up.
+# [AUTO_EN]
+ent-MedicalBorgChassisDerelict = abandoned medical cyborg
+    .desc = A hybrid of man and machine, assisting the medical department. Its needles look anything but sterile.
+# [AUTO_EN]
+ent-MiningBorgChassisDerelict = abandoned cyborg incinerator
+    .desc = A hybrid of human and machine, helping with cargo. Looks like it got battered by a chunk of gibtonite.
+# [AUTO_EN]
+ent-SyndicateAssaultBorgChassisDerelictSunrise = abandoned Syndicate assault cyborg
+    .desc = Deadly machine with access to various modules. This is more rusty-orange than blood-red.
 ent-SyndicateAssaultBorgChassisDerelict = { ent-SyndicateAssaultBorgChassisDerelictSunrise }
     .desc = { ent-SyndicateAssaultBorgChassisDerelictSunrise.desc }
-ent-SyndicateMedicalBorgChassisDerelictSunrise = заброшенный медицинский киборг Синдиката
-    .desc = Медицинская поддержка для полевых операций. Его медицинские протоколы, похоже, деградировали.
-ent-SyndicateReaperBorgChassisDerelictSunrise = заброшенный киборг-жнец Синдиката
-    .desc = Скрытная инфильтрационная единица для саботажа и убийств. Этот повидал лучшие дни.
-ent-SyndicateSaboteurBorgChassisDerelictSunrise = заброшенный киборг-саботёр Синдиката
-    .desc = Специализированная инфильтрационная единица для саботажа и шпионажа. Этот прошёл через войны.
+# [AUTO_EN]
+ent-SyndicateMedicalBorgChassisDerelictSunrise = abandoned Syndicate medical cyborg
+    .desc = Medical support for field operations. Its medical protocols seem to have degraded.
+# [AUTO_EN]
+ent-SyndicateReaperBorgChassisDerelictSunrise = abandoned Syndicate Reaper Borg Chassis
+    .desc = Stealth infiltration unit for sabotage and murder. This one has seen its best days.
+# [AUTO_EN]
+ent-SyndicateSaboteurBorgChassisDerelictSunrise = abandoned Syndicate saboteur cyborg
+    .desc = Specialist infiltration unit for sabotage and espionage. This one has seen wars.
 ent-SyndicateSaboteurBorgChassisDerelict = { ent-SyndicateSaboteurBorgChassisDerelictSunrise }
     .desc = { ent-SyndicateSaboteurBorgChassisDerelictSunrise.desc }
-ent-XenoborgModuleDoorControl = модуль ксеноборга: управление дверями
-    .desc = Модуль, позволяющий ксеноборгам управлять шлюзами.
-ent-BorgModuleDoubleEsword = модуль киборга: двойной энергетический меч
-    .desc = Оружейный модуль с двойным энергетическим мечом.
+# [AUTO_EN]
+ent-XenoborgModuleDoorControl = xenoborg module: door control
+    .desc = Module that allows xenoborgs to control the airlocks.
+# [AUTO_EN]
+ent-BorgModuleDoubleEsword = cyborg module: double energy sword
+    .desc = Weapon module with dual energy swords.
+# [AUTO_EN]
 ent-DoorElectronicsXenoborg = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Ксеноборг, Заблокировано
+    .suffix = Xenoborg, Blocked
+# [AUTO_EN]
 ent-EnergyKatanaBiocode = { ent-EnergyKatana }
     .desc = { ent-EnergyKatana.desc }
-    .suffix = БИОКОД
-ent-WeaponEnergyMagnum = энергетический магнум
-    .desc = Мощный самозаряжающийся энергетический пистолет для элитного персонала службы безопасности. Имеет три режима огня: высокий урон, пробитие окон и нелетальный оглушающий.
-ent-ParcelWrapAdmeme = блюспейс-обёртка
-    .desc = Бумага для упаковки предметов при транспортировке. Эта, кажется, способна прятать внутри подозрительно много пространства.
-    .suffix = Адмем
+    .suffix = BIOCODE
+# [AUTO_EN]
+ent-WeaponEnergyMagnum = energy magnum
+    .desc = Powerful semi-automatic energy pistol for elite security personnel. Features three fire modes: high damage, window penetration, and non-lethal stun.
+# [AUTO_EN]
+ent-ParcelWrapAdmeme = bluespace-wrap
+    .desc = Wrapping paper for items during transport. This one seems capable of hiding suspiciously much space inside.
+    .suffix = Admin
+# [AUTO_EN]
 ent-CartridgeHeavyRifleRFMJMech = { ent-CartridgeHeavyRifleRFMJ }
     .desc = { ent-CartridgeHeavyRifleRFMJ.desc }
-    .suffix = Мех
-ent-CartridgeXrayBeam = патрон (рентген-луч)
+    .suffix = Mech
+# [AUTO_EN]
+ent-CartridgeXrayBeam = cartridge (x-ray beam)
     .desc = { ent-BaseCartridge.desc }

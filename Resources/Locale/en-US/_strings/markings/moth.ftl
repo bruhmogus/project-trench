@@ -395,4 +395,5 @@ marking-MothLArmWitchwing = Moth Left Arm (Witch Wing)
 
 marking-MothRArmWitchwing-witchwing_r_arm = Right Arm
 marking-MothRArmWitchwing = Moth Right Arm (Witch Wing)
-marking-MothWingsMaple-maple = Крыло
+# [AUTO_EN]
+marking-MothWingsMaple-maple = Wing

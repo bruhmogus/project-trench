@@ -63,10 +63,12 @@ salvage-dungeon-mod-snowy-labs = Snowy labs
 salvage-dungeon-mod-experiment = Experiment
 salvage-dungeon-mod-haunted = Haunted
 salvage-dungeon-mod-mineshaft = Mineshaft
-salvage-expedition-structure-examine = Это необходимо [color=#B02E26]уничтожить[/color]
+# [AUTO_EN]
+salvage-expedition-structure-examine = This must [color=#B02E26]be destroyed[/color]
+# [AUTO_EN]
 salvage-expedition-structure-remaining =
-    Осталось разрушить { $count } { $count ->
-        [one] цель.
-        [few] цели.
-       *[other] целей.
+    { $count } { $count ->
+        [one] objective.
+        [few] objectives.
+       *[other] objectives.
     }

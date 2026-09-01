@@ -49,9 +49,11 @@ ent-SignalButtonQuadling = Quadling 127-4 fire button
 ent-SignalButtonSquall = Squall 308 fire button
     .desc = { ent-SignalButton.desc }
     .suffix = Autolink
-ent-ShuttleGunUlan = LSE-13000e "Улан"
-    .desc = Экспериментальная рельсотронная лазерная установка, питаемая от корабельной энергосети. Формирует разрушительный электромагнитный луч и не требует энергоячеек, но создаёт экстремальную нагрузку на реактор. Жестко закреплена и не поворачивается.
-    .suffix = НЕ МАППИТЬ
-ent-SignalButtonUlan = кнопка огня Улан
+# [AUTO_EN]
+ent-ShuttleGunUlan = LSE-13000e "Ulan"
+    .desc = Experimental railgun laser unit powered by the ship's power grid. Forms a destructive electromagnetic beam and does not require energy cells, but creates extreme reactor stress. Rigidly mounted and cannot be rotated.
+    .suffix = DO NOT MAP
+# [AUTO_EN]
+ent-SignalButtonUlan = Ulan fire button
     .desc = { ent-SignalButton.desc }
-    .suffix = Автосвязь
+    .suffix = Auto-connect

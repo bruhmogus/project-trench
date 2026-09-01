@@ -1,10 +1,15 @@
-ent-Scp3008MusicBox = радио IKEA
-    .desc = Из него доносится успокаивающая музыка.
-ent-BaseScp3008 = Сотрудник IKEA
-    .desc = Непропорциональная и безликая персона в костюме сотрудника IKEA.
-ent-BasicScp3008 = Сотрудник IKEA
+# [AUTO_EN]
+ent-Scp3008MusicBox = IKEA radio
+    .desc = Soothing music can be heard from it.
+# [AUTO_EN]
+ent-BaseScp3008 = IKEA employee
+    .desc = A disproportionate and faceless character in an IKEA employee costume.
+# [AUTO_EN]
+ent-BasicScp3008 = IKEA employee
 ent-BasicScp3008Angry = { ent-BasicScp3008 }
-ent-StrongScp3008 = Крепкий сотрудник IKEA
+# [AUTO_EN]
+ent-StrongScp3008 = Strong IKEA employee
 ent-StrongScp3008Angry = { ent-StrongScp3008 }
-ent-TallScp3008 = Высокий сотрудник IKEA
+# [AUTO_EN]
+ent-TallScp3008 = Senior IKEA employee
 ent-TallScp3008Angry = { ent-TallScp3008 }

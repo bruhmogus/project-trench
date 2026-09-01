@@ -1,16 +1,32 @@
-cmd-babyjail-desc = Переключает режим "детского сада", который устанавливает более строгие ограничения на тех, кто может подключаться к серверу.
-cmd-babyjail-help = Использование: babyjail
-babyjail-command-enabled = Режим "детского сада" включен.
-babyjail-command-disabled = Режим "детского сада" отключен.
-cmd-babyjail_show_reason-desc = Переключает отображение причины, по которой режим "детского сада" блокирует подключение клиентов.
-cmd-babyjail_show_reason-help = Использование: babyjail_show_reason
-babyjail-command-show-reason-enabled = Режим "детского сада" теперь будет показывать причину блокировки подключения пользователям.
-babyjail-command-show-reason-disabled = Режим "детского сада" больше не будет показывать причину блокировки подключения пользователям.
-cmd-babyjail_max_account_age-desc = Получает или устанавливает максимальный возраст аккаунта в минутах, чтобы аккаунт мог подключиться при включенном режиме "детского сада".
-cmd-babyjail_max_account_age-help = Использование: babyjail_max_account_age <минуты>
-babyjail-command-max-account-age-is = Максимальный возраст аккаунта для режима "детского сада" составляет { $minutes } минут.
-babyjail-command-max-account-age-set = Установлен максимальный возраст аккаунта для режима "детского сада" в { $minutes } минут.
-cmd-babyjail_max_overall_minutes-desc = Получает или устанавливает максимальное общее время игры в минутах, чтобы аккаунт мог подключиться при включенном режиме "детского сада".
-cmd-babyjail_max_overall_minutes-help = Использование: babyjail_max_overall_minutes <минуты>
-babyjail-command-max-overall-minutes-is = Максимальное общее время игры для режима "детского сада" составляет { $minutes } минут.
-babyjail-command-max-overall-minutes-set = Установлено максимальное общее время игры для режима "детского сада" в { $minutes } минут.
+# [AUTO_EN]
+cmd-babyjail-desc = Toggles "baby jail" mode, which sets stricter restrictions on who can connect to the server.
+# [AUTO_EN]
+cmd-babyjail-help = Usage: babyjail
+# [AUTO_EN]
+babyjail-command-enabled = "Kindergarten" mode is enabled.
+# [AUTO_EN]
+babyjail-command-disabled = "Kindergarten" mode is disabled.
+# [AUTO_EN]
+cmd-babyjail_show_reason-desc = Toggles the display of the reason why "baby jail" mode blocks client connections.
+# [AUTO_EN]
+cmd-babyjail_show_reason-help = Usage: babyjail_show_reason
+# [AUTO_EN]
+babyjail-command-show-reason-enabled = The "baby jail" mode will now display the connection block reason to users.
+# [AUTO_EN]
+babyjail-command-show-reason-disabled = The "baby jail" mode will no longer display the connection block reason to users.
+# [AUTO_EN]
+cmd-babyjail_max_account_age-desc = Gets or sets the maximum account age in minutes for an account to be able to connect when the "baby jail" mode is enabled.
+# [AUTO_EN]
+cmd-babyjail_max_account_age-help = Usage: babyjail_max_account_age <minutes>
+# [AUTO_EN]
+babyjail-command-max-account-age-is = Maximum account age for "nursery" mode is { $minutes } minutes.
+# [AUTO_EN]
+babyjail-command-max-account-age-set = Maximum account age for "nursery" mode is set to { $minutes } minutes.
+# [AUTO_EN]
+cmd-babyjail_max_overall_minutes-desc = Gets or sets the maximum total play time in minutes for an account to connect with the "baby jail" mode enabled.
+# [AUTO_EN]
+cmd-babyjail_max_overall_minutes-help = Usage: babyjail_max_overall_minutes <minutes>
+# [AUTO_EN]
+babyjail-command-max-overall-minutes-is = The maximum total playtime for "baby jail" mode is { $minutes } minutes.
+# [AUTO_EN]
+babyjail-command-max-overall-minutes-set = The maximum total playtime for "nursery" mode has been set to { $minutes } minutes.

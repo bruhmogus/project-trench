@@ -1,2 +1,3 @@
-ent-TiderLathe = кузня тайдера
-    .desc = Мечта каждого кузнеца из техтоннелей: кузня для массового производства снаряжения.
+# [AUTO_EN]
+ent-TiderLathe = Tider's forge
+    .desc = The dream of every blacksmith from the Tider tunnels: a forge for mass production of equipment.

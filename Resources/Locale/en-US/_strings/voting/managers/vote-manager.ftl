@@ -33,6 +33,9 @@ ui-vote-votekick-success = Votekick for { $target } succeeded. Votekick reason: 
 ui-vote-votekick-failure = Votekick for { $target } failed. Votekick reason: { $reason }
 ui-vote-votekick-not-enough-eligible = Not enough eligible voters online to start a votekick: { $voters }/{ $requirement }
 ui-vote-votekick-server-cancelled = Votekick for { $target } was cancelled by the server.
-ui-vote-gamemode-auto-set = Доступен только один режим: { $preset }. Голосование пропущено.
-ui-vote-secret-map = Секрет
-ui-vote-secret-win = Следующая карта будет выбрана случайным образом.
+# [AUTO_EN]
+ui-vote-gamemode-auto-set = Only one mode is available: { $preset }. Voting was skipped.
+# [AUTO_EN]
+ui-vote-secret-map = Secret
+# [AUTO_EN]
+ui-vote-secret-win = The next card will be selected at random.

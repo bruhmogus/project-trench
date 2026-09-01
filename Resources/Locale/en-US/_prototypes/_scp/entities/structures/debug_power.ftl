@@ -1,21 +1,28 @@
+# [AUTO_EN]
 ent-ScpDebugInvisibleGenerator = { ent-BaseGenerator }
-    .suffix = ДЕБАГ, Невидимость
+    .suffix = DEBUG, Invisibility
     .desc = { ent-BaseGenerator.desc }
+# [AUTO_EN]
 ent-ScpDebugInvisibleSMESRecharging = { ent-BaseSMES }
-    .suffix = ДЕБАГ, Невидимость, автоматическая перезарядка
+    .suffix = DEBUG, Invisibility, Auto Recharge
     .desc = { ent-BaseSMES.desc }
+# [AUTO_EN]
 ent-ScpDebugInvisibleSubstationRecharging = { ent-BaseSubstation }
-    .suffix = ДЕБАГ, Невидимость, автоматическая перезарядка
+    .suffix = DEBUG, Invisibility, Auto Recharge
     .desc = { ent-BaseSubstation.desc }
+# [AUTO_EN]
 ent-ScpDebugInvisibleAPCRecharging = { ent-BaseAPC }
-    .suffix = ДЕБАГ, Невидимость, Автоматическая перезарядка
+    .suffix = DEBUG, Invisibility, Auto-recharge
     .desc = { ent-BaseAPC.desc }
+# [AUTO_EN]
 ent-ScpCableHVInvisible = { ent-CableHV }
-    .suffix = ДЕБАГ, Невидимость
+    .suffix = DEBUG, Invisibility
     .desc = { ent-CableHV.desc }
+# [AUTO_EN]
 ent-ScpCableMVInvisible = { ent-CableMV }
-    .suffix = ДЕБАГ, Невидимость
+    .suffix = DEBUG, Invisible
     .desc = { ent-CableMV.desc }
+# [AUTO_EN]
 ent-ScpCableApcExtensionInvisible = { ent-CableApcExtension }
-    .suffix = ДЕБАГ, Невидимость
+    .suffix = DEBUG, Invisible
     .desc = { ent-CableApcExtension.desc }

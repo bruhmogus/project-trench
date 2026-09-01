@@ -26,5 +26,6 @@ ent-WeaponRifleSKM28Syndi = SKM-28
     .desc = A marksman conversion of the standard SKM-24. Features an extended heavy barrel, reworked internals, and a mounted optical sight. Chambered in .308. Good choice, nukie.
 ent-WeaponRifleSKM28Nano = SKM-28
     .desc = A marksman conversion of the standard SKM-24. Features an extended heavy barrel, reworked internals, and a mounted optical sight. Chambered in .308. Money doesn't smell.
-ent-WeaponRifleAsh12 = АШ-12
-    .desc = Тяжёлая автоматическая винтовка под пули дробовика. Бьёт, как молоток.
+# [AUTO_EN]
+ent-WeaponRifleAsh12 = ASH-12
+    .desc = Heavy automatic rifle for shotgun shells. Hits like a hammer.

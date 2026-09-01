@@ -7,5 +7,7 @@ node-scanner-artifact-state-unlocking = Artifact is resonating with your actions
 node-scanner-artifact-state-cooldown = Artifact is resting
 node-scanner-artifact-connected = Scanning artifact
 node-scanner-artifact-non-connected = Artifact not found or out of range
-node-scanner-artifact-scanned-time = В последний раз артефакт был сканирован в { $time }
-node-scanner-artifact-scanned-time-none = Просканируйте артефакт, чтобы увидеть его состояние
+# [AUTO_EN]
+node-scanner-artifact-scanned-time = The artifact was last scanned at { $time }
+# [AUTO_EN]
+node-scanner-artifact-scanned-time-none = Scan the artifact to see its status

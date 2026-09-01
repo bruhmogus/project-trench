@@ -1,3 +1,6 @@
-unsuccessfully-insert = Не удалось залезть
-felinid-licking-blocked-by-blocker = Ваш рот закрыт, вы не можете лизать раны.
-felinid-licking-blocked-by-clothing = Одежда на цели мешает вам лизать раны.
+# [AUTO_EN]
+unsuccessfully-insert = Failed to climb
+# [AUTO_EN]
+felinid-licking-blocked-by-blocker = Your mouth is closed, you cannot lick wounds.
+# [AUTO_EN]
+felinid-licking-blocked-by-clothing = Clothing on the target prevents you from licking wounds.

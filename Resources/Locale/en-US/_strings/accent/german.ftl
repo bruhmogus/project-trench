@@ -31,120 +31,236 @@ accent-german-words-replace-10 = artefakt
 
 accent-german-words-11 = fantastic
 accent-german-words-replace-11 = fantastisch
-accent-german-words-1-2 = ага
-accent-german-words-9-2 = леди
-accent-german-words-12 = джентельмены
-accent-german-words-replace-12 = хеъен
-accent-german-words-13 = мой бог
-accent-german-words-replace-13 = мейн Готт
-accent-german-words-14 = моя
-accent-german-words-replace-14 = мейне
-accent-german-words-15 = здесь
-accent-german-words-replace-15 = хиер
-accent-german-words-16 = идиот
-accent-german-words-replace-16 = думмкопф
-accent-german-words-17 = идиоты
+# [AUTO_EN]
+accent-german-words-1-2 = yeah
+# [AUTO_EN]
+accent-german-words-9-2 = lady
+# [AUTO_EN]
+accent-german-words-12 = gentlemen
+# [AUTO_EN]
+accent-german-words-replace-12 = heh
+# [AUTO_EN]
+accent-german-words-13 = my god
+# [AUTO_EN]
+accent-german-words-replace-13 = Main Gott
+# [AUTO_EN]
+accent-german-words-14 = my
+# [AUTO_EN]
+accent-german-words-replace-14 = mine
+# [AUTO_EN]
+accent-german-words-15 = here
+# [AUTO_EN]
+accent-german-words-replace-15 = hier
+# [AUTO_EN]
+accent-german-words-16 = idiot
+# [AUTO_EN]
+accent-german-words-replace-16 = dummkopf
+# [AUTO_EN]
+accent-german-words-17 = idiots
 accent-german-words-replace-17 = думпокпфе
-accent-german-words-18 = бабочка
-accent-german-words-replace-18 = шметерлинг
-accent-german-words-19 = машина
-accent-german-words-replace-19 = масщин
-accent-german-words-replace-19-2 = ауто
-accent-german-words-20 = машины
-accent-german-words-replace-20 = масщинен
-accent-german-words-21 = осторожно
-accent-german-words-replace-21 = ахтунг
-accent-german-words-22 = музыка
-accent-german-words-replace-22 = мюзик
-accent-german-words-23 = капитан
-accent-german-words-replace-23 = капитен
-accent-german-words-24 = кебаб
-accent-german-words-replace-24 = дуэна
-accent-german-words-25 = мышь
-accent-german-words-replace-25 = маус
-accent-german-words-26 = что
-accent-german-words-replace-26 = вас
-accent-german-words-27 = спасибо вам
-accent-german-words-replace-27 = данкешон
-accent-german-words-28 = спасибо
-accent-german-words-replace-28 = данке
-accent-german-words-29 = будьте здоровы
-accent-german-words-replace-29 = гесундейт
-accent-german-words-30 = огнемёт
-accent-german-words-replace-30 = фламменвефхе
-accent-german-words-31 = призрак
-accent-german-words-replace-31 = полтегейстх
-accent-german-words-32 = сорняк
-accent-german-words-32-2 = капуста
-accent-german-words-replace-32 = краут
-accent-german-words-33 = водка
-accent-german-words-replace-33 = вотка
-accent-german-words-34 = рюкзак
-accent-german-words-replace-34 = руксак
-accent-german-words-35 = медицина
-accent-german-words-replace-35 = медицинь
-accent-german-words-36 = акцент
-accent-german-words-replace-36 = акзент
-accent-german-words-37 = аномалия
-accent-german-words-replace-37 = аномали
-accent-german-words-38 = артефакт
-accent-german-words-38-2 = артефакт
-accent-german-words-replace-38 = артефакт
-accent-german-words-39 = тупой
-accent-german-words-replace-39 = думм
-accent-german-words-40 = глупый
-accent-german-words-replace-40 = дуфф
-accent-german-words-41 = замечательный
-accent-german-words-41-2 = прекрастный
-accent-german-words-replace-41 = вундебаъх
-accent-german-words-42 = опастно
-accent-german-words-replace-42 = ванун
-accent-german-words-43 = опастности
-accent-german-words-replace-43 = ванунге
-accent-german-words-44 = и
-accent-german-words-replace-44 = унд
-accent-german-words-45 = карп
-accent-german-words-replace-45 = карпфен
-accent-german-words-46 = командир
-accent-german-words-replace-46 = коммандант
-accent-german-words-47 = пиво
-accent-german-words-47-2 = пива
-accent-german-words-replace-47 = биэ
-accent-german-words-48 = привет
-accent-german-words-replace-48 = халло
-accent-german-words-49 = здравия
-accent-german-words-replace-49 = гутен таг
-accent-german-words-50 = помощь
-accent-german-words-replace-50 = хилфе
-accent-german-words-51 = до свидания
-accent-german-words-replace-51 = оуф видазин
-accent-german-words-52 = пока
-accent-german-words-replace-52 = щусс
-accent-german-words-53 = пока пока
-accent-german-words-53-2 = пока-пока
-accent-german-words-replace-53 = шоу
-accent-german-words-54 = фантастически
-accent-german-words-replace-54 = фантастиш
-accent-german-words-55 = генокрад
-accent-german-words-56-2 = запрещено
-accent-german-words-56-3 = запрещенный
-accent-german-words-replace-55 = допельганге
-accent-german-words-56 = запрещенный
-accent-german-words-replace-56 = вехботен
-accent-german-words-57 = быстрый
-accent-german-words-57-2 = быстро
-accent-german-words-replace-57 = шнель
-accent-german-words-58 = мед
-accent-german-words-replace-58 = кранкенхаус
-accent-german-words-59 = катушка теслы
-accent-german-words-replace-59 = тесла коил
-accent-german-words-60 = катушки теслы
-accent-german-words-replace-60 = тесла коилсь
-accent-german-words-61 = теслалуз
-accent-german-words-61-2 = теслус
-accent-german-words-61-3 = шар молнии
-accent-german-words-61-4 = шаровая молния
-accent-german-words-62 = машина
-accent-german-words-replace-62 = ауто
-accent-german-words-61-5 = тесла
-accent-german-words-replace-61 = кугельблитц
+# [AUTO_EN]
+accent-german-words-18 = butterfly
+# [AUTO_EN]
+accent-german-words-replace-18 = Schmetteringling
+# [AUTO_EN]
+accent-german-words-19 = car
+# [AUTO_EN]
+accent-german-words-replace-19 = muslin
+# [AUTO_EN]
+accent-german-words-replace-19-2 = auto
+# [AUTO_EN]
+accent-german-words-20 = machines
+# [AUTO_EN]
+accent-german-words-replace-20 = mascot
+# [AUTO_EN]
+accent-german-words-21 = careful
+# [AUTO_EN]
+accent-german-words-replace-21 = alert
+# [AUTO_EN]
+accent-german-words-22 = music
+# [AUTO_EN]
+accent-german-words-replace-22 = müzik
+# [AUTO_EN]
+accent-german-words-23 = captain
+# [AUTO_EN]
+accent-german-words-replace-23 = captain
+# [AUTO_EN]
+accent-german-words-24 = kebab
+# [AUTO_EN]
+accent-german-words-replace-24 = duena
+# [AUTO_EN]
+accent-german-words-25 = mouse
+# [AUTO_EN]
+accent-german-words-replace-25 = mouse
+# [AUTO_EN]
+accent-german-words-26 = what
+# [AUTO_EN]
+accent-german-words-replace-26 = you
+# [AUTO_EN]
+accent-german-words-27 = thank you
+# [AUTO_EN]
+accent-german-words-replace-27 = dankeschon
+# [AUTO_EN]
+accent-german-words-28 = thank you
+# [AUTO_EN]
+accent-german-words-replace-28 = thank you
+# [AUTO_EN]
+accent-german-words-29 = Be well
+# [AUTO_EN]
+accent-german-words-replace-29 = gessundt
+# [AUTO_EN]
+accent-german-words-30 = grenade launcher
+# [AUTO_EN]
+accent-german-words-replace-30 = flamenco
+# [AUTO_EN]
+accent-german-words-31 = ghost
+# [AUTO_EN]
+accent-german-words-replace-31 = poltegeisth
+# [AUTO_EN]
+accent-german-words-32 = weed
+# [AUTO_EN]
+accent-german-words-32-2 = cabbage
+# [AUTO_EN]
+accent-german-words-replace-32 = crowd
+# [AUTO_EN]
+accent-german-words-33 = vodka
+# [AUTO_EN]
+accent-german-words-replace-33 = thunk
+# [AUTO_EN]
+accent-german-words-34 = backpack
+# [AUTO_EN]
+accent-german-words-replace-34 = ruckzak
+# [AUTO_EN]
+accent-german-words-35 = medicine
+# [AUTO_EN]
+accent-german-words-replace-35 = medicine
+# [AUTO_EN]
+accent-german-words-36 = accent
+# [AUTO_EN]
+accent-german-words-replace-36 = accent
+# [AUTO_EN]
+accent-german-words-37 = anomaly
+# [AUTO_EN]
+accent-german-words-replace-37 = anomaly
+# [AUTO_EN]
+accent-german-words-38 = artifact
+# [AUTO_EN]
+accent-german-words-38-2 = artifact
+# [AUTO_EN]
+accent-german-words-replace-38 = artifact
+# [AUTO_EN]
+accent-german-words-39 = stupid
+# [AUTO_EN]
+accent-german-words-replace-39 = dumm
+# [AUTO_EN]
+accent-german-words-40 = stupid
+# [AUTO_EN]
+accent-german-words-replace-40 = duff
+# [AUTO_EN]
+accent-german-words-41 = excellent
+# [AUTO_EN]
+accent-german-words-41-2 = excellent
+# [AUTO_EN]
+accent-german-words-replace-41 = wundebach
+# [AUTO_EN]
+accent-german-words-42 = dangerous
+# [AUTO_EN]
+accent-german-words-replace-42 = vun
+# [AUTO_EN]
+accent-german-words-43 = danger
+# [AUTO_EN]
+accent-german-words-replace-43 = wunne
+# [AUTO_EN]
+accent-german-words-44 = and
+# [AUTO_EN]
+accent-german-words-replace-44 = und
+# [AUTO_EN]
+accent-german-words-45 = carp
+# [AUTO_EN]
+accent-german-words-replace-45 = carpfen
+# [AUTO_EN]
+accent-german-words-46 = commander
+# [AUTO_EN]
+accent-german-words-replace-46 = commander
+# [AUTO_EN]
+accent-german-words-47 = beer
+# [AUTO_EN]
+accent-german-words-47-2 = beer
+# [AUTO_EN]
+accent-german-words-replace-47 = bié
+# [AUTO_EN]
+accent-german-words-48 = hello
+# [AUTO_EN]
+accent-german-words-replace-48 = hello
+# [AUTO_EN]
+accent-german-words-49 = greetings
+# [AUTO_EN]
+accent-german-words-replace-49 = Guten Tag
+# [AUTO_EN]
+accent-german-words-50 = help
+# [AUTO_EN]
+accent-german-words-replace-50 = help
+# [AUTO_EN]
+accent-german-words-51 = goodbye
+# [AUTO_EN]
+accent-german-words-replace-51 = oh my god
+# [AUTO_EN]
+accent-german-words-52 = now
+# [AUTO_EN]
+accent-german-words-replace-52 = schuss
+# [AUTO_EN]
+accent-german-words-53 = bye bye
+# [AUTO_EN]
+accent-german-words-53-2 = goodbye
+# [AUTO_EN]
+accent-german-words-replace-53 = show
+# [AUTO_EN]
+accent-german-words-54 = fantastically
+# [AUTO_EN]
+accent-german-words-replace-54 = fantastish
+# [AUTO_EN]
+accent-german-words-55 = genocrafter
+# [AUTO_EN]
+accent-german-words-56-2 = forbidden
+# [AUTO_EN]
+accent-german-words-56-3 = forbidden
+# [AUTO_EN]
+accent-german-words-replace-55 = doppelgänger
+# [AUTO_EN]
+accent-german-words-56 = forbidden
+# [AUTO_EN]
+accent-german-words-replace-56 = wheat
+# [AUTO_EN]
+accent-german-words-57 = fast
+# [AUTO_EN]
+accent-german-words-57-2 = quick
+# [AUTO_EN]
+accent-german-words-replace-57 = schnell
+# [AUTO_EN]
+accent-german-words-58 = milk
+# [AUTO_EN]
+accent-german-words-replace-58 = nursing home
+# [AUTO_EN]
+accent-german-words-59 = Tesla coil
+# [AUTO_EN]
+accent-german-words-replace-59 = Tesla coil
+# [AUTO_EN]
+accent-german-words-60 = Tesla coils
+# [AUTO_EN]
+accent-german-words-replace-60 = Tesla coils
+# [AUTO_EN]
+accent-german-words-61 = teslaluze
+# [AUTO_EN]
+accent-german-words-61-2 = teslus
+# [AUTO_EN]
+accent-german-words-61-3 = lightning bolt
+# [AUTO_EN]
+accent-german-words-61-4 = ball lightning
+# [AUTO_EN]
+accent-german-words-62 = car
+# [AUTO_EN]
+accent-german-words-replace-62 = auto
+# [AUTO_EN]
+accent-german-words-61-5 = Tesla
+# [AUTO_EN]
+accent-german-words-replace-61 = Kugelblitz

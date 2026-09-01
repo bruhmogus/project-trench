@@ -20,8 +20,13 @@ ent-RubberStampPrisonInspector = prison inspector’s rubber stamp
     .desc = { ent-RubberStampBase.desc }
 ent-RubberStampCommanderBlueShield = commander blueshield rubber stamp
     .desc = { ent-RubberStampBase.desc }
-stamp-component-stamped-name-ntrep = Представитель NT
-stamp-component-stamped-name-path = Патологоанатом
-stamp-component-stamped-name-adj = Адъютант
-stamp-component-stamped-name-magistrat = Магистрат
-stamp-component-stamped-name-commander-blueshield = Командир «Синий щит»
+# [AUTO_EN]
+stamp-component-stamped-name-ntrep = NT Representative
+# [AUTO_EN]
+stamp-component-stamped-name-path = Pathologist
+# [AUTO_EN]
+stamp-component-stamped-name-adj = Adjutant
+# [AUTO_EN]
+stamp-component-stamped-name-magistrat = Magistrate
+# [AUTO_EN]
+stamp-component-stamped-name-commander-blueshield = Commander "Blue Shield"

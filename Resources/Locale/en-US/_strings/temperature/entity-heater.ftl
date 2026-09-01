@@ -16,5 +16,7 @@ entity-heater-examined = It is set to { $setting ->
 }.
 entity-heater-switch-setting = Switch to { -entity-heater-setting-name(setting: $setting) }
 entity-heater-switched-setting = Switched to { -entity-heater-setting-name(setting: $setting) }.
-entity-heater-switch-setting = Переключить на { $setting }
-entity-heater-switched-setting = Переключён на { $setting }
+# [AUTO_EN]
+entity-heater-switch-setting = Switch to { $setting }
+# [AUTO_EN]
+entity-heater-switched-setting = Switched to { $setting }

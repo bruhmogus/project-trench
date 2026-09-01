@@ -61,18 +61,23 @@ ent-ClothingHandsKnuckleDustersStun = stun knuckle dusters
     .desc = A pair of knuckle dusters combined with the tech of a stun baton. This makes beating tiders a whole lot easier.
 ent-ClothingHandsKnuckleBoneCrushers = bone crushers
     .desc = Blessed by the Gods to break all those who don't obey.
+# [AUTO_EN]
 ent-ClothingHandsGlovesBoxingRiggedRed = { ent-ClothingHandsGlovesBoxingRed }
-    .suffix = Нечестные
+    .suffix = Unfair
     .desc = { ent-ClothingHandsGlovesBoxingRed.desc }
+# [AUTO_EN]
 ent-ClothingHandsGlovesBoxingRiggedBlue = { ent-ClothingHandsGlovesBoxingBlue }
-    .suffix = Нечестные
+    .suffix = Unfair
     .desc = { ent-ClothingHandsGlovesBoxingBlue.desc }
+# [AUTO_EN]
 ent-ClothingHandsGlovesBoxingRiggedGreen = { ent-ClothingHandsGlovesBoxingGreen }
-    .suffix = Нечестные
+    .suffix = Unethical
     .desc = { ent-ClothingHandsGlovesBoxingGreen.desc }
+# [AUTO_EN]
 ent-ClothingHandsGlovesBoxingRiggedYellow = { ent-ClothingHandsGlovesBoxingYellow }
-    .suffix = Нечестные
+    .suffix = Unfair
     .desc = { ent-ClothingHandsGlovesBoxingYellow.desc }
+# [AUTO_EN]
 ent-ClothingHandsGlovesNorthStarBiocode = { ent-ClothingHandsGlovesNorthStar }
-    .suffix = БИОКОД
+    .suffix = BIOCODE
     .desc = { ent-ClothingHandsGlovesNorthStar.desc }

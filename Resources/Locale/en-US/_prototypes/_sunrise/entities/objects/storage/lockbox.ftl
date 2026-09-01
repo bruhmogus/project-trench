@@ -2,43 +2,63 @@ ent-Lockbox = Protected suitcase
     .desc = Highly protective suitcase designed for storing important documents and items.
 ent-LockboxCaptain = { ent-Lockbox }
     .desc = { ent-Lockbox.desc }
-ent-BaseImplantCase = Кейс
-    .desc = Небольшой кейс с замком по ID, внутри находится киберимплант.
-ent-SecurityImplantCase = Защищённый Кейс
-    .desc = Защищённый кейс с замком по ID, внутри находится киберимплант.
-ent-ImplantCaseNightVision = Кейс: Киберглаз «Ночное зрение»
-    .desc = Небольшой кейс с замком. На этикетке написано: Киберглаз «Ночное зрение».
-ent-ImplantCaseThermal = Кейс: Киберглаз «Тепловизор»
-    .desc = Небольшой кейс с замком. На этикетке написано: Киберглаз «Тепловизор».
-ent-ImplantCaseImplantChemical = Кейс: Химический HUD-глаз
-    .desc = Небольшой кейс с замком. На этикетке написано: Химический HUD-имплант глаз.
-ent-ImplantCaseImplantWelding = Кейс: Сварочный HUD-глаз
-    .desc = Небольшой кейс с замком. На этикетке написано: Сварочный HUD-имплант глаз.
-ent-ImplantCaseImplantMedical = Кейс: Медицинский HUD-глаз
-    .desc = Небольшой кейс с замком. На этикетке написано: Медицинский HUD-имплант глаз.
-ent-ImplantCaseGorilla = Кейс: Левая киберрука «Горилла»
-    .desc = Небольшой кейс с замком. На этикетке написано: Левая киберрука «Горилла».
-ent-ImplantCaseMechwright = Кейс: Киберрука «Механик»
-    .desc = Небольшой кейс с замком. На этикетке написано: Киберрука «Механик».
-ent-ImplantCaseReaper = Кейс: Киберрука «Риппер»
-    .desc = Небольшой кейс с замком. На этикетке написано: Киберрука «Риппер».
-ent-ImplantCaseRobust = Кейс: Киберрука «Робаст»
-    .desc = Небольшой кейс с замком. На этикетке написано: Киберрука «Робаст».
-ent-ImplantCaseHack = Кейс: Киберрука «НетРаннера»
-    .desc = Небольшой кейс с замком. На этикетке написано: Киберрука «НетРаннера».
-ent-ImplantCaseJani = Кейс: Киберрука «Убор-рука»
-    .desc = Небольшой кейс с замком. На этикетке написано: Киберрука «Убор-рука».
-ent-ImplantCaseAtmos = Кейс: Киберрука «Атмосианина»
-    .desc = Небольшой кейс с замком. На этикетке написано: Киберрука «Атмосианина».
-ent-ImplantCaseImplantSecurity = Защищённый Кейс: Служебный HUD-глаз
-    .desc = Защищённый кейс с замком. На этикетке написано: Служебный HUD-имплант глаз.
-ent-ImplantCaseBonesaw = Защищённый Кейс: Киберрука «Косторез»
-    .desc = Защищённый кейс с замком. На этикетке написано: Киберрука «Косторез».
-ent-ImplantCaseLaserEmitter = Защищённый Кейс: Киберрука «Лазерный излучатель»
-    .desc = Защищённый кейс с замком. На этикетке написано: Киберрука с лазерным излучателем.
-ent-ImplantCaseBulwark = Защищённый Кейс: Киберрука «Крепость»
-    .desc = Защищённый кейс с замком. На этикетке написано: Киберрука «Крепость».
-ent-ImplantCaseGrenadeThrower = Защищённый Кейс: Киберрука «Ворчун»
-    .desc = Защищённый кейс с замком. На этикетке написано: Киберрука «Ворчун».
-ent-ImplantCaseMantisBladeMaxGuard = защищённый кейс: киберрука «клинки богомола максгард"
-    .desc = Защищённый кейс с замком. На этикетке написано: киберрука «Клинки Богомола МаксГард».
+# [AUTO_EN]
+ent-BaseImplantCase = Case
+    .desc = A small locked case with an ID, containing a cyber implant.
+# [AUTO_EN]
+ent-SecurityImplantCase = Protected Case
+    .desc = Locked case with ID, containing a cyber implant.
+# [AUTO_EN]
+ent-ImplantCaseNightVision = Case: Cyber Eye "Night Vision"
+    .desc = A small locked case. The label reads: Cyber Eye "Night Vision".
+# [AUTO_EN]
+ent-ImplantCaseThermal = Case: Cyber Eye "Thermal"
+    .desc = A small locked case. The label reads: Cyber Eye "Thermal Vision".
+# [AUTO_EN]
+ent-ImplantCaseImplantChemical = Case: Chemical HUD Eye
+    .desc = A small locked case. The label reads: Chemical HUD eye implant.
+# [AUTO_EN]
+ent-ImplantCaseImplantWelding = Case: Welding HUD Eye
+    .desc = A small locked case. The label reads: Welding HUD implant for the eye.
+# [AUTO_EN]
+ent-ImplantCaseImplantMedical = Case: Medical HUD Eye
+    .desc = A small locked case. The label reads: Medical HUD implant for the eyes.
+# [AUTO_EN]
+ent-ImplantCaseGorilla = Case: Left Cyber Arm "Gorilla"
+    .desc = A small locked case. The label reads: Left cyberarm "Gorilla".
+# [AUTO_EN]
+ent-ImplantCaseMechwright = Case: Cyber Arm "Mechanic"
+    .desc = A small locked case. The label reads: Cyberarm "Mechanic".
+# [AUTO_EN]
+ent-ImplantCaseReaper = Case: Cyber Arm "Reaper"
+    .desc = A small locked case. The label reads: Cyberarm "Reaper".
+# [AUTO_EN]
+ent-ImplantCaseRobust = Case: Cyber Arm "Robust"
+    .desc = Small locked case. Label reads: Cyberarm "Robust".
+# [AUTO_EN]
+ent-ImplantCaseHack = Case: Cyberarm "NoRunner"
+    .desc = A small locked case. The label reads: Cyberarm "NoRunner".
+# [AUTO_EN]
+ent-ImplantCaseJani = Case: Cyber Arm "Cleaner Arm"
+    .desc = A small locked case. The label reads: Cyberarm "Cleaner Arm".
+# [AUTO_EN]
+ent-ImplantCaseAtmos = Case: Cyberarm "Atmosianina"
+    .desc = A small locked case. The label reads: Cyberarm "Atmosianina".
+# [AUTO_EN]
+ent-ImplantCaseImplantSecurity = Protected Case: Service HUD Eye
+    .desc = Locked case with a lock. The label reads: Service HUD-eye implant.
+# [AUTO_EN]
+ent-ImplantCaseBonesaw = Protected Case: Cyber Arm "Bone Cutter"
+    .desc = Locked case. Label reads: Cyber Arm "Bone Cutter".
+# [AUTO_EN]
+ent-ImplantCaseLaserEmitter = Protected Case: Cyber Arm "Laser Emitter"
+    .desc = Locked case with a lock. The label reads: Cyberarm with laser emitter.
+# [AUTO_EN]
+ent-ImplantCaseBulwark = Protected Case: Cyber Arm "Bulwark"
+    .desc = Locked case. Label reads: Cyber Arm "Bulwark".
+# [AUTO_EN]
+ent-ImplantCaseGrenadeThrower = Protected Case: Cyberarm "Grumbler"
+    .desc = Locked case. Label reads: Cyberarm "Grumbler".
+# [AUTO_EN]
+ent-ImplantCaseMantisBladeMaxGuard = protected case: cyber arm "Mantis Blade Max Guard"
+    .desc = Locked case. Label reads: "Cyber Arm 'Godslayer MaxGuard'".

@@ -20,7 +20,8 @@ ent-LeftFootHuman = left human foot
     .desc = { ent-PartHuman.desc }
 ent-RightFootHuman = right human foot
     .desc = { ent-PartHuman.desc }
-ent-TorsoHuman = туловище человека
+# [AUTO_EN]
+ent-TorsoHuman = human torso
     .desc = { ent-PartHuman.desc }
 ent-OrganHumanHead = { ent-HeadHuman }
     .desc = { ent-HeadHuman.desc }

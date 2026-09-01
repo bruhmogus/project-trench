@@ -55,5 +55,7 @@ highlights-personal-ai = Personal AI, "pAI"
 highlights-cyborg = Cyborg, Silicon, Borg, Robotics, "Robot"
 highlights-station-ai = Station AI, Silicon, "AI", "sAI"
 # Station-specific
-highlights-boxer = Боксер, Ринг
-highlights-zookeeper = Смотритель зоопарка, Зоопарк
+# [AUTO_EN]
+highlights-boxer = Boxer, Ring
+# [AUTO_EN]
+highlights-zookeeper = Zookeeper, Zoo

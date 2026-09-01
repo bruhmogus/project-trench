@@ -64,12 +64,21 @@ borg-type-medical-transponder = medical cyborg
 borg-type-service-name = Service
 borg-type-service-desc = Help out with a wide range of crew services, ranging from serving snacks and drinks to botany to entertainment.
 borg-type-service-transponder = service cyborg
-borg-type-clown-name = Клоун
-borg-type-clown-desc = Развлекайте экипаж комплекса, используя встроенные инструменты для создания веселья. ХОНК! Идеальное сочетание комедии и кибернетики.
-borg-type-clown-transponder = киборг-клоун
-borg-type-peace-name = Миротворец
-borg-type-peace-desc = Поддерживайте мир и порядок в комплексе, используя ненасильственные методы. Оснащён специальными модулями для деэскалации конфликтов и защиты гражданских.
-borg-type-peace-transponder = киборг-миротворец
-borg-type-security-name = Охранник
-borg-type-security-desc = Защищайте экипаж и имущество комплекса, патрулируя коридоры и реагируя на чрезвычайные ситуации. Оснащён передовыми системами обнаружения угроз и защитным оборудованием.
-borg-type-security-transponder = киборг-охранник
+# [AUTO_EN]
+borg-type-clown-name = Clown
+# [AUTO_EN]
+borg-type-clown-desc = Entertain the complex crew using built-in tools to create fun. HONK! The perfect blend of comedy and cybernetics.
+# [AUTO_EN]
+borg-type-clown-transponder = cyborg clown
+# [AUTO_EN]
+borg-type-peace-name = Peacekeeper
+# [AUTO_EN]
+borg-type-peace-desc = Maintain peace and order in the complex using nonviolent methods. Equipped with special modules for conflict de-escalation and civilian protection.
+# [AUTO_EN]
+borg-type-peace-transponder = cyborg peacekeeper
+# [AUTO_EN]
+borg-type-security-name = Guard
+# [AUTO_EN]
+borg-type-security-desc = Protect the crew and complex assets by patrolling corridors and responding to emergencies. Equipped with advanced threat detection systems and protective gear.
+# [AUTO_EN]
+borg-type-security-transponder = cyborg guard

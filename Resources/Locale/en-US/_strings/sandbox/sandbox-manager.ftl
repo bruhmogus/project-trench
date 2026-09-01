@@ -20,4 +20,5 @@ sandbox-window-show-spawns-button = Show Spawns
 sandbox-window-show-bb-button = Show BB
 sandbox-window-show-npc-button = Show NPC
 sandbox-window-toggle-thermal-vision = Toggle Thermal Vision
-sandbox-window-link-machines-button = Связать устройства
+# [AUTO_EN]
+sandbox-window-link-machines-button = Link devices

@@ -153,11 +153,19 @@ reagent-desc-haloperidol = Removes most stimulating and hallucinogenic drugs. Re
 
 reagent-name-heparin = heparin
 reagent-desc-heparin = Commonly used as an anticoagulant medication. Causes blood to have difficulty forming clots. Can cause internal bleeding when overdosed.
-reagent-name-necrosol = некрозол
-reagent-desc-necrosol = Некротическое вещество, которое, похоже, способно излечивать обмороженные трупы. В небольших дозах он способен лечить и оживлять растения. Работает на мёртвых и живых.
-reagent-name-hemostatic-powder = кровоостанавливающая пудра
-reagent-desc-hemostatic-powder = Кровоостанавливающий порошок, основанный на смеси транексамовой кислоты и силицида железа. При передозировке сильно отравляет организм токсинами.
-reagent-name-retroindralyne = ретроиндралин
-reagent-desc-retroindralyne = очень старое противорадиационное средство, доведённое учёными современности до ума, имеет побочные эффекты.
-reagent-name-barozine-plus = барозин плюс
-reagent-desc-barozine-plus = барозин, усовершенствованная версия специально для медипенов. Менее токсичен.
+# [AUTO_EN]
+reagent-name-necrosol = necrosol
+# [AUTO_EN]
+reagent-desc-necrosol = Necrotic substance that seems capable of healing frostbitten corpses. In small doses, it can heal and revive plants. Works on both the dead and the living.
+# [AUTO_EN]
+reagent-name-hemostatic-powder = hemostatic powder
+# [AUTO_EN]
+reagent-desc-hemostatic-powder = Hemostatic powder based on a mixture of tranexamic acid and ferrous silicide. Overdose causes severe poisoning of the body with toxins.
+# [AUTO_EN]
+reagent-name-retroindralyne = retroindralyne
+# [AUTO_EN]
+reagent-desc-retroindralyne = very old anti-radiation drug, refined by modern scientists, has side effects.
+# [AUTO_EN]
+reagent-name-barozine-plus = Barozine Plus
+# [AUTO_EN]
+reagent-desc-barozine-plus = Barozine Plus, an improved version specifically for medical foams. Less toxic.

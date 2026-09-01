@@ -1,2 +1,4 @@
-extra-title = Экстра
-extra-description = Только случайные события, нет начальных угроз.
+# [AUTO_EN]
+extra-title = Extra
+# [AUTO_EN]
+extra-description = Only random events, no initial threats.

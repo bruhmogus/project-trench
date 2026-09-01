@@ -1,4 +1,4 @@
-﻿# Popups
+# Popups
 
 network-configurator-device-saved = Successfully saved network device {$device} with address {$address}!
 network-configurator-device-failed = Failed to save network device {$device}! No address assigned!
@@ -53,9 +53,15 @@ network-configurator-item-status-label = Mode: {$mode}
 # command
 cmd-clearnetworklinkoverlays-desc = Clear all network link overlays.
 cmd-clearnetworklinkoverlays-help = Usage: clearnetworklinkoverlays
-network-configurator-name-set = Установить
-network-configurator-name-add = Добавить
-network-configurator-name-edit = Изменить
-network-configurator-name-clear = Очистить
-network-configurator-name-copy = Копировать
-network-configurator-name-show = Показать
+# [AUTO_EN]
+network-configurator-name-set = Set
+# [AUTO_EN]
+network-configurator-name-add = Add
+# [AUTO_EN]
+network-configurator-name-edit = Edit
+# [AUTO_EN]
+network-configurator-name-clear = Clear
+# [AUTO_EN]
+network-configurator-name-copy = Copy
+# [AUTO_EN]
+network-configurator-name-show = Show

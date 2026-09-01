@@ -1,4 +1,4 @@
-﻿guidebook-reagent-effect-description =
+guidebook-reagent-effect-description =
     {$quantity ->
         [0] {""}
         *[other] If there is at least {$quantity}u {$reagent},{" "}
@@ -33,4 +33,5 @@ guidebook-reagent-recipes-mix-info = {$minTemp ->
             *[false] above {NATURALFIXED($minTemp, 2)}K
         }
 }
-guidebook-reagent-effects-metabolism-group-rate = [bold]{ $group }[/bold] [color=gray]({ $rate } единиц в секунду)[/color]
+# [AUTO_EN]
+guidebook-reagent-effects-metabolism-group-rate = [bold]{ $group }[/bold] [color=gray]({ $rate } units per second)[/color]

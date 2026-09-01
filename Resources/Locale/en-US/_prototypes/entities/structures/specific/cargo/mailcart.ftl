@@ -1,2 +1,3 @@
-ent-MailCart = почтовая тележка
-    .desc = Доставляйте посылки стильно и эффективно.
+# [AUTO_EN]
+ent-MailCart = mail cart
+    .desc = Deliver packages stylishly and efficiently.

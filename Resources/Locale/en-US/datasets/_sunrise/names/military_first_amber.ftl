@@ -1,3 +1,6 @@
-names-military-trooperred-first-dataset-1 = Капрал
-names-military-trooperred-first-dataset-2 = Старший капрал
-names-military-trooperred-first-dataset-3 = Младший сержант
+# [AUTO_EN]
+names-military-trooperred-first-dataset-1 = Sergeant
+# [AUTO_EN]
+names-military-trooperred-first-dataset-2 = Senior corporal
+# [AUTO_EN]
+names-military-trooperred-first-dataset-3 = Private

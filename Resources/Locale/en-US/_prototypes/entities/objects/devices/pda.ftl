@@ -162,15 +162,19 @@ ent-WizardPDA = wizard PDA
     .desc = You hear faint whispers coming from it.
 ent-ScurretPDA = { ent-ClearPDA }
     .desc = A temporary PDA granted to scurret temps. Doesn't do much. Wawa!
+# [AUTO_EN]
 ent-CentcomPDAFake = { ent-CentcomPDA }
-    .suffix = Фальшивый
+    .suffix = Fake
     .desc = { ent-CentcomPDA.desc }
-ent-SyndiCommanderPDA = КПК командира синдиката
-    .desc = Так кто мы такие? Отряд ядерных оперативников?
-    .suffix = Ядерный оперативник
-ent-SyndiCorpsmanPDA = КПК медика синдиката
-    .desc = Командир... мне нужно варить!
-    .suffix = Ядерный оперативник
-ent-SyndiOperativePDA = КПК оперативника синдиката
-    .desc = Смерть НТ!
-    .suffix = Ядерный оперативник
+# [AUTO_EN]
+ent-SyndiCommanderPDA = Syndicate Commander's PDA
+    .desc = So who are we? A squad of nuclear operatives?
+    .suffix = Nuclear operative
+# [AUTO_EN]
+ent-SyndiCorpsmanPDA = Syndicate medic PDA
+    .desc = Commander... I need to brew!
+    .suffix = Nuclear operative
+# [AUTO_EN]
+ent-SyndiOperativePDA = Syndicate operative's PDA
+    .desc = Death to NT!
+    .suffix = Nuclear operative

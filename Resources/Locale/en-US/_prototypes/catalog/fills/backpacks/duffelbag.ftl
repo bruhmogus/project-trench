@@ -56,17 +56,23 @@ ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncher = China-Lake bundle
     .desc = An old China-Lake grenade launcher bundled with 11 rounds of various destruction capability.
 ent-ClothingBackpackDuffelSyndicateRaidBundle = syndicate raid suit bundle
     .desc = Contains the Syndicate's durable raid armor suit.
-ent-ClothingBackpackDuffelSyndicateFilledSMG40 = набор "C-40r"
-    .desc = Классический пистолет-пулемёт C-40r в комплекте с двенадцатью магазинами разных типов.
-ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncherM79 = набор "M79"
-    .desc = Старый гранатомет M79, снабженный 9 гранатами различной поражающей способности.
+# [AUTO_EN]
+ent-ClothingBackpackDuffelSyndicateFilledSMG40 = "C-40r" set
+    .desc = Classic C-40r submachine gun with twelve magazines of different types.
+# [AUTO_EN]
+ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncherM79 = "M79" set
+    .desc = Old M79 grenade launcher equipped with 9 grenades of varying lethality.
+# [AUTO_EN]
 ent-ClothingBackpackDuffelCBURNFilled = { ent-ClothingBackpackDuffelCBURN }
-    .suffix = Заполненный
+    .suffix = Filled
     .desc = { ent-ClothingBackpackDuffelCBURN.desc }
-ent-ClothingBackpackDuffelSyndicateCostumeCentcom = вещмешок с костюмом представителя Центкома
-    .desc = Содержит полный комплект униформы представителя Центкома, гарнитуру и планшет. Гарнитура поставляется без ключа шифрования.
-    .suffix = НЕ МАППИТЬ
-ent-ClothingBackpackDuffelSyndicateOperative = вещмешок оперативника
+# [AUTO_EN]
+ent-ClothingBackpackDuffelSyndicateCostumeCentcom = backpack with Central Committee representative costume
+    .desc = Contains a full set of Centcom representative uniform, headset, and tablet. The headset is supplied without an encryption key.
+    .suffix = DO NOT MAP
+# [AUTO_EN]
+ent-ClothingBackpackDuffelSyndicateOperative = operator's duffel bag
     .desc = { ent-ClothingBackpackDuffelSyndicateBundle.desc }
-ent-ClothingBackpackDuffelSyndicateOperativeMedic = вещмешок оперативника-медика
-    .desc = Большой вещевой мешок для хранения дополнительного медицинского снаряжения.
+# [AUTO_EN]
+ent-ClothingBackpackDuffelSyndicateOperativeMedic = operative medic's duffel bag
+    .desc = Large supply bag for storing additional medical equipment.

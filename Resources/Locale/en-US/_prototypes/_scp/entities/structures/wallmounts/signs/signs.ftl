@@ -64,21 +64,30 @@ ent-SignScpCSS = "Artificial Intelligence Recruit" sign
     .desc = It seems that before you is the center for the placement and control of artificial intelligence.
 ent-SignScpDLawBoardHyperLink = Class D law board
     .desc = A board with attached documentation regarding the Class D legal code. A book hangs on the side for full familiarization with the code. [Press E to open Wiki]
-ent-SignDirectionalScp018 = указатель «SCP-018»
+# [AUTO_EN]
+ent-SignDirectionalScp018 = SCP-018 indicator
     .desc = { ent-BaseSignDirectionalScp.desc }
-ent-SignDirectionalScp101 = указатель «SCP-101»
+# [AUTO_EN]
+ent-SignDirectionalScp101 = SCP-101 indicator
     .desc = { ent-BaseSignDirectionalScp.desc }
-ent-SignDirectionalScp109 = указатель «SCP-109»
+# [AUTO_EN]
+ent-SignDirectionalScp109 = SCP-109 indicator
     .desc = { ent-BaseSignDirectionalScp.desc }
-ent-SignDirectionalScp124 = указатель «SCP-124»
+# [AUTO_EN]
+ent-SignDirectionalScp124 = SCP-124 indicator
     .desc = { ent-BaseSignDirectionalScp.desc }
-ent-SignDirectionalScp127 = указатель «SCP-127»
+# [AUTO_EN]
+ent-SignDirectionalScp127 = SCP-127 indicator
     .desc = { ent-BaseSignDirectionalScp.desc }
-ent-SignDirectionalScp268 = указатель «SCP-268»
+# [AUTO_EN]
+ent-SignDirectionalScp268 = SCP-268 indicator
     .desc = { ent-BaseSignDirectionalScp.desc }
-ent-SignDirectionalScp427 = указатель «SCP-427»
+# [AUTO_EN]
+ent-SignDirectionalScp427 = SCP-427 indicator
     .desc = { ent-BaseSignDirectionalScp.desc }
-ent-SignDirectionalScp714 = указатель «SCP-714»
+# [AUTO_EN]
+ent-SignDirectionalScp714 = SCP-714 indicator
     .desc = { ent-BaseSignDirectionalScp.desc }
-ent-SignDirectionalScp2022 = указатель «SCP-2022»
+# [AUTO_EN]
+ent-SignDirectionalScp2022 = SCP-2022 indicator
     .desc = { ent-BaseSignDirectionalScp.desc }

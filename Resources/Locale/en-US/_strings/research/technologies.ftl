@@ -86,17 +86,31 @@ research-technology-clowning-utilities = Clowning Utilities
 research-technology-quantum-fiber-weaving = Quantum Fiber Weaving
 research-technology-bluespace-chemistry = Bluespace Chemistry
 research-technology-autoMenders = Automenders
-research-technology-ripley-mkii = Рипли MK-II
-research-technology-clarke = Кларк
-research-technology-gygax = Гигакс
-research-technology-durand = Дюранд
-research-technology-ion-technology = Ионное вооружение
-research-technology-portable-fission = Портативный распад
-research-technology-advance-laser = Военное энергетическое вооружение
-research-technology-energy_barriers = Энергетические барьеры
-research-technology-combat-equipment = Боевое снаряжение
-research-technology-advanced-combat-equipment = Продвинутое боевое снаряжение
-research-technology-combat-powercells = Боевые Супербатареи
-research-technology-explosive-mech-ammunition = Взрывоопасные боеприпасы для меха
-research-technology-industrial-robotics = Промышленная робототехника
-research-technology-honk-weapons = Бананиумное вооружение
+# [AUTO_EN]
+research-technology-ripley-mkii = Ripley MK-II
+# [AUTO_EN]
+research-technology-clarke = Clarke
+# [AUTO_EN]
+research-technology-gygax = Gygax
+# [AUTO_EN]
+research-technology-durand = Durand
+# [AUTO_EN]
+research-technology-ion-technology = Ion weaponry
+# [AUTO_EN]
+research-technology-portable-fission = Portable fission
+# [AUTO_EN]
+research-technology-advance-laser = Military energy weapon
+# [AUTO_EN]
+research-technology-energy_barriers = Energy barriers
+# [AUTO_EN]
+research-technology-combat-equipment = Combat equipment
+# [AUTO_EN]
+research-technology-advanced-combat-equipment = Advanced combat equipment
+# [AUTO_EN]
+research-technology-combat-powercells = Combat Superbatteries
+# [AUTO_EN]
+research-technology-explosive-mech-ammunition = Explosive ammunition for mech
+# [AUTO_EN]
+research-technology-industrial-robotics = Industrial robotics
+# [AUTO_EN]
+research-technology-honk-weapons = Bananium weaponry

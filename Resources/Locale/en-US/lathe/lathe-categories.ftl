@@ -53,9 +53,15 @@ lathe-category-hats = Hats
 lathe-category-jumpsuits = Jumpsuits
 lathe-category-neck = Neck
 # Cutter
-lathe-category-concrete = Бетон
-lathe-category-dark = Темный
-lathe-category-maints = Обслуживание
-lathe-category-steel = Сталь
-lathe-category-white = Белый
-lathe-category-wood = Дерево
+# [AUTO_EN]
+lathe-category-concrete = Concrete
+# [AUTO_EN]
+lathe-category-dark = Dark
+# [AUTO_EN]
+lathe-category-maints = Maintenance
+# [AUTO_EN]
+lathe-category-steel = Steel
+# [AUTO_EN]
+lathe-category-white = White
+# [AUTO_EN]
+lathe-category-wood = Wood

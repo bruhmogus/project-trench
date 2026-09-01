@@ -33,5 +33,6 @@ ent-ShuttleGunScylla = Scylla Laser Railgun
 
 ent-ShuttleGunDynamre = AMX-9 DYNAMRE Dual Turbolaser
     .desc = A twin-barreled turbolaser system mounting two Apollo-class heavy laser emitters in a single housing. Both barrels fire simultaneously, delivering twice the destructive payload per trigger pull. Significantly heavier than the standard Apollo. Requires an Omega-capacity power cage to operate.
-ent-ShuttleGunRocketMetla120mm = RCT-120 "Метла"
-    .desc = Двухзарядная 120мм ракетная установка. Точная и надёжная система для точечных ударов по отдельным целям. Ракеты загружаются вручную.
+# [AUTO_EN]
+ent-ShuttleGunRocketMetla120mm = RCT-120 "Metla"
+    .desc = Dual-charged 120mm rocket launcher. A precise and reliable system for targeted strikes on individual targets. Rockets are loaded manually.

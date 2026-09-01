@@ -40,11 +40,15 @@ scp-description-thaumiel =
     | Safe: YES
     | Euclid: YES
     | Keter: YES
-scp-title-chaos-raid = Рейд Повстанцев Хаоса
+# [AUTO_EN]
+scp-title-chaos-raid = Chaos Rebels Raid
+# [AUTO_EN]
 scp-description-chaos-raid =
-    Данная смена может оказаться для вас последней. В этой жизни.
+    This shift may be the last one for you. In this life.
     { scp-description-euclid }
-scp-title-chaos-spy = Шпионы Повстанцев Хаоса
+# [AUTO_EN]
+scp-title-chaos-spy = Chaos Rebels Spies
+# [AUTO_EN]
 scp-description-chaos-spy =
-    Среди сотрудников затаились агенты Повстанцев Хаоса.
+    Among the staff, agents of the Chaos Rebels have been lurking.
     { scp-description-euclid }

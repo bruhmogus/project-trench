@@ -7,4 +7,5 @@ ui-lobby-observe-button = Observe
 ui-lobby-ready-up-button = Ready Up
 ui-lobby-online-players-block = Online Players
 ui-lobby-server-info-block = Server Info
-ui-lobby-welcome = Добро пожаловать на { $name }
+# [AUTO_EN]
+ui-lobby-welcome = Welcome to { $name }

@@ -34,15 +34,21 @@ ent-ClothingOuterArmorCaptainCarapaceWhite = white captain's carapace
     .desc = A flexible armored chestpiece with pristine white composite plating, built to protect vital organs without restricting movement.
 ent-ClothingOuterArmorCaptainCarapaceBlack = black captain's carapace
     .desc = A flexible armored chestpiece with matte-black composite plating, built to protect vital organs without restricting movement.
-ent-ClothingOuterArmorPlate = плитоносец
-    .desc = Стандартный бронежилет типа II, обеспечивающий хорошую защиту от пуль благодаря вставленным фронтальной и тыльной плитам, но не дающий особой защиты от остального.
-ent-ClothingOuterArmorStab = противоножевой жилет
-    .desc = Несмотря на название, это обычный бронежилет типа II, обеспечивающий хорошую защиту от ударов и колющих атак, но не более.
-ent-ClothingOuterArmorHeatAbsorb = теплозащитный жилет
-    .desc = Продвинутый жилет, созданный для поглощения тепла, а не отражения его. При этом обладает частичными отражающими свойствами. Слаб против пуль и ударов из-за хрупкого материала.
-ent-ClothingOuterArmorBulletproofHeavy = бронежилет III+ типа
-    .desc = Бронежилет типа III с дополнительной защитой плеч и ног. Отлично защищает от традиционного стрелкового оружия и частично снижает урон от взрывов.
-ent-ClothingOuterArmorMiliraHeavy = тяжёлая броня Милир
-    .desc = Тяжёлая броня, разработанная специально для Милир, усиливает защиту и позволяет дольше держаться в воздухе.
-ent-ClothingOuterArmorMiliraLight = лёгкая броня Милир
-    .desc = Облегчённая броня для Милир, чуть усиливающая защиту и позволяет дольше держаться в воздухе.
+# [AUTO_EN]
+ent-ClothingOuterArmorPlate = platebearer
+    .desc = Standard Type II body armor plate, providing good protection against bullets thanks to the inserted front and back plates, but offering little protection against other threats.
+# [AUTO_EN]
+ent-ClothingOuterArmorStab = stab vest
+    .desc = Despite its name, this is a standard Type II body armor that provides good protection against blunt and piercing attacks, but no more.
+# [AUTO_EN]
+ent-ClothingOuterArmorHeatAbsorb = heat-protective vest
+    .desc = Advanced vest designed to absorb heat rather than reflect it. However, it possesses partial reflective properties. It is weak against bullets and impacts due to its fragile material.
+# [AUTO_EN]
+ent-ClothingOuterArmorBulletproofHeavy = Type III+ body armor
+    .desc = Type III bulletproof vest with additional shoulder and leg protection. Excellent protection against conventional firearms and partially reduces damage from explosions.
+# [AUTO_EN]
+ent-ClothingOuterArmorMiliraHeavy = Heavy Milira armor
+    .desc = Heavy armor designed specifically for Milira, enhancing protection and allowing you to stay airborne longer.
+# [AUTO_EN]
+ent-ClothingOuterArmorMiliraLight = Light Milira Armor
+    .desc = Light armor for Milira, slightly increasing protection and allowing you to stay airborne longer.

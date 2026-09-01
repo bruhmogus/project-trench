@@ -1,2 +1,3 @@
-ent-MedicalAssembler = Мед-О-Мат
-    .desc = Очевидно, это полезно для медицины. Очевидно, вы не знаете, как это работает.
+# [AUTO_EN]
+ent-MedicalAssembler = Med-O-Mat
+    .desc = Obviously, this is useful for medicine. Obviously, you don't know how it works.

@@ -10,5 +10,6 @@ ent-RdPen = pen-Rd-name
     .desc = pen-Rd-description
 ent-UEGPen = pen-UEG-name
     .desc = pen-UEG-description
-ent-CommaidPen = розовая ручка горничной
-    .desc = Кавайная розовая ручка не менее кавайного работника станции.
+# [AUTO_EN]
+ent-CommaidPen = pink maid pen
+    .desc = Cute pink pen is no less cute than the station worker.

@@ -407,7 +407,11 @@ ui-options-admin-enable-overlay-starting-job = Show starting job
 ui-options-admin-overlay-merge-distance = Stack merge distance
 ui-options-admin-overlay-ghost-fade-distance = Ghost overlay fade range from mouse
 ui-options-admin-overlay-ghost-hide-distance = Ghost overlay hide range from mouse
-ui-options-header-extra = Экстра
-ui-options-accessability-header-visuals = Визуальные эффекты
-ui-options-accessability-header-content = Содержимое
-ui-options-censor-nudity = Цензурировать наготу персонажей
+# [AUTO_EN]
+ui-options-header-extra = Extra
+# [AUTO_EN]
+ui-options-accessability-header-visuals = Visual effects
+# [AUTO_EN]
+ui-options-accessability-header-content = Content
+# [AUTO_EN]
+ui-options-censor-nudity = Censor character nudity

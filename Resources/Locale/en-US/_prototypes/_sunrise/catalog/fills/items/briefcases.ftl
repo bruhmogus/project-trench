@@ -7,21 +7,30 @@ ent-BriefcaseWeaponType88AMRFilled = secure Type 88 case
     .desc = { ent-BriefcaseWeapon.desc }
 ent-BriefcaseWeaponGarandFilled = secure Garand case
     .desc = A secure weapon case containing an M1 Garand, a spare .308 clip, and a blueprint for producing more clips.
-ent-BriefcaseWeaponC40Filled = кейс для C-40r
+# [AUTO_EN]
+ent-BriefcaseWeaponC40Filled = case for C-40r
     .desc = { ent-BriefcaseWeaponSmall.desc }
-ent-BriefcaseWeaponSIAR52Filled = кейс для SIAR-52
+# [AUTO_EN]
+ent-BriefcaseWeaponSIAR52Filled = case for SIAR-52
     .desc = { ent-BriefcaseWeaponSmall.desc }
-ent-BriefcaseWeaponAJ100Filled = кейс для AJ-100
+# [AUTO_EN]
+ent-BriefcaseWeaponAJ100Filled = case for AJ-100
     .desc = { ent-BriefcaseWeaponSmall.desc }
-ent-BriefcaseWeaponDragunovFilled = кейс для винтовки Драгунов
+# [AUTO_EN]
+ent-BriefcaseWeaponDragunovFilled = case for the Dragunov rifle
     .desc = { ent-BriefcaseWeapon.desc }
-ent-BriefcaseWeaponM79Filled = кейс для гранатомёта M79
+# [AUTO_EN]
+ent-BriefcaseWeaponM79Filled = case for M79 grenade launcher
     .desc = { ent-BriefcaseWeapon.desc }
-ent-BriefcaseWeaponSKM24Filled = кейс для SKM-24
+# [AUTO_EN]
+ent-BriefcaseWeaponSKM24Filled = case for SKM-24
     .desc = { ent-BriefcaseWeapon.desc }
-ent-BriefcaseWeaponSKM28Filled = кейс для SKM-28
+# [AUTO_EN]
+ent-BriefcaseWeaponSKM28Filled = case for SKM-28
     .desc = { ent-BriefcaseWeapon.desc }
-ent-BriefcaseWeaponMinotaurFilled = кейс для Минотавра
+# [AUTO_EN]
+ent-BriefcaseWeaponMinotaurFilled = case for Minotaur
     .desc = { ent-BriefcaseWeapon.desc }
-ent-BriefcaseWeaponDeagleFilled = кейс для дезерт игл
+# [AUTO_EN]
+ent-BriefcaseWeaponDeagleFilled = case for desert eagle
     .desc = { ent-BriefcaseWeaponSmall.desc }

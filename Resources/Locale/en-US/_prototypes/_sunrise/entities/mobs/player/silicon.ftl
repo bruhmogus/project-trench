@@ -43,24 +43,31 @@ ent-PlayerBorgSyndicateSaboteurBattery = { ent-BorgChassisSyndicateSaboteur }
 ent-SyndieIntellicard = Syndieintellicard
     .desc = A storage device for AIs but from evil guys!
     .suffix = Empty
-ent-PlayerBorgGenericMining = киборг-шахтёр
-    .suffix = батарея, инструменты
+# [AUTO_EN]
+ent-PlayerBorgGenericMining = cyborg miner
+    .suffix = battery, tools
     .desc = { ent-BorgChassisGeneric.desc }
-ent-PlayerBorgGenericEngineer = киборг-инженер
-    .suffix = батарея, инструменты
+# [AUTO_EN]
+ent-PlayerBorgGenericEngineer = cyborg engineer
+    .suffix = battery, tools
     .desc = { ent-BorgChassisGeneric.desc }
-ent-PlayerBorgGenericJanitor = киборг-уборщик
-    .suffix = батарея, инструменты
+# [AUTO_EN]
+ent-PlayerBorgGenericJanitor = cyborg janitor
+    .suffix = battery, tools
     .desc = { ent-BorgChassisGeneric.desc }
-ent-PlayerBorgGenericMedical = киборг-доктор
-    .suffix = батарея, инструменты
+# [AUTO_EN]
+ent-PlayerBorgGenericMedical = cyborg doctor
+    .suffix = battery, tools
     .desc = { ent-BorgChassisGeneric.desc }
-ent-PlayerBorgGenericService = киборг-сервисник
-    .suffix = батарея, инструменты
+# [AUTO_EN]
+ent-PlayerBorgGenericService = cyborg service
+    .suffix = battery, tools
     .desc = { ent-BorgChassisGeneric.desc }
-ent-PlayerBorgSecurityCombatBattery = боевой киборг СБ
-    .suffix = батарея, инструменты
+# [AUTO_EN]
+ent-PlayerBorgSecurityCombatBattery = combat borg SB
+    .suffix = battery, tools
     .desc = { ent-BorgChassisGeneric.desc }
-ent-PlayerBorgSpiderSyndicateBattery = киборг-паук синдиката (Батарея)
-    .suffix = батарея, инструменты
+# [AUTO_EN]
+ent-PlayerBorgSpiderSyndicateBattery = cyborg spider syndicate (Battery)
+    .suffix = battery, tools
     .desc = { ent-BorgChassisSyndicateSpider.desc }

@@ -1,4 +1,8 @@
-ui-options-light-bloom-enable = Свечение источников света
-ui-options-light-bloom-enable-tooltip = Включает дополнительный эффект свечения у совместимых источников света.
-ui-options-light-bloom-strength = Яркость свечения
-ui-options-light-bloom-strength-tooltip = Регулирует интенсивность эффекта свечения.
+# [AUTO_EN]
+ui-options-light-bloom-enable = Light source glow
+# [AUTO_EN]
+ui-options-light-bloom-enable-tooltip = Enables an additional glow effect on compatible light sources.
+# [AUTO_EN]
+ui-options-light-bloom-strength = Brightness
+# [AUTO_EN]
+ui-options-light-bloom-strength-tooltip = Regulates the intensity of the glow effect.

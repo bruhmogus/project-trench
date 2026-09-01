@@ -1,2 +1,3 @@
 revert-polymorph-action-popup = This action is irreversible. Use it again to confirm.
-gera-transformation-popup = Это действие трансформирует вас. Для подтверждения выполните его ещё раз.
+# [AUTO_EN]
+gera-transformation-popup = This action transforms you. To confirm, perform it again.

@@ -1,16 +1,32 @@
-reagent-effect-status-effect-Stun = оглушение
-reagent-effect-status-effect-KnockedDown = нокдаун
-reagent-effect-status-effect-Jitter = дрожь
-reagent-effect-status-effect-TemporaryBlindness = слепота
-reagent-effect-status-effect-SeeingRainbows = галлюцинации
-reagent-effect-status-effect-Muted = неспособность разговаривать
-reagent-effect-status-effect-Stutter = заикание
-reagent-effect-status-effect-ForcedSleep = потеря сознания
-reagent-effect-status-effect-Drunk = опьянение
-reagent-effect-status-effect-PressureImmunity = невосприимчивость к давлению
-reagent-effect-status-effect-Pacified = принудительный пацифизм
-reagent-effect-status-effect-RatvarianLanguage = паттерны ратварского языка
-reagent-effect-status-effect-StaminaModifier = модифицированная выносливость
-reagent-effect-status-effect-RadiationProtection = защита от радиации
-reagent-effect-status-effect-Drowsiness = сонливость
-reagent-effect-status-effect-Adrenaline = адреналин
+# [AUTO_EN]
+reagent-effect-status-effect-Stun = stun
+# [AUTO_EN]
+reagent-effect-status-effect-KnockedDown = knockdown
+# [AUTO_EN]
+reagent-effect-status-effect-Jitter = tremor
+# [AUTO_EN]
+reagent-effect-status-effect-TemporaryBlindness = blindness
+# [AUTO_EN]
+reagent-effect-status-effect-SeeingRainbows = hallucinations
+# [AUTO_EN]
+reagent-effect-status-effect-Muted = inability to speak
+# [AUTO_EN]
+reagent-effect-status-effect-Stutter = stutter
+# [AUTO_EN]
+reagent-effect-status-effect-ForcedSleep = loss of consciousness
+# [AUTO_EN]
+reagent-effect-status-effect-Drunk = intoxication
+# [AUTO_EN]
+reagent-effect-status-effect-PressureImmunity = pressure immunity
+# [AUTO_EN]
+reagent-effect-status-effect-Pacified = forced pacifism
+# [AUTO_EN]
+reagent-effect-status-effect-RatvarianLanguage = Ratvarian language patterns
+# [AUTO_EN]
+reagent-effect-status-effect-StaminaModifier = modified stamina
+# [AUTO_EN]
+reagent-effect-status-effect-RadiationProtection = radiation protection
+# [AUTO_EN]
+reagent-effect-status-effect-Drowsiness = drowsiness
+# [AUTO_EN]
+reagent-effect-status-effect-Adrenaline = adrenaline

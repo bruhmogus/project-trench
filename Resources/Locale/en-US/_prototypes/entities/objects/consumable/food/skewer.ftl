@@ -2,19 +2,27 @@ ent-FoodKebabSkewer = skewer
     .desc = A thin rod of metal used to skewer just about anything and cook it.
 ent-FoodSkewerBase = { ent-FoodInjectableBase }
     .desc = { ent-FoodInjectableBase.desc }
-ent-FoodMeatHawaiianKebab = шашлык по-гавайски
-    .desc = Вкусный шашлык из ананаса, ветчины и зелёного перца.
-ent-FoodMeatKebab = мясной шашлык
-    .desc = Вкусное мясо на палочке.
-ent-FoodMeatHumanKebab = шашлык из человечины
-    .desc = Человеческое мясо. На палочке!
-ent-FoodMeatLizardtailKebab = шашлык из хвоста ящерицы
-    .desc = Отрубленный хвост ящерицы на палке.
-ent-FoodMeatRatKebab = крысиный шашлык
-    .desc = Не особо вкусное крысиное мясо на палочке.
-ent-FoodMeatRatdoubleKebab = двойной крысиный шашлык
-    .desc = Двойная порция не особо вкусного крысиного мяса на палочке.
-ent-FoodMeatFiestaKebab = праздничный шашлык
-    .desc = Где-то в мире всегда есть вечеринка на круизном лайнере, верно?
-ent-FoodMeatSnakeKebab = змеиный шашлык
-    .desc = Змеиное мясо на палочке. Немного жестковато.
+# [AUTO_EN]
+ent-FoodMeatHawaiianKebab = Hawaiian kebab
+    .desc = Delicious kebab made with pineapple, ham, and green pepper.
+# [AUTO_EN]
+ent-FoodMeatKebab = meat kebab
+    .desc = Delicious meat on a stick.
+# [AUTO_EN]
+ent-FoodMeatHumanKebab = human kebab
+    .desc = Human meat. On a stick!
+# [AUTO_EN]
+ent-FoodMeatLizardtailKebab = kebab from lizard tail
+    .desc = Chopped lizard tail on a stick.
+# [AUTO_EN]
+ent-FoodMeatRatKebab = rat kebab
+    .desc = Not particularly tasty rat meat on a stick.
+# [AUTO_EN]
+ent-FoodMeatRatdoubleKebab = double rat kebab
+    .desc = Double portion of not very tasty rat meat on a stick.
+# [AUTO_EN]
+ent-FoodMeatFiestaKebab = festive kebab
+    .desc = There's always a party on a cruise liner somewhere, right?
+# [AUTO_EN]
+ent-FoodMeatSnakeKebab = snake kebab
+    .desc = Snake meat on a stick. A bit tough.

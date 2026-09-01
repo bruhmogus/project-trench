@@ -12,7 +12,9 @@ ent-WeaponCrusherDagger = crusher dagger
     .desc = A scaled down version of a proto-kinetic crusher. Uses kinetic energy to vibrate the blade at high speeds.
 ent-WeaponCrusherGlaive = crusher glaive
     .desc = An early design of the proto-kinetic accelerator, in glaive form.
-ent-WeaponCrusherBroadAxe = секира-крушитель
-    .desc = Старая версия протокинетического ускорителя в виде широкого топора.
-ent-WeaponGauntletDrill = перчатка-бур К.Р.О.Т.
-    .desc = Прочный экземпляр утилизаторского оборудования. Эта дрель готова пронзить небеса.
+# [AUTO_EN]
+ent-WeaponCrusherBroadAxe = crusher broadaxe
+    .desc = An old version of the protokinetic accelerator in the form of a broad axe.
+# [AUTO_EN]
+ent-WeaponGauntletDrill = K.R.O.T. gauntlet-drill
+    .desc = A sturdy piece of scrapyard equipment. This drill is ready to pierce the heavens.

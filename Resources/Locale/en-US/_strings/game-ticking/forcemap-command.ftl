@@ -1,7 +1,13 @@
-forcemap-command-description = Заставляет игру начать с заданной карты в следующем раунде.
-forcemap-command-help = Использование: forcemap <map ID>
-forcemap-command-need-one-argument = forcemap принимает один аргумент — путь к файлу карты.
-forcemap-command-map-not-found = Не существует подходящей карты с названием { $map }.
-forcemap-command-success = В следующем раунде игра принудительно начнётся с карты { $map }.
-forcemap-command-cleared = Настройки принудительной карты сброшены.
+# [AUTO_EN]
+forcemap-command-description = Forces the game to start with a specified map in the next round.
+# [AUTO_EN]
+forcemap-command-help = Usage: forcemap <map ID>
+# [AUTO_EN]
+forcemap-command-need-one-argument = forcemap takes one argument — the path to the map file.
+# [AUTO_EN]
+forcemap-command-map-not-found = No suitable map named { $map } exists.
+# [AUTO_EN]
+forcemap-command-success = In the next round, the game will be forced to start with the map { $map }.
+# [AUTO_EN]
+forcemap-command-cleared = Forcemap settings have been reset.
 forcemap-command-arg-map = <map ID>

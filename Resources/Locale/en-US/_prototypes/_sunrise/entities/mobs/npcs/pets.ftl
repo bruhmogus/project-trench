@@ -1,2 +1,3 @@
-ent-MobGorillaLargo = Ларго
-    .desc = Питомец карго, участвовал в первой революции. Кажется, у него есть татуировка с надписью "I love Mom".
+# [AUTO_EN]
+ent-MobGorillaLargo = Largo
+    .desc = Cargo pet, participated in the first revolution. Seems to have a tattoo with the inscription "I love Mom".

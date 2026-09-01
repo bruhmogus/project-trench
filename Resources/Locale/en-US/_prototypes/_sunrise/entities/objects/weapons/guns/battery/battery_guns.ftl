@@ -45,7 +45,9 @@ ent-WeaponPilotLasgun = pilot lasgun
     .desc = The Imperium's main argument in disputes with heretics and cultists. Cauterizes wounds on hit, saving a battle brother's bandages.
 ent-XenoborgTemperatureGun = xenoborg temperature gun
     .desc = An advanced gun that shoots body-temperature-changing beams. This one has a self-recharging battery for xenoborg use.
-ent-XenoborgLaserMinigun = турболазер ксеноборга
-    .desc = Большое оружие для больших «Холодильников». Стреляет так быстро, что перегревается уже после короткой очереди, зато промахнуться почти невозможно.
-ent-XenoborgXrayGun = рентген-пушка ксеноборга
-    .desc = Оружие, использующее концентрированную рентгеновскую энергию против цели.
+# [AUTO_EN]
+ent-XenoborgLaserMinigun = turbo laser xenoborg
+    .desc = Big weapon for big "Refrigerators". Fires so fast that it overheats after a short burst, but it's almost impossible to miss.
+# [AUTO_EN]
+ent-XenoborgXrayGun = Xenoborg X-Ray Gun
+    .desc = A weapon that uses concentrated X-ray energy against the target.

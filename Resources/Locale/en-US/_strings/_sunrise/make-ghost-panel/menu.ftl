@@ -1,15 +1,30 @@
-make-ghost-role-menu-name = Сделать ролью призрака
-make-ghost-role-menu-entity = UID цели
-make-ghost-role-menu-role-name = Имя
-make-ghost-role-menu-role-description = Описание
-make-ghost-role-menu-role-rules = Правила
-make-ghost-role-menu-make-sentient = Делать разумной?
-make-ghost-role-menu-raffle-enabled = Использовать лотерею?
-make-ghost-role-menu-raffle-duration-initial = Базовая продолжительность (сек)
-make-ghost-role-menu-raffle-duration-extend = Увеличивать при добавлении игрока на (сек)
-make-ghost-role-menu-raffle-duration-max = Максимальная продолжительность (сек)
-make-ghost-role-menu-done = Готово
-make-ghost-role-menu-duration-initial-error = Базовая продолжительность не должна превышать максимальную
-make-ghost-role-menu-raffle-disabled = Без лотерии
-make-ghost-role-menu-raffle-custom = Свои настройки
-make-ghost-role-menu-raffle-custom-new = { $ID } (базово { $initial } сек, максимум { $max } сек, каждый новый увеличивает на { $extends } сек)
+# [AUTO_EN]
+make-ghost-role-menu-name = Make ghost role
+# [AUTO_EN]
+make-ghost-role-menu-entity = Target UID
+# [AUTO_EN]
+make-ghost-role-menu-role-name = Name
+# [AUTO_EN]
+make-ghost-role-menu-role-description = Description
+# [AUTO_EN]
+make-ghost-role-menu-role-rules = Rules
+# [AUTO_EN]
+make-ghost-role-menu-make-sentient = Make sentient?
+# [AUTO_EN]
+make-ghost-role-menu-raffle-enabled = Use raffle?
+# [AUTO_EN]
+make-ghost-role-menu-raffle-duration-initial = Basic duration (sec)
+# [AUTO_EN]
+make-ghost-role-menu-raffle-duration-extend = Increase when adding a player to (sec)
+# [AUTO_EN]
+make-ghost-role-menu-raffle-duration-max = Maximum duration (sec)
+# [AUTO_EN]
+make-ghost-role-menu-done = Done
+# [AUTO_EN]
+make-ghost-role-menu-duration-initial-error = The base duration should not exceed the maximum
+# [AUTO_EN]
+make-ghost-role-menu-raffle-disabled = No lottery
+# [AUTO_EN]
+make-ghost-role-menu-raffle-custom = My settings
+# [AUTO_EN]
+make-ghost-role-menu-raffle-custom-new = { $ID } (basically { $initial } sec, max { $max } sec, each new increases by { $extends } sec)

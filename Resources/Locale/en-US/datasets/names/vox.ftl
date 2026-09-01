@@ -2759,4 +2759,5 @@ names-vox-dataset-2758 = Xivrihihicra
 names-vox-dataset-2759 = Xixaxekaka
 names-vox-dataset-2760 = Xixecra
 names-vox-dataset-2761 = Xixiche
-names-vox-dataset-2762 = Ксиксиче
+# [AUTO_EN]
+names-vox-dataset-2762 = Ksiksiche

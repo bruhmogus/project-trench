@@ -17,5 +17,7 @@ chat-speech-verb-swine-2 = "snorts"
 chat-speech-verb-name-resomi = Resomi
 chat-speech-verb-resomi-1 = squawks
 chat-speech-verb-resomi-2 = chirps
-chat-speech-verb-vulpkanin-5 = "пищит"
-chat-speech-verb-name-vulpkanin = "рычание"
+# [AUTO_EN]
+chat-speech-verb-vulpkanin-5 = "beeps"
+# [AUTO_EN]
+chat-speech-verb-name-vulpkanin = "roar"

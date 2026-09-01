@@ -4,237 +4,339 @@ ent-LockerWardenLarge = warden's large locker
 ent-LockerWardenLargeEShotgunFilled = { ent-LockerWardenLarge }
     .desc = { ent-LockerWardenLarge.desc }
     .suffix = Filled, E-Shotgun
-ent-FloorCosmicDecay = энтропийный распад
-    .desc = От одного взгляда на это по спине пробегает холодок.
+# [AUTO_EN]
+ent-FloorCosmicDecay = entropic decay
+    .desc = A chill runs down your spine at the sight of this.
+# [AUTO_EN]
 ent-FloorCosmicDecayAlt = ???
     .desc = { ent-FloorCosmicDecay.desc }
-    .suffix = Не маппить
-ent-NothingEntity = пустой объект
-    .desc = Технический пустой объект.
-ent-FloorTileItem3x3Black = чёрная плитка 3x3
-    .desc = Набор чёрных плиток три на три.
-ent-FloorTileItem3x3Brown = коричневая плитка 3x3
-    .desc = Набор коричневых плиток три на три.
-ent-FloorTileItem3x3Steel = стальная плитка 3x3
-    .desc = Набор стальных плиток три на три.
-ent-FloorTileItem3x3White = белая плитка 3x3
-    .desc = Набор белых плиток три на три.
-ent-FloorTileItemAstroDirt = астро-земляная плитка
-    .desc = Искусственная земля. Её легко убрать, но в ней совершенно нет питательных веществ, которых так жаждут растения.
-ent-FloorTileItemCarpetDeco = декоративная ковровая плитка
+    .suffix = Do not map
+# [AUTO_EN]
+ent-NothingEntity = empty object
+    .desc = Technical empty object.
+# [AUTO_EN]
+ent-FloorTileItem3x3Black = black 3x3 tile
+    .desc = Set of 3x3 black tiles.
+# [AUTO_EN]
+ent-FloorTileItem3x3Brown = brown 3x3 tile
+    .desc = Set of 3x3 brown tiles.
+# [AUTO_EN]
+ent-FloorTileItem3x3Steel = steel tile 3x3
+    .desc = Set of 3x3 steel tiles.
+# [AUTO_EN]
+ent-FloorTileItem3x3White = white 3x3 tile
+    .desc = Set of 3x3 white tiles.
+# [AUTO_EN]
+ent-FloorTileItemAstroDirt = astro-dirt tile
+    .desc = Artificial dirt. It's easy to remove, but it contains no nutrients that plants crave.
+# [AUTO_EN]
+ent-FloorTileItemCarpetDeco = decorative carpet tile
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemDarkBitile = тёмная двойная плитка
+# [AUTO_EN]
+ent-FloorTileItemDarkBitile = dark double tile
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemSteelBitile = стальная двойная плитка
+# [AUTO_EN]
+ent-FloorTileItemSteelBitile = steel double tile
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemWhiteBitile = белая двойная плитка
+# [AUTO_EN]
+ent-FloorTileItemWhiteBitile = white double tile
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemHierophant = плитка иерофанта
+# [AUTO_EN]
+ent-FloorTileItemHierophant = hierophant tile
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemSepia = плитка сепия
+# [AUTO_EN]
+ent-FloorTileItemSepia = sepia tile
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemTerracotta = терракотовая плитка
+# [AUTO_EN]
+ent-FloorTileItemTerracotta = terracotta tile
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemTerracottaDiagonal = диагональная терракотовая плитка
+# [AUTO_EN]
+ent-FloorTileItemTerracottaDiagonal = diagonal terracotta tile
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemTerracottaSmall = малая терракотовая плитка
+# [AUTO_EN]
+ent-FloorTileItemTerracottaSmall = small terracotta tile
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemDarkWood = тёмный деревянный пол
+# [AUTO_EN]
+ent-FloorTileItemDarkWood = dark wooden floor
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemDarkWoodPattern = тёмный деревянный узорчатый пол
+# [AUTO_EN]
+ent-FloorTileItemDarkWoodPattern = dark wood patterned floor
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemDarkWoodLarge = большой тёмный деревянный пол
+# [AUTO_EN]
+ent-FloorTileItemDarkWoodLarge = large dark wooden floor
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemMetalDark = тёмная металлическая плитка
+# [AUTO_EN]
+ent-FloorTileItemMetalDark = dark metal tile
     .desc = { ent-FloorTileItemSteel.desc }
-ent-FloorTileItemMetalBrown = коричневая металлическая плитка
+# [AUTO_EN]
+ent-FloorTileItemMetalBrown = brown metal tile
     .desc = { ent-FloorTileItemSteel.desc }
-ent-FloorTileItemMetalBlue = синяя металлическая плитка
+# [AUTO_EN]
+ent-FloorTileItemMetalBlue = blue metal tile
     .desc = { ent-FloorTileItemSteel.desc }
-ent-FloorTileItemMetalPurple = фиолетовая металлическая плитка
+# [AUTO_EN]
+ent-FloorTileItemMetalPurple = purple metal tile
     .desc = { ent-FloorTileItemSteel.desc }
-ent-FloorTileItemMetalRed = красная металлическая плитка
+# [AUTO_EN]
+ent-FloorTileItemMetalRed = red metal tile
     .desc = { ent-FloorTileItemSteel.desc }
-ent-FloorTileItemMetalGreen = зелёная металлическая плитка
+# [AUTO_EN]
+ent-FloorTileItemMetalGreen = green metal tile
     .desc = { ent-FloorTileItemSteel.desc }
-ent-FloorTileItemOldConcreteBricks = старые бетонные кирпичи
-    .desc = Старые, сильно изношенные бетонные кирпичи.
-ent-FloorTileItemOldConcreteTile = старая бетонная плитка
-    .desc = Старая, сильно изношенная бетонная плитка.
-ent-FloorTileItemOrnate = украшенная плитка
-    .desc = Старая украшенная плитка.
-ent-FloorTileItemRoughMetal = грубая металлическая плитка
-    .desc = Она многое повидала.
-ent-FloorTileItemRustyMetal = ржавая металлическая плитка
-    .desc = Она многое повидала.
-ent-FloorTileItemSteelGrate = стальная решётчатая плитка
-    .desc = Стальная решётка.
-ent-FloorTileItemTechGreeb = техническая плитка с выступами
-    .desc = Перегружена деталями и покрыта грязью.
-ent-FloorTileItemAstroIronsand = астро-железопесок
-    .desc = Искусственный красный песок. Импортирован с искусственного Марса.
-ent-FloorTileItemAstroIronsandBorderless = бесшовный астро-железопесок
+# [AUTO_EN]
+ent-FloorTileItemOldConcreteBricks = old concrete bricks
+    .desc = Old, heavily worn concrete bricks.
+# [AUTO_EN]
+ent-FloorTileItemOldConcreteTile = old concrete tile
+    .desc = An old, heavily worn concrete tile.
+# [AUTO_EN]
+ent-FloorTileItemOrnate = ornate tile
+    .desc = Old ornate tile.
+# [AUTO_EN]
+ent-FloorTileItemRoughMetal = rough metal tile
+    .desc = She has seen much.
+# [AUTO_EN]
+ent-FloorTileItemRustyMetal = rusty metal tile
+    .desc = She has seen much.
+# [AUTO_EN]
+ent-FloorTileItemSteelGrate = steel grating tile
+    .desc = Steel grate.
+# [AUTO_EN]
+ent-FloorTileItemTechGreeb = technical tile with protrusions
+    .desc = Overloaded with details and covered in grime.
+# [AUTO_EN]
+ent-FloorTileItemAstroIronsand = astro-iron-sand
+    .desc = Artificial red sand. Imported from artificial Mars.
+# [AUTO_EN]
+ent-FloorTileItemAstroIronsandBorderless = seamless astro-iron-sand
     .desc = { ent-FloorTileItemAstroIronsand.desc }
-ent-CrateLawboards = ящик плат законов ИИ
-    .desc = Ящик, наполненный различными платами законов ИИ.
-ent-ToolboxRoboticist = ящик инструментов робототехника
-    .desc = Что, это просто ящик инструментов робототехника? Вы ожидали чего-то другого?
+# [AUTO_EN]
+ent-CrateLawboards = AI lawboards crate
+    .desc = A crate filled with various AI lawboards.
+# [AUTO_EN]
+ent-ToolboxRoboticist = robotics tool chest
+    .desc = What, is this just a robotics tool box? Did you expect something else?
+# [AUTO_EN]
 ent-ToolboxRoboticistFilled = { ent-ToolboxRoboticist }
     .desc = { ent-ToolboxRoboticist.desc }
-    .suffix = Заполненный
-ent-LockerLargeBase = большой шкаф
+    .suffix = Filled
+# [AUTO_EN]
+ent-LockerLargeBase = large locker
     .desc = { ent-LockerBase.desc }
-ent-LockerLargeBaseSecure = большой защищённый шкаф
+# [AUTO_EN]
+ent-LockerLargeBaseSecure = large secure locker
     .desc = { ent-LockerBaseSecure.desc }
-ent-LockerSteelLarge = большой защищённый шкаф
+# [AUTO_EN]
+ent-LockerSteelLarge = large secure locker
     .desc = { ent-LockerBaseSecure.desc }
-ent-LockerSecurityLarge = большой шкаф офицера службы безопасности
+# [AUTO_EN]
+ent-LockerSecurityLarge = large security officer locker
     .desc = { ent-LockerBaseSecure.desc }
-ent-LockerBrigmedicLarge = большой шкаф бригмедика
+# [AUTO_EN]
+ent-LockerBrigmedicLarge = large medic locker
     .desc = { ent-LockerBaseSecure.desc }
-ent-LockerSalvageSpecialistLarge = большой шкаф специалиста по утилизации
+# [AUTO_EN]
+ent-LockerSalvageSpecialistLarge = large salvage specialist cabinet
     .desc = { ent-LockerBaseSecure.desc }
-ent-LockerMiningSpecialistLarge = большой шкаф специалиста по добыче
+# [AUTO_EN]
+ent-LockerMiningSpecialistLarge = large mining specialist locker
     .desc = { ent-LockerBaseSecure.desc }
+# [AUTO_EN]
 ent-LockerBrigmedicLargeFilled = { ent-LockerBrigmedicLarge }
     .desc = { ent-LockerBrigmedicLarge.desc }
-    .suffix = Заполненный
+    .suffix = Filled
+# [AUTO_EN]
 ent-LockerWardenLargeFilled = { ent-LockerWardenLarge }
     .desc = { ent-LockerWardenLarge.desc }
-    .suffix = Заполненный
+    .suffix = Filled
+# [AUTO_EN]
 ent-LockerMiningSpecialistLargeFilled = { ent-LockerMiningSpecialistLarge }
     .desc = { ent-LockerMiningSpecialistLarge.desc }
-    .suffix = Заполненный
+    .suffix = Filled
+# [AUTO_EN]
 ent-LockerMiningSpecialistLargeFilledHardsuit = { ent-LockerMiningSpecialistLarge }
     .desc = { ent-LockerMiningSpecialistLarge.desc }
-    .suffix = Заполненный, скафандр
-ent-LockerSalvageLeadFilledHardsuit = шкаф ведущего утилизатора
+    .suffix = Filled, suit
+# [AUTO_EN]
+ent-LockerSalvageLeadFilledHardsuit = leader's locker
     .desc = { ent-LockerSalvageSpecialist.desc }
-    .suffix = Заполненный, скафандр
+    .suffix = Filled, suit
+# [AUTO_EN]
 ent-LockerSalvageSpecialistLargeFilled = { ent-LockerSalvageSpecialistLarge }
     .desc = { ent-LockerSalvageSpecialistLarge.desc }
-    .suffix = Заполненный
+    .suffix = Filled
+# [AUTO_EN]
 ent-LockerSalvageSpecialistLargeFilledHardsuit = { ent-LockerSalvageSpecialistLarge }
     .desc = { ent-LockerSalvageSpecialistLarge.desc }
-    .suffix = Заполненный, скафандр
+    .suffix = Filled, hardsuit
+# [AUTO_EN]
 ent-LockerSecurityLargeFilled = { ent-LockerSecurityLarge }
     .desc = { ent-LockerSecurityLarge.desc }
-    .suffix = Заполненный
-ent-SpawnPointMagistrate = магистрат
+    .suffix = Filled
+# [AUTO_EN]
+ent-SpawnPointMagistrate = magistrate
     .desc = { ent-SpawnPointJobBase.desc }
-ent-SpawnPointSalvageLead = ведущий утилизатор
+# [AUTO_EN]
+ent-SpawnPointSalvageLead = lead scavenger
     .desc = { ent-SpawnPointJobBase.desc }
-ent-DefaultStationBeaconIAA = маяк агента внутренних дел
+# [AUTO_EN]
+ent-DefaultStationBeaconIAA = police agent beacon
     .desc = { ent-DefaultStationBeacon.desc }
-    .suffix = АВД
-ent-DefaultStationBeaconLawyer = маяк юриста
+    .suffix = AVD
+# [AUTO_EN]
+ent-DefaultStationBeaconLawyer = lawyer beacon
     .desc = { ent-DefaultStationBeacon.desc }
-    .suffix = Юрист
-ent-DefaultStationBeaconNCT = маяк представителя нанотрейзен
+    .suffix = Lawyer
+# [AUTO_EN]
+ent-DefaultStationBeaconNCT = nanotrayzen representative beacon
     .desc = { ent-DefaultStationBeacon.desc }
-    .suffix = ПНТ
-ent-HandheldMachineAnalyzer = портативный анализатор машин
-    .desc = Портативное устройство для диагностики машин.
-ent-VendingMachineRestockDonk = коробка пополнения донк на ходу
-    .desc = Коробка, полная того, что юридически считается едой. Загрузите её в автомат Донк на ходу для пополнения.
+    .suffix = PNT
+# [AUTO_EN]
+ent-HandheldMachineAnalyzer = portable machine analyzer
+    .desc = Handheld machine analyzer.
+# [AUTO_EN]
+ent-VendingMachineRestockDonk = restock box donk on the go
+    .desc = A box full of what is legally considered food. Load it into a Dunk vending machine on the go to restock.
+# [AUTO_EN]
 ent-AirlockBrigmedLocked = { ent-AirlockMedical }
     .desc = { ent-AirlockMedical.desc }
-    .suffix = Бригмедик, Закрыт
+    .suffix = Brigmedic, Locked
+# [AUTO_EN]
 ent-AirlockInternalAffairsLocked = { ent-AirlockLawyerLocked }
     .desc = { ent-AirlockLawyerLocked.desc }
-    .suffix = Внутренние дела, Закрыт
+    .suffix = Internal Affairs, Locked
+# [AUTO_EN]
 ent-AirlockInternalAffairsGlassLocked = { ent-AirlockLawyerGlassLocked }
     .desc = { ent-AirlockLawyerGlassLocked.desc }
-    .suffix = Внутренние дела, Стеклянный, Закрыт
+    .suffix = Internal Affairs, Glass, Locked
+# [AUTO_EN]
 ent-AirlockMaintInternalAffairsLocked = { ent-AirlockMaint }
     .desc = { ent-AirlockMaint.desc }
-    .suffix = Внутренние дела, Закрыт
+    .suffix = Internal Affairs, Locked
+# [AUTO_EN]
 ent-AirlockMaintRoboticsLocked = { ent-AirlockMaint }
     .desc = { ent-AirlockMaint.desc }
-    .suffix = Робототехника, Закрыт
+    .suffix = Robotics, Locked
+# [AUTO_EN]
 ent-AirlockParamedicGlassLocked = { ent-AirlockMedicalGlass }
     .desc = { ent-AirlockMedicalGlass.desc }
-    .suffix = Парамедик, Стеклянный, Закрыт
+    .suffix = Paramedic, Glass, Locked
+# [AUTO_EN]
 ent-AirlockRoboticsGlassLocked = { ent-AirlockScienceGlass }
     .desc = { ent-AirlockScienceGlass.desc }
-    .suffix = Робототехника, Стеклянный, Закрыт
+    .suffix = Robotics, Glass, Locked
+# [AUTO_EN]
 ent-AirlockSalvageMiningGlassLocked = { ent-AirlockCargoGlass }
     .desc = { ent-AirlockCargoGlass.desc }
-    .suffix = Утилизация и добыча, Стеклянный, Закрыт
+    .suffix = Disposal and Mining, Glass, Locked
+# [AUTO_EN]
 ent-AirlockSecurityInternalAffairsLocked = { ent-AirlockSecurity }
     .desc = { ent-AirlockSecurity.desc }
-    .suffix = Служба безопасности, Внутренние дела, Закрыт
+    .suffix = Security Service, Internal Affairs, Locked
+# [AUTO_EN]
 ent-AirlockSecurityInternalAffairsGlassLocked = { ent-AirlockSecurityGlass }
     .desc = { ent-AirlockSecurityGlass.desc }
-    .suffix = Служба безопасности, Внутренние дела, Стеклянный, Закрыт
-ent-BenchBlueComfyEndLeft = синяя удобная скамья
+    .suffix = Security Service, Internal Affairs, Glass, Locked
+# [AUTO_EN]
+ent-BenchBlueComfyEndLeft = blue comfortable bench
     .desc = { ent-BenchComfy.desc }
-    .suffix = Левый край, Синяя
-ent-BenchBlueComfyEndRight = синяя удобная скамья
+    .suffix = Left edge, Blue
+# [AUTO_EN]
+ent-BenchBlueComfyEndRight = blue comfortable bench
     .desc = { ent-BenchComfy.desc }
-    .suffix = Правый край, Синяя
-ent-BenchRedComfyEndLeft = красная удобная скамья
+    .suffix = Right edge, Blue
+# [AUTO_EN]
+ent-BenchRedComfyEndLeft = red comfortable bench
     .desc = { ent-BenchComfy.desc }
-    .suffix = Левый край, Красная
-ent-BenchRedComfyEndRight = красная удобная скамья
+    .suffix = Left edge, Red
+# [AUTO_EN]
+ent-BenchRedComfyEndRight = red comfortable bench
     .desc = { ent-BenchComfy.desc }
-    .suffix = Правый край, Красная
-ent-ComfyChairRed = удобное кресло
-    .desc = Выглядит удобным.
-    .suffix = Красное
-ent-ComputerShuttleMining = консоль шахтёрского шаттла
-    .desc = Используется для пилотирования шахтёрского шаттла.
-ent-ComputerCommsCargo = консоль связи снабжения
+    .suffix = Right edge, Red
+# [AUTO_EN]
+ent-ComfyChairRed = comfortable chair
+    .desc = Looks comfortable.
+    .suffix = Red
+# [AUTO_EN]
+ent-ComputerShuttleMining = mining console
+    .desc = Used for piloting the miner shuttle.
+# [AUTO_EN]
+ent-ComputerCommsCargo = supply console
     .desc = { ent-ComputerComms.desc }
-ent-ComputerCommsEngineering = консоль связи инженерного отдела
+# [AUTO_EN]
+ent-ComputerCommsEngineering = engineering department comms console
     .desc = { ent-ComputerComms.desc }
-ent-ComputerCommsLaw = консоль связи юридического отдела
+# [AUTO_EN]
+ent-ComputerCommsLaw = legal department communications console
     .desc = { ent-ComputerComms.desc }
-ent-ComputerCommsMedical = консоль связи медицинского отдела
+# [AUTO_EN]
+ent-ComputerCommsMedical = medical department comms console
     .desc = { ent-ComputerComms.desc }
-ent-ComputerCommsScience = консоль связи научного отдела
+# [AUTO_EN]
+ent-ComputerCommsScience = science department comms console
     .desc = { ent-ComputerComms.desc }
-ent-ComputerCommsSecurity = консоль связи службы безопасности
+# [AUTO_EN]
+ent-ComputerCommsSecurity = security communications console
     .desc = { ent-ComputerComms.desc }
-ent-ComputerCommsService = консоль связи сервисного отдела
+# [AUTO_EN]
+ent-ComputerCommsService = service desk comms console
     .desc = { ent-ComputerComms.desc }
-ent-ComputerPersonalDesktop = персональный настольный компьютер
-    .desc = Для всех ваших стационарных вычислительных нужд!
-ent-HolopadSecurityInternalAffairs = голопад внутренних дел
+# [AUTO_EN]
+ent-ComputerPersonalDesktop = personal desktop computer
+    .desc = For all your stationary computing needs!
+# [AUTO_EN]
+ent-HolopadSecurityInternalAffairs = Holopad Internal Affairs
     .desc = { ent-Holopad.desc }
-    .suffix = Служба безопасности, Внутренние дела
-ent-HolopadServiceLawyer = голопад юриста
+    .suffix = Security Service, Internal Affairs
+# [AUTO_EN]
+ent-HolopadServiceLawyer = Holopad lawyer
     .desc = { ent-Holopad.desc }
-    .suffix = Сервис, Юрист
-ent-VendingMachineDonk = донк на ходу
-    .desc = Горячо и готово, когда вы в бегах! Донк-пакеты: юридически это еда.
-ent-VendingMachineLegalDrobe = ЮрШкаф
-    .desc = Торговый автомат с одеждой для работников юридического отдела.
-ent-VendingMachineMedicalSyndicate = интердайн энтерпрайз
-    .desc = Медицинский торговый автомат Интердайн Фармацевтикс.
-ent-VendingMachineWallMedicalCivilianSyndicate = коммерческая аптечка интердайн
-    .desc = Настенный раздатчик медицинского оборудования от Интердайн Фармацевтикс.
-ent-VendingMachineMedicalSecurity = НаноМед СБ
-    .desc = Раздатчик медицинских препаратов для службы безопасности. Только натуральные химикаты!
-ent-CybersunFlag = флаг киберсан
-    .desc = Бумага, костюм, прогресс.
-ent-DonkFlag = флаг DONK CO
-    .desc = Поставьте на это DONK!
-ent-InterdyneFlag = флаг интердайн фармацевтикс
-    .desc = Для здоровья каждого.
-ent-PosterContrabandComitas = системы комитас: мы ищем высокоинтеллектуальных людей
-    .desc = Старый плакат заброшенной компании Комитас Системс. Кажется, в нём спрятано сообщение.
-ent-PosterContrabandInterdyneSyndicate = интердайн фармацевтикс?
-    .desc = Кроваво-красная версия рекламы Интердайн Фармацевтикс. «Стань капитаном своей души.»
-ent-PosterContrabandWaffleCorpTwo = ваффл корп: доступно и практично
-    .desc = Плакат Ваффл Корп. Почему вафельная компания производит огнестрельное оружие?
-ent-PosterlegitLawPoster = реклама юридической помощи
-    .desc = Плакат с рекламой одноимённой юридической фирмы Батчера А. Хеммеля, отлично подходящей для снятия обвинений в убийстве!
-ent-SignBrigmed = знак бригмеда
-    .desc = Знак, указывающий на бригмедицинский отсек.
-ent-SignIAA = знак внутренних дел
-    .desc = Знак, указывающий на офис внутренних дел.
-ent-SignMagistrate = знак магистрата
-    .desc = Знак, указывающий на офис магистрата.
-ent-SignNTR = знак представителя нанотрейзен
-    .desc = Знак, указывающий на офис представителя Нанотрейзен.
+    .suffix = Service, Lawyer
+# [AUTO_EN]
+ent-VendingMachineDonk = drive-by bonk
+    .desc = Hot and ready when you're on the run! Donk packs: legally, this is food.
+# [AUTO_EN]
+ent-VendingMachineLegalDrobe = Legal Locker
+    .desc = A vending machine with clothes for the legal department staff.
+# [AUTO_EN]
+ent-VendingMachineMedicalSyndicate = Interdine Enterprise
+    .desc = Medical vending machine Interdaine Pharmaceuticals.
+# [AUTO_EN]
+ent-VendingMachineWallMedicalCivilianSyndicate = commercial Interdine first aid kit
+    .desc = Wall-mounted medical equipment dispenser from Interdaine Pharmaceuticals.
+# [AUTO_EN]
+ent-VendingMachineMedicalSecurity = NanoMed SB
+    .desc = Medical drug dispenser for security services. Only natural chemicals!
+# [AUTO_EN]
+ent-CybersunFlag = Cybersun flag
+    .desc = Paper, costume, progress.
+# [AUTO_EN]
+ent-DonkFlag = DONK CO flag
+    .desc = Put a DONK on this!
+# [AUTO_EN]
+ent-InterdyneFlag = Interdyne Pharmaceuticals flag
+    .desc = For everyone's health.
+# [AUTO_EN]
+ent-PosterContrabandComitas = Comitas system: we are looking for highly intelligent people.
+    .desc = An old poster of the abandoned Comitas Systems company. It seems there's a message hidden in it.
+# [AUTO_EN]
+ent-PosterContrabandInterdyneSyndicate = Interdyne Pharmaceuticals?
+    .desc = The blood-red version of Interdyne Pharmaceuticals advertising. "Become the captain of your soul."
+# [AUTO_EN]
+ent-PosterContrabandWaffleCorpTwo = Waffle Corp: available and practical
+    .desc = Poster for Waffle Corp. Why does the waffle company manufacture firearms?
+# [AUTO_EN]
+ent-PosterlegitLawPoster = legal services advertisement
+    .desc = Poster advertising the law firm of Mr. A. Hemmell Batch, perfectly suited for dropping charges of murder!
+# [AUTO_EN]
+ent-SignBrigmed = sign of the brigmed
+    .desc = Sign indicating the brigmedic compartment.
+# [AUTO_EN]
+ent-SignIAA = badge
+    .desc = Sign indicating the office of internal affairs.
+# [AUTO_EN]
+ent-SignMagistrate = sign of the magistrate
+    .desc = Sign indicating the magistrate's office.
+# [AUTO_EN]
+ent-SignNTR = sign of the nanotrayzen representative
+    .desc = Sign indicating the office of the Nanotrex representative.

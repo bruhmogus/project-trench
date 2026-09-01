@@ -1,2 +1,3 @@
-ent-BunnyButterfly = бабочка с воротником
-    .desc = Бабочка для шеи с белым воротником.
+# [AUTO_EN]
+ent-BunnyButterfly = butterfly with a collar
+    .desc = Butterfly necklace with a white collar.

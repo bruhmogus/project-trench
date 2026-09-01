@@ -128,7 +128,9 @@ ent-BulletRocketNT = rocket
     .desc = { ent-BaseBulletTrigger.desc }
 ent-BaseBulletGrenade = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-ent-BulletLaserHeavy = тяжёлый лазерный болт
+# [AUTO_EN]
+ent-BulletLaserHeavy = heavy laser bolt
     .desc = { "" }
-ent-BulletLaserHeavySpread = узкий лазерный обстрел
+# [AUTO_EN]
+ent-BulletLaserHeavySpread = narrow laser barrage
     .desc = { "" }

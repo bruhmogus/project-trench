@@ -6,5 +6,6 @@ ent-Pizzabomb = Nefarious Pizza bomb
     .desc = { ent-FoodBoxPizza.desc }
 ent-CleanerGrenadeAcid = { ent-CleanerGrenade }
     .desc = { ent-CleanerGrenade.desc }
-ent-CleanerGrenadeAcidBox = коробка с гранатой глубокой очистки
-    .desc = Коробка с гранатой для глубокой очистки. Удаляет до 99,99% микробов, грязи и остатков членов экипажа. Упаковка распадается при открытии, не оставляя следов.
+# [AUTO_EN]
+ent-CleanerGrenadeAcidBox = acid box
+    .desc = Grenade box for deep cleaning. Removes up to 99.99% of microbes, dirt, and crew remnants. The packaging disintegrates upon opening, leaving no trace.

@@ -50,11 +50,19 @@ injector-component-spray-injecting-target = {CAPITALIZE(THE($user))} is trying t
 
 ## Target Popup Success messages
 injector-component-feel-prick-message = You feel a tiny prick!
-injector-invalid-injector-toggle-mode = Неверный режим
-injector-component-drawing-text = Содержимое набирается
-injector-component-injecting-text = Содержимое вводится
-injector-component-drawing-user = Вы начинаете набирать шприц.
-injector-component-injecting-user = Вы начинаете вводить содержимое шприца.
-injector-component-drawing-target = { CAPITALIZE($user) } начинает набирать шприц из вас!
-injector-component-injecting-target = { CAPITALIZE($user) } начинает вводить содержимое шприца в вас!
-injector-component-failure-hardsuit = Вы не сможете провести иглу через толстое покрытие!
+# [AUTO_EN]
+injector-invalid-injector-toggle-mode = Invalid mode
+# [AUTO_EN]
+injector-component-drawing-text = Content is being loaded
+# [AUTO_EN]
+injector-component-injecting-text = Content is injected
+# [AUTO_EN]
+injector-component-drawing-user = You start drawing up the syringe.
+# [AUTO_EN]
+injector-component-injecting-user = You begin to inject the contents of the syringe.
+# [AUTO_EN]
+injector-component-drawing-target = { CAPITALIZE($user) } starts drawing a syringe from you!
+# [AUTO_EN]
+injector-component-injecting-target = { CAPITALIZE($user) } starts injecting the contents of the syringe into you!
+# [AUTO_EN]
+injector-component-failure-hardsuit = You won't be able to push the needle through the thick coating!

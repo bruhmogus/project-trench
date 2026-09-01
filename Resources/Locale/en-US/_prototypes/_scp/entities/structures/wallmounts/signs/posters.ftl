@@ -224,25 +224,36 @@ ent-PosterEngineeringSchema = engineering equipment schema
     .desc = An information poster depicting systems used by space shuttles and a wrench.
 ent-PosterRickRoll = "Rick" poster
     .desc = Oh, what's this?
-ent-PosterScp018 = плакат «SCP-018»
-    .desc = Информационный плакат SCP-018
-ent-PosterSCP101 = плакат «SCP-101»
-    .desc = Информационный плакат SCP-101
-ent-PosterSCP109 = плакат «SCP-109»
-    .desc = Информационный плакат SCP-109
-ent-PosterSCP124 = плакат «SCP-124»
-    .desc = Информационный плакат SCP-124
-ent-PosterSCP127 = плакат «SCP-127»
-    .desc = Информационный плакат SCP-127
-ent-PosterSCP268 = плакат «SCP-268»
-    .desc = Информационный плакат SCP-268
-ent-PosterSCP427 = плакат «SCP-427»
-    .desc = Информационный плакат SCP-427
-ent-PosterSCP714 = плакат «SCP-714»
-    .desc = Информационный плакат SCP-714
-ent-PosterSCP1508 = плакат «SCP-1508»
-    .desc = Информационный плакат SCP-1508
-ent-PosterSCP2022 = плакат «SCP-2022»
-    .desc = Информационный плакат SCP-2022
-ent-PosterSCP2295 = плакат «SCP-2295»
-    .desc = Информационный плакат SCP-2295
+# [AUTO_EN]
+ent-PosterScp018 = poster "SCP-018"
+    .desc = Informational poster SCP-018
+# [AUTO_EN]
+ent-PosterSCP101 = poster "SCP-101"
+    .desc = Informational poster SCP-101
+# [AUTO_EN]
+ent-PosterSCP109 = poster "SCP-109"
+    .desc = Informational poster SCP-109
+# [AUTO_EN]
+ent-PosterSCP124 = poster "SCP-124"
+    .desc = Informational poster SCP-124
+# [AUTO_EN]
+ent-PosterSCP127 = poster "SCP-127"
+    .desc = Informational poster SCP-127
+# [AUTO_EN]
+ent-PosterSCP268 = poster "SCP-268"
+    .desc = Informational poster SCP-268
+# [AUTO_EN]
+ent-PosterSCP427 = poster "SCP-427"
+    .desc = Informational poster SCP-427
+# [AUTO_EN]
+ent-PosterSCP714 = poster "SCP-714"
+    .desc = Informational poster SCP-714
+# [AUTO_EN]
+ent-PosterSCP1508 = poster "SCP-1508"
+    .desc = Informational poster SCP-1508
+# [AUTO_EN]
+ent-PosterSCP2022 = poster "SCP-2022"
+    .desc = Informational poster SCP-2022
+# [AUTO_EN]
+ent-PosterSCP2295 = poster "SCP-2295"
+    .desc = Informational poster SCP-2295

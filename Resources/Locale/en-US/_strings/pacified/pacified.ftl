@@ -12,4 +12,5 @@ pacified-cannot-harm-directly = I can't bring myself to hurt { THE($entity) }!
 pacified-cannot-harm-indirect = I can't damage { THE($entity) }, it could hurt someone!
 pacified-cannot-fire-gun = I can't fire { THE($entity) }, it could hurt someone!
 # With bolas and snares:
-pacified-cannot-throw-snare = Я не могу бросить { $projectile }, что если кто-то споткнётся?!
+# [AUTO_EN]
+pacified-cannot-throw-snare = I can't throw { $projectile }, what if someone trips?!

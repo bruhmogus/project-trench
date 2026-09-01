@@ -31,5 +31,7 @@ ntuplink-gun-bundlehristov-name = Hristov Bundle
 ntuplink-gun-bundlexm1014-name = XM1014 Bundle
 ntuplink-gun-bundlelaw12-name = Law-12 Bundle
 ntuplink-gun-minigun-desc = When a single barrel just isn't enough. A rotary combat beast for situations where precision takes a backseat to sheer volume. Requires determination, steady hands, and a strong back.
-ntuplink-gun-bundle-lecter-mk3-name = Набор Лектер Мк3
-ntuplink-gun-bundle-leikha-name = Набор Лейха
+# [AUTO_EN]
+ntuplink-gun-bundle-lecter-mk3-name = Lecter MK3 Bundle
+# [AUTO_EN]
+ntuplink-gun-bundle-leikha-name = Leikh Bundle

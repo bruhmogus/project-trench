@@ -84,4 +84,5 @@ medical-tut-softlock-keep-self-ointment = Do not put away the ointment: use it o
 medical-tut-softlock-open-analyzer = Pick up the health analyzer first. Its interface will be needed in the next step.
 
 ent-SunriseMedicalTutorialSelfOintment = { ent-Ointment }
-ent-MedicalTutorialPatient= Пациент
+# [AUTO_EN]
+ent-MedicalTutorialPatient= Patient

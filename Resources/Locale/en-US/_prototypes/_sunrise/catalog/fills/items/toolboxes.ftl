@@ -8,6 +8,7 @@ ent-ToolboxElectricalTurretPirateFilled = { ent-ToolboxElectricalTurretPirate }
 ent-ToolboxArtisticFilledCleaner = { ent-ToolboxArtistic }
     .suffix = Cleaner
     .desc = { ent-ToolboxArtistic.desc }
+# [AUTO_EN]
 ent-ToolboxSyndicateFilledRepair = { ent-ToolboxSyndicate }
     .desc = { ent-ToolboxSyndicate.desc }
-    .suffix = Заполнен, Ремонт мехов
+    .suffix = Filled, Fur repair

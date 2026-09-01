@@ -47,37 +47,71 @@ salvage-map-wreck-size-small = [color=lime]Small[/color]
 salvage-map-wreck-size-medium = [color=cornflowerblue]Medium[/color]
 salvage-map-wreck-size-large = [color=orchid]Large[/color]
 # Wrecks
-salvage-map-proto-Small1 = Инженерное хранилище
-salvage-map-proto-Small2 = Игровой уголок
-salvage-map-proto-Small3 = Прачечная
-salvage-map-proto-Small4 = Осколок бара
-salvage-map-proto-SmallShip1 = Пилюля
-salvage-map-proto-SmallAISurveyDrone = Исследовательский ИИ-дрон
-salvage-map-proto-SmallCargo = Шаттл шахтёров
-salvage-map-proto-SmallChapel = Часовня
-salvage-map-proto-SmallChef = Ресторан
-salvage-map-proto-SmallParty = День рождения
-salvage-map-proto-SmallSyndicate = Разрушенное судно Синдиката
-salvage-map-proto-SmallTesla = Зона содержания Теслы
-salvage-map-proto-SmallA1 = Плазменный пожар на астероиде
-salvage-map-proto-Medium1 = Тайник с плазменной ловушкой
-salvage-map-proto-MediumVault1 = Хранилище
-salvage-map-proto-MediumOrchestra = Безмолвный оркестр
-salvage-map-proto-MediumLibraryWreck = Покинутая библиотека
-salvage-map-proto-MediumCargoWreck = Крушение отдела снабжения
-salvage-map-proto-MediumPirateWreck = Обломок пиратской баржи
-salvage-map-proto-MediumHaulingShuttleWreck = Разрушенный грузовой корабль
-salvage-map-proto-TickColony = Колония космических клещей
-salvage-map-proto-CargoDock = Грузовой док на астероиде
-salvage-map-proto-SpaceWaffleHome = Вафельный домик
-salvage-map-proto-MediumShuttleWreck = Разбившийся эвакуационный шаттл
-salvage-map-proto-MediumPetHospital = Медвежий госпиталь
-salvage-map-proto-MediumCrashedShuttle = Разбившийся шаттл
-salvage-map-proto-Meatball = Фрикаделька
-salvage-map-proto-VeganMeatball = Веганская фрикаделька
-salvage-map-proto-StationStation = Станция станция
-salvage-map-proto-AsteroidBase = База на астероиде
-salvage-map-proto-RuinCargoBase = Разрушенный склад снабжения
-salvage-map-proto-SecurityChunk = Кусок отдела охраны
-salvage-map-proto-EngineeringChunk = Кусок инженерного отсека
-salvage-map-proto-OutpostArm = Рукав захваченного аванпоста
+# [AUTO_EN]
+salvage-map-proto-Small1 = Engineering storage
+# [AUTO_EN]
+salvage-map-proto-Small2 = Game corner
+# [AUTO_EN]
+salvage-map-proto-Small3 = Laundry
+# [AUTO_EN]
+salvage-map-proto-Small4 = Bar fragment
+# [AUTO_EN]
+salvage-map-proto-SmallShip1 = Pill
+# [AUTO_EN]
+salvage-map-proto-SmallAISurveyDrone = Research AI drone
+# [AUTO_EN]
+salvage-map-proto-SmallCargo = Miners' shuttle
+# [AUTO_EN]
+salvage-map-proto-SmallChapel = Chapel
+# [AUTO_EN]
+salvage-map-proto-SmallChef = Restaurant
+# [AUTO_EN]
+salvage-map-proto-SmallParty = Birthday
+# [AUTO_EN]
+salvage-map-proto-SmallSyndicate = Syndicate wreck
+# [AUTO_EN]
+salvage-map-proto-SmallTesla = Tesla containment zone
+# [AUTO_EN]
+salvage-map-proto-SmallA1 = Plasma fire on an asteroid
+# [AUTO_EN]
+salvage-map-proto-Medium1 = Plasma trap cache
+# [AUTO_EN]
+salvage-map-proto-MediumVault1 = Storage
+# [AUTO_EN]
+salvage-map-proto-MediumOrchestra = Silent Orchestra
+# [AUTO_EN]
+salvage-map-proto-MediumLibraryWreck = Abandoned library
+# [AUTO_EN]
+salvage-map-proto-MediumCargoWreck = Supply Department Crash
+# [AUTO_EN]
+salvage-map-proto-MediumPirateWreck = Pirate skiff fragment
+# [AUTO_EN]
+salvage-map-proto-MediumHaulingShuttleWreck = Damaged cargo ship
+# [AUTO_EN]
+salvage-map-proto-TickColony = Cosmic mite colony
+# [AUTO_EN]
+salvage-map-proto-CargoDock = Cargo dock on asteroid
+# [AUTO_EN]
+salvage-map-proto-SpaceWaffleHome = Waffle House
+# [AUTO_EN]
+salvage-map-proto-MediumShuttleWreck = Crashed evacuation shuttle
+# [AUTO_EN]
+salvage-map-proto-MediumPetHospital = Bear Hospital
+# [AUTO_EN]
+salvage-map-proto-MediumCrashedShuttle = Crashed shuttle
+# [AUTO_EN]
+salvage-map-proto-Meatball = Meatball
+# [AUTO_EN]
+salvage-map-proto-VeganMeatball = Vegan meatball
+# [AUTO_EN]
+salvage-map-proto-StationStation = Station station
+# [AUTO_EN]
+salvage-map-proto-AsteroidBase = Asteroid base
+# [AUTO_EN]
+salvage-map-proto-RuinCargoBase = Destroyed supply depot
+# [AUTO_EN]
+salvage-map-proto-SecurityChunk = Security chunk
+# [AUTO_EN]
+salvage-map-proto-EngineeringChunk = Engineering compartment piece
+# [AUTO_EN]
+salvage-map-proto-OutpostArm = Captured outpost sleeve

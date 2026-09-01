@@ -1,1 +1,2 @@
-objective-condition-kill-antag-title = Убить { $targetName }, должность: { CAPITALIZE($job) }.
+# [AUTO_EN]
+objective-condition-kill-antag-title = Kill { $targetName }, position: { CAPITALIZE($job) }.

@@ -14,79 +14,155 @@ advertisement-soviethumanoid-veteran-13 = Organized fallback by cover groups.
 advertisement-soviethumanoid-veteran-14 = Hold position until further orders.
 advertisement-soviethumanoid-veteran-15 = Personnel, check ammo and status.
 advertisement-soviethumanoid-veteran-16 = Task remains active until sector is fully secured.
-advertisement-soviethumanoid-1 = Товарищи, держим строй.
-advertisement-soviethumanoid-2 = Идём по плану, дистанцию соблюдаем.
-advertisement-soviethumanoid-3 = Сектор проверен.
-advertisement-soviethumanoid-4 = Коридор чист.
-advertisement-soviethumanoid-5 = Подходим к шлюзу.
-advertisement-soviethumanoid-6 = Шлюз под контролем.
-advertisement-soviethumanoid-7 = Работаем спокойно.
-advertisement-soviethumanoid-8 = Связь стабильна.
-advertisement-soviethumanoid-9 = Сенсоры шумят.
-advertisement-soviethumanoid-10 = Контакт неясен.
-advertisement-soviethumanoid-11 = База, радиопроверка.
-advertisement-soviethumanoid-12 = Сектор закрыт.
-advertisement-soviethumanoid-13 = Смещаемся влево.
-advertisement-soviethumanoid-14 = Осматриваю сектор.
-advertisement-soviethumanoid-15 = Штурмовая группа на связи.
-advertisement-soviethumanoid-16 = Угол под контролем.
-advertisement-soviethumanoid-17 = Продвигаемся.
-advertisement-soviethumanoid-18 = Позиция укреплена.
-advertisement-soviethumanoid-19 = На сканере два сигнала.
-advertisement-soviethumanoid-20 = Визуальный контакт есть.
-advertisement-soviethumanoid-21 = Перезарядка быстрая.
-advertisement-soviethumanoid-22 = Боеготовность в норме.
-advertisement-soviethumanoid-23 = Ждём сигнал.
-advertisement-soviethumanoid-24 = Дистанцию держим.
-advertisement-soviethumanoid-25 = Цели отмечены.
-advertisement-soviethumanoid-26 = Отсек чист.
-advertisement-soviethumanoid-27 = Звено в строю.
-advertisement-soviethumanoid-28 = Фланги под наблюдением.
-advertisement-soviethumanoid-29 = Радио по делу.
-advertisement-soviethumanoid-30 = Позиция удерживается.
-advertisement-soviethumanoid-31 = Контакт на двенадцать.
-advertisement-soviethumanoid-32 = Потерь нет.
-advertisement-soviethumanoid-33 = Перегруппировка завершена.
-advertisement-soviethumanoid-34 = Работаем от укрытий.
-advertisement-soviethumanoid-35 = Позицию держим.
-advertisement-soviethumanoid-36 = Проверяем углы.
-advertisement-soviethumanoid-37 = Отделение готово.
-advertisement-soviethumanoid-38 = Контакт!
-advertisement-soviethumanoid-39 = На позиции.
-advertisement-soviethumanoid-40 = Связь есть.
-advertisement-soviethumanoid-41 = Статус стабильный.
-advertisement-soviethumanoid-42 = Рассредоточились.
-advertisement-soviethumanoid-43 = Держим обзор.
-advertisement-soviethumanoid-44 = Связь с дозором потеряна.
-advertisement-soviethumanoid-45 = Патруль завершён.
-advertisement-soviethumanoid-46 = Командование, как обстановка?
-advertisement-soviethumanoid-47 = Цель уходит вправо.
-advertisement-soviethumanoid-48 = Нет связи с поисковой группой.
-advertisement-soviethumanoid-49 = Ждём подкрепление.
-advertisement-soviethumanoid-50 = Нужна поддержка.
-advertisement-soviethumanoid-51 = Приказ понятен.
-advertisement-soviethumanoid-52 = Получение подтверждаю.
-advertisement-soviethumanoid-53 = На точке, продолжаем.
-advertisement-soviethumanoid-54 = Цель снята.
-advertisement-soviethumanoid-55 = Тихо сегодня... Аж не по себе.
-advertisement-soviethumanoid-56 = Слышь, у тебя курить не осталось?
-advertisement-soviethumanoid-57 = Сектор чист. Ничего нового.
-advertisement-soviethumanoid-58 = Скорее бы обед. Сил уже нет махать этим стволом.
-advertisement-soviethumanoid-59 = Интересно, когда нас уже сменят?
-advertisement-soviethumanoid-60 = Вроде чисто. Двигаем дальше.
-advertisement-soviethumanoid-61 = Спина затекла... Надо было в снабжение идти.
-advertisement-soviethumanoid-62 = Слышал? Да не, это крысы в мусоре копаются.
-advertisement-soviethumanoid-63 = Стоять! Кто здесь?!
-advertisement-soviethumanoid-64 = Эй, ты! А ну вышел на свет!
-advertisement-soviethumanoid-65 = Что это за шорох? Проверю-ка я тот угол...
-advertisement-soviethumanoid-66 = Кажется, у нас гости.
-advertisement-soviethumanoid-67 = Вижу движение! Стой, стрелять буду!
-advertisement-soviethumanoid-68 = Кто там шарится? А ну выходи с поднятыми руками!
-advertisement-soviethumanoid-veteran-17 = Центр, у нас тут подозрительная активность в секторе.
-advertisement-soviethumanoid-veteran-18 = Проверить периметр! Не расслабляться, бойцы.
-advertisement-soviethumanoid-veteran-19 = Контакт! Огонь на поражение!
-advertisement-soviethumanoid-veteran-20 = Вижу цель! Работаем, мужики!
-advertisement-soviethumanoid-veteran-21 = Враг в зоне видимости! Завалите его!
-advertisement-soviethumanoid-veteran-22 = Окружай его! Не дайте ему уйти!
-advertisement-soviethumanoid-veteran-23 = Давите его огнем! Я прикрою!
-advertisement-soviethumanoid-veteran-24 = Цель обнаружена! Всем открыть огонь!
+# [AUTO_EN]
+advertisement-soviethumanoid-1 = Comrades, keep the line.
+# [AUTO_EN]
+advertisement-soviethumanoid-2 = We're sticking to the plan, keeping our distance.
+# [AUTO_EN]
+advertisement-soviethumanoid-3 = Sector verified.
+# [AUTO_EN]
+advertisement-soviethumanoid-4 = The corridor is clean.
+# [AUTO_EN]
+advertisement-soviethumanoid-5 = Approaching the gateway.
+# [AUTO_EN]
+advertisement-soviethumanoid-6 = The bridge is under control.
+# [AUTO_EN]
+advertisement-soviethumanoid-7 = We work quietly.
+# [AUTO_EN]
+advertisement-soviethumanoid-8 = Connection is stable.
+# [AUTO_EN]
+advertisement-soviethumanoid-9 = The sensors are buzzing.
+# [AUTO_EN]
+advertisement-soviethumanoid-10 = Contact unclear.
+# [AUTO_EN]
+advertisement-soviethumanoid-11 = Base, radio check.
+# [AUTO_EN]
+advertisement-soviethumanoid-12 = Sector closed.
+# [AUTO_EN]
+advertisement-soviethumanoid-13 = We're shifting left.
+# [AUTO_EN]
+advertisement-soviethumanoid-14 = Inspecting the sector.
+# [AUTO_EN]
+advertisement-soviethumanoid-15 = Assault group is on the line.
+# [AUTO_EN]
+advertisement-soviethumanoid-16 = Angle under control.
+# [AUTO_EN]
+advertisement-soviethumanoid-17 = Moving forward.
+# [AUTO_EN]
+advertisement-soviethumanoid-18 = Position reinforced.
+# [AUTO_EN]
+advertisement-soviethumanoid-19 = There are two signals on the scanner.
+# [AUTO_EN]
+advertisement-soviethumanoid-20 = Visual contact is established.
+# [AUTO_EN]
+advertisement-soviethumanoid-21 = Fast reload.
+# [AUTO_EN]
+advertisement-soviethumanoid-22 = Readiness is normal.
+# [AUTO_EN]
+advertisement-soviethumanoid-23 = Waiting for a signal.
+# [AUTO_EN]
+advertisement-soviethumanoid-24 = We're keeping our distance.
+# [AUTO_EN]
+advertisement-soviethumanoid-25 = Goals marked.
+# [AUTO_EN]
+advertisement-soviethumanoid-26 = Compartment clean.
+# [AUTO_EN]
+advertisement-soviethumanoid-27 = Link in the ranks.
+# [AUTO_EN]
+advertisement-soviethumanoid-28 = Flanks under observation.
+# [AUTO_EN]
+advertisement-soviethumanoid-29 = Radio for the cause.
+# [AUTO_EN]
+advertisement-soviethumanoid-30 = Position held.
+# [AUTO_EN]
+advertisement-soviethumanoid-31 = Contact on twelve.
+# [AUTO_EN]
+advertisement-soviethumanoid-32 = No loss.
+# [AUTO_EN]
+advertisement-soviethumanoid-33 = Rearrangement completed.
+# [AUTO_EN]
+advertisement-soviethumanoid-34 = We operate from cover.
+# [AUTO_EN]
+advertisement-soviethumanoid-35 = We're holding the position.
+# [AUTO_EN]
+advertisement-soviethumanoid-36 = Checking angles.
+# [AUTO_EN]
+advertisement-soviethumanoid-37 = The department is ready.
+# [AUTO_EN]
+advertisement-soviethumanoid-38 = Contact!
+# [AUTO_EN]
+advertisement-soviethumanoid-39 = In position.
+# [AUTO_EN]
+advertisement-soviethumanoid-40 = Connection established.
+# [AUTO_EN]
+advertisement-soviethumanoid-41 = Status is stable.
+# [AUTO_EN]
+advertisement-soviethumanoid-42 = Scattered.
+# [AUTO_EN]
+advertisement-soviethumanoid-43 = Keeping an eye on things.
+# [AUTO_EN]
+advertisement-soviethumanoid-44 = Connection with the patrol lost.
+# [AUTO_EN]
+advertisement-soviethumanoid-45 = Patrol completed.
+# [AUTO_EN]
+advertisement-soviethumanoid-46 = Command, what's the situation?
+# [AUTO_EN]
+advertisement-soviethumanoid-47 = The objective moves to the right.
+# [AUTO_EN]
+advertisement-soviethumanoid-48 = No connection to the search group.
+# [AUTO_EN]
+advertisement-soviethumanoid-49 = Waiting for reinforcements.
+# [AUTO_EN]
+advertisement-soviethumanoid-50 = Need support.
+# [AUTO_EN]
+advertisement-soviethumanoid-51 = The order is understood.
+# [AUTO_EN]
+advertisement-soviethumanoid-52 = I confirm receipt.
+# [AUTO_EN]
+advertisement-soviethumanoid-53 = At the point, continuing.
+# [AUTO_EN]
+advertisement-soviethumanoid-54 = Objective removed.
+# [AUTO_EN]
+advertisement-soviethumanoid-55 = It's quiet today... I feel a bit off.
+# [AUTO_EN]
+advertisement-soviethumanoid-56 = Hey, do you have any left to smoke?
+# [AUTO_EN]
+advertisement-soviethumanoid-57 = Sector clean. Nothing new.
+# [AUTO_EN]
+advertisement-soviethumanoid-58 = I'd rather have lunch. I have no strength left to wave this gun.
+# [AUTO_EN]
+advertisement-soviethumanoid-59 = Interesting, when will we be replaced?
+# [AUTO_EN]
+advertisement-soviethumanoid-60 = Looks clean. Let's move on.
+# [AUTO_EN]
+advertisement-soviethumanoid-61 = Back stiffened... Should have gone to supply.
+# [AUTO_EN]
+advertisement-soviethumanoid-62 = Heard? No, it's rats digging in the trash.
+# [AUTO_EN]
+advertisement-soviethumanoid-63 = Stop! Who is here?!
+# [AUTO_EN]
+advertisement-soviethumanoid-64 = Hey, you! Get out in the light!
+# [AUTO_EN]
+advertisement-soviethumanoid-65 = What's that noise? I'll check that corner...
+# [AUTO_EN]
+advertisement-soviethumanoid-66 = Looks like we have guests.
+# [AUTO_EN]
+advertisement-soviethumanoid-67 = I see movement! Hold on, I'll shoot!
+# [AUTO_EN]
+advertisement-soviethumanoid-68 = Who's there, showing off? Come out with your hands up!
+# [AUTO_EN]
+advertisement-soviethumanoid-veteran-17 = Center, we have suspicious activity in the sector.
+# [AUTO_EN]
+advertisement-soviethumanoid-veteran-18 = Check the perimeter! Don't relax, soldiers.
+# [AUTO_EN]
+advertisement-soviethumanoid-veteran-19 = Contact! Fire on sight!
+# [AUTO_EN]
+advertisement-soviethumanoid-veteran-20 = Saw the target! Working, guys!
+# [AUTO_EN]
+advertisement-soviethumanoid-veteran-21 = Enemy in sight! Take him down!
+# [AUTO_EN]
+advertisement-soviethumanoid-veteran-22 = Surround him! Don't let him escape!
+# [AUTO_EN]
+advertisement-soviethumanoid-veteran-23 = Hit him with fire! I'll cover!
+# [AUTO_EN]
+advertisement-soviethumanoid-veteran-24 = Target detected! Open fire!

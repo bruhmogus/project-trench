@@ -26,7 +26,9 @@ ent-HemostatRipper = { ent-HemostatCyber }
     .desc = { ent-HemostatCyber.desc }
 ent-BoneSetterRipper = { ent-BoneSetterCyber }
     .desc = { ent-BoneSetterCyber.desc }
-ent-SawRipper = циркулярная пила
-    .desc = Кажется, с её помощью можно разрезать что угодно.
-ent-BoneGelRipper = бутылочка костного геля
-    .desc = Контейнер для костного геля, который часто приходится наполнять в специальной машине.
+# [AUTO_EN]
+ent-SawRipper = circular saw
+    .desc = It seems with it you can cut anything.
+# [AUTO_EN]
+ent-BoneGelRipper = bone gel bottle
+    .desc = Container for bone gel, which often has to be filled in a special machine.

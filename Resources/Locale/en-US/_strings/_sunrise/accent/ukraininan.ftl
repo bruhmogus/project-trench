@@ -189,7 +189,8 @@ accent-ukraininan-words-51 = me
 accent-ukraininan-words-replace-51 = me
 # [AUTO_EN]
 accent-ukraininan-words-52 = you
-accent-ukraininan-words-replace-52 = тебе
+# [AUTO_EN]
+accent-ukraininan-words-replace-52 = you
 # [AUTO_EN]
 accent-ukraininan-words-53 = his
 # [AUTO_EN]
@@ -272,7 +273,8 @@ accent-ukraininan-words-72 = to flee
 accent-ukraininan-words-replace-72 = tikit
 # [AUTO_EN]
 accent-ukraininan-words-73 = let
-accent-ukraininan-words-replace-73 = нехай
+# [AUTO_EN]
+accent-ukraininan-words-replace-73 = let
 # [AUTO_EN]
 accent-ukraininan-words-74 = genocrafter
 # [AUTO_EN]

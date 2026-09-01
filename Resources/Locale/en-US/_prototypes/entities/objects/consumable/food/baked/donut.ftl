@@ -57,7 +57,9 @@ ent-FoodDonutPoison = { ent-FoodDonutPink }
     .desc = { ent-FoodDonutPink.desc }
 ent-FoodDonutJellySlugcat = slugcat jelly-donut
     .desc = No holes in this donut in case a suspicious looking pole shows up.
-ent-FoodDonutBlumpkin = блорбо пончик
-    .desc = Отлично сочетается с кружкой БЛОРБО.
-ent-FoodDonutJellyBlumpkin = желейный блорбо пончик
-    .desc = Отлично сочетается с кружкой БЛОРБО.
+# [AUTO_EN]
+ent-FoodDonutBlumpkin = blorbbo donut
+    .desc = Pairs perfectly with a BLORBO mug.
+# [AUTO_EN]
+ent-FoodDonutJellyBlumpkin = jelly blorp donut
+    .desc = Pairs perfectly with a BLORBO mug.

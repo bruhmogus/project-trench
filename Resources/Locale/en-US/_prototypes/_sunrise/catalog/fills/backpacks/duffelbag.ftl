@@ -59,15 +59,21 @@ ent-ClothingBackpackDuffelMilitaryBundleScaf = Scaf bundle
     .desc = Contains the old combat EVA suit.
 ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncherGL70 = GL-70 grenade launcher bundle
     .desc = An automatic GL-70 grenade launcher bundled with 17 grenades, two grenade pouches, and a packaged grenade belt.
-ent-ClothingBackpackDuffelWeaponRifleM52Filled = Набор М-52
-    .desc = Премиумная штурмовая винтовка вместе с 3 магазинами ПП и 3 обычными магазинами.
-ent-ClothingBackpackDuffelWeaponRifleSKM24FilledCBURN = Набор SKM-24 "Факел"
-    .desc = SKM-24 c 6мя зажигательными магазинами.
-ent-ClothingBackpackDuffelWeaponRifleSKM28FilledCBURN = Набор SKM-28 "Огнесмерч"
-    .desc = SKM-28 c 6мя зажигательными магазинами.
-ent-ClothingBackpackDuffelWeaponLightMachineGunM492 = Набор М492 смарт-ган
-    .desc = Набор М492 с 2мя пулемётными коробами.
-ent-ClothingBackpackDuffelWeaponLightMachineGunM492CBURN = Набор М492 "Выжигатель"
-    .desc = Набор М492 с 3мя пулемётными коробами зажигательных специально для подразделений РХБЗЗ.
-ent-ClothingBackpackDuffelSyndicateSuperAmmoFilled = Набор "Оружейная лавка"
-    .desc = Большой боекомплект для всего отряда! В набор входят: коробка магазинов для C-20r, коробка барабанов для «Бульдога», коробка магазинов для L6 SAW и россыпные патроны, коробка магазинов для «Эстока», коробка магазинов для «Драгунова», а также коробка безгильзовых патронов.
+# [AUTO_EN]
+ent-ClothingBackpackDuffelWeaponRifleM52Filled = M-52 Set
+    .desc = Premium assault rifle with 3 PPM magazines and 3 standard magazines.
+# [AUTO_EN]
+ent-ClothingBackpackDuffelWeaponRifleSKM24FilledCBURN = SKM-24 "Fakel" set
+    .desc = SKM-24 with 6 incendiary magazines.
+# [AUTO_EN]
+ent-ClothingBackpackDuffelWeaponRifleSKM28FilledCBURN = SKM-28 "Fire Extinguisher" Set
+    .desc = SKM-28 with 6 incendiary magazines.
+# [AUTO_EN]
+ent-ClothingBackpackDuffelWeaponLightMachineGunM492 = M492 Smart Gun Set
+    .desc = M492 set with 2 machine gun boxes.
+# [AUTO_EN]
+ent-ClothingBackpackDuffelWeaponLightMachineGunM492CBURN = M492 "Burner" Set
+    .desc = M492 set with 3 flamethrower canisters, specifically for chemical, biological, radiological and nuclear defense units.
+# [AUTO_EN]
+ent-ClothingBackpackDuffelSyndicateSuperAmmoFilled = "Arms Dealer" set
+    .desc = Large ammo loadout for the entire squad! The set includes: a box of mags for the C-20r, a box of drum mags for the Bulldog, a box of mags for the L6 SAW, loose rounds, a box of mags for the Estok, a box of mags for the Dragunov, and a box of rimless rounds.

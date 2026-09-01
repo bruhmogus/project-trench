@@ -6,8 +6,9 @@ compatibility-mode-warning-text =
     Please disable Compatibility Mode within the [bold]Space Station 14 launcher settings[/bold] by unchecking the "Compatibility Mode" option. Afterward, close the game and reconnect to the server. 
     
     [italic]If you are unable to disable Compatibility Mode, please do the following: ECS -> Settings -> SCP Settings -> Compatibility Mode Warning.[/italic]
+# [AUTO_EN]
 compatibility-mode-warning-text =
-    ​[bold]На сервере используются множество шейдеров и эффектов, которые не работают в режим совместимости. Поэтому они были автоматически отключены, отчего игра может выглядеть странно и неправильно.[/bold]
-    Пожалуйста, выключите режим совместимости в [bold]настройках лаунчера Space Station 14[/bold], убрав галочку с пункта Режим Совместимости. После закройте игру и перезайдите на сервер.
+    [bold]The server uses many shaders and effects that do not work in compatibility mode. Therefore, they have been automatically disabled, which may cause the game to look strange and incorrect.[/bold]
+    Please disable compatibility mode in [bold]Space Station 14 launcher settings[/bold] by unchecking the Compatibility Mode option. Then close the game and rejoin the server.
     ​
-    ​[italic]Если вы не можете выключить режим совместимости сделайте следующее: ECS -> Настройки -> Настройки SCP -> Предупреждение о режиме совместимости.[/italic]
+    ​[italic]If you cannot disable compatibility mode, do the following: ECS -> Settings -> SCP Settings -> Compatibility Mode Warning.[/italic]

@@ -52,24 +52,31 @@ ent-ClothingHandsPowerGlovesUplinkNTERTGammaLeader = ERT Power Gloves
 ent-ClothingHandsPowerGlovesUplinkNTERTCBURN = CBURN Power Gloves
     .desc = Duraplast fireproof gloves laced with a drop of phlogiston — a custom modification developed for CBURN squads. Deliver NanoTrasen’s bureaucratic greetings to the infection — in flames.
     .suffix = Uplink, CBURN
+# [AUTO_EN]
 ent-UplinkNTERTAmber = { ent-BaseUplinkNTERT }
-    .suffix = 75 БК, 75К, ОБР, Эмбер
+    .suffix = 75 BK, 75K, OBR, Amber
     .desc = { ent-BaseUplinkNTERT.desc }
+# [AUTO_EN]
 ent-UplinkNTERTRed = { ent-BaseUplinkNTERT }
-    .suffix = 100 БК, 100К, ОБР, Красный
+    .suffix = 100 BC, 100K, OBR, Red
     .desc = { ent-BaseUplinkNTERT.desc }
+# [AUTO_EN]
 ent-UplinkNTERTGamma = { ent-BaseUplinkNTERT }
-    .suffix = 200 БК, 200К, ОБР, Гамма
+    .suffix = 200 B, 200K, OBRA, Gamma
     .desc = { ent-BaseUplinkNTERT.desc }
+# [AUTO_EN]
 ent-UplinkNTERTEpsilon = { ent-BaseUplinkNTERT }
-    .suffix = 150 БК, 150К, Эпсилон
+    .suffix = 150 BC, 150K, Epsilon
     .desc = { ent-BaseUplinkNTERT.desc }
-ent-UplinkNTERTBlueShield = блюспейс визионер синего щита
-    .desc = Ультрасовременный портативный блюспейс телепортер.
-    .suffix = 8BC, 10C, Синий щит
+# [AUTO_EN]
+ent-UplinkNTERTBlueShield = Blue Shield Vision
+    .desc = Ultra-modern portable blue space teleporter.
+    .suffix = 8BC, 10C, Blue Shield
+# [AUTO_EN]
 ent-UplinkNTERTDebug = { ent-BaseUplinkNTERT }
-    .suffix = 999, ДЕБАГ
+    .suffix = 999, DEBUG
     .desc = { ent-BaseUplinkNTERT.desc }
-ent-ClothingHandsPowerGlovesUplinkNTERTEpsilon = силовые перчатки
-    .desc = Прочные, огнеупорные перчатки из дюрапласта. Ни слова по нанотрейзенски.
-    .suffix = Аплинк, Эпсилон
+# [AUTO_EN]
+ent-ClothingHandsPowerGlovesUplinkNTERTEpsilon = power gloves
+    .desc = Durable, fire-resistant gloves made of duraplast. No words about nanotread.
+    .suffix = Uplink, Epsilon

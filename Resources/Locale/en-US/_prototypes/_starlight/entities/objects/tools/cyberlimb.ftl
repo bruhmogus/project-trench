@@ -8,21 +8,30 @@ ent-WirecutterCyber = wirecutter
     .desc = This kills the wire.
 ent-WelderCyber = welding tool
     .desc = Melts anything as long as it's fueled, don't forget your eye protection!
-ent-PowerDrillCyber = электродрель
-    .desc = Простая дрель с электроприводом в вашей руке.
-ent-JawsOfLifeCyber = челюсти жизни
-    .desc = Набор челюстей жизни, скомпонованных при помощи магии науки в вашей руке.
-ent-WelderExperimentalCyber = прототип сварочного аппарата
-    .desc = Плавит что угодно, пока заправлен...фактически всегда заправлен, не забудьте о минимальной защите для глаз!
-ent-CyberMiniHoe = мини тяпка
-    .desc = Они используются для удаления сорняков, впрочем, ими можно почесать спину.
-ent-CyberClippers = секатор
-    .desc = Инструмент, используемый для взятия образцов семян растений.
-ent-CyberScythe = коса
-    .desc = Острое изогнутое лезвие на короткой рукоятке, этот инструмент позволяет легко пожинать то, что вы сеете.
-ent-CyberHatchet = топорик
-    .desc = Очень острое лезвие топора на короткой рукоятке. У него долгая историю измельчения предметов, но сейчас используется для колки дров.
-ent-CyberSpade = лопатка
-    .desc = Небольшой инструмент для копания и перемещения грунта.
-ent-AdvMopCyber = продвинутая кибер-швабра
-    .desc = Моторизованная швабра с резервуаром. Система автоматического противодействия клоунам в комплект не входит.
+# [AUTO_EN]
+ent-PowerDrillCyber = electric drill
+    .desc = A simple electric drill in your hand.
+# [AUTO_EN]
+ent-JawsOfLifeCyber = jaws of life
+    .desc = A set of jaws of life, assembled with the magic of science in your hand.
+# [AUTO_EN]
+ent-WelderExperimentalCyber = prototype welding machine
+    .desc = Melts anything as long as it's fueled... actually always fueled, don't forget minimal eye protection!
+# [AUTO_EN]
+ent-CyberMiniHoe = mini hoe
+    .desc = They are used to remove weeds, though they can also be used to scratch one's back.
+# [AUTO_EN]
+ent-CyberClippers = pruner
+    .desc = A tool used for taking plant seed samples.
+# [AUTO_EN]
+ent-CyberScythe = scythe
+    .desc = A sharp curved blade on a short handle, this tool makes it easy to reap what you sow.
+# [AUTO_EN]
+ent-CyberHatchet = axe
+    .desc = A very sharp axe blade on a short handle. It has a long history of chopping things, but is now used for splitting firewood.
+# [AUTO_EN]
+ent-CyberSpade = blade
+    .desc = A small tool for digging and moving soil.
+# [AUTO_EN]
+ent-AdvMopCyber = advanced cyber mop
+    .desc = Motorized mop with tank. The anti-clown system is not included in the package.

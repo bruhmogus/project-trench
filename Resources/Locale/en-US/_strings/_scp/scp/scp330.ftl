@@ -1,16 +1,22 @@
-scp330-bowl-empty = Миска пуста...
-scp330-removed-hands = ВАШИ КИСТИ ОТВАЛИЛИСЬ!
-scp330-cant-see-count = Отсюда не разглядеть, сколько их осталось...
+# [AUTO_EN]
+scp330-bowl-empty = The bowl is empty...
+# [AUTO_EN]
+scp330-removed-hands = YOUR HANDS WERE RIPPED OFF!
+# [AUTO_EN]
+scp330-cant-see-count = From here, you can't see how many are left...
+# [AUTO_EN]
 scp330-see-count =
-    В миске { $count ->
-        [one] осталась { $count } конфета
-        [few] осталось { $count } конфеты
-       *[other] осталось { $count } конфет
+    In the bowl { $count ->
+        [one] remained { $count } candy
+        [few] remained { $count } candies
+       *[other] remained { $count } candies
     }
+# [AUTO_EN]
 scp330-can-take =
-    Если следовать инструкции, я могу взять еще { $count ->
-        [one] { $count } конфету
-        [few] { $count } конфеты
-       *[other] { $count } конфет
+    If I follow the instructions, I can take another { $count ->
+        [one] { $count } candy
+        [few] { $count } candies
+       *[other] { $count } candies
     }.
-scp330-can-not-take = Если следовать инструкции, я больше не должен брать конфет.
+# [AUTO_EN]
+scp330-can-not-take = If I follow the instructions, I should no longer take the candy.

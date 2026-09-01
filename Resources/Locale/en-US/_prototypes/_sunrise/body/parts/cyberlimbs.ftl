@@ -1,28 +1,42 @@
-ent-RightArmCyberRobust = правая кибер рука «Робаст»
+# [AUTO_EN]
+ent-RightArmCyberRobust = right cyber arm "Robust"
     .desc = { ent-PartCyber.desc }
-ent-LeftArmCyberRobust = левая кибер рука «Робаст»
+# [AUTO_EN]
+ent-LeftArmCyberRobust = left cyber arm "Robust"
     .desc = { ent-PartCyber.desc }
-ent-LeftArmCyberJanitorial = левая «Убор-рука»
+# [AUTO_EN]
+ent-LeftArmCyberJanitorial = left "Cleaner Arm"
     .desc = { ent-PartCyber.desc }
-ent-RightArmCyberJanitorial = правая «Убор-рука»
+# [AUTO_EN]
+ent-RightArmCyberJanitorial = right "Clean-Hand"
     .desc = { ent-PartCyber.desc }
-ent-LeftArmCyberUpgradedMechwright = левая кибер рука «Фиксика»
+# [AUTO_EN]
+ent-LeftArmCyberUpgradedMechwright = left cyber arm "Fixie"
     .desc = { ent-PartCyber.desc }
-ent-RightArmCyberUpgradedMechwright = правая кибер рука «Фиксика»
+# [AUTO_EN]
+ent-RightArmCyberUpgradedMechwright = right cyber arm "Fixie"
     .desc = { ent-PartCyber.desc }
-ent-LeftArmCyberBonesaw = левая кибер рука Косторез
+# [AUTO_EN]
+ent-LeftArmCyberBonesaw = left cyber arm BoneSaw
     .desc = { ent-PartCyber.desc }
-ent-RightArmCyberBonesaw = правая кибер рука Косторез
+# [AUTO_EN]
+ent-RightArmCyberBonesaw = right cyber arm Bone Saw
     .desc = { ent-PartCyber.desc }
-ent-LeftArmCyberHack = левая рука «НетРаннера»
+# [AUTO_EN]
+ent-LeftArmCyberHack = left arm "NoRunner"
     .desc = { ent-PartCyber.desc }
-ent-RightArmCyberHack = правая рука «НетРаннера»
+# [AUTO_EN]
+ent-RightArmCyberHack = right arm "NoRunner"
     .desc = { ent-PartCyber.desc }
-ent-LeftArmCyberAtmos = левая рука «Атмосианина»
+# [AUTO_EN]
+ent-LeftArmCyberAtmos = left arm "Atmosian"
     .desc = { ent-PartCyber.desc }
-ent-RightArmCyberAtmos = правая рука «Атмосианина»
+# [AUTO_EN]
+ent-RightArmCyberAtmos = right arm of "Atmosian"
     .desc = { ent-PartCyber.desc }
-ent-LeftArmCyberRipper = левая рука «Риппера»
+# [AUTO_EN]
+ent-LeftArmCyberRipper = Left Arm "Ripper"
     .desc = { ent-PartCyber.desc }
-ent-RightArmCyberRipper = правая рука «Риппера»
+# [AUTO_EN]
+ent-RightArmCyberRipper = Right Arm "Ripper"
     .desc = { ent-PartCyber.desc }

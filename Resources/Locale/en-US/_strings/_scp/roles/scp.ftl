@@ -27,9 +27,15 @@ job-name-scp3288 = SCP-3288 "The Aristocrats"
 job-description-scp3288-servant = A lower-class individual of the realm, bound to obey their masters. Organize feasts and balls, cook human flesh, and entertain the aristocrats.
 job-description-scp3288-knight = A defender of the Habsburg dynasty. Patrol the territory, protect purebred individuals, and ruthlessly destroy outsiders.
 job-description-scp3288-aristocrat = An influential mutant with sadistic tendencies. Devour human flesh, issue orders to servants, and enjoy yourself.
-job-name-scp131 = SCP-131 «Каплеглазики»
-job-description-scp131 = Небольшие безобидные механические существа, обладающие большим выделяющимся глазом.
-job-name-scp1508 = SCP-1508 «Майки, Друг-Уборщик»
-job-description-scp1508 = Верный картонный друг, который старается помогать людям.
-job-name-scp2295 = SCP-2295 «Медведь с тряпичным сердцем»
-job-description-scp2295 = Дружелюбный тряпичный медведь, который лечит людей.
+# [AUTO_EN]
+job-name-scp131 = SCP-131 "Droptears"
+# [AUTO_EN]
+job-description-scp131 = Small harmless mechanical creatures with a large protruding eye.
+# [AUTO_EN]
+job-name-scp1508 = SCP-1508 "Mickey, the Cleaning Man"
+# [AUTO_EN]
+job-description-scp1508 = A loyal cardboard friend who tries to help people.
+# [AUTO_EN]
+job-name-scp2295 = SCP-2295 "Teddy bear with a rag heart"
+# [AUTO_EN]
+job-description-scp2295 = A friendly rag doll bear that heals people.

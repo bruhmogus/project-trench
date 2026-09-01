@@ -79,27 +79,39 @@ ent-RandomHumanoidSpawnerCluwne = Cluwne
 ent-RandomHumanoidSpawnerCBURNUnitEVA = CBURN Agent
     .suffix = ERTRole, Heavy
     .desc = { ent-RandomHumanoidSpawnerCBURNUnit.desc }
-ent-LostCargoTechnicianSpawner = потерявшийся грузчик спавнер
+# [AUTO_EN]
+ent-LostCargoTechnicianSpawner = lost cargo technician spawner
     .desc = { ent-MarkerBase.desc }
-ent-RandomHumanoidLostCargoTechnician = потерявшийся грузчик роль призрака
+# [AUTO_EN]
+ent-RandomHumanoidLostCargoTechnician = lost cargo technician ghost role
     .desc = { "" }
-ent-ClownTroupeSpawner = клоунская труппа спавнер
+# [AUTO_EN]
+ent-ClownTroupeSpawner = clown troupe spawner
     .desc = { ent-MarkerBase.desc }
-ent-RandomHumanoidClownTroupe = клоунская труппа роль призрака
+# [AUTO_EN]
+ent-RandomHumanoidClownTroupe = clown troupe ghost role
     .desc = { "" }
-ent-TravelingChefSpawner = путешествующий шеф-повар спавнер
+# [AUTO_EN]
+ent-TravelingChefSpawner = traveling chef-spawner
     .desc = { ent-MarkerBase.desc }
-ent-RandomHumanoidTravelingChef = путешествующий шеф-повар роль призрака
+# [AUTO_EN]
+ent-RandomHumanoidTravelingChef = traveling chef ghost role
     .desc = { "" }
-ent-DisasterVictimSpawner = жертва катастрофы спавнер
+# [AUTO_EN]
+ent-DisasterVictimSpawner = disaster victim spawner
     .desc = { ent-MarkerBase.desc }
-ent-RandomHumanoidDisasterVictimRD = жертва катастрофы НР роль призрака
+# [AUTO_EN]
+ent-RandomHumanoidDisasterVictimRD = NR disaster victim role ghost
     .desc = { "" }
-ent-RandomHumanoidDisasterVictimCMO = жертва катастрофы ГВ роль призрака
+# [AUTO_EN]
+ent-RandomHumanoidDisasterVictimCMO = Giant Virus victim role as a ghost
     .desc = { ent-RandomHumanoidDisasterVictimRD.desc }
-ent-RandomHumanoidDisasterVictimCaptain = жертва катастрофы Капитан роль призрака
+# [AUTO_EN]
+ent-RandomHumanoidDisasterVictimCaptain = disaster victim Captain ghost role
     .desc = { ent-RandomHumanoidDisasterVictimRD.desc }
-ent-SyndieDisasterVictimSpawner = жертва катастрофы Синдикат спавнер
+# [AUTO_EN]
+ent-SyndieDisasterVictimSpawner = Syndicate Disaster Victim Spawner
     .desc = { ent-MarkerBase.desc }
-ent-RandomHumanoidSyndieDisasterVictim = жертва катастрофы Синдикат роль призрака
+# [AUTO_EN]
+ent-RandomHumanoidSyndieDisasterVictim = Syndicate disaster victim role ghost
     .desc = { "" }

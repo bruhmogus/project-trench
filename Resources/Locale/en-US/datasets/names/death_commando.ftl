@@ -57,102 +57,201 @@ names-death-commando-dataset-56 = Theodore Pain
 names-death-commando-dataset-57 = Thick McRunfast
 names-death-commando-dataset-58 = Touch Rustrod
 names-death-commando-dataset-59 = Trunk Slamchest
-names-death-commando-dataset-60 = Я тут главный
-names-death-commando-dataset-61 = Иностранный Агент
-names-death-commando-dataset-62 = Перма Бан
-names-death-commando-dataset-63 = Сас Импостер
-names-death-commando-dataset-64 = Друг Админа
-names-death-commando-dataset-65 = Гайан Рослинг
-names-death-commando-dataset-66 = Гига Гад
-names-death-commando-dataset-67 = Опасный для общества
-names-death-commando-dataset-68 = Пират Чёрной Лагуны
-names-death-commando-dataset-69 = Любитель Пива
-names-death-commando-dataset-70 = Первый Раз
-names-death-commando-dataset-71 = Анта Гонист
-names-death-commando-dataset-72 = Физик Ядерщик
-names-death-commando-dataset-73 = Грей Тайд
-names-death-commando-dataset-74 = Аннигиляторная Пушка
-names-death-commando-dataset-75 = Номад Бродяга
-names-death-commando-dataset-76 = Руки Вверх
-names-death-commando-dataset-77 = Засланный Казачок
-names-death-commando-dataset-78 = Вечно Молодой
-names-death-commando-dataset-79 = Сектор Газа
-names-death-commando-dataset-80 = Нубас Срочник
-names-death-commando-dataset-81 = Безумно Первый
-names-death-commando-dataset-82 = Новый Пират
-names-death-commando-dataset-83 = Мёртвый Анархист
-names-death-commando-dataset-84 = Устрой Дестрой
-names-death-commando-dataset-85 = Космический Мудак
-names-death-commando-dataset-86 = Павер Геймер
-names-death-commando-dataset-87 = Само Антаг
-names-death-commando-dataset-88 = Псих Неуравновешенный
-names-death-commando-dataset-89 = Убийца Убийцевич
-names-death-commando-dataset-90 = Юность в Сапогах
-names-death-commando-dataset-91 = Агент Взрывных Дел
-names-death-commando-dataset-92 = Кибер Панк
-names-death-commando-dataset-93 = Ради Денег
-names-death-commando-dataset-94 = Шоколадный Заяц
-names-death-commando-dataset-95 = Продам Гараж
-names-death-commando-dataset-96 = Друг Валера
-names-death-commando-dataset-97 = Подозрительный Тип
-names-death-commando-dataset-98 = Брат Два
-names-death-commando-dataset-99 = Убью за ушки
-names-death-commando-dataset-100 = Убивать убивать убивать
-names-death-commando-dataset-101 = Запах Напалма
-names-death-commando-dataset-102 = Чёткий Пацан
-names-death-commando-dataset-103 = Жажда Скорости
-names-death-commando-dataset-104 = Космическая Резня
-names-death-commando-dataset-105 = Борис Хрен Попадёшь
-names-death-commando-dataset-106 = Конченый Идиот
-names-death-commando-dataset-107 = Самый сексуальный мужик в мире
-names-death-commando-dataset-108 = Горячая Чикса
-names-death-commando-dataset-109 = Злодей Британец
-names-death-commando-dataset-110 = Так себе шутник
-names-death-commando-dataset-111 = Пубертатная Язва
-names-death-commando-dataset-112 = Какой-то Мужик
-names-death-commando-dataset-113 = Недопонятый Гений
-names-death-commando-dataset-114 = Ветеран всех войн
-names-death-commando-dataset-115 = Терминатор Два
-names-death-commando-dataset-116 = Неопознанный Ходячий Объект
-names-death-commando-dataset-117 = РОБЕРТ ПОЛСОН
-names-death-commando-dataset-118 = Попаданец из другого мира
-names-death-commando-dataset-119 = Убиватор Три Тысячи
-names-death-commando-dataset-120 = Роб Астер
-names-death-commando-dataset-121 = Ядерная боеголовка
-names-death-commando-dataset-122 = Увукер
-names-death-commando-dataset-123 = Король Качалки
-names-death-commando-dataset-124 = Мастер Пещер
-names-death-commando-dataset-125 = Карпорожденный
-names-death-commando-dataset-126 = Олег
-names-death-commando-dataset-127 = Поклонник Хаоса
-names-death-commando-dataset-128 = Мастер Джек
-names-death-commando-dataset-129 = Золотой Мажор
-names-death-commando-dataset-130 = Мёртвый Внутри
-names-death-commando-dataset-131 = Подпивасник
-names-death-commando-dataset-132 = Пивозавр
-names-death-commando-dataset-133 = Любитель Мива
-names-death-commando-dataset-134 = Милая Тянка
-names-death-commando-dataset-135 = БезОБИДНЫЙ ребёнок
-names-death-commando-dataset-136 = Район Гуслинг
-names-death-commando-dataset-137 = Тайлер Дурден
-names-death-commando-dataset-138 = Брет Пид
-names-death-commando-dataset-139 = Илан Саск
-names-death-commando-dataset-140 = Стив Бобс
-names-death-commando-dataset-141 = Жеф Без Ос
-names-death-commando-dataset-142 = Гилл Бейтс
-names-death-commando-dataset-143 = Смилл Уитт
-names-death-commando-dataset-144 = Леонардо
-names-death-commando-dataset-145 = Микеланджело
-names-death-commando-dataset-146 = Рафаэль
-names-death-commando-dataset-147 = Донателло
-names-death-commando-dataset-148 = Бенедикт Кибердвач
-names-death-commando-dataset-149 = Гари Топпер
-names-death-commando-dataset-150 = СиДжей
-names-death-commando-dataset-151 = Коммандер Эпсилон
-names-death-commando-dataset-152 = Шерлол Хохмс
-names-death-commando-dataset-153 = Том Круиз
-names-death-commando-dataset-154 = Донни Джепп
-names-death-commando-dataset-155 = Арбузер
-names-death-commando-dataset-156 = Спанч Поп
-names-death-commando-dataset-157 = Уолтер Белый
-names-death-commando-dataset-158 = Джесси Розовый
+# [AUTO_EN]
+names-death-commando-dataset-60 = I'm the boss here.
+# [AUTO_EN]
+names-death-commando-dataset-61 = Foreign Agent
+# [AUTO_EN]
+names-death-commando-dataset-62 = Perma Ban
+# [AUTO_EN]
+names-death-commando-dataset-63 = Sas Imposter
+# [AUTO_EN]
+names-death-commando-dataset-64 = Admin's Friend
+# [AUTO_EN]
+names-death-commando-dataset-65 = Gaián Rosling
+# [AUTO_EN]
+names-death-commando-dataset-66 = Giga Gad
+# [AUTO_EN]
+names-death-commando-dataset-67 = Dangerous to society
+# [AUTO_EN]
+names-death-commando-dataset-68 = Black Laguna Pirate
+# [AUTO_EN]
+names-death-commando-dataset-69 = Beer Lover
+# [AUTO_EN]
+names-death-commando-dataset-70 = First Time
+# [AUTO_EN]
+names-death-commando-dataset-71 = Anta Gonist
+# [AUTO_EN]
+names-death-commando-dataset-72 = Nuclear Physicist
+# [AUTO_EN]
+names-death-commando-dataset-73 = Grey Tide
+# [AUTO_EN]
+names-death-commando-dataset-74 = Annihilator Cannon
+# [AUTO_EN]
+names-death-commando-dataset-75 = Nomad Wanderer
+# [AUTO_EN]
+names-death-commando-dataset-76 = Hands Up
+# [AUTO_EN]
+names-death-commando-dataset-77 = The sent Cossack
+# [AUTO_EN]
+names-death-commando-dataset-78 = Eternal Youth
+# [AUTO_EN]
+names-death-commando-dataset-79 = Gaza Strip
+# [AUTO_EN]
+names-death-commando-dataset-80 = Nubas Srochnik
+# [AUTO_EN]
+names-death-commando-dataset-81 = Mad First
+# [AUTO_EN]
+names-death-commando-dataset-82 = New Pirate
+# [AUTO_EN]
+names-death-commando-dataset-83 = Dead Anarchist
+# [AUTO_EN]
+names-death-commando-dataset-84 = Deploy Destroyer
+# [AUTO_EN]
+names-death-commando-dataset-85 = Space Mudak
+# [AUTO_EN]
+names-death-commando-dataset-86 = Power Gamer
+# [AUTO_EN]
+names-death-commando-dataset-87 = Self Antag
+# [AUTO_EN]
+names-death-commando-dataset-88 = Unbalanced Psych
+# [AUTO_EN]
+names-death-commando-dataset-89 = The Killer of Killers
+# [AUTO_EN]
+names-death-commando-dataset-90 = Youth in Boots
+# [AUTO_EN]
+names-death-commando-dataset-91 = Agent Explosive Affairs
+# [AUTO_EN]
+names-death-commando-dataset-92 = Cyber Punk
+# [AUTO_EN]
+names-death-commando-dataset-93 = For the Money
+# [AUTO_EN]
+names-death-commando-dataset-94 = Chocolate Bunny
+# [AUTO_EN]
+names-death-commando-dataset-95 = For sale: Garage
+# [AUTO_EN]
+names-death-commando-dataset-96 = Valera's friend
+# [AUTO_EN]
+names-death-commando-dataset-97 = Suspicious Type
+# [AUTO_EN]
+names-death-commando-dataset-98 = Brother Two
+# [AUTO_EN]
+names-death-commando-dataset-99 = I'll cut off your ears.
+# [AUTO_EN]
+names-death-commando-dataset-100 = Kill kill kill
+# [AUTO_EN]
+names-death-commando-dataset-101 = Stink of Napalm
+# [AUTO_EN]
+names-death-commando-dataset-102 = Clear Kid
+# [AUTO_EN]
+names-death-commando-dataset-103 = Thirst for Speed
+# [AUTO_EN]
+names-death-commando-dataset-104 = Cosmic Massacre
+# [AUTO_EN]
+names-death-commando-dataset-105 = Boris Khren Popodesh
+# [AUTO_EN]
+names-death-commando-dataset-106 = F***ing Idiot
+# [AUTO_EN]
+names-death-commando-dataset-107 = The sexiest man in the world
+# [AUTO_EN]
+names-death-commando-dataset-108 = Hot Chicka
+# [AUTO_EN]
+names-death-commando-dataset-109 = Villain Brit
+# [AUTO_EN]
+names-death-commando-dataset-110 = So-so joker
+# [AUTO_EN]
+names-death-commando-dataset-111 = Pubertal Ulcer
+# [AUTO_EN]
+names-death-commando-dataset-112 = Some guy
+# [AUTO_EN]
+names-death-commando-dataset-113 = Unrecognized Genius
+# [AUTO_EN]
+names-death-commando-dataset-114 = Veteran of all wars
+# [AUTO_EN]
+names-death-commando-dataset-115 = Terminator Two
+# [AUTO_EN]
+names-death-commando-dataset-116 = Unidentified Walking Object
+# [AUTO_EN]
+names-death-commando-dataset-117 = ROBERT POLSON
+# [AUTO_EN]
+names-death-commando-dataset-118 = A transmigrator from another world
+# [AUTO_EN]
+names-death-commando-dataset-119 = Thousandkiller
+# [AUTO_EN]
+names-death-commando-dataset-120 = Rob Aster
+# [AUTO_EN]
+names-death-commando-dataset-121 = Nuclear warhead
+# [AUTO_EN]
+names-death-commando-dataset-122 = Uvuker
+# [AUTO_EN]
+names-death-commando-dataset-123 = King of the Bench
+# [AUTO_EN]
+names-death-commando-dataset-124 = Cave Master
+# [AUTO_EN]
+names-death-commando-dataset-125 = Carporborn
+# [AUTO_EN]
+names-death-commando-dataset-126 = Oleg
+# [AUTO_EN]
+names-death-commando-dataset-127 = Chaos Cultist
+# [AUTO_EN]
+names-death-commando-dataset-128 = Master Jack
+# [AUTO_EN]
+names-death-commando-dataset-129 = Golden Major
+# [AUTO_EN]
+names-death-commando-dataset-130 = Dead Inside
+# [AUTO_EN]
+names-death-commando-dataset-131 = Underdrinker
+# [AUTO_EN]
+names-death-commando-dataset-132 = Pivozaur
+# [AUTO_EN]
+names-death-commando-dataset-133 = Miva fan
+# [AUTO_EN]
+names-death-commando-dataset-134 = Dear Tanya
+# [AUTO_EN]
+names-death-commando-dataset-135 = Unoffended child
+# [AUTO_EN]
+names-death-commando-dataset-136 = Guslin District
+# [AUTO_EN]
+names-death-commando-dataset-137 = Tyler Durden
+# [AUTO_EN]
+names-death-commando-dataset-138 = Brett Pid
+# [AUTO_EN]
+names-death-commando-dataset-139 = Ilan Sask
+# [AUTO_EN]
+names-death-commando-dataset-140 = Steve Bobbs
+# [AUTO_EN]
+names-death-commando-dataset-141 = Jeff Without Off
+# [AUTO_EN]
+names-death-commando-dataset-142 = Gill Bates
+# [AUTO_EN]
+names-death-commando-dataset-143 = Smile White
+# [AUTO_EN]
+names-death-commando-dataset-144 = Leonardo
+# [AUTO_EN]
+names-death-commando-dataset-145 = Michelangelo
+# [AUTO_EN]
+names-death-commando-dataset-146 = Raphael
+# [AUTO_EN]
+names-death-commando-dataset-147 = Donatello
+# [AUTO_EN]
+names-death-commando-dataset-148 = Benedict Cyberdutch
+# [AUTO_EN]
+names-death-commando-dataset-149 = Gari Topper
+# [AUTO_EN]
+names-death-commando-dataset-150 = S.J.
+# [AUTO_EN]
+names-death-commando-dataset-151 = Commander Epsilon
+# [AUTO_EN]
+names-death-commando-dataset-152 = Sherlock Holmes
+# [AUTO_EN]
+names-death-commando-dataset-153 = Tom Cruise
+# [AUTO_EN]
+names-death-commando-dataset-154 = Donnie Jeppe
+# [AUTO_EN]
+names-death-commando-dataset-155 = Watermelon
+# [AUTO_EN]
+names-death-commando-dataset-156 = SpongeBob
+# [AUTO_EN]
+names-death-commando-dataset-157 = Walter White
+# [AUTO_EN]
+names-death-commando-dataset-158 = Jessie Pink

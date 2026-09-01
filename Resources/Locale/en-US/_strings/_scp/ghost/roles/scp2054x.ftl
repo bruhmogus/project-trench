@@ -9,10 +9,12 @@ You are forbidden from concealing the bodies of killed witnesses in locations wh
 objective-issuer-scp-2054-x = Dictated by a twisted mind
 scp-2054-x-role-greeting = As a result of an unknown parapsychological process, you have materialized within the shadows of the facility, having copied one of its staff members. Your original counterpart is still alive. Eliminate them and take their place. Act with stealth to ensure no one detects your... substitution..
 scp-2054-x-ghost-name-modifier = { $baseName } (SCP-2054-X)
+# [AUTO_EN]
 ghost-role-information-scp-2054-x-description =
-    В результате неизвестного парапсихологического процесса вы сформировались в тени комплекса, скопировав одного из сотрудников.
-    Вы SCP-2054-X — враждебная аномалия-копия человека, цель которой — уничтожение подлинной личности и её замещение.
+    As a result of an unknown parapsychological process, you formed in the shadow of the complex, copying one of its employees.
+    You are SCP-2054-X, a hostile anomalous copy of a human, whose purpose is the destruction of the original personality and its replacement.
+# [AUTO_EN]
 ghost-role-information-scp-2054-x-rules =
-    ​[bold]Правила игры за SCP-2054-X, двойник[/bold]
-    Ваша задача - устранение оригинала и его замена. Поэтому вам запрещается убивать свидетелей вашего убийства оригинала, если их больше или равно 3 человек.
-    Запрещается прятать тела убитых свидетелей в места, где их никто не найдет. Например, в шкафчик на безлюдном посту Службы безопасности.
+    [bold]Rules for playing SCP-2054-X, the double[/bold]
+    Your task is to eliminate the original and replace it. Therefore, you are forbidden from killing witnesses to your murder of the original if there are three or more of them.
+    It is forbidden to hide the bodies of the killed witnesses in places where they will not be found. For example, in a locker at an unoccupied Security Service post.

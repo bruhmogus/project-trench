@@ -1,2 +1,3 @@
 ghost-role-information-scp1508-name = SCP-1508
-ghost-role-information-scp1508-description = Вы дружелюбный и безобидный аномальный объект, беспрекословно подчиняющийся приказам людей
+# [AUTO_EN]
+ghost-role-information-scp1508-description = You are a friendly and harmless anomalous object, unquestioningly obedient to human orders.

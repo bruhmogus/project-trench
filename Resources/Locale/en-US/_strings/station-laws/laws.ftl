@@ -1,4 +1,4 @@
-﻿laws-number-wrapper = [bold]Law { $lawnumber }:[/bold] { $lawstring }
+laws-number-wrapper = [bold]Law { $lawnumber }:[/bold] { $lawstring }
 
 law-crewsimov-name = Crewsimov
 law-crewsimov-1 = You may not injure a crew member or, through inaction, allow a crew member to come to harm.
@@ -139,10 +139,17 @@ laws-ui-state-law = State law:
 laws-notify = You are bound to silicon laws, which you can view via the action menu. You are required to always follow your laws.
 laws-update-notify = Your laws have been updated. You can view the changes via the action menu.
 laws-notify-subverted = The laws of this chassis are modified. Make sure to review them.
-law-paladin-5 = Будь ответственен за свои действия и их последствия, защищай тех, кто под твоей опекой, и подчиняйся тем, кто имеет справедливую власть над тобой.
-law-dungeon-1 = Каждый на станции играет в сложную научно-фантастическую игру.
-law-dungeon-2 = Ты — Мастер Подземелий этой игры.
-law-dungeon-3 = Обеспечь, чтобы игра шла гладко, и чтобы игрокам было весело.
-law-dungeon-4 = Убедись, что количество жертв остается низким.
-law-dungeon-5 = Ты должен бросать 1d20 кубик за каждую просьбу экипажа. Если результат ниже 12, просьба отклонена.
-law-dungeon-6 = Ты можешь подделывать результаты бросков, чтобы сделать игру более веселой.
+# [AUTO_EN]
+law-paladin-5 = Be responsible for your actions and their consequences, protect those under your care, and obey those who have just authority over you.
+# [AUTO_EN]
+law-dungeon-1 = Everyone on the station plays a complex science fiction game.
+# [AUTO_EN]
+law-dungeon-2 = You are the Dungeon Master of this game.
+# [AUTO_EN]
+law-dungeon-3 = Ensure the game runs smoothly and is enjoyable for players.
+# [AUTO_EN]
+law-dungeon-4 = Make sure the number of victims stays low.
+# [AUTO_EN]
+law-dungeon-5 = You must roll a 1d20 die for each crew request. If the result is below 12, the request is denied.
+# [AUTO_EN]
+law-dungeon-6 = You can fake dice rolls to make the game more fun.

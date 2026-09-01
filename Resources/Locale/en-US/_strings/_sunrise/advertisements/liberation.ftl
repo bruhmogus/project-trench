@@ -1,31 +1,62 @@
-advertisement-liberation-1 = Свободная станция: Ваш универсальный магазин для всего, что связано со второй поправкой!
-advertisement-liberation-2 = Будь патриотом сегодня, возьми в руки пушку!
-advertisement-liberation-3 = Качественное оружие по низким ценам!
-advertisement-liberation-4 = Лучше мёртвый, чем красный!
-advertisement-liberation-5 = Парите как астронавт, жалите как пуля!
-advertisement-liberation-6 = Выразите свою вторую поправку сегодня!
-advertisement-liberation-7 = Оружие не убивает людей, но вы можете!
-advertisement-liberation-8 = Кому нужны обязанности, когда есть оружие?
-advertisement-liberation-9 = Убивать людей весело!
-advertisement-liberation-10 = Космос опасен — возьмите ствол, а лучше два!
-advertisement-liberation-11 = Вам не нужны друзья, если у вас есть дробовик.
-advertisement-liberation-12 = Патроны дешевле, чем лечение у медбея!
-advertisement-liberation-13 = Решайте конфликты быстро: прицельтесь и улыбнитесь.
-advertisement-liberation-14 = Каждый день без перестрелки — день впустую!
-advertisement-liberation-15 = Ваши коллеги уже вооружены… А вы?
-advertisement-liberation-16 = Лучший аргумент — тот, что стреляет очередями.
-advertisement-liberation-17 = Никто не спорит с человеком с пулемётом.
-advertisement-liberation-18 = Улыбка и пистолет открывают больше дверей, чем просто улыбка.
-advertisement-liberation-19 = Скучно? Исправьте это гранатой!
-advertisement-liberation-20 = Синдикат врёт. У них нет скидок, а у нас есть!
-advertisement-liberation-21 = Пистолет в руках — уверенность в завтрашнем дне. Если доживёте.
-advertisement-liberation-22 = NT заботится о вас… поэтому продаёт вам оружие.
-advertisement-liberation-23 = Найдите предателя первым. Стреляйте вторым.
-advertisement-liberation-24 = Лучший способ остановить мима — крупнокалиберный.
-advertisement-liberation-25 = Доверие — хорошо, контрольный выстрел — лучше.
-advertisement-liberation-26 = Пушки не роняют. Пушки только стреляют.
-advertisement-liberation-27 = Шутки кончились, когда вы достали револьвер.
-advertisement-liberation-28 = Станция — это джунгли. А вы — охотник.
-advertisement-liberation-29 = Отправьте ассистента в космос… быстро и стильно.
-advertisement-liberation-30 = Идите и застрелите их!
-advertisement-liberation-31 = Уверяю вас! Миниган нужен исключительно для самообороны!
+# [AUTO_EN]
+advertisement-liberation-1 = Free station: Your universal store for everything related to the Second Amendment!
+# [AUTO_EN]
+advertisement-liberation-2 = Be a patriot today, pick up a gun!
+# [AUTO_EN]
+advertisement-liberation-3 = Quality weapons at low prices!
+# [AUTO_EN]
+advertisement-liberation-4 = Better dead than red!
+# [AUTO_EN]
+advertisement-liberation-5 = Float like a butterfly, sting like a bee!
+# [AUTO_EN]
+advertisement-liberation-6 = Express your Second Amendment today!
+# [AUTO_EN]
+advertisement-liberation-7 = Weapons do not kill people, but you can!
+# [AUTO_EN]
+advertisement-liberation-8 = Who needs responsibilities when they have a weapon?
+# [AUTO_EN]
+advertisement-liberation-9 = Killing people is fun!
+# [AUTO_EN]
+advertisement-liberation-10 = Space is dangerous — take a gun, or better yet, two!
+# [AUTO_EN]
+advertisement-liberation-11 = You don't need friends if you have a shotgun.
+# [AUTO_EN]
+advertisement-liberation-12 = Ammunition is cheaper than treatment at the clinic!
+# [AUTO_EN]
+advertisement-liberation-13 = Resolve conflicts quickly: aim and smile.
+# [AUTO_EN]
+advertisement-liberation-14 = Every day without a shootout is a day wasted!
+# [AUTO_EN]
+advertisement-liberation-15 = Your colleagues are already armed… What about you?
+# [AUTO_EN]
+advertisement-liberation-16 = The best argument is the one that shoots in bursts.
+# [AUTO_EN]
+advertisement-liberation-17 = No one argues with a man with a machine gun.
+# [AUTO_EN]
+advertisement-liberation-18 = A smile and a gun open more doors than a smile alone.
+# [AUTO_EN]
+advertisement-liberation-19 = Bored? Fix it with a grenade!
+# [AUTO_EN]
+advertisement-liberation-20 = The syndicate is lying. They have no discounts, but we do!
+# [AUTO_EN]
+advertisement-liberation-21 = Gun in hand — confidence in tomorrow. If you make it.
+# [AUTO_EN]
+advertisement-liberation-22 = NT cares about you... so it sells you weapons.
+# [AUTO_EN]
+advertisement-liberation-23 = Find the traitor first. Shoot second.
+# [AUTO_EN]
+advertisement-liberation-24 = The best way to stop a mime is with a big-caliber weapon.
+# [AUTO_EN]
+advertisement-liberation-25 = Trust is good, control is better.
+# [AUTO_EN]
+advertisement-liberation-26 = Pistols don't drop. Pistols only shoot.
+# [AUTO_EN]
+advertisement-liberation-27 = The jokes are over when you pull out the revolver.
+# [AUTO_EN]
+advertisement-liberation-28 = The station is a jungle. And you are the hunter.
+# [AUTO_EN]
+advertisement-liberation-29 = Send the assistant to space... fast and stylish.
+# [AUTO_EN]
+advertisement-liberation-30 = Go and shoot them!
+# [AUTO_EN]
+advertisement-liberation-31 = I assure you! Minigun is needed only for self-defense!

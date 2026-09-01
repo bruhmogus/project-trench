@@ -20,6 +20,7 @@ ent-ClothingHeadsetAltFreelancer = freelancer's over-ear headset
     .desc = { ent-ClothingHeadsetAlt.desc }
 ent-ClothingHeadsetAltWizard = wizard's over-ear headset
     .desc = { ent-ClothingHeadsetAlt.desc }
+# [AUTO_EN]
 ent-ClothingHeadsetAltCentComFake = { ent-ClothingHeadsetAltCentCom }
-    .suffix = Фальшивый
+    .suffix = Fake
     .desc = { ent-ClothingHeadsetAltCentCom.desc }

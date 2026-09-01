@@ -19,5 +19,6 @@ surveillance-camera-setup-ui-set = Set
 
 wire-name-camera-map = MAP
 # Sunrise-Edit
-surveillance-camera-monitor-ui-flavor-left = Не смотрите в душевую капитана
+# [AUTO_EN]
+surveillance-camera-monitor-ui-flavor-left = Do not look into the captain's shower
 surveillance-camera-monitor-ui-flavor-right = v1.2

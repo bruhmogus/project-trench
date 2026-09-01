@@ -3,11 +3,19 @@ id-card-access-level-brigmedic = Brigmedic
 id-card-access-level-cadet = Cadet
 id-card-access-level-robotics = Robotics
 id-card-access-level-pirate = Pirate
-id-card-access-level-blueshield = Синий Щит
-id-card-access-level-ntrep = Представитель О4
-id-card-access-level-magistrat = Магистрат
-id-card-access-level-barber = Парикмахер
-id-card-access-level-mail = Почтальйон
-id-card-access-level-cargo-purchase-access = Снабжение: заказы
-id-card-access-level-research-console-access = Науч. исследования
-id-card-access-level-mining = Шахтёр
+# [AUTO_EN]
+id-card-access-level-blueshield = Blue Shield
+# [AUTO_EN]
+id-card-access-level-ntrep = O4 Representative
+# [AUTO_EN]
+id-card-access-level-magistrat = Magistrate
+# [AUTO_EN]
+id-card-access-level-barber = Barber
+# [AUTO_EN]
+id-card-access-level-mail = Mailman
+# [AUTO_EN]
+id-card-access-level-cargo-purchase-access = Provisioning: Orders
+# [AUTO_EN]
+id-card-access-level-research-console-access = Scientific research
+# [AUTO_EN]
+id-card-access-level-mining = Miner

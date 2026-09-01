@@ -1,2 +1,3 @@
-ent-CrateResearchServer = ящик сервера РнД
-    .desc = Содержит упакованный сервер исследований и несколько исследовательских компьютеров. Требуется доступ в научный отдел для открытия.
+# [AUTO_EN]
+ent-CrateResearchServer = server crate R&D
+    .desc = Contains a packaged research server and several research computers. Access to the science department is required to open.

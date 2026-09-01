@@ -16,19 +16,27 @@ ent-VestSecUpgrade = Upgrade Kit (Security Vest)
     .desc = A modification kit for the standard security vest. Replaces the cheap protective fiber with a high-grade synthetic material, turning it into a durable, high-quality version. Also adds a couple of pouches that do not restrict movement.
 ent-GauntletGORILLAUpgradeKit = G.O.R.I.L.L.A. gauntlet upgrade chip
     .desc = An experimental upgrade kit for the G.O.R.I.L.L.A.
-ent-VestSecUpgradeWeb = комплект (тактический бронежилет)
-    .desc = Комплект модификации бронежилета СБ. Полностью заменяет защитное волокно на качественный синтетический аналог, превращая дешёвую броню в прочную и дорогую версию, а также добавляет пару подсумков, не сковывающих движение.
-ent-VestSecUpgradePlate = комплект (плитоносец)
-    .desc = Комплект модификации стандартного бронежилета. Превращает его в современный плитоносец с креплениями под жёсткие бронепластины, обеспечивая высокую защиту от огнестрела и возможность дальнейших улучшений.
-ent-VestSecUpgradeBullet = комплект (противопульный бронежилет)
-    .desc = Комплект модернизации противопульного жилета. Заменяет стальные пластины на многослойные композиты, обеспечивая максимальную защиту от пуль без потери мобильности.
-ent-VestSecUpgradeBulletHeavy = комплект (тяжёлый противопульный бронежилет)
-    .desc = Комплект глубокой модернизации противопульного жилета. Добавляет дюратканевые и поликарбонатные вставки, обеспечивая максимальную защиту от пуль и увеличенную защиту от прочих типов при небольшом снижении подвижности.
-ent-VestSecUpgradeStab = комплект (колюще-режущий бронежилет)
-    .desc = Комплект модификации бронежилета. Упрочняет материал против ножевых и колющих атак за счёт дюротканевого волокна и кевларовых вставок.
-ent-VestSecUpgradeRiot = комплект (противоударный костюм)
-    .desc = Комплект модификации колюще-режущего бронежилета. Оснащает его дополнительными демпфирующими слоями и жёсткими пластинами на конечности для защиты от ударов дубинок и рукопашных атак.
-ent-VestSecUpgradeHeat = комплект (теплопоглощающий бронежилет)
-    .desc = Комплект модификации жилета для защиты от высоких температур. Включает термостойкие материалы и поглощающие вставки, уменьшающие воздействие лазеров и плазмы.
-ent-VestSecUpgradeReflective = комплект (отражающий бронежилет)
-    .desc = Комплект модернизации жилета. Добавляет отражающее покрытие и энергоэкранирующий слой, позволяющий частично перенаправлять лазерные выстрелы.
+# [AUTO_EN]
+ent-VestSecUpgradeWeb = kit (tactical body armor)
+    .desc = VestSec Upgrade Web kit. Fully replaces the protective fiber with a high-quality synthetic alternative, turning cheap armor into a strong and expensive version, and also adds a pair of pouches that do not restrict movement.
+# [AUTO_EN]
+ent-VestSecUpgradePlate = kit (plate carrier)
+    .desc = Standard body armor modification kit. Converts it into a modern plate carrier with attachments for hard ballistic plates, providing high protection against gunfire and allowing for further upgrades.
+# [AUTO_EN]
+ent-VestSecUpgradeBullet = kit (anti-munition vest)
+    .desc = VestSec Upgrade Bulletproof Vest Kit. Replaces steel plates with multi-layered composites, providing maximum protection against bullets without compromising mobility.
+# [AUTO_EN]
+ent-VestSecUpgradeBulletHeavy = set (heavy bulletproof vest)
+    .desc = Deep upgrade kit for bulletproof vest. Adds Kevlar and polycarbonate inserts, providing maximum protection against bullets and increased protection against other types with only a slight reduction in mobility.
+# [AUTO_EN]
+ent-VestSecUpgradeStab = set (stab-resistant body armor)
+    .desc = Armor vest modification kit. Strengthens material against knife and piercing attacks thanks to durotextile fiber and Kevlar inserts.
+# [AUTO_EN]
+ent-VestSecUpgradeRiot = set (anti-strike suit)
+    .desc = Armor modification kit for a stab-and-cut ballistic vest. Equips it with additional damping layers and rigid plates on the limbs to protect against baton strikes and hand-to-hand combat.
+# [AUTO_EN]
+ent-VestSecUpgradeHeat = set (heat-absorbing body armor)
+    .desc = Vest modification kit for protection against high temperatures. Includes heat-resistant materials and absorbing inserts that reduce the impact of lasers and plasma.
+# [AUTO_EN]
+ent-VestSecUpgradeReflective = set (reflective vest)
+    .desc = Vest upgrade kit. Adds reflective coating and energy shielding layer, allowing partial redirection of laser shots.

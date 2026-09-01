@@ -19,6 +19,7 @@ ent-BorgChassisPirateBattery = { ent-BorgChassisPirate }
     .suffix = Battery, Module, Pirate
 ent-BorgChassisSecurityCombat = { ent-PlayerBorgSecurityCombatBattery }
     .desc = { ent-PlayerBorgSecurityCombatBattery.desc }
+# [AUTO_EN]
 ent-PlayerBorgChassisSyndicateSpiderBattery = { ent-BorgChassisSyndicateSpider }
     .desc = { ent-BorgChassisSyndicateSpider.desc }
-    .suffix = батарея, инструменты
+    .suffix = battery, tools

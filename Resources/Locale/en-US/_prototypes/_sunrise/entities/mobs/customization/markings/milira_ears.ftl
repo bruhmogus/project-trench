@@ -1,5 +1,10 @@
-marking-MiliraEars = Стандартные уши
-marking-MiliraEarsShortened = Стандартные укороченные уши
-marking-MiliraEarsStraight = Прямые уши
-marking-MiliraEarsCurved = Изогнутые уши
-marking-MiliraEarsCurvedShortened = Изогнутые укороченные уши
+# [AUTO_EN]
+marking-MiliraEars = Standard ears
+# [AUTO_EN]
+marking-MiliraEarsShortened = Standard shortened ears
+# [AUTO_EN]
+marking-MiliraEarsStraight = Straight ears
+# [AUTO_EN]
+marking-MiliraEarsCurved = Curved ears
+# [AUTO_EN]
+marking-MiliraEarsCurvedShortened = Curved shortened ears

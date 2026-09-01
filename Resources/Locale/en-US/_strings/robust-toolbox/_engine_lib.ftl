@@ -5,44 +5,49 @@ zzzz-the =
         [true] { $ent }
     }
 # Used internally by the SUBJECT() function.
+# [AUTO_EN]
 zzzz-subject-pronoun =
     { GENDER($ent) ->
-        [male] он
-        [female] она
-        [epicene] они
-       *[neuter] оно
+        [male] he
+        [female] she
+        [epicene] they
+       *[neuter] it
     }
 # Used internally by the OBJECT() function.
+# [AUTO_EN]
 zzzz-object-pronoun =
     { GENDER($ent) ->
-        [male] его
-        [female] её
-        [epicene] их
-       *[neuter] его
+        [male] his
+        [female] her
+        [epicene] their
+       *[neuter] its
     }
 # Used internally by the POSS-PRONOUN() function.
+# [AUTO_EN]
 zzzz-possessive-pronoun =
     { GENDER($ent) ->
-        [male] его
-        [female] её
-        [epicene] их
-       *[neuter] его
+        [male] his
+        [female] her
+        [epicene] their
+       *[neuter] its
     }
 # Used internally by the POSS-ADJ() function.
+# [AUTO_EN]
 zzzz-possessive-adjective =
     { GENDER($ent) ->
-        [male] его
-        [female] её
-        [epicene] их
-       *[neuter] его
+        [male] his
+        [female] her
+        [epicene] their
+       *[neuter] its
     }
 # Used internally by the REFLEXIVE() function.
+# [AUTO_EN]
 zzzz-reflexive-pronoun =
     { GENDER($ent) ->
-        [male] сам
-        [female] сама
-        [epicene] сами
-       *[neuter] сам
+        [male] self
+        [female] herself
+        [epicene] themselves
+       *[neuter] self
     }
 # Used internally by the CONJUGATE-BE() function.
 zzzz-conjugate-be =
@@ -51,10 +56,11 @@ zzzz-conjugate-be =
        *[other] is
     }
 # Used internally by the CONJUGATE-HAVE() function.
+# [AUTO_EN]
 zzzz-conjugate-have =
     { GENDER($ent) ->
-        [epicene] имеют
-       *[other] имеет
+        [epicene] have
+       *[other] has
     }
 # Used internally by the CONJUGATE-BASIC() function.
 zzzz-conjugate-basic =

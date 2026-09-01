@@ -1,4 +1,8 @@
-device-frequency-prototype-name-shuttle-timer = Таймер эвакуационного шаттла
-device-frequency-prototype-name-arrivals-shuttle-timer = Таймер шаттла прибытия
-device-frequency-prototype-name-surveillance-camera = Камеры видеонаблюдения
-device-frequency-prototype-name-body-camera = Бодикамеры
+# [AUTO_EN]
+device-frequency-prototype-name-shuttle-timer = Evacuation shuttle timer
+# [AUTO_EN]
+device-frequency-prototype-name-arrivals-shuttle-timer = Shuttle arrival timer
+# [AUTO_EN]
+device-frequency-prototype-name-surveillance-camera = Surveillance cameras
+# [AUTO_EN]
+device-frequency-prototype-name-body-camera = Body cameras

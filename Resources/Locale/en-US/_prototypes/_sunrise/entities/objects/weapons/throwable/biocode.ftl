@@ -1,3 +1,4 @@
-ent-BolaSyndicateBiocode = кроваво-красная бола
-    .desc = Кроваво-красная синдиката, предназначенная явно не для мирных целей.
-    .suffix = БИОКОД
+# [AUTO_EN]
+ent-BolaSyndicateBiocode = bloody red bola
+    .desc = Blood-red syndicate, clearly not for peaceful purposes.
+    .suffix = BIOCODE

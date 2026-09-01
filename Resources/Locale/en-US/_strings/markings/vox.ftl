@@ -1,8 +1,16 @@
-marking-VoxLArmScales = Вокс, Левая рука, Чешуя
-marking-VoxLHandScales = Вокс, Левая ладонь, Чешуя
-marking-VoxRArmScales = Вокс, Правая рука, Чешуя
-marking-VoxRHandScales = Вокс, Правая ладонь, Чешуя
-marking-VoxLFootScales = Вокс, Левая ступня, Чешуя
-marking-VoxLLegScales = Вокс, Левая нога, Чешуя
-marking-VoxRFootScales = Вокс, Правая ступня, Чешуя
-marking-VoxRLegScales = Вокс, Правая нога, Чешуя
+# [AUTO_EN]
+marking-VoxLArmScales = Vox, Left Arm, Scale
+# [AUTO_EN]
+marking-VoxLHandScales = Vox, Left Hand, Scale
+# [AUTO_EN]
+marking-VoxRArmScales = Vox, Right Arm, Scale
+# [AUTO_EN]
+marking-VoxRHandScales = Vox, Right Hand, Scale
+# [AUTO_EN]
+marking-VoxLFootScales = Vox, Left Foot, Scale
+# [AUTO_EN]
+marking-VoxLLegScales = Vox, Left Leg, Scale
+# [AUTO_EN]
+marking-VoxRFootScales = Vox, Right Foot, Scale
+# [AUTO_EN]
+marking-VoxRLegScales = Vox, Right Leg, Scale

@@ -15,5 +15,7 @@ reagent-name-space-mountain-wind-sunrise = Fresh Space Solar Wind
 reagent-name-space-up-sunrise = Fresh Space-Up
 reagent-name-starkist-sunrise = Fresh Starkist
 reagent-name-fourteen-loko-sunrise = Fresh Fourteen Loko
-reagent-name-shamblers-juice-sunrise = Fresh Shambler's Juicereagent-name-fourteen-loko-plus = фоуртин локо плюс
-reagent-desc-fourteen-loko-plus = Сильно переработанная жидкая субстанция с элиментами стимулирующих веществ, едва ли соответствующая межгалактическим стандартам безопасности для безалкогольного напитка.
+# [AUTO_EN]
+reagent-name-shamblers-juice-sunrise = Fresh Shambler's Juicefourteen-loko-plus = fourteen loko plus
+# [AUTO_EN]
+reagent-desc-fourteen-loko-plus = Heavily processed liquid substance with stimulating elements, hardly meeting intergalactic safety standards for a non-alcoholic beverage.

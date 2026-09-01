@@ -19,11 +19,16 @@ input-key-F13 = F13
 input-key-F14 = F14
 input-key-F15 = F15
 input-key-Pause = Pause
-input-key-Left = Влево
-input-key-Up = Вверх
-input-key-Down = Вниз
-input-key-Right = Вправо
-input-key-Space = Пробел
+# [AUTO_EN]
+input-key-Left = Left
+# [AUTO_EN]
+input-key-Up = Up
+# [AUTO_EN]
+input-key-Down = Down
+# [AUTO_EN]
+input-key-Right = Right
+# [AUTO_EN]
+input-key-Space = Space
 input-key-Return = Return
 input-key-NumpadEnter = Num Enter
 input-key-NumpadNum0 = Numpad 0
@@ -49,9 +54,12 @@ input-key-End = End
 input-key-Home = Home
 input-key-Insert = Insert
 input-key-Delete = Delete
-input-key-MouseLeft = ЛКМ
-input-key-MouseRight = ПКМ
-input-key-MouseMiddle = СКМ
+# [AUTO_EN]
+input-key-MouseLeft = LMB
+# [AUTO_EN]
+input-key-MouseRight = Right-click
+# [AUTO_EN]
+input-key-MouseMiddle = SCM
 input-key-MouseButton4 = Mouse 4
 input-key-MouseButton5 = Mouse 5
 input-key-MouseButton6 = Mouse 6

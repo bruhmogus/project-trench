@@ -9,8 +9,10 @@ ent-ClothingHeadHelmetPirateOld = pirate hardsuit helmet
     .suffix = Pirate, Sunrise
 ent-ClothingHeadHelmetPirateAlt2 = pirate EVA helmet
     .desc = A helmet for a hardsuit.
-ent-ClothingHeadHelmetHardsuitScaf = шлем скуфандра EVA
-    .desc = Крепкий шлем. Внутри пропах злостью прежнего владельца.
-    .suffix = Пират
-ent-ClothingHeadHelmetEVAMilira = EVA шлем милир
-    .desc = EVA шлем специально для милир.
+# [AUTO_EN]
+ent-ClothingHeadHelmetHardsuitScaf = EVA scuba helmet
+    .desc = Sturdy helmet. Inside, it smells of the former owner's malice.
+    .suffix = Pirate
+# [AUTO_EN]
+ent-ClothingHeadHelmetEVAMilira = EVA Milira helmet
+    .desc = EVA helmet specifically for Milira.

@@ -12,8 +12,10 @@ ent-ClothingShoesBootsMagSyndie = blood-red magboots
     .desc = Reverse-engineered magnetic boots that have a heavy magnetic pull and integrated thrusters. It can hold 0.75 L of gas.
 ent-ActionToggleMagboots = Toggle Magboots
     .desc = Toggles the magboots on and off.
-ent-ClothingShoesBootsMagERT = магнитные сапоги обр
-    .desc = Усовершенствованные магнитные ботинки, используемые группами быстрого реагирования компании нанотрейзен, обладают мощным магнитным притяжением и встроенными двигателями. Вмещает 0,75 л газа.
+# [AUTO_EN]
+ent-ClothingShoesBootsMagERT = magnetic boots ob
+    .desc = Enhanced magnetic boots used by the Nanotrexon rapid response teams feature powerful magnetic attraction and built-in engines. They hold 0.75 liters of gas.
+# [AUTO_EN]
 ent-ClothingShoesBootsMagSyndieBiocode = { ent-ClothingShoesBootsMagSyndie }
-    .suffix = БИОКОД
+    .suffix = BIOCODE
     .desc = { ent-ClothingShoesBootsMagSyndie.desc }

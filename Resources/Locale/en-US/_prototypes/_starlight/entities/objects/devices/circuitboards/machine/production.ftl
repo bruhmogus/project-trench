@@ -1,2 +1,3 @@
-ent-ScanGateMachineCircuitboard = плата ScanGate
-    .desc = Машинная печатная плата для сканирующих врат.
+# [AUTO_EN]
+ent-ScanGateMachineCircuitboard = ScanGate circuit board
+    .desc = Machine printed circuit board for scanning gates.

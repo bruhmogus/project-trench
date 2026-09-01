@@ -1,5 +1,10 @@
-lockeyes-command-description = Предотвращает дальнейший поворот зрения
-lockeyes-command-help = Использование: lockeyes <true/false>
-rotateeyes-command-description = Поворачивает зрение всех игроков на указанный градус.
-rotateeyes-command-help = Использование: rotateeyes <degrees (default 0)>
-rotateeyes-command-count = Установить { $count } поворот зрения
+# [AUTO_EN]
+lockeyes-command-description = Prevents further turning of the eyes.
+# [AUTO_EN]
+lockeyes-command-help = Usage: lockeyes <true/false>
+# [AUTO_EN]
+rotateeyes-command-description = Rotates the vision of all players to the specified degrees.
+# [AUTO_EN]
+rotateeyes-command-help = Usage: rotateeyes <degrees (default 0)>
+# [AUTO_EN]
+rotateeyes-command-count = Set { $count } eye rotations

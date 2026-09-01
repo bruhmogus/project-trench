@@ -1,2 +1,3 @@
-ent-BookBusido = Бусидо. Избранные главы
-    .desc = Справочник для самураев, отаку и диванных генералов.
+# [AUTO_EN]
+ent-BookBusido = Bushido. Selected Chapters
+    .desc = A guide for samurai, otaku, and couch generals.

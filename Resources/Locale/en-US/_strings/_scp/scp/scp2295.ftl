@@ -1,2 +1,3 @@
 ghost-role-information-scp2295-name = SCP-2295
-ghost-role-information-scp2295-description = Вы дружелюбный и безобидный аномальный объект, призванный лечить персонал комплекса
+# [AUTO_EN]
+ghost-role-information-scp2295-description = You are a friendly and harmless anomalous object designed to heal complex personnel.

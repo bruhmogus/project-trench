@@ -78,6 +78,7 @@ job-name-ussp-officer = USSP Officer
 job-name-ussp-officer-alt = USSP Officer (alt)
 job-name-ussp-soldier = USSP Soldier
 job-name-ussp-captain = USSP Captain
-ent-RandomHumanoidSpawnerERTEngineerAmberEVA = ОБР инженер
-    .suffix = Роль ОБР, Амбер, EVA
+# [AUTO_EN]
+ent-RandomHumanoidSpawnerERTEngineerAmberEVA = OB Engineer
+    .suffix = Role OB, Amber, EVA
     .desc = { ent-RandomHumanoidSpawnerERTEngineerAmber.desc }

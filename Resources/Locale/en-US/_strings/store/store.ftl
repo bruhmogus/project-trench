@@ -16,6 +16,9 @@ store-preset-name-uplink = Uplink
 store-preset-name-spellbook = Spellbook
 store-preset-name-nukie-delivery = NukeOps Bluespace Delivery
 store-preset-name-changeling = DNA Store
-store-preset-name-ntuplink = Визионер
-store-preset-name-exchanger = Обменник
-store-preset-name-blackmarket = Чёртный рынок
+# [AUTO_EN]
+store-preset-name-ntuplink = Visionary
+# [AUTO_EN]
+store-preset-name-exchanger = Exchanger
+# [AUTO_EN]
+store-preset-name-blackmarket = Blackmarket

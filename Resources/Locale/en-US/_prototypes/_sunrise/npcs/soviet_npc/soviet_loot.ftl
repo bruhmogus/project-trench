@@ -17,63 +17,117 @@ ent-SovietPinSpawnerT3 = pin spawner T3
     .desc = Randomly spawns a rare Soviet pin.
 ent-SovietSmokingSpawner = Soviet smoking spawner
     .desc = Randomly spawns Soviet smoking supplies.
-ent-SovietSoldierPoolLootSpawner = спавнер лута советского бойца
-    .desc = Случайно спавнит один элемент экипировки советского бойца.
-ent-SovietMedicalSupplySpawner = спавнер медицинских припасов
-    .desc = Случайно спавнит один предмет медицинских припасов из набора охранного медицинского торгового автомата.
-ent-SovietMedicalSupplyRandomSpawner = случайный спавнер медицинских припасов
-    .desc = Случайно решает, появится ли предмет медицинских припасов советского бойца.
-ent-SovietMarineWebbingBox = набор экипировки USSP
-    .desc = Контейнер с комплектом снаряжения морпеха USSP.
-ent-SovietLightWebbingBox = набор экипировки USSP
-    .desc = Контейнер с легким комплектом снаряжения USSP.
-ent-SovietMessengerGiftBox = набор снаряжения советского бойца
-    .desc = Контейнер с комплектом экипировки советской экспедиции.
-ent-ClothingBeltWebbingSovietTier1SKM24SL = разгрузка советского бойца
-ent-ClothingBeltWebbingSovietTier1PPSHSL = разгрузка советского бойца
-ent-ClothingBeltWebbingSovietTier1SKM24 = разгрузка советского бойца
-ent-ClothingBeltWebbingSovietTier1Pistol = разгрузка советского бойца
-ent-ClothingBeltWebbingSovietTier2Revolver = разгрузка советского бойца
-ent-ClothingBeltWebbingMercenaryTier1Mosin = разгрузка советского бойца
-ent-ClothingBeltWebbingMercenaryTier2Shotgun = разгрузка советского бойца
-ent-ClothingBeltBandolierT1MMGSoviet = бандольер советского бойца
-ent-ClothingBeltBandolierT1LMGSoviet = бандольер советского бойца
-ent-ClothingBeltBandolierT1SovietMMG2 = бандольер советского бойца
-ent-ClothingBeltBandolierT2PPSH = бандольер советского бойца
-ent-ClothingBeltMedSovietTier1Medic = медицинский пояс советского бойца
-ent-ClothingBeltMedSovietTier3Pistol = медицинский пояс советского бойца
-ent-ClothingBeltMercenaryTier3Medic = штурмовой пояс советского медика
-ent-ClothingBeltMercenaryTier3Assault = штурмовой пояс советского бойца
-ent-ClothingBackpackDuffelMercenaryTier1Medic = советская сумка
-ent-ClothingBackpackDuffelMercenaryTier1Pistol = советская сумка
-ent-ClothingBackpackDuffelMercenaryTier1MMG = советская сумка
-ent-ClothingBackpackDuffelMercenaryTier1MMG2 = советская сумка
-ent-ClothingBackpackDuffelMercenaryTier1LMG = советская сумка
-ent-ClothingBackpackDuffelMercenaryTier1Mosin = советская сумка
-ent-ClothingBackpackDuffelMercenaryTier2Revolver = советская сумка
-ent-ClothingBackpackDuffelMercenaryTier2Shotgun = советская сумка
-ent-ClothingBackpackDuffelMercenaryTier3Medic = советская сумка
-ent-ClothingBackpackDuffelMercenaryTier3Assault = советская сумка
-ent-ClothingBackpackDuffelMercenaryTier4Captain = советская сумка
-ent-ClothingBackOreCrateTier2Gygax = советская сумка
-ent-ClothingHandsBlackShotgunSoviet = перчатки
-ent-ClothingHandsBlackPistolSovietFlak = перчатки
-ent-ClothingHandsSovietFlakDP28 = перчатки
-ent-ClothingHandsSovietFlakPKM = перчатки
-ent-ClothingHandsSovietFlakRPD = перчатки
-ent-ClothingHandsFinkaSovietFlak = перчатки
-ent-ClothingHandsFinkaSovietNoOuter = перчатки
-ent-ClothingHandsMercMosinSovietNoOuter = перчатки
-ent-ClothingHandsBottleSovietNoOuter = перчатки
-ent-ClothingHandsSKM24GSovietNoOuter = перчатки
-ent-ClothingHandsSKM24GSovietUSSPLight = перчатки
-ent-ClothingHandsPythonGSovietUSSPLight = перчатки
-ent-ClothingHandsSKM24BSovietFlak = перчатки
-ent-ClothingHandsSKM24BSovietWinter = перчатки
-ent-ClothingHandsMercRevolversSovietHoSTrench = перчатки
-ent-ClothingHandsBlackShotgunSovietUSSPHeavy = перчатки
-ent-ClothingHandsPPSHSoviet = перчатки
-ent-ClothingHandsPPSHSovietFlak = перчатки
-ent-ClothingHandsPPSHSovietNoOuter = перчатки
-ent-ClothingHandsDragunovSovietUSSPHeavy = перчатки
-ent-ClothingHandsType88SovietUSSPHeavy = перчатки
+# [AUTO_EN]
+ent-SovietSoldierPoolLootSpawner = Soviet soldier loot spawner
+    .desc = Randomly spawns one piece of Soviet soldier equipment.
+# [AUTO_EN]
+ent-SovietMedicalSupplySpawner = medical supply spawner
+    .desc = Randomly spawns one medical supply item from the security medical vending machine set.
+# [AUTO_EN]
+ent-SovietMedicalSupplyRandomSpawner = random medical supply spawner
+    .desc = Randomly decides whether a Soviet soldier's medical supplies item will spawn.
+# [AUTO_EN]
+ent-SovietMarineWebbingBox = USSP gear set
+    .desc = Container with a set of USSP Marine gear.
+# [AUTO_EN]
+ent-SovietLightWebbingBox = USSP equipment set
+    .desc = Container with a light set of USSP gear.
+# [AUTO_EN]
+ent-SovietMessengerGiftBox = Soviet soldier's gear set
+    .desc = Container with a kit of Soviet expedition gear.
+# [AUTO_EN]
+ent-ClothingBeltWebbingSovietTier1SKM24SL = unloading Soviet soldier
+# [AUTO_EN]
+ent-ClothingBeltWebbingSovietTier1PPSHSL = unloading Soviet soldier
+# [AUTO_EN]
+ent-ClothingBeltWebbingSovietTier1SKM24 = unloading Soviet soldier
+# [AUTO_EN]
+ent-ClothingBeltWebbingSovietTier1Pistol = unloading the Soviet soldier
+# [AUTO_EN]
+ent-ClothingBeltWebbingSovietTier2Revolver = unloading the Soviet soldier
+# [AUTO_EN]
+ent-ClothingBeltWebbingMercenaryTier1Mosin = unloading a Soviet soldier
+# [AUTO_EN]
+ent-ClothingBeltWebbingMercenaryTier2Shotgun = unloading Soviet soldier
+# [AUTO_EN]
+ent-ClothingBeltBandolierT1MMGSoviet = Soviet fighter bandolier
+# [AUTO_EN]
+ent-ClothingBeltBandolierT1LMGSoviet = Soviet fighter bandolier
+# [AUTO_EN]
+ent-ClothingBeltBandolierT1SovietMMG2 = Soviet soldier's bandolier
+# [AUTO_EN]
+ent-ClothingBeltBandolierT2PPSH = Soviet fighter bandolier
+# [AUTO_EN]
+ent-ClothingBeltMedSovietTier1Medic = medic belt of a Soviet soldier
+# [AUTO_EN]
+ent-ClothingBeltMedSovietTier3Pistol = medical belt of a Soviet soldier
+# [AUTO_EN]
+ent-ClothingBeltMercenaryTier3Medic = storm belt of a Soviet medic
+# [AUTO_EN]
+ent-ClothingBeltMercenaryTier3Assault = assault belt of a Soviet soldier
+# [AUTO_EN]
+ent-ClothingBackpackDuffelMercenaryTier1Medic = Soviet backpack
+# [AUTO_EN]
+ent-ClothingBackpackDuffelMercenaryTier1Pistol = Soviet bag
+# [AUTO_EN]
+ent-ClothingBackpackDuffelMercenaryTier1MMG = Soviet backpack
+# [AUTO_EN]
+ent-ClothingBackpackDuffelMercenaryTier1MMG2 = Soviet backpack
+# [AUTO_EN]
+ent-ClothingBackpackDuffelMercenaryTier1LMG = Soviet backpack
+# [AUTO_EN]
+ent-ClothingBackpackDuffelMercenaryTier1Mosin = Soviet bag
+# [AUTO_EN]
+ent-ClothingBackpackDuffelMercenaryTier2Revolver = Soviet bag
+# [AUTO_EN]
+ent-ClothingBackpackDuffelMercenaryTier2Shotgun = Soviet bag
+# [AUTO_EN]
+ent-ClothingBackpackDuffelMercenaryTier3Medic = Soviet backpack
+# [AUTO_EN]
+ent-ClothingBackpackDuffelMercenaryTier3Assault = Soviet bag
+# [AUTO_EN]
+ent-ClothingBackpackDuffelMercenaryTier4Captain = Soviet bag
+# [AUTO_EN]
+ent-ClothingBackOreCrateTier2Gygax = Soviet bag
+# [AUTO_EN]
+ent-ClothingHandsBlackShotgunSoviet = gloves
+# [AUTO_EN]
+ent-ClothingHandsBlackPistolSovietFlak = gloves
+# [AUTO_EN]
+ent-ClothingHandsSovietFlakDP28 = gloves
+# [AUTO_EN]
+ent-ClothingHandsSovietFlakPKM = gloves
+# [AUTO_EN]
+ent-ClothingHandsSovietFlakRPD = gloves
+# [AUTO_EN]
+ent-ClothingHandsFinkaSovietFlak = gloves
+# [AUTO_EN]
+ent-ClothingHandsFinkaSovietNoOuter = gloves
+# [AUTO_EN]
+ent-ClothingHandsMercMosinSovietNoOuter = gloves
+# [AUTO_EN]
+ent-ClothingHandsBottleSovietNoOuter = gloves
+# [AUTO_EN]
+ent-ClothingHandsSKM24GSovietNoOuter = gloves
+# [AUTO_EN]
+ent-ClothingHandsSKM24GSovietUSSPLight = gloves
+# [AUTO_EN]
+ent-ClothingHandsPythonGSovietUSSPLight = gloves
+# [AUTO_EN]
+ent-ClothingHandsSKM24BSovietFlak = gloves
+# [AUTO_EN]
+ent-ClothingHandsSKM24BSovietWinter = gloves
+# [AUTO_EN]
+ent-ClothingHandsMercRevolversSovietHoSTrench = gloves
+# [AUTO_EN]
+ent-ClothingHandsBlackShotgunSovietUSSPHeavy = gloves
+# [AUTO_EN]
+ent-ClothingHandsPPSHSoviet = gloves
+# [AUTO_EN]
+ent-ClothingHandsPPSHSovietFlak = gloves
+# [AUTO_EN]
+ent-ClothingHandsPPSHSovietNoOuter = gloves
+# [AUTO_EN]
+ent-ClothingHandsDragunovSovietUSSPHeavy = gloves
+# [AUTO_EN]
+ent-ClothingHandsType88SovietUSSPHeavy = gloves

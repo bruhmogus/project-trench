@@ -27,7 +27,9 @@ ent-DeathRattleImplantDeathSquad = death rattle implant death squad
     .desc = This implant will notify the Death Squad radio channel if the user is in critical condition or dies.
 ent-SELFStorageImplant = S.E.L.F storage implant
     .desc = This implant grants hidden storage within a person's body using bluespace technology.
-ent-RadioImplantFreelance = радиоимплант фриланса
-    .desc = Этот имплант предоставляет доступ к каналу Фриланса без гарнитуры.
-ent-DeathRattleImplantFreelance = имплант предсмертного хрипа фриланса
-    .desc = Этот имплант сообщит в радиоканал Фриланса, если пользователь окажется в критическом состоянии или умрёт.
+# [AUTO_EN]
+ent-RadioImplantFreelance = radio implant freelance
+    .desc = This implant provides access to the Freelance channel without a headset.
+# [AUTO_EN]
+ent-DeathRattleImplantFreelance = death rattle implant freelance
+    .desc = This implant will notify the Freelance radio channel if the user is in critical condition or dies.

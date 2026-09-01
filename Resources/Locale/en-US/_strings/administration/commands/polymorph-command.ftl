@@ -1,5 +1,10 @@
-polymorph-command-description = Когда хотите чтобы кто-то перестал быть персоной. Принимает entity и прототип полиморфа.
-polymorph-command-help-text = Использование: polymorph <id> <polymorph prototype>
-add-polymorph-action-command-description = Принимает сущность и выдаёт ей добровольный полиморф.
-add-polymorph-action-command-help-text = Использование: addpolymorphaction <id> <polymorph prototype>
-polymorph-not-valid-prototype-error = Прототип полиморфа не валиден.
+# [AUTO_EN]
+polymorph-command-description = When you want someone to stop being a person. Takes an entity and a polymorph prototype.
+# [AUTO_EN]
+polymorph-command-help-text = Usage: polymorph <id> <polymorph prototype>
+# [AUTO_EN]
+add-polymorph-action-command-description = Takes a creature and grants it a voluntary polymorph.
+# [AUTO_EN]
+add-polymorph-action-command-help-text = Usage: addpolymorphaction <id> <polymorph prototype>
+# [AUTO_EN]
+polymorph-not-valid-prototype-error = The polymorph prototype is not valid.

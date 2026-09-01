@@ -57,5 +57,7 @@ guide-entry-sr-rule-excep-10 = Exception/Precedent 10
 guide-entry-sr-rule-cep = Conflict Escalation Policy
 guide-entry-sr-rule-ccp = Character Creation Policy
 guide-entry-sr-rule-pana = Preventing the arrest of non-antagonists
-guide-entry-sr-rule-excep-3-2 = Исключение/прецедент 3.2
-guide-entry-sr-rule-excep-3-4 = Исключение/прецедент 3.4
+# [AUTO_EN]
+guide-entry-sr-rule-excep-3-2 = Exception/precedent 3.2
+# [AUTO_EN]
+guide-entry-sr-rule-excep-3-4 = Exception/precedent 3.4

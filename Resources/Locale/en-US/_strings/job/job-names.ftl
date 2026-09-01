@@ -128,14 +128,25 @@ job-title-tsf-trader = TSF Trader
 job-title-tsf-marine = TSF Marine
 job-title-tsf-marine-leader = TSF Team Leader
 job-title-tsf-MARSOC = MARSOC Marine
-job-name-centcomoperator = Оператор Центком
-job-name-centcomoff = представитель Центком
-job-name-ertleader-veteran = ОБР лидер (Ветеран)
-job-name-ertchaplain-veteran = ОБР священник (Ветеран)
-job-name-ertengineer-veteran = ОБР инженер (Ветеран)
-job-name-ertsecurity-veteran = ОБР офицер безопасности (Ветеран)
-job-name-ertmedic-veteran = ОБР медик (Ветеран)
-job-name-ertjanitor-veteran = ОБР уборщик (Ветеран)
-job-name-cburn-veteran = карантинный Офицер Центком (Ветеран)
-JobBoxer = боксёр
-JobZookeeper = зоотехник
+# [AUTO_EN]
+job-name-centcomoperator = Centcom Operator
+# [AUTO_EN]
+job-name-centcomoff = Centcom representative
+# [AUTO_EN]
+job-name-ertleader-veteran = JOB NAME ERT LEADER VETERAN
+# [AUTO_EN]
+job-name-ertchaplain-veteran = OBRI priest (Veteran)
+# [AUTO_EN]
+job-name-ertengineer-veteran = OBRE engineer (Veteran)
+# [AUTO_EN]
+job-name-ertsecurity-veteran = OBR security officer (Veteran)
+# [AUTO_EN]
+job-name-ertmedic-veteran = OB MEDIC (Veteran)
+# [AUTO_EN]
+job-name-ertjanitor-veteran = OBR cleaner (Veteran)
+# [AUTO_EN]
+job-name-cburn-veteran = quarantine Officer Centcom (Veteran)
+# [AUTO_EN]
+JobBoxer = boxer
+# [AUTO_EN]
+JobZookeeper = animal husbandman

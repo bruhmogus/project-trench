@@ -1,2 +1,3 @@
-ent-BunnyManjets = манжеты
-    .desc = Красивые манжеты от костюма.
+# [AUTO_EN]
+ent-BunnyManjets = cuffs
+    .desc = Beautiful sleeves from the costume.

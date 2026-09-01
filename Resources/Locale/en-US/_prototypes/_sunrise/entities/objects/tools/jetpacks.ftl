@@ -31,6 +31,7 @@ ent-JetpackSalvage = refurbished jetpack
 ent-JetpackSalvageFilled = refurbished jetpack
     .suffix = Filled
     .desc = { ent-JetpackSalvage.desc }
-ent-JetpackBorg = реактивный ранец борга
-    .suffix = Бесконечный
+# [AUTO_EN]
+ent-JetpackBorg = Borg jetpack
+    .suffix = Infinite
     .desc = { ent-JetpackXenoborg.desc }

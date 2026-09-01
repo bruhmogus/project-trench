@@ -1,22 +1,32 @@
 ent-OrganFelinidEyes = { ent-OrganHumanEyes }
     .desc = { ent-OrganHumanEyes.desc }
-ent-OrganFelinidTorso = туловище фелинида
+# [AUTO_EN]
+ent-OrganFelinidTorso = felinid torso
     .desc = { ent-PartHuman.desc }
-ent-OrganFelinidHead = голова фелинида
+# [AUTO_EN]
+ent-OrganFelinidHead = head of a felinid
     .desc = { ent-PartHuman.desc }
-ent-OrganFelinidArmLeft = левая рука фелинида
+# [AUTO_EN]
+ent-OrganFelinidArmLeft = left arm of a felinid
     .desc = { ent-PartHuman.desc }
-ent-OrganFelinidArmRight = правая рука фелинида
+# [AUTO_EN]
+ent-OrganFelinidArmRight = right arm of a felinid
     .desc = { ent-PartHuman.desc }
-ent-OrganFelinidHandLeft = левая кисть фелинида
+# [AUTO_EN]
+ent-OrganFelinidHandLeft = left felinid paw
     .desc = { ent-PartHuman.desc }
-ent-OrganFelinidHandRight = правая кисть фелинида
+# [AUTO_EN]
+ent-OrganFelinidHandRight = right paw of a felinid
     .desc = { ent-PartHuman.desc }
-ent-OrganFelinidLegLeft = левая нога фелинида
+# [AUTO_EN]
+ent-OrganFelinidLegLeft = left leg felinid
     .desc = { ent-PartHuman.desc }
-ent-OrganFelinidLegRight = правая нога фелинида
+# [AUTO_EN]
+ent-OrganFelinidLegRight = right leg of a felinid
     .desc = { ent-PartHuman.desc }
-ent-OrganFelinidFootLeft = левая стопа фелинида
+# [AUTO_EN]
+ent-OrganFelinidFootLeft = left foot felinid
     .desc = { ent-PartHuman.desc }
-ent-OrganFelinidFootRight = правая стопа фелинида
+# [AUTO_EN]
+ent-OrganFelinidFootRight = right foot felinid
     .desc = { ent-PartHuman.desc }

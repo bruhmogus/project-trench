@@ -146,5 +146,6 @@ ent-USSPSoldierOfficerDamagedIDCardRandomSpawner = random damaged USSP soldier o
     .desc = Spawns a random visual variant of a damaged USSP soldier officer ID card.
 ent-USSPCaptainDamagedIDCardRandomSpawner = random damaged USSP captain ID card spawner
     .desc = Spawns a random visual variant of a damaged USSP captain ID card.
-ent-CommaidIDCard = ID карта горничной командования
+# [AUTO_EN]
+ent-CommaidIDCard = ID card of the command maid
     .desc = { ent-IDCardStandard.desc }

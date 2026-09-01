@@ -98,4 +98,5 @@ air-alarm-ui-thresholds-lower-warning-bound = Warning below
 air-alarm-ui-thresholds-copy = Copy thresholds to all devices
 air-alarm-ui-thresholds-copy-tooltip = Copies the sensor thresholds of this device to all devices in this air alarm tab.
 air-alarm-ui-window-alarm-state = [color={ $color }]{ $state }[/color]
-air-alarm-ui-window-alarm-state-indicator = Статус: [color={ $color }]{ $state }[/color]
+# [AUTO_EN]
+air-alarm-ui-window-alarm-state-indicator = Status: [color={ $color }]{ $state }[/color]

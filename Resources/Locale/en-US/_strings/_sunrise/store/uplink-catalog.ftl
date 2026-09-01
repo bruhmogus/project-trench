@@ -1,4 +1,4 @@
-﻿uplink-core-extraction-toolbox-name = Core Extraction Toolbox
+uplink-core-extraction-toolbox-name = Core Extraction Toolbox
 uplink-core-extraction-toolbox-desc = A toolbox containing everything you need to remove a nuclear bomb's plutonium core. Instructions not included.
 uplink-exploding-syndicate-empbomb-desc = A big, anchored EMP bomb that cripples electronics if not defused in time. Adjustable timer with a minimum setting of 180 seconds; perfect for knocking out infrastructure.
 
@@ -365,76 +365,144 @@ uplink-estoc-name = Estoc DMR
 uplink-estoc-desc = A designated marksman rifle, fitted with a mid-range optic for longer-range combat.
 uplink-syndicate-ring-name = Syndicate Ring
 uplink-syndicate-ring-desc = A black-and-red ring that serves as the coupling core for assembling a double-bladed energy sword.
-uplink-magazine-shotgun-flechette-desc = Барабан с бронебойными флешеттами, пробивающими стены и укрытия, но с меньшей кучностью.
-uplink-magazine-bulldog-incendiary-desc = Барабанный магазин на 8 патронов зажигательной дроби, легко превращает гражданских в горящие спички.
-uplink-magazine-bauer127-extended-name = расширенный магазин Бауер127 (15мм антиматериальные)
-uplink-magazine-bauer127-extended-desc = Магазин для Бауер127. Содержит 15 патронов калибра .60 антиматериальный.
-uplink-magazine-dragunov-desc = Магазин для Драгунова. Содержит 10 патронов калибра 7,62х54R.
-uplink-magazine-dragunov-sp-desc = Магазин для Драгунова. Содержит 10 патронов калибра 7,62х54R.
-uplink-magazine-dragunov-fmj-desc = Магазин для Драгунова. Содержит 10 патронов ПП калибра 7,62х54R.
-uplink-magazine-dragunov-incendiary-desc = Магазин для Драгунова. Содержит 10 зажигательных патронов калибра 7,62х54R.
-uplink-magazine-dragunov-extended-desc = Магазин для Драгунова. Содержит 20 патронов калибра 7,62х54R.
-uplink-pistol-magnum-magazine-ap-name = Магазин (.45 магнум ББ)
-uplink-pistol-magnum-magazine-ap-desc = 7-зарядный однорядный магазин для пистолета. Содержит бронебойные патроны. Совместим с "Диглом".
-uplink-pistol-magazine-c40r-desc = Магазин ПП на 24 патрона. Совместим с C-40r.
-uplink-skm28-ammo-desc = Винтовочный магазин на 20 патронов. Совместим с SKM-28.
-uplink-skm24-ammo-desc = Винтовочный магазин на 30 патронов 7,62x39. Совместим с SKM-24.
-uplink-c40r-bundle-name = Набор "C-40r"
-uplink-c40r-bundle-desc = Культовый пистолет-пулемёт C-40r в комплекте с 12 магазинами разных типов.
+# [AUTO_EN]
+uplink-magazine-shotgun-flechette-desc = A drum of armor-piercing flechettes that penetrate walls and coverings, but with reduced accuracy.
+# [AUTO_EN]
+uplink-magazine-bulldog-incendiary-desc = Drum magazine for 8 rounds of incendiary buckshot, easily turns civilians into burning matches.
+# [AUTO_EN]
+uplink-magazine-bauer127-extended-name = Extended Bauer127 Store (15mm antimatter)
+# [AUTO_EN]
+uplink-magazine-bauer127-extended-desc = Shop for Bauer127. Contains 15 rounds of .60 anti-matter caliber.
+# [AUTO_EN]
+uplink-magazine-dragunov-desc = Shop for the Dragunov. Contains 10 rounds of 7.62x54R caliber.
+# [AUTO_EN]
+uplink-magazine-dragunov-sp-desc = Shop for the Dragunov. Contains 10 rounds of 7.62x54R caliber.
+# [AUTO_EN]
+uplink-magazine-dragunov-fmj-desc = Shop for Dragunov. Contains 10 rounds of PP caliber 7.62x54R.
+# [AUTO_EN]
+uplink-magazine-dragunov-incendiary-desc = Shop for the Dragunov. Contains 10 incendiary rounds of 7.62x54R caliber.
+# [AUTO_EN]
+uplink-magazine-dragunov-extended-desc = Shop for the Dragunov. Contains 20 rounds of 7.62x54R caliber.
+# [AUTO_EN]
+uplink-pistol-magnum-magazine-ap-name = Magazine (.45 Magnum BB)
+# [AUTO_EN]
+uplink-pistol-magnum-magazine-ap-desc = 7-round single-column magazine for the pistol. Contains armor-piercing ammunition. Compatible with "Diggle".
+# [AUTO_EN]
+uplink-pistol-magazine-c40r-desc = 24-round pistol magazine for the Uplink. Compatible with C-40r.
+# [AUTO_EN]
+uplink-skm28-ammo-desc = 20-round rifle magazine. Compatible with SKM-28.
+# [AUTO_EN]
+uplink-skm24-ammo-desc = 30-round rifle magazine for 7.62x39. Compatible with SKM-24.
+# [AUTO_EN]
+uplink-c40r-bundle-name = "C-40r" bundle
+# [AUTO_EN]
+uplink-c40r-bundle-desc = Cultural assault rifle C-40r with 12 different types of magazines.
 uplink-c40r-name = C-40r
-uplink-c40r-desc = Культовый пистолет-пулемет C-40r в комплекте с коробкой стандартных патронов 40-го калибра.
-uplink-magazine-15-desc = Магазин Бауер СР-127 на 7 патронов предназначенных для уничтожения мехов, киборгов или структур таких как решетки и окна, пары попаданий достаточно для пролома стены.
-uplink-magazine-127pen-desc = Магазин Бауер СР-127 на 7 патронов предназначенных для ликвидации защищенных противников а так же целей за укрытиями и стенами, прекрасно сочетаются с термальным зрением.
-uplink-magazine-127emp-desc = Магазин Бауер СР-127 на 7 патронов предназначенных для вывода из строя электроники, отключения датчиков а так же глушения радио сигнала, наносят повреждения мехам и отключает модули в радиусе 2-х клеток от попадания.
-uplink-magazine-127frag-desc = Магазин Бауер СР-127 на 7 патронов предназначенных для поражения живой силы противника осколками после небольшого взрыва, помните о технике безопасности и носите очки.
-uplink-magazine-127blast-desc = Магазин Бауер СР-127 на 7 патронов. Удачи, не подорвите сами себя.
-uplink-sniper-ammo-pen-desc = Коробка с 14 патронами для снайперской винтовки Христов или SR-127. Содержит бронебойные патроны.
-uplink-sniper-ammo-emp-desc = Коробка с 14 патронами для снайперской винтовки Христов или SR-127. Содержит ЭМИ патроны.
-uplink-sniper-ammo-frag-desc = Коробка с 14 патронами для снайперской винтовки Христов или SR-127. Содержит осколочные патроны.
-uplink-sniper-ammo-blast-desc = Коробка с 14 патронами для снайперской винтовки Христов или SR-127. Содержит разрывные патроны.
-uplink-thermal-name = термальные "Хамелеон" очки
-uplink-syndie-diagnostic-hud-name = визор МЕХ-пилота синдиката
-uplink-syndie-diagnostic-hud-desc = Профессиональный визор анализирующий в реальном времени состояние МЕХа.
-uplink-hardsuit-infiltration-name = скафандр Инфильтратора Синдиката
-uplink-hardsuit-infiltration-desc = Набор с новейшими технологиями Синдиката! Стандартный кроваво-красный скафандр со встроенными новейшими разработками по активной маскировки!
-uplink-energy-dome-personal-name = Поясной Энергетический барьер
-uplink-energy-dome-personal-desc = Генератор малого щита, защищающий владельца от лазеров и пуль, но не позволяющий самому использовать оружие дальнего боя. Использует батареи.
-uplink-energy-dome-backpack-name = Наспинный Энергетический барьер
-uplink-energy-dome-backpack-desc = Генератор большого барьера, защищающий владельца от лазеров и пуль, но не позволяющий самому использовать оружие дальнего боя. Использует батареи.
-uplink-armoured-jumpsuit-name = бронированный черный адвокатский костюм
-uplink-armoured-jumpsuit-desc = Казалось бы, простой деловой костюм... пока не отлетела пуля...
-uplink-clothing-thieving-gloves-name = Воровские перчатки
-uplink-clothing-thieving-gloves-desc = Незаметно обчищайте карманы и повышайте свой навык воровства с помощью этих новых модных перчаток, которые выглядят как обычные!
-uplink-swat-helmet-syndicate-name = Шлем Спецназа
-uplink-swat-helmet-syndicate-desc = Прочный шлем, созданный специально для тех, кто ценит целостность своей головы и конфиденциальность своих коварных замыслов. Окрашен в фирменные цвета спецназа Синдиката.
-uplink-syndicate-rapier-name = Рапира Синдиката
-uplink-syndicate-rapier-desc = Элегантная рапира из пластитана с алмазным остриём, созданная для точечных и смертельных ударов. При умелом использовании способна игнорировать большинство видов индивидуальной защиты. Поставляется в собственных ножнах.
+# [AUTO_EN]
+uplink-c40r-desc = Cultural SMG C-40r with a box of standard 40 caliber ammunition.
+# [AUTO_EN]
+uplink-magazine-15-desc = Bauer SR-127 magazine for 7 rounds designed to destroy mechs, cyborgs, or structures such as grates and windows; two hits are enough to break through a wall.
+# [AUTO_EN]
+uplink-magazine-127pen-desc = Bauer SR-127 magazine for 7 rounds designed to eliminate protected enemies as well as targets behind cover and walls, perfectly complement thermal vision.
+# [AUTO_EN]
+uplink-magazine-127emp-desc = Bauer SR-127 Magazine, 7 rounds designed to disable electronics, cut off sensors, and jam radio signals, deals mechanical damage and disables modules within a 2-cell radius of impact.
+# [AUTO_EN]
+uplink-magazine-127frag-desc = Bauer SR-127 magazine for 7 rounds designed to kill enemy personnel with shrapnel after a small explosion. Remember safety precautions and wear eye protection.
+# [AUTO_EN]
+uplink-magazine-127blast-desc = Bauer SR-127 magazine for 7 rounds. Good luck, don't blow yourselves up.
+# [AUTO_EN]
+uplink-sniper-ammo-pen-desc = Box containing 14 rounds for the Christov or SR-127 sniper rifle. Contains armor-piercing ammunition.
+# [AUTO_EN]
+uplink-sniper-ammo-emp-desc = Box containing 14 rounds for the Christov or SR-127 sniper rifle. Contains EMP rounds.
+# [AUTO_EN]
+uplink-sniper-ammo-frag-desc = Box containing 14 rounds for the Christov or SR-127 sniper rifle. Contains fragmentation rounds.
+# [AUTO_EN]
+uplink-sniper-ammo-blast-desc = Box containing 14 rounds for the Christov or SR-127 sniper rifle. Contains explosive rounds.
+# [AUTO_EN]
+uplink-thermal-name = thermal "Chameleon" glasses
+# [AUTO_EN]
+uplink-syndie-diagnostic-hud-name = MECH-pilot visor
+# [AUTO_EN]
+uplink-syndie-diagnostic-hud-desc = Professional visor analyzing the status of the MECH in real time.
+# [AUTO_EN]
+uplink-hardsuit-infiltration-name = Syndicate Infiltrator Suit
+# [AUTO_EN]
+uplink-hardsuit-infiltration-desc = Set with the latest Syndicate technology! Standard blood-red suit with built-in latest active camouflage developments!
+# [AUTO_EN]
+uplink-energy-dome-personal-name = Waist Energy Barrier
+# [AUTO_EN]
+uplink-energy-dome-personal-desc = Small shield generator that protects the owner from lasers and bullets, but prevents the use of ranged weapons. Uses batteries.
+# [AUTO_EN]
+uplink-energy-dome-backpack-name = Backpack Energy Shield
+# [AUTO_EN]
+uplink-energy-dome-backpack-desc = Barrier generator that protects the owner from lasers and bullets, but prevents the use of ranged weapons. Uses batteries.
+# [AUTO_EN]
+uplink-armoured-jumpsuit-name = armoured black barrister suit
+# [AUTO_EN]
+uplink-armoured-jumpsuit-desc = Seemed like a simple business suit... until the bullet flew by...
+# [AUTO_EN]
+uplink-clothing-thieving-gloves-name = Thieving Gloves
+# [AUTO_EN]
+uplink-clothing-thieving-gloves-desc = Stealthily pick pockets and increase your thieving skill with these new fashionable gloves that look completely normal!
+# [AUTO_EN]
+uplink-swat-helmet-syndicate-name = SWAT Helmet
+# [AUTO_EN]
+uplink-swat-helmet-syndicate-desc = Durable helmet, crafted specifically for those who value the integrity of their head and the confidentiality of their treacherous schemes. Painted in the Syndicate's special forces colors.
+# [AUTO_EN]
+uplink-syndicate-rapier-name = Syndicate Rapier
+# [AUTO_EN]
+uplink-syndicate-rapier-desc = An elegant rapier made of plastitan with a diamond tip, designed for precise and lethal strikes. With skillful use, it can ignore most types of personal protection. Comes with its own sheath.
 uplink-aj100-name = AJ-100
-uplink-aj100-desc = Пистолет-пулемёт что имеет универсальную шахту магазина и может использовать большинство магазинов.
+# [AUTO_EN]
+uplink-aj100-desc = Submachine gun that has a universal magazine well and can use most magazines.
 uplink-skm24-name = SKM-24
-uplink-skm24-desc = Запасной вариант, если вы проиграли все телекристаллы в казино. Самый дешёвый автомат на рынке с четырьмя магазинами: двумя SP и двумя FMJ.
+# [AUTO_EN]
+uplink-skm24-desc = Backup option if you lose all telecrystals in the casino. The cheapest machine on the market with four shops: two SP and two FMJ.
 uplink-skm28-name = SKM-28
-uplink-skm28-desc = Снайперский вариант SKM-24 с удлинённым тяжёлым стволом и оптическим прицелом. Поставляется с шестью магазинами .308: четырьмя SP, одним HP и одним FMJ.
-uplink-power-backpack-dl6902-name = DL6902 с патронным рюкзаком
-uplink-power-backpack-dl6902-desc = DL6902 переделанный под питание длинной лентой прямиком из рюкзака, рюкзак содержит 900 патронов 7,62х39мм ПП.
+# [AUTO_EN]
+uplink-skm28-desc = Sniper variant of the SKM-24 with an extended heavy barrel and optical sight. Comes with six .308 magazines: four SP, one HP, and one FMJ.
+# [AUTO_EN]
+uplink-power-backpack-dl6902-name = DL6902 with a modular backpack
+# [AUTO_EN]
+uplink-power-backpack-dl6902-desc = DL6902 modified to power a long belt directly from the backpack; the backpack contains 900 rounds of 7.62x39mm PP.
 uplink-siar52-name = SIAR-52
-uplink-siar52-desc = Современный безгильзовый огнестрел что оборудован интегрированым глушителем.
-uplink-weapon-ussp-dmr-name = Драгунов
-uplink-weapon-ussp-dmr-desc = снайперская винтовка под патроны калибра 7,62x54R. Полностью предназначена для стрельбы на дальние дистанции.
-uplink-deagle-bundle-name = набор «Дезерт-Игл»
-uplink-deagle-bundle-desc = Cерьёзный аргумент в споре. содержит пистолет и два бронебойных магазина.
-uplink-energy-crossbow-name = большой энерго-арбалет
-uplink-energy-crossbow-desc = Главное оружие оперативника, предпочитающего неподвижные цели. Стреляет регенерирующими токсичными болтами, мгновенно валящими жертву на пол и дополнительно отравляющими цель.
-uplink-grenade-launcher-m79-name = М79
-uplink-grenade-launcher-m79-desc = Старый однозарядный гранатомёт с тремя таймерными осколочными гранатами и одной ЭМИ-гранатой.
-uplink-grenade-launcher-m79-bundle-name = Набор M79
-uplink-grenade-launcher-m79-bundle-desc = Набор однозарядного гранатомёта вместе с сумкой запасных снарядов, чтобы начать гранатомётную вечеринку в джунглях.
-uplink-experimental-eshield-name = Экспериментальный энергощит
-uplink-experimental-eshield-desc = Ещё более экзотический энергощит, отражающий почти все лазерные лучи, а также немного защищающий от пуль и других физических атак. Имет встроенную самозаряжающеюся батарею.
-uplink-mech-equipment-immolation-gun-name = пушка-испепелитель ZFI
-uplink-mech-equipment-immolation-gun-desc = Оружие для боевых мехов, стреляющее высокотемпературными лучами.
-uplink-launcher-cream-pie-fake-name = Фальшивый пирогомёт
-uplink-launcher-cream-pie-fake-desc = Пирогомёт использующий микрореакторную батарею для генерации новых пирогов! Страхование от ЭМИ в цену не входит.
-uplink-reviver-implanter-name = Имплантер Реаниматор
-uplink-reviver-implanter-desc = Стимулирует выброс адреналина точечным разрядом в сердце и коктейлем реагентов. При входе в критическое состояние вводится автоматически. Теоретически вы не умрёте, на практике вас добьют.
-uplink-ammo-shotgunkit-xl-desc = Большие барабаны для лучших ударников команды. В наборе есть дробовые, флешетты, пули и зажигательные 12 калибра. В каждом барабане по 16 патронов, всего их четыре.
+# [AUTO_EN]
+uplink-siar52-desc = Modern barrelless firearm equipped with an integrated suppressor.
+# [AUTO_EN]
+uplink-weapon-ussp-dmr-name = Dragunov
+# [AUTO_EN]
+uplink-weapon-ussp-dmr-desc = sniper rifle for 7.62x54R caliber ammunition. Fully intended for shooting at long distances.
+# [AUTO_EN]
+uplink-deagle-bundle-name = "Desert-Igl" bundle
+# [AUTO_EN]
+uplink-deagle-bundle-desc = A serious argument in a dispute. Contains a pistol and two armor-piercing magazines.
+# [AUTO_EN]
+uplink-energy-crossbow-name = big energy crossbow
+# [AUTO_EN]
+uplink-energy-crossbow-desc = The operative's primary weapon, designed for stationary targets. Fires regenerating toxic bolts that instantly knock the target down and further poison them.
+# [AUTO_EN]
+uplink-grenade-launcher-m79-name = M79
+# [AUTO_EN]
+uplink-grenade-launcher-m79-desc = Old single-shot grenade launcher with three timed fragmentation grenades and one EMP grenade.
+# [AUTO_EN]
+uplink-grenade-launcher-m79-bundle-name = M79 Bundle
+# [AUTO_EN]
+uplink-grenade-launcher-m79-bundle-desc = Single-shot grenade launcher bundle with a bag of spare rounds to start a grenade launcher party in the jungle.
+# [AUTO_EN]
+uplink-experimental-eshield-name = Experimental energy shield
+# [AUTO_EN]
+uplink-experimental-eshield-desc = An even more exotic energy shield that reflects almost all laser beams and also provides some protection against bullets and other physical attacks. It has a built-in self-charging battery.
+# [AUTO_EN]
+uplink-mech-equipment-immolation-gun-name = ZFI Incineration Cannon
+# [AUTO_EN]
+uplink-mech-equipment-immolation-gun-desc = Weapon for battle mechs, shooting high-temperature beams.
+# [AUTO_EN]
+uplink-launcher-cream-pie-fake-name = Fake pie launcher
+# [AUTO_EN]
+uplink-launcher-cream-pie-fake-desc = Pie cannon using a microreactor battery to generate new pies! EMI insurance is not included in the price.
+# [AUTO_EN]
+uplink-reviver-implanter-name = Implanter Reviver
+# [AUTO_EN]
+uplink-reviver-implanter-desc = Stimulates adrenaline release with a targeted heart shock and a cocktail of reagents. Automatically administered upon entering critical condition. Theoretically you won't die, but in practice you will be killed.
+# [AUTO_EN]
+uplink-ammo-shotgunkit-xl-desc = Large drums for the team's best shotguns. The set includes buckshot, flash, bullets, and incendiary 12-gauge. Each drum holds 16 rounds, and there are four in total.

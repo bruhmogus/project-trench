@@ -13,6 +13,7 @@ ent-ScpLockerBoozeFilled = { ent-ScpLockerBooze }
 ent-ScpClosetLegalFilled = { ent-ScpClosetLegal }
     .suffix = Filled
     .desc = { ent-ScpClosetLegal.desc }
+# [AUTO_EN]
 ent-ScpLockerBotanistFilled = { ent-ScpLockerBotanistPhytogeneticist }
-    .suffix = Заполненный
+    .suffix = Filled
     .desc = { ent-ScpLockerBotanistPhytogeneticist.desc }

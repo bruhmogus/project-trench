@@ -1,2 +1,4 @@
-recipe-Trashlasergun-name = самодельная лазерная пушка
-recipe-Trashlasergun-description = Собрана из мусора и запчастей от чего-то. Стреляет лазером, наверное...
+# [AUTO_EN]
+recipe-Trashlasergun-name = DIY laser gun
+# [AUTO_EN]
+recipe-Trashlasergun-description = Assembled from trash and parts of something. Shoots a laser, probably...

@@ -71,14 +71,18 @@ ent-EngiAlertsMonitorUnpowered = { ent-BaseEngiAlertsMonitor }
     .desc = { ent-BaseEngiAlertsMonitor.desc }
 ent-MasterHandheldCamera = Master Body Camera
     .desc = A hand-held camera that allows you to monitor the crew from anywhere.
-ent-BaseHandheldGunneryConsole = портативная консоль наводки
-    .desc = Портативная тактическая консоль для удалённой наводки и открытия огня из подключённых корабельных орудий.
+# [AUTO_EN]
+ent-BaseHandheldGunneryConsole = portable fire control console
+    .desc = Portable tactical console for remote aiming and firing from connected ship-mounted guns.
+# [AUTO_EN]
 ent-HandheldGunneryConsole = { ent-BaseHandheldGunneryConsole }
     .desc = { ent-BaseHandheldGunneryConsole.desc }
-    .suffix = Переносной, Требует энергию
+    .suffix = Handheld, Requires energy
+# [AUTO_EN]
 ent-HandheldGunneryConsoleEmpty = { ent-HandheldGunneryConsole }
     .desc = { ent-HandheldGunneryConsole.desc }
-    .suffix = Переносной, Пустой
+    .suffix = Handheld, Empty
+# [AUTO_EN]
 ent-HandheldGunneryConsoleUnpowered = { ent-BaseHandheldGunneryConsole }
     .desc = { ent-BaseHandheldGunneryConsole.desc }
-    .suffix = Переносной, Не требует энергию
+    .suffix = Handheld, No power required

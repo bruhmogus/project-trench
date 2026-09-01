@@ -70,4 +70,5 @@ steal-target-groups-animal-morty = Morty
 steal-target-groups-animal-renault = Renault
 steal-target-groups-animal-shiva = Shiva
 steal-target-groups-animal-tropico = Tropico
-steal-target-groups-clothing-eyes-hud-beer = пивные очки
+# [AUTO_EN]
+steal-target-groups-clothing-eyes-hud-beer = beer goggles

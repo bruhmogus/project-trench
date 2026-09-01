@@ -186,11 +186,19 @@ accent-formal-words-replace-148 = to the scientific supervisor
 # Fish-edit-end
 
 # Russian abbreviations moved from chatsanitize
-accent-formal-words-97 = рнд
-accent-formal-words-replace-97 = научный отдел
-accent-formal-words-98 = сб
-accent-formal-words-replace-98 = служба безопасности
-accent-formal-words-99 = кеп
-accent-formal-words-replace-99 = капитан
-accent-formal-words-100 = кэп
-accent-formal-words-replace-100 = капитан
+# [AUTO_EN]
+accent-formal-words-97 = rnd
+# [AUTO_EN]
+accent-formal-words-replace-97 = scientific department
+# [AUTO_EN]
+accent-formal-words-98 = sb
+# [AUTO_EN]
+accent-formal-words-replace-98 = security service
+# [AUTO_EN]
+accent-formal-words-99 = cap
+# [AUTO_EN]
+accent-formal-words-replace-99 = captain
+# [AUTO_EN]
+accent-formal-words-100 = cap
+# [AUTO_EN]
+accent-formal-words-replace-100 = captain

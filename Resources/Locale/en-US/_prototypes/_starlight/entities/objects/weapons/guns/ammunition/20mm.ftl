@@ -1,2 +1,3 @@
-ent-Cartridge20mmAutocannon = 20мм снаряд автопушки
-    .desc = Высокоскоростной 20мм снаряд для корабельных автопушек.
+# [AUTO_EN]
+ent-Cartridge20mmAutocannon = 20mm autocannon round
+    .desc = High-velocity 20mm projectile for ship-mounted autocannons.

@@ -1,5 +1,10 @@
-cultistFactoryProduction-EldritchBlade = Жуткий клинок
-cultistFactoryProduction-ArmorCult = Бронированная мантия
-cultistFactoryProduction-RobeModify = Одеяние флагелланта
-cultistFactoryProduction-MirrorShield = Зеркальный щит
-cultistFactoryProduction-Halberd = Нечестивая алебарда
+# [AUTO_EN]
+cultistFactoryProduction-EldritchBlade = Eldritch Blade
+# [AUTO_EN]
+cultistFactoryProduction-ArmorCult = Armored Cloak
+# [AUTO_EN]
+cultistFactoryProduction-RobeModify = Flagellant's Robe
+# [AUTO_EN]
+cultistFactoryProduction-MirrorShield = Mirror Shield
+# [AUTO_EN]
+cultistFactoryProduction-Halberd = Unholy halberd

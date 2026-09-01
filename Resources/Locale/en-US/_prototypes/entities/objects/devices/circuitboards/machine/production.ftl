@@ -168,7 +168,9 @@ ent-CutterMachineCircuitboard = cutter machine board
     .desc = { ent-BaseMachineCircuitboard.desc }
 ent-SmartFridgeCircuitboard = smart fridge machine board
     .desc = { ent-BaseMachineCircuitboard.desc }
-ent-SurveillanceCameraWirelessRouterXenoborgCircuitboard = маршрутизатор беспроводных камер ксеноборгов (машинная плата)
-    .desc = Печатная плата маршрутизатора беспроводных камер ксеноборгов.
-ent-MaterialReclaimerMachineCircuitboard = переработчик материалов (машинная плата)
+# [AUTO_EN]
+ent-SurveillanceCameraWirelessRouterXenoborgCircuitboard = wireless camera router xenoborg circuit board
+    .desc = Circuit board of Xenoborg wireless camera router.
+# [AUTO_EN]
+ent-MaterialReclaimerMachineCircuitboard = Material Reclaimer Machine Circuitboard
     .desc = { ent-BaseMachineCircuitboard.desc }

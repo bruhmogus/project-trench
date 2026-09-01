@@ -92,9 +92,12 @@ ent-ComputerCargoShuttle = cargo shuttle computer
     .desc = Used to order the shuttle.
 ent-ComputerNukieDelivery = syndicate delivery computer
     .desc = A computer that can bluespace in certain equipment for Nuclear Operations. The circuitboard is integrated into the frame and can't be recovered if deconstructed.
-ent-ComputerShuttleSalvage = консоль управления утилизаторским шаттлом
-    .desc = Используется для пилотирования утилизаторского шаттла.
-ent-ComputerSurveillanceWirelessXenoborgCameraMonitor = монитор беспроводных камер ксеноборгов
-    .desc = Монитор беспроводных камер ксеноборгов. Ты наблюдаешь за ними. Может быть.
-ent-ComputerXenoborgsControl = консоль управления ксеноборгами
-    .desc = Используется для удалённого наблюдения за всеми ксеноборгами.
+# [AUTO_EN]
+ent-ComputerShuttleSalvage = shuttle salvage control console
+    .desc = Used for piloting the salvage shuttle.
+# [AUTO_EN]
+ent-ComputerSurveillanceWirelessXenoborgCameraMonitor = wireless xenoborg camera monitor
+    .desc = Monitor for Xenoborg wireless cameras. You're watching them. Maybe.
+# [AUTO_EN]
+ent-ComputerXenoborgsControl = Xenoborgs Control Console
+    .desc = Used for remote monitoring of all xenoborgs.

@@ -1,4 +1,6 @@
-ent-ActionToggleWings = Расправить крылья
-    .desc = Расправить или сложить свои крылья. На вас не должно быть верхней одежды.
-ent-ActionToggleFlight = Взмахнуть крыльями
-    .desc = Перейти в полёт, увеличивая скорость ценой выносливости.
+# [AUTO_EN]
+ent-ActionToggleWings = Spread wings
+    .desc = Spread or fold your wings. You should not be wearing any upper body clothing.
+# [AUTO_EN]
+ent-ActionToggleFlight = Flap wings
+    .desc = Switch to flight mode, increasing speed at the expense of stamina.

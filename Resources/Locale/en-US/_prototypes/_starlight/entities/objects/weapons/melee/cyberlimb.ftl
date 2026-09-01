@@ -14,7 +14,9 @@ ent-CyberPistolCHIMP = { ent-WeaponPistolCHIMP }
     .desc = { ent-WeaponPistolCHIMP.desc }
 ent-CyberPistolCHIMPUpgraded = { ent-WeaponPistolCHIMPUpgraded }
     .desc = { ent-WeaponPistolCHIMPUpgraded.desc }
-ent-CyberGorillaArmUpgraded = экспериментальная перчатка Г.О.Р.И.Л.Л.А.
-    .desc = Стандартная перчатка Г.О.Р.И.Л.Л.А. с отключёнными заводскими ограничителями. Обладая огромной силой, она способна открывать запитанные шлюзы, вырывать с пола покрытия и отправлять недоброжелателей в дальний полёт.
-ent-CyberGrenadeThrowerAtmos = Гранатомет "Атмосианина"
-    .desc = Уникальный прототип аварийного ремонтного модуля, встроенного в руку, использующего различные конфигурации инженерных гранат.
+# [AUTO_EN]
+ent-CyberGorillaArmUpgraded = experimental Gorilla glove
+    .desc = Standard G.O.R.I.L.L.A glove with factory restrictions disabled. With immense strength, it can open powered gates, rip up flooring, and send enemies flying.
+# [AUTO_EN]
+ent-CyberGrenadeThrowerAtmos = Grenade Launcher "Atmosianina"
+    .desc = A unique prototype of an emergency repair module embedded in the hand, utilizing various configurations of engineer grenades.

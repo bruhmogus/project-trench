@@ -1,10 +1,15 @@
-ent-ChemistryEmptyVial = пробирка
-    .desc = Маленькая пробирка.
-ent-ChemistryEmptyVialSmall = мини-пробирка
-    .desc = Пробирка поменьше.
-ent-FloorTileItemDesertAstroSand = пустынный астро-песок
-    .desc = Искусственный песок. К счастью, он не такой грубый, как настоящий.
-ent-UtilityKnife = канцелярский нож
-    .desc = Нож с маленьким выдвижным лезвием. Подходит для вскрытия коробок и конвертов.
-ent-voicesensor = голосовой сенсор
-    .desc = Этот микрофон, изобретённый Майклом Фоуном во время работы в Майклсофт, посылает сигнал, когда произносится заранее записанная кодовая фраза.
+# [AUTO_EN]
+ent-ChemistryEmptyVial = test tube
+    .desc = Small vial.
+# [AUTO_EN]
+ent-ChemistryEmptyVialSmall = mini-vial
+    .desc = Smaller vial.
+# [AUTO_EN]
+ent-FloorTileItemDesertAstroSand = desert astro sand
+    .desc = Artificial sand. Fortunately, it's not as rough as real sand.
+# [AUTO_EN]
+ent-UtilityKnife = stationary knife
+    .desc = Knife with a small retractable blade. Suitable for opening boxes and envelopes.
+# [AUTO_EN]
+ent-voicesensor = voice sensor
+    .desc = This microphone, invented by Michael Foun during his work at Michaelsoft, sends a signal when a pre-recorded code phrase is spoken.

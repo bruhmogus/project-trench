@@ -1,2 +1,4 @@
-names-military-troopergamma-first-dataset-1 = Младший сержант
-names-military-troopergamma-first-dataset-2 = Сержант
+# [AUTO_EN]
+names-military-troopergamma-first-dataset-1 = Private
+# [AUTO_EN]
+names-military-troopergamma-first-dataset-2 = Sergeant

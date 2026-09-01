@@ -168,36 +168,69 @@ food-sequence-taco-gen = taco with {$content}
 
 food-sequence-skewer-gen = {$content} kebab
 food-sequence-standart-gen = { $prefix }{ $content }{ $suffix }
-food-sequence-burger-suffix = бургер
-food-sequence-burger-content-chiken = курица
-food-sequence-burger-content-duck = утка
-food-sequence-burger-content-dragon = дракон
-food-sequence-burger-content-clump = комок
-food-sequence-burger-content-snake = змея
-food-sequence-burger-content-xeno = ксено
-food-sequence-burger-content-tomato = томат
-food-sequence-burger-content-salami = салями
-food-sequence-burger-content-clown = клоун
-food-sequence-burger-content-slime = слайм
-food-sequence-burger-content-pea = пеа
-food-sequence-burger-content-banana = банан
-food-sequence-burger-content-mimana = мимана
-food-sequence-burger-content-lemon = лемон
-food-sequence-burger-content-orange = апельсино
-food-sequence-burger-content-potato = картошко
-food-sequence-burger-content-apple = яблоко
-food-sequence-burger-content-cocoa = какао
-food-sequence-burger-content-corn = кукурузо
-food-sequence-burger-content-mushroom = грибо
-food-sequence-burger-content-chili = чили
-food-sequence-burger-content-chilly = чилли
-food-sequence-burger-content-aloe = алоэ
-food-sequence-burger-content-poppy = мако
-food-sequence-burger-content-lily = лили
-food-sequence-burger-content-cheese = сыро
-food-sequence-burger-content-brain = мозги
-food-sequence-burger-content-tongue = языко
-food-sequence-burger-content-appendix = аппендиксо
-food-sequence-burger-content-ears = ухо
-food-sequence-burger-content-stomach = желудо
-food-sequence-burger-content-liver = печень
+# [AUTO_EN]
+food-sequence-burger-suffix = burger
+# [AUTO_EN]
+food-sequence-burger-content-chiken = chicken
+# [AUTO_EN]
+food-sequence-burger-content-duck = duck
+# [AUTO_EN]
+food-sequence-burger-content-dragon = dragon
+# [AUTO_EN]
+food-sequence-burger-content-clump = clump
+# [AUTO_EN]
+food-sequence-burger-content-snake = snake
+# [AUTO_EN]
+food-sequence-burger-content-xeno = xeno
+# [AUTO_EN]
+food-sequence-burger-content-tomato = tomato
+# [AUTO_EN]
+food-sequence-burger-content-salami = salami
+# [AUTO_EN]
+food-sequence-burger-content-clown = clown
+# [AUTO_EN]
+food-sequence-burger-content-slime = slime
+# [AUTO_EN]
+food-sequence-burger-content-pea = pea
+# [AUTO_EN]
+food-sequence-burger-content-banana = banana
+# [AUTO_EN]
+food-sequence-burger-content-mimana = mimana
+# [AUTO_EN]
+food-sequence-burger-content-lemon = lemon
+# [AUTO_EN]
+food-sequence-burger-content-orange = orange
+# [AUTO_EN]
+food-sequence-burger-content-potato = potato
+# [AUTO_EN]
+food-sequence-burger-content-apple = apple
+# [AUTO_EN]
+food-sequence-burger-content-cocoa = cocoa
+# [AUTO_EN]
+food-sequence-burger-content-corn = corn
+# [AUTO_EN]
+food-sequence-burger-content-mushroom = mushroom
+# [AUTO_EN]
+food-sequence-burger-content-chili = chili
+# [AUTO_EN]
+food-sequence-burger-content-chilly = chilly
+# [AUTO_EN]
+food-sequence-burger-content-aloe = aloe
+# [AUTO_EN]
+food-sequence-burger-content-poppy = poppy
+# [AUTO_EN]
+food-sequence-burger-content-lily = lily
+# [AUTO_EN]
+food-sequence-burger-content-cheese = cheese
+# [AUTO_EN]
+food-sequence-burger-content-brain = brains
+# [AUTO_EN]
+food-sequence-burger-content-tongue = tongue
+# [AUTO_EN]
+food-sequence-burger-content-appendix = appendix
+# [AUTO_EN]
+food-sequence-burger-content-ears = ear
+# [AUTO_EN]
+food-sequence-burger-content-stomach = #️⃣
+# [AUTO_EN]
+food-sequence-burger-content-liver = liver

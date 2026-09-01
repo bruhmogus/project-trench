@@ -246,37 +246,71 @@ accent-cowboy-replacement-82 = hollered
 
 accent-cowboy-words-83 = yelling
 accent-cowboy-replacement-83 = hollering
-accent-cowboy-words-84 = спасибо
-accent-cowboy-replacement-84 = весьма признателен
-accent-cowboy-words-85 = благодарю
-accent-cowboy-replacement-85 = весьма признателен
-accent-cowboy-words-86 = вор
-accent-cowboy-replacement-86 = похититель
-accent-cowboy-words-87 = воры
-accent-cowboy-replacement-87 = похитители
-accent-cowboy-words-88 = думать
-accent-cowboy-replacement-88 = полагать
-accent-cowboy-words-89 = думаю
-accent-cowboy-replacement-89 = полагаю
-accent-cowboy-words-90 = устал
-accent-cowboy-replacement-90 = измотан
-accent-cowboy-words-91 = туалет
-accent-cowboy-replacement-91 = уборная
-accent-cowboy-words-92 = полностью
-accent-cowboy-replacement-92 = чертовски
-accent-cowboy-words-93 = предатель
-accent-cowboy-replacement-93 = преступник
-accent-cowboy-words-94 = предатели
-accent-cowboy-replacement-94 = преступники
-accent-cowboy-words-95 = очень
-accent-cowboy-replacement-95 = чертовски
-accent-cowboy-words-96 = обеспокоенный
-accent-cowboy-replacement-96 = встревоженный
-accent-cowboy-words-97 = вау
-accent-cowboy-replacement-97 = ничего себе
-accent-cowboy-words-98 = кричать
-accent-cowboy-replacement-98 = кричать
-accent-cowboy-words-99 = кричал
-accent-cowboy-replacement-99 = закричал
-accent-cowboy-words-100 = кричащий
-accent-cowboy-replacement-100 = кричащий
+# [AUTO_EN]
+accent-cowboy-words-84 = thank you
+# [AUTO_EN]
+accent-cowboy-replacement-84 = very grateful
+# [AUTO_EN]
+accent-cowboy-words-85 = thank you
+# [AUTO_EN]
+accent-cowboy-replacement-85 = very grateful
+# [AUTO_EN]
+accent-cowboy-words-86 = thief
+# [AUTO_EN]
+accent-cowboy-replacement-86 = abductor
+# [AUTO_EN]
+accent-cowboy-words-87 = thieves
+# [AUTO_EN]
+accent-cowboy-replacement-87 = abductors
+# [AUTO_EN]
+accent-cowboy-words-88 = think
+# [AUTO_EN]
+accent-cowboy-replacement-88 = to assume
+# [AUTO_EN]
+accent-cowboy-words-89 = I think
+# [AUTO_EN]
+accent-cowboy-replacement-89 = I suppose
+# [AUTO_EN]
+accent-cowboy-words-90 = tired
+# [AUTO_EN]
+accent-cowboy-replacement-90 = exhausted
+# [AUTO_EN]
+accent-cowboy-words-91 = toilet
+# [AUTO_EN]
+accent-cowboy-replacement-91 = cleaner
+# [AUTO_EN]
+accent-cowboy-words-92 = completely
+# [AUTO_EN]
+accent-cowboy-replacement-92 = damn
+# [AUTO_EN]
+accent-cowboy-words-93 = traitor
+# [AUTO_EN]
+accent-cowboy-replacement-93 = criminal
+# [AUTO_EN]
+accent-cowboy-words-94 = traitors
+# [AUTO_EN]
+accent-cowboy-replacement-94 = criminals
+# [AUTO_EN]
+accent-cowboy-words-95 = very
+# [AUTO_EN]
+accent-cowboy-replacement-95 = damn
+# [AUTO_EN]
+accent-cowboy-words-96 = worried
+# [AUTO_EN]
+accent-cowboy-replacement-96 = worried
+# [AUTO_EN]
+accent-cowboy-words-97 = wow
+# [AUTO_EN]
+accent-cowboy-replacement-97 = not bad
+# [AUTO_EN]
+accent-cowboy-words-98 = shout
+# [AUTO_EN]
+accent-cowboy-replacement-98 = shout
+# [AUTO_EN]
+accent-cowboy-words-99 = shouted
+# [AUTO_EN]
+accent-cowboy-replacement-99 = shouted
+# [AUTO_EN]
+accent-cowboy-words-100 = shouting
+# [AUTO_EN]
+accent-cowboy-replacement-100 = shouting

@@ -98,143 +98,282 @@ accent-pirate-replacement-31 = musket
 
 accent-pirate-replaced-32 = ammo
 accent-pirate-replacement-32 = gunpowder
-accent-pirate-replaced-33 = ай
-accent-pirate-replacement-33 = аргх
-accent-pirate-replaced-34 = пассажир
-accent-pirate-replacement-34 = сухопутный
-accent-pirate-replaced-35 = карго
-accent-pirate-replacement-35 = казначейство
-accent-pirate-replaced-36 = пистолет
-accent-pirate-replacement-36 = кремневый пистолет
-accent-pirate-replaced-37 = пистолеты
-accent-pirate-replacement-37 = кремневые пистолеты
-accent-pirate-replaced-38 = винтовка
-accent-pirate-replacement-38 = мушкет
-accent-pirate-replaced-39 = винтовки
-accent-pirate-replacement-39 = мушкеты
-accent-pirate-replaced-40 = бар
-accent-pirate-replacement-40 = кабак
-accent-pirate-replaced-41 = бармен
-accent-pirate-replacement-41 = кабатчик
-accent-pirate-replaced-42 = бармены
-accent-pirate-replacement-42 = кабатчики
-accent-pirate-replaced-43 = повар
-accent-pirate-replacement-43 = кок
-accent-pirate-replaced-44 = повары
-accent-pirate-replacement-44 = кокс
-accent-pirate-replaced-45 = повара
-accent-pirate-replacement-45 = кокс
-accent-pirate-replaced-46 = техи
-accent-pirate-replacement-46 = трюм
-accent-pirate-replaced-47 = технические помещения
-accent-pirate-replacement-47 = трюм
-accent-pirate-replaced-48 = технические туннели
-accent-pirate-replacement-48 = трюм
-accent-pirate-replaced-49 = служба безопасности
-accent-pirate-replacement-49 = дозорные
-accent-pirate-replaced-50 = сб
-accent-pirate-replacement-50 = дозорные
-accent-pirate-replaced-51 = копье
-accent-pirate-replacement-51 = гарпун
-accent-pirate-replaced-52 = копьё
-accent-pirate-replacement-52 = гарпун
-accent-pirate-replaced-53 = копья
-accent-pirate-replacement-53 = гарпуны
-accent-pirate-replaced-54 = станция
-accent-pirate-replacement-54 = гавань
-accent-pirate-replaced-55 = станции
-accent-pirate-replacement-55 = гавани
-accent-pirate-replaced-56 = инженер
-accent-pirate-replacement-56 = плотник
-accent-pirate-replaced-57 = инженеры
-accent-pirate-replacement-57 = плотники
-accent-pirate-replaced-58 = гп
-accent-pirate-replacement-58 = интендант
-accent-pirate-replaced-59 = глава персонала
-accent-pirate-replacement-59 = интендант
-accent-pirate-replaced-60 = ассистент
-accent-pirate-replacement-60 = матрос
-accent-pirate-replaced-61 = ассистенты
-accent-pirate-replacement-61 = матросы
-accent-pirate-replaced-62 = центральное командование
-accent-pirate-replacement-62 = адмиралтейство
+# [AUTO_EN]
+accent-pirate-replaced-33 = ai
+# [AUTO_EN]
+accent-pirate-replacement-33 = argh
+# [AUTO_EN]
+accent-pirate-replaced-34 = passenger
+# [AUTO_EN]
+accent-pirate-replacement-34 = land
+# [AUTO_EN]
+accent-pirate-replaced-35 = cargo
+# [AUTO_EN]
+accent-pirate-replacement-35 = treasury
+# [AUTO_EN]
+accent-pirate-replaced-36 = pistol
+# [AUTO_EN]
+accent-pirate-replacement-36 = silicon pistol
+# [AUTO_EN]
+accent-pirate-replaced-37 = pistols
+# [AUTO_EN]
+accent-pirate-replacement-37 = silicon pistols
+# [AUTO_EN]
+accent-pirate-replaced-38 = rifle
+# [AUTO_EN]
+accent-pirate-replacement-38 = musket
+# [AUTO_EN]
+accent-pirate-replaced-39 = rifles
+# [AUTO_EN]
+accent-pirate-replacement-39 = muskets
+# [AUTO_EN]
+accent-pirate-replaced-40 = bar
+# [AUTO_EN]
+accent-pirate-replacement-40 = tavern
+# [AUTO_EN]
+accent-pirate-replaced-41 = bartender
+# [AUTO_EN]
+accent-pirate-replacement-41 = kabalchik
+# [AUTO_EN]
+accent-pirate-replaced-42 = bartenders
+# [AUTO_EN]
+accent-pirate-replacement-42 = kabalchiki
+# [AUTO_EN]
+accent-pirate-replaced-43 = cook
+# [AUTO_EN]
+accent-pirate-replacement-43 = cock
+# [AUTO_EN]
+accent-pirate-replaced-44 = cooks
+# [AUTO_EN]
+accent-pirate-replacement-44 = cokes
+# [AUTO_EN]
+accent-pirate-replaced-45 = cook
+# [AUTO_EN]
+accent-pirate-replacement-45 = cokes
+# [AUTO_EN]
+accent-pirate-replaced-46 = tech
+# [AUTO_EN]
+accent-pirate-replacement-46 = hold
+# [AUTO_EN]
+accent-pirate-replaced-47 = technical rooms
+# [AUTO_EN]
+accent-pirate-replacement-47 = hold
+# [AUTO_EN]
+accent-pirate-replaced-48 = technical tunnels
+# [AUTO_EN]
+accent-pirate-replacement-48 = hold
+# [AUTO_EN]
+accent-pirate-replaced-49 = security service
+# [AUTO_EN]
+accent-pirate-replacement-49 = watchmen
+# [AUTO_EN]
+accent-pirate-replaced-50 = sb
+# [AUTO_EN]
+accent-pirate-replacement-50 = watchmen
+# [AUTO_EN]
+accent-pirate-replaced-51 = spear
+# [AUTO_EN]
+accent-pirate-replacement-51 = harpoon
+# [AUTO_EN]
+accent-pirate-replaced-52 = spear
+# [AUTO_EN]
+accent-pirate-replacement-52 = harpoon
+# [AUTO_EN]
+accent-pirate-replaced-53 = spears
+# [AUTO_EN]
+accent-pirate-replacement-53 = harpoons
+# [AUTO_EN]
+accent-pirate-replaced-54 = station
+# [AUTO_EN]
+accent-pirate-replacement-54 = harbor
+# [AUTO_EN]
+accent-pirate-replaced-55 = stations
+# [AUTO_EN]
+accent-pirate-replacement-55 = harbors
+# [AUTO_EN]
+accent-pirate-replaced-56 = engineer
+# [AUTO_EN]
+accent-pirate-replacement-56 = carpenter
+# [AUTO_EN]
+accent-pirate-replaced-57 = engineers
+# [AUTO_EN]
+accent-pirate-replacement-57 = carpenters
+# [AUTO_EN]
+accent-pirate-replaced-58 = gp
+# [AUTO_EN]
+accent-pirate-replacement-58 = steward
+# [AUTO_EN]
+accent-pirate-replaced-59 = head of personnel
+# [AUTO_EN]
+accent-pirate-replacement-59 = steward
+# [AUTO_EN]
+accent-pirate-replaced-60 = assistant
+# [AUTO_EN]
+accent-pirate-replacement-60 = sailor
+# [AUTO_EN]
+accent-pirate-replaced-61 = assistants
+# [AUTO_EN]
+accent-pirate-replacement-61 = sailors
+# [AUTO_EN]
+accent-pirate-replaced-62 = central command
+# [AUTO_EN]
+accent-pirate-replacement-62 = Admiralty
 accent-pirate-replaced-63 = цк
-accent-pirate-replacement-63 = адмиралтейство
-accent-pirate-replaced-64 = девушка
-accent-pirate-replacement-64 = дева
-accent-pirate-replaced-65 = девушки
-accent-pirate-replacement-65 = девы
-accent-pirate-replaced-66 = убить
-accent-pirate-replacement-66 = отправить на корм карпам
-accent-pirate-replaced-67 = бронежилет
-accent-pirate-replacement-67 = кираса
-accent-pirate-replaced-68 = кушать
-accent-pirate-replacement-68 = набивать трюм
-accent-pirate-replaced-69 = часы
-accent-pirate-replacement-69 = хронометр
-accent-pirate-replaced-70 = комбинезон
-accent-pirate-replacement-70 = наряд
-accent-pirate-replaced-71 = комбинезоны
-accent-pirate-replacement-71 = наряды
-accent-pirate-replaced-72 = предатель
-accent-pirate-replacement-72 = морская крыса
-accent-pirate-replaced-73 = предатели
-accent-pirate-replacement-73 = морские крысы
-accent-pirate-replaced-74 = закрой
-accent-pirate-replacement-74 = запри
-accent-pirate-replaced-75 = бумага
-accent-pirate-replacement-75 = папирус
-accent-pirate-replaced-76 = ручка
-accent-pirate-replacement-76 = перо
-accent-pirate-replaced-77 = парикмахер
-accent-pirate-replacement-77 = цирюльник
-accent-pirate-replaced-78 = гсб
-accent-pirate-replacement-78 = боцман
-accent-pirate-replaced-79 = глава службы безопасности
-accent-pirate-replacement-79 = боцман
-accent-pirate-replaced-80 = квартирмейстер
-accent-pirate-replacement-80 = казначей
-accent-pirate-replaced-81 = км
-accent-pirate-replacement-81 = казначей
-accent-pirate-replaced-82 = дормы
-accent-pirate-replacement-82 = каюты
-accent-pirate-replaced-83 = дорматории
-accent-pirate-replacement-83 = каюты
-accent-pirate-replaced-84 = стыковаться
-accent-pirate-replacement-84 = швартоваться
-accent-pirate-replaced-85 = стыковка
-accent-pirate-replacement-85 = швартование
-accent-pirate-replaced-86 = стыкуйся
-accent-pirate-replacement-86 = пришвартуйся
-accent-pirate-replaced-87 = туалет
-accent-pirate-replacement-87 = гальюн
-accent-pirate-replaced-88 = туалеты
-accent-pirate-replacement-88 = гальюны
-accent-pirate-replaced-89 = хитрый
-accent-pirate-replacement-89 = как морской чёрт
-accent-pirate-replaced-90 = хитрая
-accent-pirate-replacement-90 = как морской чёрт
-accent-pirate-replaced-91 = война
-accent-pirate-replacement-91 = грозный шторм
-accent-pirate-replaced-92 = пососи
-accent-pirate-replacement-92 = якорь тебе в глотку
-accent-pirate-replaced-93 = пососите
-accent-pirate-replacement-93 = якорь вам в глотку
-accent-pirate-replaced-94 = умер
-accent-pirate-replacement-94 = отдал концы
-accent-pirate-replaced-95 = блять
-accent-pirate-replacement-95 = разрази меня гром
-accent-pirate-replaced-96 = ебаться
-accent-pirate-replacement-96 = мутить шторм в каюте
-accent-pirate-replaced-97 = трус
-accent-pirate-replacement-97 = трусливый щенок
-accent-pirate-replaced-98 = ахуеть
-accent-pirate-replacement-98 = 300 якорей мне в зад
-accent-pirate-replaced-99 = иди нахуй
-accent-pirate-replacement-99 = иди на бушприт
-accent-pirate-replaced-100 = пошел нахуй
-accent-pirate-replacement-100 = пошел на бушприт
-accent-pirate-replaced-101 = патроны
-accent-pirate-replacement-101 = порох
-accent-pirate-replaced-102 = грейтайдер
-accent-pirate-replacement-102 = сухопутный
+# [AUTO_EN]
+accent-pirate-replacement-63 = Admiralty
+# [AUTO_EN]
+accent-pirate-replaced-64 = girl
+# [AUTO_EN]
+accent-pirate-replacement-64 = goddess
+# [AUTO_EN]
+accent-pirate-replaced-65 = girls
+# [AUTO_EN]
+accent-pirate-replacement-65 = virgin
+# [AUTO_EN]
+accent-pirate-replaced-66 = kill
+# [AUTO_EN]
+accent-pirate-replacement-66 = send to the carp's dinner
+# [AUTO_EN]
+accent-pirate-replaced-67 = body armor
+# [AUTO_EN]
+accent-pirate-replacement-67 = plate
+# [AUTO_EN]
+accent-pirate-replaced-68 = to eat
+# [AUTO_EN]
+accent-pirate-replacement-68 = to stuff the hold
+# [AUTO_EN]
+accent-pirate-replaced-69 = clock
+# [AUTO_EN]
+accent-pirate-replacement-69 = chronometer
+# [AUTO_EN]
+accent-pirate-replaced-70 = overalls
+# [AUTO_EN]
+accent-pirate-replacement-70 = order
+# [AUTO_EN]
+accent-pirate-replaced-71 = overalls
+# [AUTO_EN]
+accent-pirate-replacement-71 = uniforms
+# [AUTO_EN]
+accent-pirate-replaced-72 = traitor
+# [AUTO_EN]
+accent-pirate-replacement-72 = sea rat
+# [AUTO_EN]
+accent-pirate-replaced-73 = traitors
+# [AUTO_EN]
+accent-pirate-replacement-73 = sea rats
+# [AUTO_EN]
+accent-pirate-replaced-74 = close
+# [AUTO_EN]
+accent-pirate-replacement-74 = grab
+# [AUTO_EN]
+accent-pirate-replaced-75 = paper
+# [AUTO_EN]
+accent-pirate-replacement-75 = papyrus
+# [AUTO_EN]
+accent-pirate-replaced-76 = pen
+# [AUTO_EN]
+accent-pirate-replacement-76 = quill
+# [AUTO_EN]
+accent-pirate-replaced-77 = hairdresser
+# [AUTO_EN]
+accent-pirate-replacement-77 = shave
+# [AUTO_EN]
+accent-pirate-replaced-78 = gsb
+# [AUTO_EN]
+accent-pirate-replacement-78 = captain
+# [AUTO_EN]
+accent-pirate-replaced-79 = head of the security service
+# [AUTO_EN]
+accent-pirate-replacement-79 = captain
+# [AUTO_EN]
+accent-pirate-replaced-80 = quartermaster
+# [AUTO_EN]
+accent-pirate-replacement-80 = treasurer
+# [AUTO_EN]
+accent-pirate-replaced-81 = km
+# [AUTO_EN]
+accent-pirate-replacement-81 = treasurer
+# [AUTO_EN]
+accent-pirate-replaced-82 = dorms
+# [AUTO_EN]
+accent-pirate-replacement-82 = cabins
+# [AUTO_EN]
+accent-pirate-replaced-83 = boarding schools
+# [AUTO_EN]
+accent-pirate-replacement-83 = cabins
+# [AUTO_EN]
+accent-pirate-replaced-84 = to connect
+# [AUTO_EN]
+accent-pirate-replacement-84 = to moor
+# [AUTO_EN]
+accent-pirate-replaced-85 = 对接
+# [AUTO_EN]
+accent-pirate-replacement-85 = mooring
+# [AUTO_EN]
+accent-pirate-replaced-86 = get lost
+# [AUTO_EN]
+accent-pirate-replacement-86 = get on board
+# [AUTO_EN]
+accent-pirate-replaced-87 = toilet
+# [AUTO_EN]
+accent-pirate-replacement-87 = gallion
+# [AUTO_EN]
+accent-pirate-replaced-88 = toilets
+# [AUTO_EN]
+accent-pirate-replacement-88 = galley
+# [AUTO_EN]
+accent-pirate-replaced-89 = clever
+# [AUTO_EN]
+accent-pirate-replacement-89 = as a sea demon
+# [AUTO_EN]
+accent-pirate-replaced-90 = sly
+# [AUTO_EN]
+accent-pirate-replacement-90 = as a sea demon
+# [AUTO_EN]
+accent-pirate-replaced-91 = war
+# [AUTO_EN]
+accent-pirate-replacement-91 = terrifying storm
+# [AUTO_EN]
+accent-pirate-replaced-92 = suck
+# [AUTO_EN]
+accent-pirate-replacement-92 = anchor in your throat
+# [AUTO_EN]
+accent-pirate-replaced-93 = suck
+# [AUTO_EN]
+accent-pirate-replacement-93 = anchor in your throat
+# [AUTO_EN]
+accent-pirate-replaced-94 = died
+# [AUTO_EN]
+accent-pirate-replacement-94 = gave the ends
+# [AUTO_EN]
+accent-pirate-replaced-95 = fuck
+# [AUTO_EN]
+accent-pirate-replacement-95 = thunder me down
+# [AUTO_EN]
+accent-pirate-replaced-96 = to shit
+# [AUTO_EN]
+accent-pirate-replacement-96 = stir up the storm in the cabin
+# [AUTO_EN]
+accent-pirate-replaced-97 = coward
+# [AUTO_EN]
+accent-pirate-replacement-97 = cowardly puppy
+# [AUTO_EN]
+accent-pirate-replaced-98 = fuck
+# [AUTO_EN]
+accent-pirate-replacement-98 = 300 anchors in my ass
+# [AUTO_EN]
+accent-pirate-replaced-99 = fuck off
+# [AUTO_EN]
+accent-pirate-replacement-99 = go to the bowsprit
+# [AUTO_EN]
+accent-pirate-replaced-100 = go fuck yourself
+# [AUTO_EN]
+accent-pirate-replacement-100 = went to the bows
+# [AUTO_EN]
+accent-pirate-replaced-101 = ammunition
+# [AUTO_EN]
+accent-pirate-replacement-101 = gunpowder
+# [AUTO_EN]
+accent-pirate-replaced-102 = greitider
+# [AUTO_EN]
+accent-pirate-replacement-102 = land

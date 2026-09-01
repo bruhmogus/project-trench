@@ -1,3 +1,4 @@
 Syndicate = The Syndicate
 EvilTwinCorp = Evil Twin Corporation
-syndicate = Синдикат
+# [AUTO_EN]
+syndicate = Syndicate

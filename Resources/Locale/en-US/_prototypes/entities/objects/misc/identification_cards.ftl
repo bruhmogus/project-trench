@@ -137,6 +137,7 @@ ent-UniversalIDCard = universal ID card
 ent-XenoborgIDCard = xenoborg ID card
     .desc = { ent-IDCardStandard.desc }
     .suffix = Admin
-ent-CentcomIDCardSyndie = ID карта офицера командования
+# [AUTO_EN]
+ent-CentcomIDCardSyndie = Command officer ID card
     .desc = { ent-IDCardStandard.desc }
-    .suffix = Фальшивый
+    .suffix = Fake

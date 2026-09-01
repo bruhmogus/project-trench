@@ -103,4 +103,5 @@ tts-voice-name-crysis2-ai-blackops-04 = (NEW) [Crysis 2] Blackops Operative 04
 tts-voice-name-lol-akshan = (NEW) [LoL] Akshan
 tts-voice-name-crysis2-ai-usafrician-01-v2 = (NEW) [Crysis 2] Operative 1 2.0
 tts-voice-name-mtf1 = [Containment Breach] MTF 1
-tts-voice-name-heartstone-thrud = [Heartstone] Трад
+# [AUTO_EN]
+tts-voice-name-heartstone-thrud = [Heartstone] Trad

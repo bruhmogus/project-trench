@@ -1,2 +1,4 @@
-event-title = Ивент
-event-description = Гейм-мастеры проводят ивент. Отсутсвуют любые угрозы, включая случайные.
+# [AUTO_EN]
+event-title = Event
+# [AUTO_EN]
+event-description = Game masters are running an event. There are no threats, including random ones.

@@ -38,4 +38,5 @@ tutorial-complete-desc = Congratulations! You completed the training.
 tutorial-complete-stay = Stay
 tutorial-complete-leave = Leave
 tutorial-complete-next = Next tutorial
-tutorial-start = Начать обучение
+# [AUTO_EN]
+tutorial-start = Start learning

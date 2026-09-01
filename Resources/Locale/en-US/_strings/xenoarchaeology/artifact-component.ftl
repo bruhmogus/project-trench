@@ -1,4 +1,4 @@
-﻿### Verbs
+### Verbs
 artifact-verb-make-always-active = Make artifact always active
 artifact-verb-activate = Activate artifact
 
@@ -20,5 +20,7 @@ artifact-node-class-3 = [color=#a9ff38]Pneumatic[/color]
 artifact-node-class-4 = [color=#2bfff8]Archon[/color]
 artifact-node-class-5 = [color=#7883ff]Luminary[/color]
 artifact-node-class-6 = [color=#be78ff]Demiurge[/color]
-cmd-parse-failure-unlocknode-arg-num = Неверное количество аргументов
-cmd-parse-failure-unlocknode-invalid-entity = Указанная сущность netEntity не является действительным узлом
+# [AUTO_EN]
+cmd-parse-failure-unlocknode-arg-num = Incorrect number of arguments
+# [AUTO_EN]
+cmd-parse-failure-unlocknode-invalid-entity = The specified entity netEntity is not a valid node.

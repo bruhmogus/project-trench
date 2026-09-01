@@ -16,15 +16,21 @@ ent-HyposprayMedicalNoFilterBox = hacked medical hypospray
 
 ent-JetInjectorSyndicate = { ent-JetInjector }
     .desc = { ent-JetInjector.desc }
-ent-JetInjectorSyndicateBox = взломанный медицинский джетинъектор
-    .desc = Коробка со стерильным инъектором для быстрого введения препаратов пациентам. Упаковка дезинтегрируется при вскрытии, не оставляя следов.
-ent-BlankMediPen = пустой медипен
-    .desc = Пустой медипен с бесконечным потенциалом. Не допускает отклонений от рецептуры.
-ent-PolyAutoInjector = автоинъектор олигомеров полипирилия
-    .desc = Экстренная доза олигомеров полипирилия, предназначенная для лечения механических повреждений всех видов.
-ent-StellibininAutoInjector = автоинъектор стеллибина
-    .desc = Экстренная доза стеллибинина, предназначен для случаев тяжёлой интоксикации.
-ent-LacerAutoInjector = автоинъектор лацеринола
-    .desc = Экстренная доза лацеринола и транексамовой кислоты, предназначенная для применения в боевых условиях.
-ent-BruizAutoInjector = автоинъектор бруизина
-    .desc = Экстренная доза бруизина и транексамовой кислоты, предназначенная для применения в боевых условиях.
+# [AUTO_EN]
+ent-JetInjectorSyndicateBox = hacked medical jetinjector
+    .desc = Sterile injector box for rapid administration of medications to patients. The packaging disintegrates upon opening, leaving no residue.
+# [AUTO_EN]
+ent-BlankMediPen = empty MediPen
+    .desc = Empty MediPen with infinite potential. Prevents deviations from the formula.
+# [AUTO_EN]
+ent-PolyAutoInjector = oligomer polythiophene autoinjector
+    .desc = Emergency dose of polyphenylene oligomers, intended for the treatment of mechanical damage of all kinds.
+# [AUTO_EN]
+ent-StellibininAutoInjector = Stellibinin autoinjector
+    .desc = Emergency dose of stellibinin, intended for cases of severe intoxication.
+# [AUTO_EN]
+ent-LacerAutoInjector = Lacerinol autoinjector
+    .desc = Emergency dose of lacerinol and tranexamic acid, intended for use in combat conditions.
+# [AUTO_EN]
+ent-BruizAutoInjector = Bruiz autoinjector
+    .desc = Emergency dose of Bruiz and Tranexamic acid, intended for use in combat conditions.

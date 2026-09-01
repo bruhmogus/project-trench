@@ -53,5 +53,7 @@ summon-button-label = { $label } ({ $mobState }; { $distance } m)
 teleport-button-label = { $label } ({ $distance } m)
 revived-cultist-desc = A Blood Cultist whose soul has perished in eternal darkness.
 tile-has-rune = There is already a rune on this tile!
-cult-narsie-not-completed-tasks = Цели не были принесены в жертву.
-chat-manager-cult-channel-name = Культ
+# [AUTO_EN]
+cult-narsie-not-completed-tasks = The goals were not sacrificed.
+# [AUTO_EN]
+chat-manager-cult-channel-name = Cult

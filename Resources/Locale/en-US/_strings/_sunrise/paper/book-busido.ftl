@@ -50,58 +50,78 @@ book-text-bushido =
     In a "this or that" situation, choose death without hesitation. It is not difficult. Summon your resolve and act. 
     Only the faint-hearted attempt to justify themselves with the argument that to die without having achieved one's objective is to die a "dog's death." 
     To make the *correct* choice in a "this or that" situation is, in practice, impossible.
+# [AUTO_EN]
 book-text-busido =
-    Вступление
+    Preface
     
-     Самурай должен прежде всего постоянно помнить — помнить днём и ночью, с того утра, когда он берёт в руки палочки, чтобы вкусить новогоднюю трапезу, до последней ночи старого года, когда он платит свои долги — что он должен умереть. Вот его главное дело.
-    Если он всегда помнит об этом, он сможет прожить жизнь в соответствии с верностью и сыновней почтительностью, избегнуть мириада зол и несчастий, уберечь себя от болезней и бед и насладиться долгой жизнью.
-    Он будет исключительной личностью, наделённой прекрасными качествами. Ибо жизнь мимолётна, подобно капле вечерней росы и утреннему инею, и тем более такова жизнь воина.
+    The samurai must constantly remember—day and night, from the morning he picks up his staff to taste the New Year's feast until the last night of the old year when he pays his debts—that he must die. This is his main task.
     
-     Правильное и неправильное
-    Воин должен глубоко понимать эти два качества. Если он знает, как делать одно и избегать другого, он обрёл бусидо.
-    Правильное и неправильное — это не что иное, как добро и зло, и хотя я не отрицаю, что различие между словами незначительно, поступать правильно и делать добро считается утомительным, а поступать неправильно и делать зло — лёгким и приятным, поэтому естественно, что многие склоняются к неправильному или злому и не любят правильное и доброе.
-    Причина тому — неумение управлять собой. Само по себе это может и не звучит так плохо, но если посмотреть глубже, мы увидим, что всё идёт от трусости. Поэтому я утверждаю, что самураю необходимо воздерживаться от неправильного и стремиться к правильному.
+    If he always keeps this in mind, he will be able to live a life in accordance with loyalty and filial piety, avoid myriad evils and misfortunes, protect himself from illness and poverty, and enjoy a long life.
     
-     Выбор друзей
-    Самое главное для самурая, находящегося на службе — общаться и заводить друзей только среди тех своих товарищей, которые отважны, верны долгу, умны и влиятельны.
-    Но поскольку таких людей немного, следует среди многих друзей выбрать одного, на которого, в случае необходимости, можно полностью положиться.
-    В целом, самураю желательно заводить близких друзей из числа тех, кого он любит и с кем он предпочитает есть, пить и путешествовать.
+    He will be an exceptional individual endowed with noble qualities. For life is fleeting, like a drop of evening dew and morning frost, and even more so the life of a warrior.
     
-     Дружба
-    Надёжность — одно из качеств Пути воина, необходимых самураю, но ни в коем случае не желательно оказывать помощь без веских причин, ввязываться в дела, которые не имеют значения или принимать на себя обязательства в том, что не касается тебя самого, только ради того, чтобы сделать так-то или дать совет.
-    Даже если дело в какой-то степени касается тебя, лучше остаться в стороне, если тебя никто не просит вмешаться.
+    Right and Wrong
     
-     Разное
-    Беспринципно считать, что ты не можешь достичь всего, чего достигали великие мастера. Мастера — это люди, и ты — тоже человек.
-    Если ты знаешь, что можешь стать таким же, как они, ты уже на пути к этому. 
+    The warrior must deeply understand these two qualities. If he knows how to do one and avoid the other, he has attained bushido.
     
-    Воин никогда не должен высказываться неуверенно. Воин должен готовиться ко всему заранее. Даже в повседневных делах проявляется глубина души.
+    Right and wrong are nothing other than good and evil. Although I do not deny that the distinction between the words is insignificant, acting right and doing good is considered tiresome, while acting wrong and doing evil is easy and pleasant; therefore, it is natural that many incline toward the wrong or evil and dislike the right and good.
     
-    Священник Таннэн сказал: "Благоразумный слуга не стремится занять более высокое положение. Между тем, глупых, людей редко повышают в должности".
+    The reason is an inability to control oneself. By itself, this may not sound so bad, but if we look deeper, we will see that it all stems from cowardice. Therefore, I assert that the samurai must refrain from the wrong and strive for the right.
     
-    Воистину, жизнь человека длится одно мгновение, поэтому живи и делай что хочешь. Глупо жить в этом мире, подобном сновидению, каждый день встречаться с неприятностями и делать только то, что тебе не нравится.
-    Я лично люблю спать. Со временем я собираюсь всё чаще уединяться у себя в доме и проводить остаток жизни во сне.
+    Choosing Friends
     
-    Основной принцип боевых искусств состоит в том, чтобы нападать, не думая о жизни и смерти. Если противник поступает так же, он и ты друг друга стоите. В этом случае исход поединка решает сила духа и судьба. 
+    The most important thing for a samurai in service is to associate and make friends only among those comrades who are brave, loyal to their duty, wise, and influential.
     
-    Накано Дзинъэмон сказал: "Изучение таких предметов, как  военная тактика, бесполезно. Если воин не бросается на врага и не рубит его, закрыв глаза, он окажется бесполезным, потому что в бою не продвинется ни на один шаг". Такого же мнения был и Иянага Сасукэ.
+    But since such people are few, one should choose among many friends one upon whom, in case of necessity, one can fully rely.
     
-    Если человек вёл себя перед смертью достойно, это воистину смелый человек. Мы знаем много примеров таких людей. Тот же, кто похваляется своим удальством, а перед смертью приходит в замешательство, не может быть назван воистину смелым.
+    In general, a samurai is advised to make close friends among those he loves and with whom he prefers to eat, drink, and travel.
     
-     Конец
-    Каждый самурай, большой или малый, высокого ранга или низкого, должен прежде всего думать о том, как встретить неизбежную смерть.
-    Как бы ни был он умён и талантлив, если он беспечен и недостаточно хладнокровен, а потому, оказавшись лицом к лицу со смертью, выглядит растерянным, все его предыдущие добрые дела потеряют свой смысл, а все порядочные люди будут презирать его, и на него ляжет несмываемое пятно позора.
+    Friendship
     
-    Ибо если самурай идёт в битву, совершает отважные и величественные поступки и покрывает славой своё имя, то это только потому, что он настроил своё сердце на смерть.
-    Если случается худшее, и ему суждено расстаться с жизнью, то, когда его противник спрашивает его имя, он должен громко и чётко ответить и проститься с жизнью с улыбкой на губах, не выказывая ни малейшего признака страха. 
+    Reliability is one of the qualities of the Way of the Warrior necessary for the samurai, but under no circumstances is it advisable to lend a hand without cause, to become involved in matters of no significance, or to take on obligations that do not concern you personally, merely to do this or that or to give advice.
     
-    Если же он тяжело ранен, так, что ни один лекарь уже не может помочь ему, то, как и положено самураю, он должен, будучи ещё в сознании, ответить на вопросы командиров и товарищей и сообщить им, как он получил ранение, после чего спокойно, без всяких церемоний, встретить смерть.
+    Even if a matter concerns you to some degree, it is better to stay out of it if no one asks you to intervene.
     
-    Хотя самурай должен прежде всего чтить Путь Самурая, не вызывает сомнений, что все мы небрежительны. Поэтому, если в наши дни спросить: "В чём подлинный смысл Пути Самурая?", лишь немногие ответят без промедления.
-    А всё потому, что никто заранее не готовит себя к ответу на такие вопросы. Это свидетельствует о том, что люди забывают о Пути. Небрежение опасно.
+    Miscellaneous
     
-    Я постиг, что Путь Самурая — это смерть.
+    It is unprincipled to believe that you cannot achieve everything that the great masters achieved. Masters are human beings, and you are also a human being.
     
-    В ситуации "или — или" без колебаний выбирай смерть. Это нетрудно. Исполнись решимости и действуй.
-    Только малодушные оправдывают себя рассуждениями о том, что умереть, не достигнув цели, означает умереть собачьей смертью.
-    Сделать правильный выбор в ситуации "или — или" практически невозможно.
+    If you know that you can become like them, you are already on the path to it.
+    
+    A warrior should never speak with uncertainty. A warrior must be prepared for everything in advance. Even in daily affairs, the depth of the soul is revealed.
+    
+    The priest Tan-nen said: "A prudent servant does not strive to take a higher position. Meanwhile, fools are rarely promoted."
+    
+    Truly, human life lasts for a moment, so live and do what you wish. It is foolish to live in this world, like a dream, meeting unpleasantness every day and doing only what you do not like.
+    
+    Personally, I love sleeping. Over time, I intend to retreat more often to my own home and spend the rest of my life in sleep.
+    
+    The basic principle of martial arts consists of attacking without thinking about life and death. If the opponent does the same, then you and he are equals. In this case, the outcome of the duel is decided by the strength of the spirit and fate.
+    
+    Nakano Jinemon said: "Studying subjects such as military tactics is useless. If a warrior does not rush at the enemy and does not cut him down with his eyes closed, he will be useless, because in battle he will not advance even one step." The same opinion was held by Iyanaga Sasuke.
+    
+    If a person behaved worthily before death, he is truly a brave man. We know many examples of such people. He who boasts of his bravery but becomes confused before death cannot be called truly brave.
+    
+    End
+    
+    Every samurai, great or small, high or low in rank, must first and foremost think about how to meet the inevitable death.
+    
+    No matter how wise and talented he may be, if he is careless and not sufficiently cool-headed, and therefore, when faced with death, appears flustered, all his previous good deeds will lose their meaning, and all upright people will despise him, and an indelible stain of shame will rest upon him.
+    
+    For if a samurai goes into battle, performs brave and majestic deeds, and covers his name with glory, it is only because he has set his heart on death.
+    
+    If the worst happens and he is destined to part with his life, then when his opponent asks for his name, he should answer loudly and clearly and bid farewell to life with a smile on his lips, showing no sign of fear at all.
+    
+    If he is severely wounded so that no healer can help him, then, as befits a samurai, he should, while still conscious, answer the questions of his commanders and comrades and tell them how he was wounded, after which he should calmly, without any ceremony, meet his death.
+    
+    Although the samurai must first and foremost honor the Way of the Samurai, it is beyond doubt that we are all negligent. Therefore, if in our days one is asked: "What is the true meaning of the Way of the Samurai?", only a few will answer without hesitation.
+    
+    And all because no one prepares in advance for an answer to such questions. This indicates that people have forgotten the Way. Negligence is dangerous.
+    
+    I have come to understand that the Way of the Samurai is death.
+    
+    In a situation of "or-or," choose death without hesitation. It is not difficult. Fulfill your resolve and act.
+    
+    Only cowards justify themselves with reasoning that dying without achieving one's goal means dying a dog's death.
+    
+    Making the right choice in a situation of "or-or" is practically impossible.

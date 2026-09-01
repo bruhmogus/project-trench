@@ -19,4 +19,5 @@ ent-PosterScp079 = SCP-079 poster
     .desc = Information poster for SCP-079.
     .suffix = SCP-079 poster
 str-079-eye-name = { ent-Scp079Holo }
-str-079-CommunicationsConsole-title = \[ДАННЫЕ УДАЛЕНЫ\]
+# [AUTO_EN]
+str-079-CommunicationsConsole-title = [DATA DELETED]

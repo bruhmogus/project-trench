@@ -84,14 +84,18 @@ ent-MiningPDA = mining PDA
     .desc = there is dirt in every crack.
 ent-BlueShieldPDA = blue shield officer's PDA
     .desc = { ent-BasePDA.desc }
-ent-PilotPDA = КПК пилота
-    .desc = Имеет защиту от космической радиации.
-ent-CommaidPDA = КПК горничной командования
+# [AUTO_EN]
+ent-PilotPDA = Pilot's PDA
+    .desc = It has protection against cosmic radiation.
+# [AUTO_EN]
+ent-CommaidPDA = Commandant's maid's PDA
     .desc = { ent-BasePDA.desc }
-ent-PiratePDAMusic = КПК с черепушкой и пианино
-    .suffix = Музыка
-    .desc = 'Чёрный цвет – стильно! Череп и кости – круто! Теперь грабить можно под музыку!'
+# [AUTO_EN]
+ent-PiratePDAMusic = Pirate PDAMusic with skull and piano
+    .suffix = Music
+    .desc = Black is stylish! Skulls and bones are cool! Now you can rob to music!
 ent-PiratePDAMusicPassengerId = { ent-PiratePDAMusic }
     .desc = { ent-PiratePDAMusic.desc }
-ent-SecuritySergeantPDA = КПК сержанта СБ
-    .desc = Всё ещё работает. В отличие от владельца, не кричит на вас.
+# [AUTO_EN]
+ent-SecuritySergeantPDA = Sergeant's PDA
+    .desc = Still working. Unlike the owner, it doesn't yell at you.

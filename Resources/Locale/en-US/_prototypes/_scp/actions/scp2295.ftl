@@ -1,2 +1,3 @@
-ent-ActionScp2295Fiber = разноцветное волокно
-    .desc = Вы достаете из своего тела мягкие разноцветные волокна.
+# [AUTO_EN]
+ent-ActionScp2295Fiber = colorful fiber
+    .desc = You pull out soft, multicolored fibers from your body.

@@ -520,42 +520,80 @@ uplink-briefcase-gun-desc = An indistinct briefcase with a highly compact C-20K 
 
 uplink-energycrossbow-name = Mini Energy Crossbow
 uplink-energycrossbow-desc = The go-to sidearm of any operative who prefers their victims not to be moving. Fires regenerating toxic arrows that floors victims in an instant.
-uplink-supermatter-grenade-name = Граната суперматерии
-uplink-supermatter-grenade-desc = Граната, имитирующая расслоение суперматерии в одноимённом двигателе, создающая мощный гравитационный колодец. Взрыв сравним с взрывом минибомбы.
-uplink-shrapnel-exgrenade-name = Осколочная-разрывная граната
-uplink-shrapnel-exgrenade-desc = Граната, ориентированная на поражение личного состава взрывом и фрагментами. Наносит минимальные повреждения стенам и полу. Выпускает серию острых осколков, наносящих умеренный урон по незащищённым целям.
-uplink-mosin-speedloader-name = Обойма (7,62к)
-uplink-mosin-speedloader-desc = Тонкая металлическая полоска удерживающая 5 патронов калибра 7,62х54ммR для винтовки Кардашев.
-uplink-syndie-intellicard-name = Интелликард Синдиката
-uplink-syndie-intellicard-desc = Самый надёжный друг в деле борьбы против Станционного ИИ!
-uplink-voice-mask-name = Голосовая маска
-uplink-voice-mask-desc = Противогаз, позволяющий подстраивать свой голос под кого угодно.
+# [AUTO_EN]
+uplink-supermatter-grenade-name = Supermatter grenade
+# [AUTO_EN]
+uplink-supermatter-grenade-desc = Grenade that simulates the supermatter phase separation in the eponymous engine, creating a powerful gravitational well. The explosion is comparable to a mini-bomb.
+# [AUTO_EN]
+uplink-shrapnel-exgrenade-name = Fragment-HE grenade
+# [AUTO_EN]
+uplink-shrapnel-exgrenade-desc = Grenade designed to damage personnel via blast and fragments. Inflicts minimal damage to walls and floors. Fires a series of sharp shrapnel, dealing moderate damage to unprotected targets.
+# [AUTO_EN]
+uplink-mosin-speedloader-name = Chamber (.308)
+# [AUTO_EN]
+uplink-mosin-speedloader-desc = Thin metal strip holding 5 rounds of 7.62x54mmR caliber for the Kardashev rifle.
+# [AUTO_EN]
+uplink-syndie-intellicard-name = Intellicard Syndicate
+# [AUTO_EN]
+uplink-syndie-intellicard-desc = The most reliable ally in the fight against Stationary AI!
+# [AUTO_EN]
+uplink-voice-mask-name = Voice mask
+# [AUTO_EN]
+uplink-voice-mask-desc = A mask that lets you adjust your voice to sound like anyone.
 # Bundles
-uplink-minotaur-bundle-name = Набор AS-12 'Минотавр'
-uplink-minotaur-bundle-desc = Плавный, мощный, крайне нелегальный. Содержит дробовик «Минотавр» и 5 барабанов разных типов.
-uplink-ammo-bundlenew-name = Набор "Оружейная лавка"
-uplink-ammo-bundlenew-desc = Большой боекомплект для всего отряда! В набор входят: коробка магазинов для C-20r, коробка барабанов для Bulldog, коробка магазинов для L6 SAW и россыпные патроны, коробка магазинов для Эсток, коробка магазинов для Драгунов, а также коробка безгильзовых патронов.
-uplink-grenade-launcher-china-lake-name = Набор "China-Lake"
-uplink-grenade-launcher-china-lake-desc = Старый гранатомёт China-Lake и 13 гранат разных типов. Может стрелять как контактными, так и неконтактными гранатами.
-uplink-grenade-launcher-gl70-name = Набор "GL-70"
-uplink-grenade-launcher-gl70-desc = Набор с многозарядным автоматическим гранатомётом с барабаном на 6 снарядов и сумкой запасных снарядов. Может стрелять как контактными, так и неконтактными гранатами.
-uplink-coal-auto-injector-name = Угольный автоинъектор
-uplink-coal-auto-injector-desc = Специализированный автоинъектор, содержащий угольные химикаты, которые очищают вашу кровь и лечат отравление в течение 30 секунд.
-uplink-coalpen-kit-name = Набор угольных автоинъекторов
-uplink-coalpen-kit-desc = Медицинский набор, содержащий 8 угольных автоинъекторов для лечения отравления и очистки крови от токсинов (включая злостный Пакс).
-uplink-stimkit-nt-name = Набор инъекторов эфедрина
-uplink-stimkit-nt-desc = Аптечка, содержащая 6 микроинъекторов эфедрина, каждый из которых содержит дозу эфедрина на 15 секунд.
-uplink-gorilla-upgrade-kit-name = Чип улучшения перчатки Г.О.Р.И.Л.Л.А.
-uplink-gorilla-upgrade-kit-desc = Вставьте этот чип в стандартную перчатку Г.О.Р.И.Л.Л.А. или совместите этот чип и чип для М.А.Р.Т.Ы.Х внутри протеза, чтобы отключить встроенные ограничители и высвободить 200% мощи.
-uplink-anomaly-core-name = Аномальное ядро
-uplink-anomaly-core-desc = Стандартный контейнер для небольших артефактов; внутри находится свежее аномальное ядро и визитка. Во славу науки!
-uplink-clothing-outer-hardsuit-chameleon-name = Скафандр хамелеон
-uplink-clothing-hardsuit-chameleon-desc = Стандартный скафандр в который встроили голографичесике пластины. Фонарик в скафандр не идет.
-uplink-objects-power-syndie-powercell-name = Батарея синдиката
-uplink-objects-power-syndie-powercell-desc = Батарея гипер ёмкости синдиката, оснащённая защитой от ЭМИ. Подходит для самых разных задач.
-uplink-handcuffs-name = Наручники
-uplink-handcuffs-desc = Используется для удержания жертв.
-uplink-bola-syn-name = Бола Синдиката
-uplink-bola-syn-desc = Идеальная версия болы для Синдиката.
-uplink-interdyne-defibrillator-name = Дефибриллятор Interdyne
-uplink-interdyne-defibrillator-desc = Превосходный дефибриллятор, предназначенный для помощи и самообороны. Для настоящих медиков Синдиката.
+# [AUTO_EN]
+uplink-minotaur-bundle-name = AS-12 "Minotaur" Bundle
+# [AUTO_EN]
+uplink-minotaur-bundle-desc = Smooth, powerful, and extremely illegal. Contains the Minotaur shotgun and 5 different types of magazines.
+# [AUTO_EN]
+uplink-ammo-bundlenew-name = "Gun Shop" Bundle
+# [AUTO_EN]
+uplink-ammo-bundlenew-desc = Large ammo pack for the entire squad! The set includes: a box of mags for C-20r, a box of mags for Bulldog, a box of mags for L6 SAW and loose ammo, a box of mags for Estoc, a box of mags for Dragunov, and a box of rimless ammo.
+# [AUTO_EN]
+uplink-grenade-launcher-china-lake-name = "China-Lake" set
+# [AUTO_EN]
+uplink-grenade-launcher-china-lake-desc = Old China-Lake grenade launcher and 13 grenades of various types. Can fire both contact and non-contact grenades.
+# [AUTO_EN]
+uplink-grenade-launcher-gl70-name = "GL-70" Kit
+# [AUTO_EN]
+uplink-grenade-launcher-gl70-desc = Set containing a multi-round automatic grenade launcher with a 6-round drum magazine and a pouch of spare rounds. Can fire both contact and non-contact grenades.
+# [AUTO_EN]
+uplink-coal-auto-injector-name = Coal auto-injector
+# [AUTO_EN]
+uplink-coal-auto-injector-desc = Specialized auto-injector containing coal chemicals that cleanse your blood and treat poisoning within 30 seconds.
+# [AUTO_EN]
+uplink-coalpen-kit-name = Coal autoinjector kit
+# [AUTO_EN]
+uplink-coalpen-kit-desc = Medical kit containing 8 coal auto-injectors for treating poisoning and cleansing the blood of toxins (including the notorious Pax).
+# [AUTO_EN]
+uplink-stimkit-nt-name = Ephedrine injector kit
+# [AUTO_EN]
+uplink-stimkit-nt-desc = First aid kit containing 6 microinjectors of ephedrine, each containing a dose of ephedrine for 15 seconds.
+# [AUTO_EN]
+uplink-gorilla-upgrade-kit-name = G.O.R.I.L.L.A. Glove Upgrade Chip
+# [AUTO_EN]
+uplink-gorilla-upgrade-kit-desc = Insert this chip into the standard G.O.R.I.L.L.A glove or combine this chip with the M.A.R.T.Y.R. chip inside the prosthetic to disable built-in limiters and unleash 200% power.
+# [AUTO_EN]
+uplink-anomaly-core-name = Anomaly core
+# [AUTO_EN]
+uplink-anomaly-core-desc = Standard container for small artifacts; inside is a fresh anomalous core and a business card. For the glory of science!
+# [AUTO_EN]
+uplink-clothing-outer-hardsuit-chameleon-name = Chameleon Hardsuit
+# [AUTO_EN]
+uplink-clothing-hardsuit-chameleon-desc = Standard hard suit with integrated holographic plates. Flashlight does not fit in the suit.
+# [AUTO_EN]
+uplink-objects-power-syndie-powercell-name = Syndicate battery
+# [AUTO_EN]
+uplink-objects-power-syndie-powercell-desc = Syndicate high-capacity battery with EMI protection. Suitable for a wide range of tasks.
+# [AUTO_EN]
+uplink-handcuffs-name = Handcuffs
+# [AUTO_EN]
+uplink-handcuffs-desc = Used to restrain victims.
+# [AUTO_EN]
+uplink-bola-syn-name = Bola Syndicate
+# [AUTO_EN]
+uplink-bola-syn-desc = The perfect version of bola for the Syndicate.
+# [AUTO_EN]
+uplink-interdyne-defibrillator-name = Interdyne Defibrillator
+# [AUTO_EN]
+uplink-interdyne-defibrillator-desc = Excellent defibrillator, designed for assistance and self-defense. For the Syndicate's true medical professionals.

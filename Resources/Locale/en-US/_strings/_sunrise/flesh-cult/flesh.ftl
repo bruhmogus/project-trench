@@ -39,4 +39,5 @@ mob-flesh-hugger-ghost-role-desc = You are sentient flesh; cooperate with other 
 flesh-worm-cant-get-off = You are not attached to a face.
 flesh-worm-cant-jump = You cannot jump while attached to a face.
 mob-flesh-cult-rules = Do not attack Flesh Cultists; do not break DAMs, servers, consoles, or similar equipment. Do not cause atmospheric breaches.
-mob-flesh-abom-ghost-role-decs = Вы разумная плоть, кооперируйтесь с другими существами из плоти для захвата станции.
+# [AUTO_EN]
+mob-flesh-abom-ghost-role-decs = You are sentient flesh, cooperate with other flesh entities to seize the station.

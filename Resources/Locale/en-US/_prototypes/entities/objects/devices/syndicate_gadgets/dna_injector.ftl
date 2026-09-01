@@ -1,6 +1,8 @@
-ent-DnaInjectorUnlimited = инжектор ДНК
-    .desc = Можно взять образец ДНК у одного человека и ввести его другому, превращая его в клона оригинала.
-    .suffix = Адмемы, бесконечный
+# [AUTO_EN]
+ent-DnaInjectorUnlimited = DNA Injector
+    .desc = You can take a DNA sample from one person and insert it into another, turning them into a clone of the original.
+    .suffix = Admins, unlimited
+# [AUTO_EN]
 ent-DnaInjector = { ent-DnaInjectorUnlimited }
     .desc = { ent-DnaInjectorUnlimited.desc }
-    .suffix = Адмемы, одноразовый
+    .suffix = Admins, disposable

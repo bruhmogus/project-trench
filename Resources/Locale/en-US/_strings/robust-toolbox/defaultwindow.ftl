@@ -1,1 +1,2 @@
-defaultwindow-placeholder-title = Это образец названия окна
+# [AUTO_EN]
+defaultwindow-placeholder-title = This is a sample window title

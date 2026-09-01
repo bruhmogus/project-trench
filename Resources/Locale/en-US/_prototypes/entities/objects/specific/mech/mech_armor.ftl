@@ -12,5 +12,6 @@ ent-MechArmorHeavySyndi = mech armor (heavy syndi)
     .desc = Heavy syndicate armor: strong against physical damage, modest against heat.
 ent-BorgArmorSilicon = borg armor plating
     .desc = Standard borg armor plating.
-ent-BorgArmorSiliconMk2 = бронепластина борга Мк2
-    .desc = Стандартная броня борга чуть лучше стандартной.
+# [AUTO_EN]
+ent-BorgArmorSiliconMk2 = Borg armor plate Mk2
+    .desc = Standard Borg armor is slightly better than standard.

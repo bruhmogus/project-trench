@@ -10,5 +10,7 @@ agent-id-card-job-icon-label = Job icon:
 agent-id-menu-title = Agent ID Card
 
 agent-id-open-ui-verb = Change settings
-agent-id-no-new = { CAPITALIZE($card) } не дала новых доступов.
-agent-id-new-1 = { CAPITALIZE($card) } дала один новый доступ.
+# [AUTO_EN]
+agent-id-no-new = { CAPITALIZE($card) } did not grant new access.
+# [AUTO_EN]
+agent-id-new-1 = { CAPITALIZE($card) } gave one new access.

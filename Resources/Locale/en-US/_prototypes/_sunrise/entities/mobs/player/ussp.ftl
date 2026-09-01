@@ -13,15 +13,19 @@ ent-MobHumanUSSPSoldier = USSP Soldier
 ent-MobHumanUSSPCaptain = USSP Captain
     .suffix = USSP
     .desc = { ent-MobHuman.desc }
-ent-SyndieInfiltratorTeamLeaderSpawner = спавнер командир инфильтратор
-    .suffix = Спавнер
+# [AUTO_EN]
+ent-SyndieInfiltratorTeamLeaderSpawner = infiltrator team leader spawner
+    .suffix = Spawner
     .desc = { ent-MobHuman.desc }
-ent-SyndieInfiltratorSpawner = спавнер боец инфильтратор
-    .suffix = Спавнер
+# [AUTO_EN]
+ent-SyndieInfiltratorSpawner = infiltrator combat spawner
+    .suffix = Spawner
     .desc = { ent-MobHuman.desc }
-ent-RandomHumanoidInfiltratorTeamLeader = командир инфильтратор
-    .suffix = Оперативник
+# [AUTO_EN]
+ent-RandomHumanoidInfiltratorTeamLeader = infiltrator team leader
+    .suffix = Operator
     .desc = { ent-MobHuman.desc }
-ent-RandomHumanoidInfiltrator = боец инфильтратор
-    .suffix = Оперативник
+# [AUTO_EN]
+ent-RandomHumanoidInfiltrator = infiltrator soldier
+    .suffix = Operator
     .desc = { ent-MobHuman.desc }

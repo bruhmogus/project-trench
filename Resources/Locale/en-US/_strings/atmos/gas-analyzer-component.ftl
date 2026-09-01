@@ -32,4 +32,5 @@ gas-entry-info = {$gasName}: {$gasAmount} mol
 gas-analyzer-window-text-inlet = Inlet
 gas-analyzer-window-text-outlet = Outlet
 gas-analyzer-window-text-filter = Filter
-gas-analyzer-component-player-cannot-reach-message = Вы не можете туда достать.
+# [AUTO_EN]
+gas-analyzer-component-player-cannot-reach-message = You can't reach it.

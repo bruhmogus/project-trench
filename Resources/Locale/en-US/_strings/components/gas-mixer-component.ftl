@@ -7,6 +7,9 @@ comp-gas-mixer-ui-mixer-set = Set
 comp-gas-mixer-ui-mixer-max = Max
 
 comp-gas-mixer-ui-needs-anchor = Anchor it first!
-comp-gas-mixer-ui-mixer-status = Статус:
-comp-gas-mixer-ui-status-enabled = Вкл
-comp-gas-mixer-ui-status-disabled = Выкл
+# [AUTO_EN]
+comp-gas-mixer-ui-mixer-status = Status:
+# [AUTO_EN]
+comp-gas-mixer-ui-status-enabled = On
+# [AUTO_EN]
+comp-gas-mixer-ui-status-disabled = Off

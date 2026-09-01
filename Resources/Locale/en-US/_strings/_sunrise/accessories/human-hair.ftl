@@ -144,42 +144,81 @@ marking-HumanHairZiegler = Ziegler
 marking-HairEmoNew = Emo (New)
 marking-HairCascade = Cascade (New)
 marking-HairLacePonytail = Lace ponytail (New)
-marking-HairAyanami = Аянами
-marking-HairBasarab = Басараб
-marking-HairBubbleGum = Бабл Гам
-marking-HairCloud = Облачная
-marking-HairCrayfish = Клешни
-marking-HairHank = Хэнк
-marking-HairHonor = Ваша честь
-marking-HairMadScientist = Безумный учёный
-marking-HairMavis = Мейвиc
-marking-HairMonday = Стиль "понедельник"
-marking-HairMorningHairstyle = Стиль "доброе утро"
-marking-HairMorningHairstyle2 = Стиль "доброе утро" 2
-marking-HairNemesida = Кривая чёлка
-marking-HairPonytail = Пышная с хвостом
-marking-HairPrinceCharming = Принц
-marking-HairPunk = Мамин панк
-marking-HairShavedFemale = Женская с выбритым боком
-marking-HairShavedFemaleUnisex = Унисекс с пучком
-marking-HairTuranga = Джунгли
-marking-HairMoon = Адская гончая
-marking-HairMalet = Малет
-marking-HairLongDisheveled = Длинные растрёпанные волосы
-marking-HairQuickInstalation = Быстрая укладка
-marking-HairProtrudingStrand = Выпирающая прядь
-marking-HairWindy = Ветренная укладка
-marking-HairNeatFeminineStyling = Аккуратная женская укладка
-marking-HairNeatManBun = Аккуратный мужской пучок
-marking-HairLongComb = Длинный гребень
-marking-HairMediumDisheveled = Средние растрёпанные волосы
-marking-HairBunWithTail = Пучок с хвостиком
-marking-HairBunWithTailAlt = Пучок с хвостиком и чёлкой
-marking-HairGluckosa = Глюкоза
-marking-HairAppleJack = Эппл Джек
-marking-HairPinkiePie = Пинки Пай
-marking-HairRarity = Рарити
-marking-HairAqua = Аква
-marking-HairBairdAndBangs = Коса с чёлкой
-marking-Hairmalet-alternative = Малет (альтернативный)
-marking-HairPonytail8 = Хвостик 8
+# [AUTO_EN]
+marking-HairAyanami = Ayanami
+# [AUTO_EN]
+marking-HairBasarab = Basarab
+# [AUTO_EN]
+marking-HairBubbleGum = Bubble Gum
+# [AUTO_EN]
+marking-HairCloud = Cloud
+# [AUTO_EN]
+marking-HairCrayfish = Claws
+# [AUTO_EN]
+marking-HairHank = Hank
+# [AUTO_EN]
+marking-HairHonor = Your honor
+# [AUTO_EN]
+marking-HairMadScientist = Mad Scientist
+# [AUTO_EN]
+marking-HairMavis = Mavis
+# [AUTO_EN]
+marking-HairMonday = "Monday" style
+# [AUTO_EN]
+marking-HairMorningHairstyle = "Good morning" style
+# [AUTO_EN]
+marking-HairMorningHairstyle2 = "Good morning" style 2
+# [AUTO_EN]
+marking-HairNemesida = Bald eyebrow
+# [AUTO_EN]
+marking-HairPonytail = Full with a ponytail
+# [AUTO_EN]
+marking-HairPrinceCharming = Prince
+# [AUTO_EN]
+marking-HairPunk = Mom's punk
+# [AUTO_EN]
+marking-HairShavedFemale = Female with shaved side
+# [AUTO_EN]
+marking-HairShavedFemaleUnisex = Unisex with a bun
+# [AUTO_EN]
+marking-HairTuranga = Jungles
+# [AUTO_EN]
+marking-HairMoon = Hellhound
+# [AUTO_EN]
+marking-HairMalet = Hair
+# [AUTO_EN]
+marking-HairLongDisheveled = Long disheveled hair
+# [AUTO_EN]
+marking-HairQuickInstalation = Quick styling
+# [AUTO_EN]
+marking-HairProtrudingStrand = Protruding strand
+# [AUTO_EN]
+marking-HairWindy = Windy styling
+# [AUTO_EN]
+marking-HairNeatFeminineStyling = Neat feminine hairstyle
+# [AUTO_EN]
+marking-HairNeatManBun = Neat man bun
+# [AUTO_EN]
+marking-HairLongComb = Long comb
+# [AUTO_EN]
+marking-HairMediumDisheveled = Medium disheveled hair
+# [AUTO_EN]
+marking-HairBunWithTail = Bun with a tail
+# [AUTO_EN]
+marking-HairBunWithTailAlt = Bun with a ponytail and bangs
+# [AUTO_EN]
+marking-HairGluckosa = Glucose
+# [AUTO_EN]
+marking-HairAppleJack = Apple Jack
+# [AUTO_EN]
+marking-HairPinkiePie = Pinkie Pie
+# [AUTO_EN]
+marking-HairRarity = Rarity
+# [AUTO_EN]
+marking-HairAqua = Aqua
+# [AUTO_EN]
+marking-HairBairdAndBangs = Braid with bangs
+# [AUTO_EN]
+marking-Hairmalet-alternative = Hairmalet (alternative)
+# [AUTO_EN]
+marking-HairPonytail8 = Ponytail 8

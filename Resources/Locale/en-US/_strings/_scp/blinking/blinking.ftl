@@ -16,4 +16,5 @@ open-eye-phrase-1 = { GENDER($entity) ->
 open-eye-phrase-2 = Opening my eyes.
 open-eye-phrase-3 = Looking.
 open-eye-phrase-4 = I can see.
-eye-droplets-tolerance-too-high = Кажется, что мои глаза привыкли к каплям!
+# [AUTO_EN]
+eye-droplets-tolerance-too-high = It seems my eyes are getting used to the drops!

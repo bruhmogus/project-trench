@@ -1,6 +1,8 @@
-ent-WeaponEnergyTurretCentralCommandControlPanel = панель управления охранной турелью ЦентКом
-    .suffix = Центком
-    .desc = Настенный интерфейс для удаленной настройки рабочих параметров связанных охранных турелей.
+# [AUTO_EN]
+ent-WeaponEnergyTurretCentralCommandControlPanel = Central Command Control Panel for the Security Turret
+    .suffix = Central Command
+    .desc = Wall-mounted interface for remotely configuring the operational parameters of linked security turrets.
+# [AUTO_EN]
 ent-WeaponEnergyTurretSyndicateControlPanel = { ent-WeaponEnergyTurretStationControlPanelBase }
-    .suffix = Синдикат
-    .desc = Настенный интерфейс для удаленной настройки рабочих параметров связанных охранных турелей.
+    .suffix = Syndicate
+    .desc = Wall-mounted interface for remotely configuring the operational parameters of linked security turrets.

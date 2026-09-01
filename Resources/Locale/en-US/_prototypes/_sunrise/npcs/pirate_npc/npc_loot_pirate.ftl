@@ -157,38 +157,73 @@ ent-PirateMedSpawner04 = medical spawner 04
     .desc = Randomly spawns pirate medical supplies.
 ent-PirateMedSpawner05 = medical spawner 05
     .desc = Randomly spawns pirate medical supplies.
-ent-DuffelSyndicateMedicalGiftBox = медицинский вещмешок
-ent-WaistbagBox = поясная сумка
-ent-WaistbagBoxTier1Grenade = поясная сумка
-ent-PiratePouchTier1KnuckleDusters = пиратский подсумок
-ent-PiratePouchTier1FlareGun = пиратский подсумок
-ent-PiratePouchTier1FireBomb = пиратский подсумок
-ent-PiratePouchTier3EDagger = пиратский подсумок
-ent-ClothingBackpackMessengerMeleeT2 = пиратская сумка
-ent-ClothingBackPirateMessengerT1ECutlass = пиратская сумка
-ent-ClothingBackPirateMessengerT1EPickaxe = пиратская сумка
-ent-ClothingBackPirateMessengerT1SKM24 = пиратская сумка
-ent-ClothingBackPirateMessengerT1SMG = пиратская сумка
-ent-ClothingBackPirateMessengerT2MG = пиратская сумка
-ent-ClothingBackPirateMessengerT2Shotgun = пиратская сумка
-ent-ClothingBackPirateMessengerT3SKM24 = пиратская сумка
-ent-ClothingBackDuffelMercenaryTier1Flintlock = пиратский вещмешок
-ent-ClothingBackDuffelMercenaryTier1Pistol = пиратский вещмешок
-ent-ClothingBackDuffelMercenaryTier1Medic = пиратский вещмешок
-ent-ClothingBackDuffelMercenaryTier2Medic = пиратский вещмешок
-ent-ClothingBackDuffelMercenaryTier3Medic = пиратский вещмешок
-ent-ClothingBackDuffelMercenaryTier3Grenade = пиратский вещмешок
-ent-ClothingBackDuffelMercenaryTier3Sniper = пиратский вещмешок
-ent-ClothingBackScrapperMeleeT1 = сумка мусорщика
-ent-ClothingBackScrapperRangedT1 = сумка мусорщика
-ent-ClothingBackScrapperT1PlasmaCutter = сумка мусорщика
-ent-ClothingBackScrapperT1Hunter = сумка мусорщика
-ent-ClothingBackScrapperT1Smasher = сумка мусорщика
-ent-ClothingBackScrapperRangedT2 = сумка мусорщика
-ent-ClothingBackScrapperBoss = сумка мусорщика
-ent-ClothingBackSyndiBagTier4Ranged = синдикатская сумка
-ent-ClothingBackOreCrateTier1Mech = ящик
-ent-ClothingBackOreCrateTier1Cyborg = ящик
-ent-ClothingBackOreCrateTier2Cyborg = ящик
-ent-ClothingBackOreCrateTier3Mech = ящик
-ent-ClothingBackOreCrateBoss = ящик
+# [AUTO_EN]
+ent-DuffelSyndicateMedicalGiftBox = medical bag
+# [AUTO_EN]
+ent-WaistbagBox = waist bag
+# [AUTO_EN]
+ent-WaistbagBoxTier1Grenade = waist bag
+# [AUTO_EN]
+ent-PiratePouchTier1KnuckleDusters = pirate pouch
+# [AUTO_EN]
+ent-PiratePouchTier1FlareGun = pirate pouch
+# [AUTO_EN]
+ent-PiratePouchTier1FireBomb = pirate pouch
+# [AUTO_EN]
+ent-PiratePouchTier3EDagger = pirate pouch
+# [AUTO_EN]
+ent-ClothingBackpackMessengerMeleeT2 = pirate bag
+# [AUTO_EN]
+ent-ClothingBackPirateMessengerT1ECutlass = pirate bag
+# [AUTO_EN]
+ent-ClothingBackPirateMessengerT1EPickaxe = pirate bag
+# [AUTO_EN]
+ent-ClothingBackPirateMessengerT1SKM24 = pirate bag
+# [AUTO_EN]
+ent-ClothingBackPirateMessengerT1SMG = pirate bag
+# [AUTO_EN]
+ent-ClothingBackPirateMessengerT2MG = pirate bag
+# [AUTO_EN]
+ent-ClothingBackPirateMessengerT2Shotgun = pirate bag
+# [AUTO_EN]
+ent-ClothingBackPirateMessengerT3SKM24 = pirate bag
+# [AUTO_EN]
+ent-ClothingBackDuffelMercenaryTier1Flintlock = pirate duffel bag
+# [AUTO_EN]
+ent-ClothingBackDuffelMercenaryTier1Pistol = pirate duffel bag
+# [AUTO_EN]
+ent-ClothingBackDuffelMercenaryTier1Medic = pirate duffel bag
+# [AUTO_EN]
+ent-ClothingBackDuffelMercenaryTier2Medic = pirate duffel bag
+# [AUTO_EN]
+ent-ClothingBackDuffelMercenaryTier3Medic = pirate duffel bag
+# [AUTO_EN]
+ent-ClothingBackDuffelMercenaryTier3Grenade = pirate duffel bag
+# [AUTO_EN]
+ent-ClothingBackDuffelMercenaryTier3Sniper = pirate duffel bag
+# [AUTO_EN]
+ent-ClothingBackScrapperMeleeT1 = garbage bag
+# [AUTO_EN]
+ent-ClothingBackScrapperRangedT1 = garbage bag
+# [AUTO_EN]
+ent-ClothingBackScrapperT1PlasmaCutter = garbage bag
+# [AUTO_EN]
+ent-ClothingBackScrapperT1Hunter = garbage bag
+# [AUTO_EN]
+ent-ClothingBackScrapperT1Smasher = garbage bag
+# [AUTO_EN]
+ent-ClothingBackScrapperRangedT2 = garbage bag
+# [AUTO_EN]
+ent-ClothingBackScrapperBoss = garbage bag
+# [AUTO_EN]
+ent-ClothingBackSyndiBagTier4Ranged = Syndicate bag
+# [AUTO_EN]
+ent-ClothingBackOreCrateTier1Mech = crate
+# [AUTO_EN]
+ent-ClothingBackOreCrateTier1Cyborg = crate
+# [AUTO_EN]
+ent-ClothingBackOreCrateTier2Cyborg = crate
+# [AUTO_EN]
+ent-ClothingBackOreCrateTier3Mech = crate
+# [AUTO_EN]
+ent-ClothingBackOreCrateBoss = crate

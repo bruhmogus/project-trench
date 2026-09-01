@@ -1,2 +1,4 @@
-cmd-showdevicelink-denied = Эту команду запрещено вводить из хост консоли.
-cmd-showdevicelink-status = Оверлей подключенных устройств переключен.
+# [AUTO_EN]
+cmd-showdevicelink-denied = This command is not allowed to be entered from the host console.
+# [AUTO_EN]
+cmd-showdevicelink-status = Overlay of connected devices is toggled.

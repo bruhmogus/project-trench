@@ -22,9 +22,12 @@ ent-TelecomServerT2Circuitboard = advanced telecommunication server machine boar
     .desc = { ent-TelecomServerCircuitboard.desc }
 ent-TelecomServerT3Circuitboard = experimental telecommunication server machine board
     .desc = { ent-TelecomServerCircuitboard.desc }
-ent-SlopDispenserMachineCircuitboard = плата раздатчика питательной пасты
-    .desc = Машинная печатная плата для раздатчика питательной пасты.
-ent-SMESExtendedMachineCircuitboard = расширенный СМЭС (машинная плата)
-    .desc = Машинная печатная плата для расширенного СМЭС.
-ent-SMESSuperExtendedMachineCircuitboard = суперрасширенный СМЭС (машинная плата)
-    .desc = Машинная печатная плата для суперрасширенного СМЭС.
+# [AUTO_EN]
+ent-SlopDispenserMachineCircuitboard = feed dispenser circuit board
+    .desc = Machine circuit board for the nutrient paste dispenser.
+# [AUTO_EN]
+ent-SMESExtendedMachineCircuitboard = extended SMES (machine board)
+    .desc = Machine printed circuit board for extended SMES.
+# [AUTO_EN]
+ent-SMESSuperExtendedMachineCircuitboard = superextended SMES (machine board)
+    .desc = Machine circuit board for the extended SMES.

@@ -23,12 +23,15 @@ ent-OrganDionaNymphStomach = diona nymph
 ent-OrganDionaNymphLungs = diona nymph
     .desc = Contains the lungs of a formerly fully-formed Diona. Breathtaking.
     .suffix = Lungs
+# [AUTO_EN]
 ent-OrganDionaBrainNymphing = { ent-OrganDionaBrain }
     .desc = { ent-OrganDionaBrain.desc }
-    .suffix = Диона, нимфование
+    .suffix = Diona, nymphing
+# [AUTO_EN]
 ent-OrganDionaLungsNymphing = { ent-OrganDionaLungs }
     .desc = { ent-OrganDionaLungs.desc }
-    .suffix = Диона, нимфование
+    .suffix = Diona, nymphing
+# [AUTO_EN]
 ent-OrganDionaStomachNymphing = { ent-OrganDionaStomach }
     .desc = { ent-OrganDionaStomach.desc }
-    .suffix = Диона, нимфование
+    .suffix = Diona, nymphing

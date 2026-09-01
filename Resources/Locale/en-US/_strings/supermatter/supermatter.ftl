@@ -36,5 +36,7 @@ supermatter-announcement-delam-cascade =
 supermatter-tamper-begin = You begin to caferully carve a sliver off the supermatter crystal...
 
 supermatter-tamper-end = You're feeling like a god, holding a piece of the supermatter. Or is it all the radiation?
-supermatter-tamper-fail = Кристалл слишком поврежден, чтобы извлечь из него еще осколки.
-supermatter-announcement-tamper = Внимание! Обнаружено несанкционированное вмешательство в кристалл суперматерии! Целостность: { $integrity }%
+# [AUTO_EN]
+supermatter-tamper-fail = The crystal is too damaged to extract any more shards from it.
+# [AUTO_EN]
+supermatter-announcement-tamper = Attention! Unauthorized interference detected in the supermatter crystal! Integrity: { $integrity }%
