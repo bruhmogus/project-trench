@@ -31,8 +31,9 @@ ent-LockableButtonInternalTribunalService = { ent-LockableButton }
 ent-LockableButtonMTF = { ent-LockableButton }
     .suffix = MTF
     .desc = { ent-LockableButton.desc }
+# [AUTO_EN]
 ent-LockableButtonO5 = { ent-LockableButton }
-    .suffix = О5
+    .suffix = O5
     .desc = { ent-LockableButton.desc }
 ent-LockableButtonCheckpoint = { ent-LockableButton }
     .suffix = Checkpoint

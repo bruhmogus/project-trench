@@ -199,24 +199,42 @@ uplink-sunrise-clothing-neck-cloak-qm-name = Quartermaster's Cloak
 
 ## Medical
 
-uplink-sunrise-cryostasis-beaker-name = Криостазисная мензурка
-uplink-sunrise-medicated-suture-name = Медицинская нить (10 шт)
-uplink-sunrise-pill-canister-dermaline-name = Баночка с дермалином
-uplink-sunrise-pill-canister-bicaridine-name = Баночка с бикаридином
-uplink-sunrise-clothing-breath-mask-cmo2-name = Медицинский респиратор
-uplink-sunrise-syringe-bluespace-name = Блюспейс-шприц
-uplink-sunrise-regenerative-mesh-name = Регенеративная сеть (10 шт)
-uplink-sunrise-clothing-hands-gloves-nitrile-name = Нитриловые перчатки
-uplink-sunrise-emergency-medipen-name = Экстренный медипен
-uplink-sunrise-anti-poison-medipen-name = Автоинъектор противоядия
-uplink-sunrise-brute-auto-injector-name = Автоинъектор мех-повреждений
-uplink-sunrise-rad-auto-injector-name = Автоинъектор рад-повреждений
-uplink-sunrise-burn-auto-injector-name = Автоинъектор физ-повреждений
-uplink-sunrise-pill-canister-dylovene-name = Баночка для таблеток (диловен)
-uplink-sunrise-pill-canister-hyronalin-name = Баночка для таблеток (хироналин)
-uplink-sunrise-pill-canister-dexalin-name = Баночка для таблеток (дексалин)
-uplink-sunrise-bloodpack-name = Пакет крови (10 шт)
-uplink-sunrise-gauze-name = Марлевый бинт (10 шт)
+# [AUTO_EN]
+uplink-sunrise-cryostasis-beaker-name = Cryostasis beaker
+# [AUTO_EN]
+uplink-sunrise-medicated-suture-name = Medical suture (10 pcs)
+# [AUTO_EN]
+uplink-sunrise-pill-canister-dermaline-name = Dermaline pill canister
+# [AUTO_EN]
+uplink-sunrise-pill-canister-bicaridine-name = Canister with bicaridine
+# [AUTO_EN]
+uplink-sunrise-clothing-breath-mask-cmo2-name = Medical respirator
+# [AUTO_EN]
+uplink-sunrise-syringe-bluespace-name = Bluespace syringe
+# [AUTO_EN]
+uplink-sunrise-regenerative-mesh-name = Regenerative mesh (10 pcs)
+# [AUTO_EN]
+uplink-sunrise-clothing-hands-gloves-nitrile-name = Nitrile gloves
+# [AUTO_EN]
+uplink-sunrise-emergency-medipen-name = Emergency Medipen
+# [AUTO_EN]
+uplink-sunrise-anti-poison-medipen-name = Autoinjector antidote
+# [AUTO_EN]
+uplink-sunrise-brute-auto-injector-name = Mech-damage auto-injector
+# [AUTO_EN]
+uplink-sunrise-rad-auto-injector-name = Rad-damage auto-injector
+# [AUTO_EN]
+uplink-sunrise-burn-auto-injector-name = Autoinjector of physical damage
+# [AUTO_EN]
+uplink-sunrise-pill-canister-dylovene-name = Pill canister (Dylovene)
+# [AUTO_EN]
+uplink-sunrise-pill-canister-hyronalin-name = Pill canister (Hyronalin)
+# [AUTO_EN]
+uplink-sunrise-pill-canister-dexalin-name = Pill canister (Dexalin)
+# [AUTO_EN]
+uplink-sunrise-bloodpack-name = Blood Pack (10 pcs)
+# [AUTO_EN]
+uplink-sunrise-gauze-name = Gauze bandage (10 pcs)
 uplink-sunrise-clothing-neck-med-cloak-name = Cloak of Compassion
 
 ## Research

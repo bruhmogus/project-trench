@@ -40,6 +40,7 @@ store-category-ntengineering = Engineering
 store-category-ntmechs = Mechs
 store-category-ntexplosive = Explosive
 store-category-ntammo = Ammo
-store-category-ntequipment = Equipment Экипировка
+# [AUTO_EN]
+store-category-ntequipment = Equipment Gear
 # PirateUplink
 store-category-exchanger = Exchange

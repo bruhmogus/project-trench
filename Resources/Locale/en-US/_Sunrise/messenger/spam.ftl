@@ -195,7 +195,8 @@ messenger-spam-weapons-message-4 = Let's get down to business. Need a weapon? My
 messenger-spam-weapons-message-5 = Grenades. Smoke bombs. TNT. Bombs. Shells. Mines. C4. Rockets. Biological weapons. Nuclear warheads. Clearance sale! Get it before it's gone! No licenses required — just cash! Customers liable to be executed if attempting to pay via credit card.
 
 # Error
-messenger-spam-error-sender-1 = ОШ;Б…;кА
+# [AUTO_EN]
+messenger-spam-error-sender-1 = ERROR;B...;kA
 messenger-spam-error-sender-2 = 25-j*%...o1q
 messenger-spam-error-sender-3 = MESSAGING SYSTEM FAILURE
 messenger-spam-error-sender-4 = ERROR

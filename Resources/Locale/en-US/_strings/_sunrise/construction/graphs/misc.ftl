@@ -1,30 +1,60 @@
-recipe-Artifact-name = инопланетный артефакт
-recipe-Artifact-description = Маленькое странное инопланетное устройство.
-recipe-PowerCellPotato-name = картофельная батарея
-recipe-PowerCellPotato-description = Кто-то воткнул два гвоздя и несколько проводов в большую картофелину. Каким-то образом это обеспечивает небольшой заряд. Вы можете запихнуть его в слот среднего размера.
-recipe-PotatoAI-name = картофельный ИИ
-recipe-PotatoAI-description = Это картофелина. Вы заставили её быть разумной, вы, монстр.
-recipe-ClothingOuterSuitIan-name = костюм Иана
-recipe-ClothingOuterSuitIan-description = Кто хороший мальчик?
-recipe-smokeableJoint-name = косяк
-recipe-smokeableJoint-description = Самокрутка из высушенного растения, завёрнуто в тонкую бумагу.
-recipe-smokeableGroundCannabis-name = измельчённая конопля
-recipe-smokeableGroundCannabis-description = Измельчённая конопля, готовая унести вас в трип.
-recipe-smokeableGroundTobacco-name = измельчённый табак
-recipe-smokeableGroundTobacco-description = Измельчённый табак, идеально подходит для самокруток.
-recipe-PlushieGhostRevenant-name = плюшевый ревенант
-recipe-PlushieGhostRevenant-description = Такой мягкий, что вызывает желание вздремнуть...
-recipe-smokeableGroundCannabisRainbow-name = измельчённая радужная конопля
-recipe-smokeableGroundCannabisRainbow-description = Измельчённая радужная конопля, готовая унести вас в трип.
-recipe-smokeableBluntRainbow-name = радужный блант
-recipe-smokeableBluntRainbow-description = Самокрутка из высушенного растения, завёрнуто в высушенный табачный лист. Внутри, похоже, очень красочно.
-recipe-smokeableJointRainbow-name = радужный косяк
-recipe-smokeableJointRainbow-description = Самокрутка из высушенного растения, завёрнуто в тонкую бумагу. Внутри, похоже, очень красочно.
-recipe-smokeableBlunt-name = блант
-recipe-smokeableBlunt-description = Самокрутка из высушенного растения, завёрнуто в высушенный табачный лист.
-recipe-smokeableCigarette-name = сигарета
-recipe-smokeableCigarette-description = Скрутка с табаком и никотином.
-recipe-PotatoAIChip-name = сверхкомпактный чип ИИ
-recipe-PotatoAIChip-description = Для корректной работы этого высокотехнологичного чипа искуственного интелекта  требуется напряжение ровно в 1,1 Вольт.
-recipe-CottonWovenCloth-name = ткань
-recipe-CottonWovenCloth-description = Сырьё
+# [AUTO_EN]
+recipe-Artifact-name = alien artifact
+# [AUTO_EN]
+recipe-Artifact-description = A small strange alien device.
+# [AUTO_EN]
+recipe-PowerCellPotato-name = potato battery
+# [AUTO_EN]
+recipe-PowerCellPotato-description = Someone stuck two nails and several wires into a large potato. Somehow, this provides a small charge. You can shove it into the medium slot.
+# [AUTO_EN]
+recipe-PotatoAI-name = Potato AI
+# [AUTO_EN]
+recipe-PotatoAI-description = This is a potato. You made it rational, you, monster.
+# [AUTO_EN]
+recipe-ClothingOuterSuitIan-name = Ian's suit
+# [AUTO_EN]
+recipe-ClothingOuterSuitIan-description = Who is a good boy?
+# [AUTO_EN]
+recipe-smokeableJoint-name = joint
+# [AUTO_EN]
+recipe-smokeableJoint-description = A rolled cigarette made from dried plant material, wrapped in thin paper.
+# [AUTO_EN]
+recipe-smokeableGroundCannabis-name = ground cannabis
+# [AUTO_EN]
+recipe-smokeableGroundCannabis-description = Ground cannabis, ready to take you on a trip.
+# [AUTO_EN]
+recipe-smokeableGroundTobacco-name = ground tobacco
+# [AUTO_EN]
+recipe-smokeableGroundTobacco-description = Ground tobacco, perfect for rolling.
+# [AUTO_EN]
+recipe-PlushieGhostRevenant-name = plushie revenant
+# [AUTO_EN]
+recipe-PlushieGhostRevenant-description = So soft it makes you want to nap...
+# [AUTO_EN]
+recipe-smokeableGroundCannabisRainbow-name = grounded rainbow cannabis
+# [AUTO_EN]
+recipe-smokeableGroundCannabisRainbow-description = Ground rainbow cannabis, ready to take you on a trip.
+# [AUTO_EN]
+recipe-smokeableBluntRainbow-name = rainbow blunt
+# [AUTO_EN]
+recipe-smokeableBluntRainbow-description = A rolled cigarette made from dried plant material, wrapped in dried tobacco leaf. Inside, it looks very colorful.
+# [AUTO_EN]
+recipe-smokeableJointRainbow-name = rainbow joint
+# [AUTO_EN]
+recipe-smokeableJointRainbow-description = A rolled cigarette made from dried plant material, wrapped in thin paper. Inside, it appears very colorful.
+# [AUTO_EN]
+recipe-smokeableBlunt-name = blunt
+# [AUTO_EN]
+recipe-smokeableBlunt-description = A rolled cigarette made from dried plant material, wrapped in a dried tobacco leaf.
+# [AUTO_EN]
+recipe-smokeableCigarette-name = cigarette
+# [AUTO_EN]
+recipe-smokeableCigarette-description = Roll with tobacco and nicotine.
+# [AUTO_EN]
+recipe-PotatoAIChip-name = ultra-compact AI chip
+# [AUTO_EN]
+recipe-PotatoAIChip-description = For this high-tech artificial intelligence chip to work correctly, it requires a voltage of exactly 1.1 Volts.
+# [AUTO_EN]
+recipe-CottonWovenCloth-name = fabric
+# [AUTO_EN]
+recipe-CottonWovenCloth-description = Ingredients

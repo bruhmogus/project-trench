@@ -1,18 +1,36 @@
-recipe-TileWhite-name = белая плитка
-recipe-TileWhite-description = Может послужить неплохим метательным оружием.
-recipe-TileWoodLarge-name = большой деревянный пол
-recipe-TileWoodLarge-description = Может послужить неплохим метательным оружием.
-recipe-TileBrassReebe-name = гладкая латунная плитка
-recipe-TileBrassReebe-description = Может послужить неплохим метательным оружием.
-recipe-TileWood-name = деревянный пол
-recipe-TileWood-description = Может послужить неплохим метательным оружием.
-recipe-TileBrassFilled-name = заполненная латунная плитка
-recipe-TileBrassFilled-description = Может послужить неплохим метательным оружием.
-recipe-TileFlesh-name = пол из плоти
-recipe-TileFlesh-description = Может послужить неплохим метательным оружием.
-recipe-TileSteel-name = стальная плитка
-recipe-TileSteel-description = Может послужить неплохим метательным оружием.
-recipe-TileDark-name = тёмная плитка
-recipe-TileDark-description = Может послужить неплохим метательным оружием.
-recipe-TileWeb-name = паутинный пол
-recipe-TileWeb-description = Может послужить неплохим метательным оружием.
+# [AUTO_EN]
+recipe-TileWhite-name = white tile
+# [AUTO_EN]
+recipe-TileWhite-description = Can serve as a decent throwing weapon.
+# [AUTO_EN]
+recipe-TileWoodLarge-name = large wooden floor
+# [AUTO_EN]
+recipe-TileWoodLarge-description = Can serve as a decent throwing weapon.
+# [AUTO_EN]
+recipe-TileBrassReebe-name = smooth brass tile
+# [AUTO_EN]
+recipe-TileBrassReebe-description = Can serve as a decent throwing weapon.
+# [AUTO_EN]
+recipe-TileWood-name = wooden floor
+# [AUTO_EN]
+recipe-TileWood-description = Can serve as a decent throwing weapon.
+# [AUTO_EN]
+recipe-TileBrassFilled-name = brass-filled tile
+# [AUTO_EN]
+recipe-TileBrassFilled-description = Can serve as a decent throwing weapon.
+# [AUTO_EN]
+recipe-TileFlesh-name = flesh floor
+# [AUTO_EN]
+recipe-TileFlesh-description = Can serve as a decent throwing weapon.
+# [AUTO_EN]
+recipe-TileSteel-name = steel tile
+# [AUTO_EN]
+recipe-TileSteel-description = Can serve as a decent throwing weapon.
+# [AUTO_EN]
+recipe-TileDark-name = dark tile
+# [AUTO_EN]
+recipe-TileDark-description = Can serve as a decent throwing weapon.
+# [AUTO_EN]
+recipe-TileWeb-name = hanging floor
+# [AUTO_EN]
+recipe-TileWeb-description = Can serve as a decent throwing weapon.

@@ -1,30 +1,60 @@
-recipe-ChestDrawer-name = комод
-recipe-ChestDrawer-description = Маленький шкафчик для хранения предметов. Теперь на колёсиках!
-recipe-FilingCabinet-name = картотечный шкаф
-recipe-FilingCabinet-description = Шкаф для хранения документов.
-recipe-ShowCase-name = стеклянный короб
-recipe-ShowCase-description = Прочная витрина для дорогостоящего экспоната
-recipe-TallCabinet-name = высокий шкаф
-recipe-TallCabinet-description = Шкаф для хранения документов.
-recipe-CrateCoffin-name = гроб
-recipe-CrateCoffin-description = Удобный гроб, прекрасное место для вампиров и покойников.
-recipe-CrateSecure-name = защищённый ящик
-recipe-CrateSecure-description = Большой контейнер для предметов.
-recipe-BigBox-name = картонная коробка
-recipe-BigBox-description = А? Просто коробка...
-recipe-BoxCardboard-name = картонная коробка
-recipe-BoxCardboard-description = Картонная коробка для хранения вещей.
-recipe-ClosetSteelSecure-name = защищённый шкаф
-recipe-ClosetSteelSecure-description = Стандартное хранилище Nanotrasen.
-recipe-ClosetWall-name = настенный шкаф
-recipe-ClosetWall-description = Это хранилище.
-recipe-CratePlastic-name = пластиковый ящик
-recipe-CratePlastic-description = Большой контейнер для предметов.
-recipe-CrateGenericSteel-name = стальной ящик
-recipe-CrateGenericSteel-description = Большой контейнер для предметов.
-recipe-ClosetSteel-name = шкаф
-recipe-ClosetSteel-description = Стандартное хранилище Nanotrasen.
-recipe-CrateLivestock-name = ящик для скота
-recipe-CrateLivestock-description = Большой контейнер для предметов.
-recipe-StorageCanister-name = контейнер для газов
-recipe-StorageCanister-description = Стальной контейнер для хранения газов.
+# [AUTO_EN]
+recipe-ChestDrawer-name = chest
+# [AUTO_EN]
+recipe-ChestDrawer-description = Small chest for storing items. Now on wheels!
+# [AUTO_EN]
+recipe-FilingCabinet-name = filing cabinet
+# [AUTO_EN]
+recipe-FilingCabinet-description = Document storage cabinet.
+# [AUTO_EN]
+recipe-ShowCase-name = glass box
+# [AUTO_EN]
+recipe-ShowCase-description = Sturdy display case for expensive exhibits
+# [AUTO_EN]
+recipe-TallCabinet-name = tall cabinet
+# [AUTO_EN]
+recipe-TallCabinet-description = Document storage cabinet.
+# [AUTO_EN]
+recipe-CrateCoffin-name = coffin
+# [AUTO_EN]
+recipe-CrateCoffin-description = Convenient coffin, a wonderful place for vampires and the dead.
+# [AUTO_EN]
+recipe-CrateSecure-name = secure crate
+# [AUTO_EN]
+recipe-CrateSecure-description = Large item container.
+# [AUTO_EN]
+recipe-BigBox-name = cardboard box
+# [AUTO_EN]
+recipe-BigBox-description = What? Just a box...
+# [AUTO_EN]
+recipe-BoxCardboard-name = cardboard box
+# [AUTO_EN]
+recipe-BoxCardboard-description = Cardboard box for storing items.
+# [AUTO_EN]
+recipe-ClosetSteelSecure-name = secure closet
+# [AUTO_EN]
+recipe-ClosetSteelSecure-description = Standard Nanotrasen storage.
+# [AUTO_EN]
+recipe-ClosetWall-name = wall cabinet
+# [AUTO_EN]
+recipe-ClosetWall-description = This is a storage.
+# [AUTO_EN]
+recipe-CratePlastic-name = plastic crate
+# [AUTO_EN]
+recipe-CratePlastic-description = Large item container.
+# [AUTO_EN]
+recipe-CrateGenericSteel-name = steel crate
+# [AUTO_EN]
+recipe-CrateGenericSteel-description = Large item container.
+# [AUTO_EN]
+recipe-ClosetSteel-name = closet
+# [AUTO_EN]
+recipe-ClosetSteel-description = Standard Nanotrasen storage.
+# [AUTO_EN]
+recipe-CrateLivestock-name = crate for livestock
+# [AUTO_EN]
+recipe-CrateLivestock-description = Large item container.
+# [AUTO_EN]
+recipe-StorageCanister-name = gas canister
+# [AUTO_EN]
+recipe-StorageCanister-description = Steel container for storing gases.
