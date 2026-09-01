@@ -1,17 +1,23 @@
-﻿# Голова
+﻿# hat
 - type: entity
   parent: ClothingHeadHatIAA
   id: ClothingHeadHatDirector
+  name: site director's fedora
+  description: A black-and-white fedora. Often seen in '90s detective films.
 
-# Униформа
+# jumpsuit
 - type: entity
   parent: ClothingUniformJumpsuitNtrep
   id: ClothingUniformJumpsuitDirector
+  name: site director's jumpsuit
+  description: A suit and tie for the Site Director. Classy. # i don't have a good description for this at the moment
 
-# Верхняя одежда
+# outerwear
 - type: entity
   parent: ClothingOuterCoatHoSTrench
   id: ClothingOuterCoatDirectorTrench
+  name: site director's armored trenchcoat
+  description: An armored trenchcoat for the Site Director. Looks suspiciously familiar. # same as above
   components:
   - type: Armor
     modifiers:
@@ -29,12 +35,12 @@
     damageCoefficient: 0.65
   - type: GroupExamine
 
-# Перчатки
+# gloves
 - type: entity
   parent: ClothingHandsGlovesHop
   id: ClothingHandsGlovesDirectorSpecial
 
-# Сумка
+# bag
 - type: entity
   parent: ClothingBackpackSatchelLeather
   id: ClothingBackpackSatchelLeatherDirectorFilled

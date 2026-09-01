@@ -1,9 +1,8 @@
 ﻿- type: entity
   parent: ClothingHeadsetAltRegionalAdministration
   id: ClothingHeadsetAltMTF
-  name: headset
-  description: A compact communication device with an encrypted channel. It ensures stable data transmission in difficult conditions.
-  suffix: MTF
+  name: generic mobile task force headset
+  suffix: MTF, Generic
   components:
   - type: ContainerFill
     containers:
@@ -13,9 +12,8 @@
 - type: entity
   parent: ClothingHeadsetAltMTF
   id: ClothingHeadsetAltMTFRRH
-  name: headset
-  description: A compact communication device with an encrypted channel. It has additional modules whose origin is not specified in the documentation.
-  suffix: MTF
+  name: red right hand headset
+  suffix: MTF, Alpha-1
   components:
   - type: ContainerFill
     containers:
@@ -28,8 +26,7 @@
   parent: ClothingHeadsetAltMTF
   id: ClothingHeadsetAltMTFLLH
   name: headset
-  description: A compact communication device with an encrypted channel. The casing has a reserved design, but the construction includes elements indicating the user's special status.
-  suffix: MTF
+  suffix: MTF, Omega-1
   components:
   - type: ContainerFill
     containers:

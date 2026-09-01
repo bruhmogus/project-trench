@@ -192,7 +192,7 @@
   parent: [ClothingEyesHudBase, ShowSecurityIcons, ShowMedicalIcons]
   id: ClothingEyesHudMultiversal
   name: multiversal hud
-  description: Filler
+  description: An absolute chimera of a heads-up display unit. Seems to be a medsecengihud.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/medsecengi.rsi
@@ -208,7 +208,7 @@
   parent: [ClothingEyesHudBase, ShowSecurityIcons, ShowMedicalIcons]
   id: ClothingEyesHudOmni
   name: omni hud
-  description: Filler
+  description: Omni is a Latin prefix meaning "all" or "every". Therefore, what this HUD is should be self-explanatory.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/omni.rsi

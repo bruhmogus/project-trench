@@ -2,7 +2,7 @@
   name: breaching hammer
   parent: BaseItem
   id: SecBreachingHammer
-  description: A large, heavy hammer with a long handle, used for breaking stones or other heavy material such as the skulls of violent criminals, also perfect for forcing your way trough airlocks.
+  description: A large, heavy hammer with a long handle. Used for breaking open locked doors or other heavy material such as the skulls of violent criminals. Can also be used like a Jaws of Life to force open airlocks.
   components:
   - type: Sprite
     sprite: _Sunrise/Objects/Weapons/Melee/breaching_hammer.rsi
@@ -45,7 +45,7 @@
   name: breaching hammer
   parent: BaseItem
   id: SyndieBreachingHammer
-  description: A large, heavy hammer with a long handle, used for breaking stones or other heavy material such as the skulls of violent criminals, also perfect for forcing your way trough airlocks.
+  description: A large, heavy hammer with a long handle. Used for breaking open locked doors or other heavy material such as the skulls of violent criminals. Can also be used like a Jaws of Life to force open airlocks.
   components:
   - type: Sprite
     scale: 1.1,1.1

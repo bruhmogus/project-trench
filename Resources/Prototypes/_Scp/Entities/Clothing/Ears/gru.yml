@@ -1,6 +1,7 @@
 - type: entity
   parent: [ClothingHeadsetAltChaos, BaseFoundationEnemyContraband]
   id: ClothingHeadsetGRU
+  name: GRU-P headset
   components:
     - type: ContainerFill
       containers:

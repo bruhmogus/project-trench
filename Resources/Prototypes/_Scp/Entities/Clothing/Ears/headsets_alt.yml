@@ -3,6 +3,7 @@
 - type: entity
   parent: BaseScpHeadsetAlt
   id: ClothingHeadsetAltRegionalAdministration
+  name: regional administration headset
   components:
   - type: ContainerFill
     containers:
@@ -19,6 +20,7 @@
 - type: entity
   parent: [BaseScpHeadsetAlt, BaseCommandContraband]
   id: ClothingHeadsetAltAdministration
+  name: administration headset
   components:
   - type: ContainerFill
     containers:
@@ -34,6 +36,7 @@
 - type: entity
   parent: [BaseScpHeadsetAlt, BaseCommandContraband]
   id: ClothingHeadsetAltInternalSecurity
+  name: internal security headset
   components:
   - type: ContainerFill
     containers:
@@ -50,6 +53,7 @@
 - type: entity
   parent: [BaseScpHeadsetAlt, BaseCommandContraband]
   id: ClothingHeadsetAltEthicsCommittee
+  name: ethics committee headset
   components:
   - type: ContainerFill
     containers:
@@ -66,6 +70,7 @@
 - type: entity
   parent: [BaseScpHeadsetAlt, BaseCommandContraband]
   id: ClothingHeadsetAltInternalTribunalService
+  name: internal tribunal service headset
   components:
   - type: ContainerFill
     containers:
@@ -82,6 +87,7 @@
 - type: entity
   parent: [BaseScpHeadsetAlt, BaseCommandContraband]
   id: ClothingHeadsetAltSecurityAdministration
+  name: security administration headset
   components:
   - type: ContainerFill
     containers:
@@ -99,6 +105,7 @@
 - type: entity
   parent: [BaseScpHeadsetAlt, BaseCommandContraband]
   id: ClothingHeadsetAltHeavyContainmentSecurityService
+  name: heavy containment security headset
   components:
   - type: ContainerFill
     containers:
@@ -115,6 +122,7 @@
 - type: entity
   parent: [BaseScpHeadsetAlt, BaseCommandContraband]
   id: ClothingHeadsetAltExternalAdministrativeZoneSecurityService
+  name: external security headset
   components:
   - type: ContainerFill
     containers:
@@ -131,6 +139,7 @@
 - type: entity
   parent: [BaseScpHeadsetAlt, BaseCommandContraband]
   id: ClothingHeadsetAltScientificService
+  name: research administration headset
   components:
   - type: ContainerFill
     containers:
@@ -147,6 +156,7 @@
 - type: entity
   parent: [BaseScpHeadsetAlt, BaseCommandContraband]
   id: ClothingHeadsetAltMedicalService
+  name: medical administration headset
   components:
   - type: ContainerFill
     containers:
@@ -163,6 +173,7 @@
 - type: entity
   parent: [BaseScpHeadsetAlt, BaseCommandContraband]
   id: ClothingHeadsetAltEngineeringTechnicalService
+  name: engineering administration headset
   components:
   - type: ContainerFill
     containers:
@@ -179,6 +190,7 @@
 - type: entity
   parent: BaseScpHeadsetAlt
   id: ClothingHeadsetAltLogistics
+  name: logistics administration headset
   components:
   - type: ContainerFill
     containers:

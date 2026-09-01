@@ -1,7 +1,8 @@
 - type: entity
-  name: P-90
   parent: BaseWeaponSubMachineGun
   id: WeaponSubMachineGunP90
+  name: FN P90
+  description: The P90, produced by FN Herstal. A really unconventional gun that looks like it got ripped straight out of a sci-fi film. Chambered in .35 auto.
   components:
   - type: Item
     size: Large
@@ -60,9 +61,10 @@
       - LockerGun4x3
 
 - type: entity
-  name: MP5
   parent: BaseWeaponSubMachineGun
   id: WeaponSubMachineGunMP5
+  name: H&K MP5
+  description: A classic German submachine gun produced by Heckler and Koch, known as the Maschinenpistole 5. Used by both the Foundation and random police departments in the United States. Chambered in .35 auto.
   components:
   - type: Sprite
     sprite: _Sunrise/Objects/Weapons/Guns/SMGs/mp5/big.rsi
@@ -248,10 +250,10 @@
     - LockerGun5x3
 
 - type: entity
-  name: Lecter Mk3
   parent: BaseWeaponSubMachineGun
   id: WeaponRifleLecterMk3
-  description: A more advanced version of Lecter.
+  name: FPA Lecter Mk.III
+  description: An improved, bullpupified Lecter produced by Five Points Armory for Nanotrasen Corporate Security.
   components:
   - type: Item
     size: Huge

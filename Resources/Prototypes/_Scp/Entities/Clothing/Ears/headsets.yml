@@ -3,6 +3,7 @@
 - type: entity
   parent: [BaseScpHeadset, BaseSecurityLawyerContraband]
   id: ClothingHeadsetHeavyContainmentSecurityService
+  name: heavy containment security headset
   components:
   - type: ContainerFill
     containers:
@@ -18,6 +19,7 @@
 - type: entity
   parent: [BaseScpHeadset, BaseSecurityContraband]
   id: ClothingHeadsetFieldMedicalSpecialist
+  name: field medical specialist headset
   components:
   - type: ContainerFill
     containers:
@@ -32,6 +34,7 @@
 - type: entity
   parent: [BaseScpHeadset, BaseSecurityLawyerContraband]
   id: ClothingHeadsetExternalAdministrativeZoneSecurityService
+  name: external security headset
   components:
   - type: ContainerFill
     containers:
@@ -47,6 +50,7 @@
 - type: entity
   parent: BaseScpHeadset
   id: ClothingHeadsetScientificService
+  name: research headset
   components:
   - type: ContainerFill
     containers:
@@ -62,6 +66,7 @@
 - type: entity
   parent: BaseScpHeadset
   id: ClothingHeadsetMedicalService
+  name: medical headset
   components:
   - type: ContainerFill
     containers:
@@ -77,6 +82,7 @@
 - type: entity
   parent: BaseScpHeadset
   id: ClothingHeadsetEngineeringTechnicalService
+  name: engineering headset
   components:
   - type: ContainerFill
     containers:
@@ -92,6 +98,7 @@
 - type: entity
   parent: BaseScpHeadset
   id: ClothingHeadsetLogistics
+  name: logistics headset
   components:
   - type: ContainerFill
     containers:
@@ -107,6 +114,7 @@
 - type: entity
   parent: BaseScpHeadset
   id: ClothingHeadsetFoodAndSanitation
+  name: service headset
   components:
   - type: ContainerFill
     containers:

@@ -3,7 +3,6 @@
   parent: [BaseDeltaPressureGlass, BaseStructure]
   name: window
   description: Don't smudge up the glass down there.
-  categories: [ HideSpawnMenu ] # Fire added
   placement:
     mode: SnapgridCenter
     snap:
@@ -104,7 +103,6 @@
   parent: Window
   id: TintedWindow
   name: tinted window
-  categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Sprite
     drawdepth: WallTops
@@ -133,7 +131,6 @@
   parent: [BaseDeltaPressureGlassQuarter, BaseStructure]
   name: directional window
   description: Don't smudge up the glass down there.
-  categories: [ HideSpawnMenu ] # Fire added
   placement:
     mode: SnapgridCenter
     snap:
@@ -237,7 +234,7 @@
   parent: WindowDirectional
   name: directional frosted window
   description: Don't smudge up the glass down there.
-  categories: [ HideSpawnMenu ] # Fire added
+  categories: [ HideSpawnMenu ] # Fire added # wyatt note: i've genuinely never seen this used afaik (but maybe i'm just blind), will not be unhiding it either way
   placement:
     mode: SnapgridCenter
     snap:
@@ -258,7 +255,6 @@
   parent: Window
   id: WindowDiagonal
   suffix: diagonal
-  categories: [ HideSpawnMenu ] # Fire added
   placement:
     mode: SnapgridCenter
     snap:
