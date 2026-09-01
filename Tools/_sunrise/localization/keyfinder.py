@@ -80,7 +80,7 @@ class FilesFinder:
 
         return py_.group_by(relative_files, 'relative_path_from_locale')
 
-    def create_xx_analog(self, src_relative_file: RelativeFile, src='en-US', dst="'ru-RU") -> FluentFile:
+    def create_xx_analog(self, src_relative_file: RelativeFile, src='en-US', dst="ru-RU") -> FluentFile:
         src_file: FluentFile = src_relative_file.file
         src_file_data = src_file.read_data()
         dst_file_path = src_file.full_path.replace(src, dst)
