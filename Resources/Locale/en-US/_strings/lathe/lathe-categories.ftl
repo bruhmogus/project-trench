@@ -9,3 +9,4 @@ lathe-category-mechs-durand = Durand
 lathe-category-mechs-equipment = Mech equipment
 lathe-category-mechs-weapons = Mech weapons
 lathe-category-scp = SCP
+lathe-category-mechs-phazon = Фазон

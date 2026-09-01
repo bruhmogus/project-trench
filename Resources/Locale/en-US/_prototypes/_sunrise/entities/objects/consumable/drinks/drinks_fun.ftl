@@ -1,2 +1,4 @@
 ent-DrinkInc = inc tube
     .desc = { ent-DrinkBase.desc }
+ent-BottomlessArtifexium = бездонная пробирка артифексиума
+    .desc = Аномальная пробирка, бесконечно порождающая артифексиум. Берегите, чтобы не досталась не тем рукам.

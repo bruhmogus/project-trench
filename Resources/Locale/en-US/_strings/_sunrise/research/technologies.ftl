@@ -38,3 +38,6 @@ research-technology-budget-cyber-organs = Budget Cyberorgans
 research-technology-advanced-cyberlimbs = Advanced Cyberlimbs
 research-technology-ion-weaponry = Ion Weaponry
 research-technology-full-metal-jacket-ammunition = Full Metal Jacket Ammunition
+research-technology-advance-secborgs-combat = Продвинутые боевые модули СБ боргов
+research-technology-milira-equipment = Снаряжение Милир
+research-technology-bluespace-ammo = Боеприпасы для блюспейс-шприцемёта

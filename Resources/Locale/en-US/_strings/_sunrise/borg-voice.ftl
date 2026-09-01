@@ -11,3 +11,4 @@ action-description-change-borg-voice = Change your TTS voice. Cyborgs can speak 
 borg-voice-popup-sponsor-only = This voice is available only to sponsors!
 borg-voice-popup-changed = Voice changed to { $voice }!
 borg-voice-popup-invalid = An invalid voice was selected!
+borg-voice-window-voice-label = Голос:

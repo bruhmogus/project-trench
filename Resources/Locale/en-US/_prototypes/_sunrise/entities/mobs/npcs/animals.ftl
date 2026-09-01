@@ -11,3 +11,5 @@ ent-MobInferiorVulpkaninSyndicateAgent = { ent-MobBaseSyndicateInferiorVulpkanin
 ent-MobInferiorVulpkaninSyndicateAgentNukeops = { ent-MobBaseSyndicateInferiorVulpkanin }
     .suffix = NukeOps
     .desc = { ent-MobBaseSyndicateInferiorVulpkanin.desc }
+ent-MobSaw = пила
+    .desc = Мать.

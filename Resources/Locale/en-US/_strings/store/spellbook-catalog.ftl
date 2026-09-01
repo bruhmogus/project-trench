@@ -87,3 +87,4 @@ spellbook-upgrade-fireball-description = Upgrades Fireball to a maximum of level
 
 spellbook-upgrade-jaunt-name = Upgrade Ethereal Jaunt
 spellbook-upgrade-jaunt-description = Upgrades Jaunt to a maximum of level 3!
+spellbook-polymoprh-spider-name = Полиморф-паук

@@ -3,3 +3,5 @@ ui-verb-toggle-open = Toggle UI
 verb-instrument-openui = Play Music
 
 ui-needs-anchor = Anchor it first!
+layout-default = Обычный
+layout-separated = Раздельный

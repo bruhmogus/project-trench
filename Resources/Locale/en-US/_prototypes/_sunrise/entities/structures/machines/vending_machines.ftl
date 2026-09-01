@@ -10,3 +10,7 @@ ent-VendingMachineMedicalSecuritySalvaged = salvaged NanoMed Security
     .desc = A battered medical drug dispenser with the previous shift's leftovers inside.
 ent-VendingMachineWallMedicalSecurity = wall-mounted NanoMed Security
     .desc = A wall-mounted medical drug dispenser for security personnel. Natural chemicals only!
+ent-VendingMachineSalvageTicket = тикет-вендомат утилизаторов
+    .desc = Обменивает тикеты утилизаторов на снаряжение.
+ent-VendingMachineMiningTicket = тикет-вендомат шахтёров
+    .desc = Обменивает тикеты шахтёров на снаряжение.

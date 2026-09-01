@@ -38,3 +38,5 @@ ent-PelletGlass = glass shard
     .desc = { ent-BaseBullet.desc }
 ent-PelletGlassSpread = { ent-PelletGlass }
     .desc = { ent-PelletGlass.desc }
+ent-PelletShotgunBeanbagSpread = { ent-PelletShotgunBeanbag }
+    .desc = { ent-PelletShotgunBeanbag.desc }

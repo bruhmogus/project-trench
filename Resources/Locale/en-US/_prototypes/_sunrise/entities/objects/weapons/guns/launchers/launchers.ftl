@@ -28,3 +28,5 @@ ent-SunriseWeaponDisposableRocketLauncherSmoke = disposable smoke launcher
 ent-SunriseWeaponDisposableRocketLauncherIncendiary = disposable thermobaric launcher
     .desc = A disposable launcher with a red stripe and a volatile thermobaric rocket sealed inside.
     .suffix = Thermobaric
+ent-WeaponGrenadeLauncherImprovised = Бомбага
+    .desc = Новая эра грейтайда.

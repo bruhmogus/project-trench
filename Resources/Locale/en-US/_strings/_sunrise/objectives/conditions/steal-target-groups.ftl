@@ -3,3 +3,4 @@ steal-target-groups-weapon-energy-shot-gun = energy shotgun
 steal-target-groups-multiphase = X-01 multiphase energy gun
 steal-target-groups-plutonium = plutonium core
 steal-target-groups-advanced-defibrillator = advanced defibrillator
+steal-target-groups-hos-weapon = Наградное оружие ГСБ, ВТ550К или Матеба

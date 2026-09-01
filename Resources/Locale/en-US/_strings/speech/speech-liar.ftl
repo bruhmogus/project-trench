@@ -123,3 +123,14 @@ liar-word-replacement-38 = innocent
 
 liar-word-39 = innocent
 liar-word-replacement-39 = guilty
+liar-word-34-2 = ya
+liar-word-40 = "нравится"
+liar-word-replacement-40 = "не нравится"
+liar-word-41 = "хорошо"
+liar-word-replacement-41 = "плохо"
+liar-word-42 = "плохо"
+liar-word-replacement-42 = "хорошо"
+liar-word-43 = "хочу"
+liar-word-replacement-43 = "не хочу"
+liar-word-44 = "не"
+liar-word-replacement-44 = ""

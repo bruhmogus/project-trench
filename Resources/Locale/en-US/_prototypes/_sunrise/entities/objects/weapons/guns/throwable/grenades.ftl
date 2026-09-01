@@ -4,3 +4,7 @@ ent-ExShrapnelGrenade = shrapnel-explosive grenade
     .desc = Shrapnel grenade that creates a small but devastating explosion.
 ent-Pizzabomb = Nefarious Pizza bomb
     .desc = { ent-FoodBoxPizza.desc }
+ent-CleanerGrenadeAcid = { ent-CleanerGrenade }
+    .desc = { ent-CleanerGrenade.desc }
+ent-CleanerGrenadeAcidBox = коробка с гранатой глубокой очистки
+    .desc = Коробка с гранатой для глубокой очистки. Удаляет до 99,99% микробов, грязи и остатков членов экипажа. Упаковка распадается при открытии, не оставляя следов.

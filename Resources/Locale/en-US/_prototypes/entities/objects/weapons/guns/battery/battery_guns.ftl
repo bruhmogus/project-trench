@@ -53,3 +53,7 @@ ent-XenoborgLaserGun = xenoborg laser gun
     .desc = { ent-WeaponAdvancedLaser.desc }
 ent-XenoborgHeavyLaserGun = xenoborg heavy laser gun
     .desc = { ent-WeaponAdvancedLaser.desc }
+ent-WeaponLaserGunXenoborg = { ent-XenoborgLaserGun }
+    .desc = { ent-XenoborgLaserGun.desc }
+ent-WeaponLaserCannonXenoborg = { ent-XenoborgHeavyLaserGun }
+    .desc = { ent-XenoborgHeavyLaserGun.desc }

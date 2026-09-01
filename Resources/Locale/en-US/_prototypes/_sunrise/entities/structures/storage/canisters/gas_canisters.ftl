@@ -48,3 +48,7 @@ ent-ElectrovaeCanisterBroken = { ent-GasCanisterBrokenBase }
     .desc = { ent-GasCanisterBrokenBase.desc }
 ent-ChargedElectrovaeCanisterBroken = { ent-GasCanisterBrokenBase }
     .desc = { ent-GasCanisterBrokenBase.desc }
+ent-ElectrovaeCanister = канистра электровея
+    .desc = Канистра, в которой может содержаться газ любого вида. В этой, предположительно, содержится электровей. Можно прикрепить к порту коннектора с помощью гаечного ключа.
+ent-ChargedElectrovaeCanister = канистра заряженного электровея
+    .desc = Канистра, в которой может содержаться газ любого вида. В этой, предположительно, содержится заряженный электровей. Можно прикрепить к порту коннектора с помощью гаечного ключа.

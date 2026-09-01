@@ -32,3 +32,5 @@ plant-holder-component-pressure-improper-warning = The [color=lightblue]improper
 plant-holder-component-gas-missing-warning = The [color=cyan]improper gas environment alert[/color] is blinking.
 plant-holder-component-early-sample-message = The plant hasn't grown enough to take a sample yet.
 plant-holder-component-ligneous-cant-harvest-message = The plant is too tough to harvest with your bare hands.
+plant-holder-component-empty-message = { $owner } пуст!
+plant-holder-component-spray-message = Вы опрыскиваете { $owner }.

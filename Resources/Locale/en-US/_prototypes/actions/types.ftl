@@ -86,3 +86,5 @@ ent-ActionChameleonController = Control clothing
     .desc = Change your entire outfit fast!
 ent-ActionWhistle = Whistle
     .desc = STOP RIGHT THERE!
+ent-ActionActivateScramImplantProto = { ent-ActionActivateScramImplant }
+    .desc = { ent-ActionActivateScramImplant.desc }

@@ -345,3 +345,4 @@ flavor-complex-punishment = like punishment
 flavor-complex-artifact-glue = like crushed artifacts
 flavor-weh = like weh
 flavor-hew = like hew
+flavor-complex-wall-of-bricks = как стена кирпичей

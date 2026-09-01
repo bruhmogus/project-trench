@@ -81,3 +81,7 @@ ent-ClothingMaskNinja = ninja mask
     .desc = A close-fitting nano-enhanced mask that acts both as an air filter and a post-modern fashion statement.
 ent-ClothingMaskWeldingGas = welding gas mask
     .desc = A gas mask with built in welding goggles and face shield. Looks like a skull, clearly designed by a nerd.
+ent-ClothingMaskSexyClown = сексуальная маска клоуна
+    .desc = Некоторые шаловливые клоуны уверены, что именно так выглядит Хонкоматерь.
+ent-ClothingMaskSexyMime = сексуальная маска мима
+    .desc = Эти румяные щёчки так и просятся, чтобы их потискали.

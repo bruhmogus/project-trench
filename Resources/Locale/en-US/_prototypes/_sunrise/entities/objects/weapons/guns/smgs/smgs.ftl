@@ -16,3 +16,5 @@ ent-WeaponSubMachineGunDrozdMk2 = Drozd Mk2
     .desc = An improved variant of the Drozd submachine gun developed by NanoTrasen’s Small Arms Division. It features an exceptional rate of fire in burst mode, making it effective for holding defensive positions or engaging targets at medium to long ranges. Equipped with an automatic magazine release for faster reloads. Uses .35 SMG magazines.
 ent-WeaponSubMachineGunDrozdMk2Empty = Drozd Mk2
     .desc = { ent-WeaponSubMachineGunDrozdMk2.desc }
+ent-WeaponSubMachineGunC40r = с-40р
+    .desc = Ранняя модель классического буллпап-пистолет-пулемёта производства корпорации «Ваффл Корп» под патроны .40 высокой останавливающей силы. Ранее широко использовался группировкой «Горлекс Мародёры». Эффективен на коротких и средних дистанциях, стреляет очередями по два выстрела или полностью автоматическим режимом.

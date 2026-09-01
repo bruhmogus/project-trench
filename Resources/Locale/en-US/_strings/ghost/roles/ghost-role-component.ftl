@@ -388,3 +388,32 @@ ghost-role-information-tsf-aligned-rules =
     You are to serve the interests of the Trans-Solar Federation.
     Remember, you do [color=red]NOT[/color] serve the crew.
     You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
+ghost-role-information-expedition-pirate-name = Пират из Комплекса
+ghost-role-information-expedition-pirate-description = Вы член команды пиратов. Не дай Утилизаторам разграбить свою базу.
+ghost-role-information-syndicate-monkey-reinforcement-rules = Вы [color=red][bold]Командный антагонист[/bold][/color], в команде с агентом, который вас призвал.
+ghost-role-information-syndicate-kobold-reinforcement-rules = Вы [color=red][bold]Командный антагонист[/bold][/color], в команде с агентом, который вас призвал.
+ghost-role-information-derelict-generic-cyborg-name = Брошенный обычный киборг
+ghost-role-information-derelict-generic-cyborg-description = Вы - обычный киборг, который заблудился в космосе. После долгих лет воздействия ионных бурь вы оказываетесь рядом с космической станцией.
+ghost-role-information-lost-cargo-technical-name = Пропавший грузчик
+ghost-role-information-lost-cargo-technical-description = Что-то пошло не так, и ваш грузовой шаттл с грузом был телепортирован на другую станцию в секторе.
+ghost-role-information-clown-troupe-name = Космический клоун
+ghost-role-information-clown-troupe-description = Вы и ваша труппа прибыли, чтобы развеселить эту станцию своими лучшими шутками. Хонк!
+ghost-role-information-traveling-chef-name = Путешествующий шеф-повар
+ghost-role-information-traveling-chef-description = Вы - шеф-повар на странствующем шаттле экзотической кухни. Порадуйте станцию вкусными блюдами!
+ghost-role-information-syndie-assaultborg-name = Штурмовой киборг Синдиката
+ghost-role-information-syndie-assaultborg-description = Ядерным оперативникам требуется подкрепление. Вы, хладнокремниевая машина для убийств, будете им помогать. Больше дакки!
+ghost-role-information-expedition-pirate-rules = Вы [color=red][bold]Умный Пират[/bold][/color] более умный ваших товарищей, не дайте утилизаторам вас ограбить. Вам [color=red][bold]запрещено[/bold][/color] покидать комплекс и саму экспедицию на шаттле.
+ghost-role-information-rules-expedition-pirate-antagonist =
+    Вы — [color=red][bold]NPC-пират[/bold][/color]. Ваши намерения вредят станции и её экипажу.
+    Вы должны [bold]защищать[/bold] свою территорию и сотрудничать с другими пиратами.
+    Вам [color=red][bold]НЕЛЬЗЯ[/bold][/color] покинуть экспедицию на шаттле.
+    Помните, что вы как [color=red][bold]NPC-пират[/bold][/color] [bold]ограничены[/bold] временем: через [color=red][bold]20 минут[/bold][/color] вас автоматически переместят в наблюдателя.
+    Вы не помните ничего из своей предыдущей жизни и не помните ничего из того, что узнали, будучи призраком.
+ghost-role-information-expedition-soviet-name = Солдат из Бункера
+ghost-role-information-expedition-soviet-description = Смирно, солдат! Не позволяйте годам службы и алкоголизму сломить вас. Вы — боец вооружённых сил СССП. Выполните приказ и защитите аванпост.
+ghost-role-information-rules-expedition-soviet-antagonist =
+    Вы — [color=red][bold]NPC-солдат[/bold][/color]. Ваши намерения вредят станции и её экипажу.
+    Вы должны [bold]защищать[/bold] свою территорию и сотрудничать с другими NPC.
+    Вам [color=green][bold]можно[/bold][/color] покинуть экспедицию на шаттле, но [color=red][bold]только[/bold][/color] если [color=orange][bold]утилизаторы[/bold][/color] (живые или мёртвые) находятся на шаттле.
+    Помните, что вы как [color=red][bold]NPC-пират[/bold][/color] [bold]ограничены[/bold] временем: через [color=red][bold]20 минут[/bold][/color] вас автоматически переместят в наблюдателя.
+    Вы не помните ничего из своей предыдущей жизни и не помните ничего из того, что узнали, будучи призраком.

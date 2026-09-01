@@ -153,3 +153,11 @@ reagent-desc-haloperidol = Removes most stimulating and hallucinogenic drugs. Re
 
 reagent-name-heparin = heparin
 reagent-desc-heparin = Commonly used as an anticoagulant medication. Causes blood to have difficulty forming clots. Can cause internal bleeding when overdosed.
+reagent-name-necrosol = некрозол
+reagent-desc-necrosol = Некротическое вещество, которое, похоже, способно излечивать обмороженные трупы. В небольших дозах он способен лечить и оживлять растения. Работает на мёртвых и живых.
+reagent-name-hemostatic-powder = кровоостанавливающая пудра
+reagent-desc-hemostatic-powder = Кровоостанавливающий порошок, основанный на смеси транексамовой кислоты и силицида железа. При передозировке сильно отравляет организм токсинами.
+reagent-name-retroindralyne = ретроиндралин
+reagent-desc-retroindralyne = очень старое противорадиационное средство, доведённое учёными современности до ума, имеет побочные эффекты.
+reagent-name-barozine-plus = барозин плюс
+reagent-desc-barozine-plus = барозин, усовершенствованная версия специально для медипенов. Менее токсичен.

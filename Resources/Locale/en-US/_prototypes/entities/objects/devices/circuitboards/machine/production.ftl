@@ -168,3 +168,7 @@ ent-CutterMachineCircuitboard = cutter machine board
     .desc = { ent-BaseMachineCircuitboard.desc }
 ent-SmartFridgeCircuitboard = smart fridge machine board
     .desc = { ent-BaseMachineCircuitboard.desc }
+ent-SurveillanceCameraWirelessRouterXenoborgCircuitboard = маршрутизатор беспроводных камер ксеноборгов (машинная плата)
+    .desc = Печатная плата маршрутизатора беспроводных камер ксеноборгов.
+ent-MaterialReclaimerMachineCircuitboard = переработчик материалов (машинная плата)
+    .desc = { ent-BaseMachineCircuitboard.desc }

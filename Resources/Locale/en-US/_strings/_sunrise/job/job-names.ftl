@@ -90,3 +90,5 @@ JobBarber = Barber
 JobAdjutant = Adjutant
 JobMailCarrier = Mail Carrier
 job-name-TSF = Trans-Solar Federation
+JobUSSPCaptain = капитан СССП
+job-name-commaid = горничная командования

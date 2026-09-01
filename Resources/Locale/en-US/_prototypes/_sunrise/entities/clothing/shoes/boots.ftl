@@ -18,3 +18,5 @@ ent-ClothingShoesBootsRedMist = red mist boots
     .desc = Field boots in a dark finish with reinforced shaping. Meant for long movement and short conversations.
 ent-ClothingShoesBootsSalvageMerc = scrapper boots
     .desc = Boots capable of withstanding any terrain that a salvager may encounter.
+ent-ClothingShoesBootsAbductor = ботинки абдукторов
+    .desc = Ботинки абдукторов, изготовленные из странного материала. Они также очень удобны в ношении, что делает их популярным выбором среди абдукторов.

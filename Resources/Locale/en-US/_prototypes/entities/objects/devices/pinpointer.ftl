@@ -12,3 +12,5 @@ ent-PinpointerStation = station pinpointer
 ent-PinpointerMothership = core pinpointer
     .desc = A handheld tracking device that leads to the direction of the mothership core.
     .suffix = Mothership
+ent-PinpointerMothershipRepaired = восстановленный пинпоинтер ядра
+    .desc = Портативное устройство слежения, которое указывает направление на ядро материнского корабля. Этот экземпляр явно знавал лучшие времена.

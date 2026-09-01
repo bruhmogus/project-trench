@@ -1,2 +1,12 @@
 accent-southern-words-1 = you all
 accent-southern-words-replace-1 = y'all
+accent-southern-words-2 = ребята
+accent-southern-words-replace-2 = высь
+accent-southern-words-3 = не так ли
+accent-southern-words-replace-3 = не так-то
+accent-southern-words-4 = не есть
+accent-southern-words-replace-4 = не так-то
+accent-southern-words-5 = не являются
+accent-southern-words-replace-5 = не так-то
+accent-southern-words-6 = не
+accent-southern-words-replace-6 = не

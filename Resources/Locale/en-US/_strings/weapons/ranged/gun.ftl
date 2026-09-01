@@ -59,3 +59,7 @@ gun-speedloader-empty = Speedloader empty
 examine-gun-spread-modifier-reduction = The spread has been reduced by [color=yellow]{$percentage}%[/color].
 examine-gun-spread-modifier-increase = The spread has been increased by [color=yellow]{$percentage}%[/color].
 examine-weapon-dismantle-on-shoot = This weapon may fall apart when fired ([color=yellow]{$chance}%[/color]).
+gun-clumsy = Оружие взрывается вам в лицо!
+gun-set-fire-mode = Выбран режим { $mode }
+gun-alert-level-condition = Слишком низкий станционный код для этого режима стрельбы!
+gun-Insulated-gloves = У вас слишком толстые пальцы чтобы нажать спуск!

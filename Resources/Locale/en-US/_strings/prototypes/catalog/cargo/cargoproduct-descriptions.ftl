@@ -10,3 +10,4 @@ cargoproduct-description-material-plasteel = 30 sheets of plasteel.
 
 cargoproduct-name-material-silver = silver ingots
 cargoproduct-description-material-silver = 30 ingots of silver.
+EngineSingularityEmitter-desc = Эмиттер, использующийся в сингулярном двигателе.

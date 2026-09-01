@@ -95,3 +95,5 @@ flesh-cultist-flash-immunity-evolution-desc = You will no longer be blinded by b
 flesh-cultist-respirator-immunity-evolution-name = Closed Respiratory System
 flesh-cultist-respirator-immunity-evolution-desc = You no longer require oxygen.
 flesh-cultist-night-vision-evolution-name = Night Vision flesh-cultist-night-vision-evolution-desc = You will be able to see in the dark.
+flesh-cultist-acid-spit-evolution-name = Кислотный плевок
+flesh-cultist-night-vision-evolution-desc = Вы будете видеть в темноте.

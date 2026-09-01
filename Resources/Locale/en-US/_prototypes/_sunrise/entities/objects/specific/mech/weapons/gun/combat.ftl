@@ -31,3 +31,6 @@ ent-WeaponMechCombatUVM31 = UVM-31 "Drake"
 ent-WeaponMechCombatDuster = Mounted EXP-220 Duster
     .desc = An  heavy Auto Cannon as a mech-mounted gun with Frag ammo
     .suffix = Mech Weapon, Gun, Combat
+ent-WeaponMechCombatKord = навесной пулемёт "КОРД"
+    .desc = Скорострельный пулемет под патрон 12,7 x 108 мм.
+    .suffix = Оружие мехов, Стрелковое, Боевое, Корд

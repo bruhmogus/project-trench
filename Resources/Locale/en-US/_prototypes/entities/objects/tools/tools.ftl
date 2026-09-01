@@ -31,3 +31,6 @@ ent-Shovel = shovel
     .desc = A large tool for digging and moving dirt.
 ent-RollingPin = rolling pin
     .desc = A tool used to shape and flatten dough.
+ent-RCDRechargingMini = экспериментальный Мини-РСУ
+    .desc = РСУ, устанавливаемое в кибер-руку, которое создаёт сжатое вещество на лету с помощью встроенного фабрикатора.
+    .suffix = Автозарядка, Мини

@@ -89,3 +89,6 @@ ghost-role-information-one-star-unit-dungeon-name = One Star Unit
 ghost-role-information-guardian-unit-dungeon-name = Guardian Unit
 ghost-role-information-terminator-unit-dungeon-name = Exterminator Unit
 ghost-role-information-one-star-unit-dungeon-description = [11201010111002] Work with other automatons to defend the installation and destroy all intruders. [1110220001010002220]
+ghost-role-information-syndicate-saboteur-cyborg-name = Диверсионный борг синдиката
+ghost-role-information-syndicate-saboteur-cyborg-description = Смерть NT.
+ghost-role-information-ussp-waralt-description = "Вы — Офицер великой армии СССП! Выполняйте любые приказы своего Капитана без вопросов! ВО СЛАВУ РОДИНЫ!"

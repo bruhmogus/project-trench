@@ -28,3 +28,5 @@ ent-GameRulePotatoSwarm = { ent-GameRuleMeteorSwarm }
     .desc = { ent-GameRuleMeteorSwarm.desc }
 ent-GameRuleFunSwarm = { ent-GameRuleMeteorSwarm }
     .desc = { ent-GameRuleMeteorSwarm.desc }
+ent-GameRuleMeteorScheduler = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }

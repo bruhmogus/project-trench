@@ -14,3 +14,7 @@ ent-ShellShotgunHoly = shell (.50 holy)
     .desc = { ent-BaseShellShotgun.desc }
 ent-ShellShotgunBirdshot = 12 gauge birdshot
     .desc = A wide-spread shell loaded with dozens of tiny pellets. Devastating up close, nearly useless at range.
+ent-ShellShotgunBreaching = пробивная пуля 12 калибра
+    .desc = { ent-BaseShellShotgun.desc }
+ent-ShellShotgunFlechette = флешетта 12 калибра
+    .desc = { ent-BaseShellShotgun.desc }

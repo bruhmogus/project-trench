@@ -29,3 +29,8 @@ store-caregory-spellbook-events = Event Spells
 
 # Nukie Delivery
 store-category-nukie-delivery = Offers
+store-category-lootbox = Лутбоксы
+# Changeling
+store-ling-category-combat = Боевые
+store-ling-category-sting = Укусы
+store-ling-category-utility = Инструменты

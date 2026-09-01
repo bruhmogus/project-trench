@@ -23,3 +23,5 @@ ent-DoorRemoteAll = super door remote
     .desc = { ent-DoorRemoteDefault.desc }
 ent-DoorRemoteXenoborg = xenoborg door remote
     .desc = { ent-DoorRemoteDefault.desc }
+ent-DoorRemoteFirefight = пульт от пожарных шлюзов
+    .desc = Гаджет, который может открывать и закрывать пожарные шлюзы дистанционно.

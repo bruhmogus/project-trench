@@ -52,3 +52,5 @@ ent-FoodSaladWatermelonFruitBowl = melon fruit bowl
     .desc = The only salad where you can eat the bowl.
 ent-FoodMealCornInButter = corn in butter
     .desc = Buttery.
+ent-FoodThaSlop = питательная паста
+    .desc = Синтетическая смесь белков, углеводов, витаминов, аминокислот и минералов. Всё, что нужно организму, и при этом абсолютно отвратительно.

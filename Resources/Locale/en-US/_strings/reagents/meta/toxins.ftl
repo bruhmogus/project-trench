@@ -87,3 +87,5 @@ reagent-desc-toxintrash = An awful-smelling slurry efficiently refined from disc
 
 reagent-name-hemorrhinol = hemorrhinol
 reagent-desc-hemorrhinol = A toxin that causes severe damage to blood vessels, causing rapid bleeding.
+reagent-desc-nitrokill = Очень мощное удобрение, стимулирует быстрый рост, но сильно вредит растению.
+reagent-name-nitrokill = нитрокилл

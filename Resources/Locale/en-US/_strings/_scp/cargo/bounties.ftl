@@ -134,3 +134,5 @@ scp-bounty-description-scp-173-eye-droplets = Our field team, ██████
 scp-bounty-description-scp-096-reinforced-mask = We have run out of targets at our firing range. To provide training experience in shooting at armored objects, we request that you provide an Omega Mask.
 scp-bounty-description-scp-106-anti-teleportation = Our field team █████████-666 is currently working with a spatial anomaly. Please supply us with several Locus Vests for testing.
 scp-bounty-description-scp-096-helmet-ai = The Development Group is working on creating an augmented reality helmet for gam... for operational convenience. Yes. We request a shipment of several helmets.
+scp-bounty-description-scp-939-shoes-silent = Наша полевая группа █████████-14 на данный момент работает со звуковой аномалией. Поставьте нам несколько ботинок мимикрии для испытаний.
+scp-bounty-description-scp-head-awareness = Наша полевая группа █████████-13 на данный момент работает с меметической аномалией. Поставьте нам несколько шлемов интегра для работы.

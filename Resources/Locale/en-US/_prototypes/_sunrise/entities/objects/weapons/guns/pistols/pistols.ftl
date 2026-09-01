@@ -19,3 +19,9 @@ ent-WeaponPistolDeagleGolden = Golden Desert Eagle
 
 ent-SunriseWeaponSubMachineGunUzi = Type U3 Uzi
     .desc = Lightweight and iconic submachine gun with a large magazine and high rate of fire.
+ent-WeaponPistolDeagleBiocode = { ent-WeaponPistolDeagle }
+    .suffix = БИОКОД
+    .desc = { ent-WeaponPistolDeagle.desc }
+ent-WeaponPistolDeagleGoldenBiocode = { ent-WeaponPistolDeagleGolden }
+    .suffix = БИОКОД
+    .desc = { ent-WeaponPistolDeagleGolden.desc }

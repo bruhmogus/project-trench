@@ -127,3 +127,5 @@ ent-SpawnPointUSSPSoldier = USSP soldier
     .desc = { ent-SpawnPointJobBase.desc }
 ent-SpawnPointUSSPCaptain = USSP captain
     .desc = { ent-SpawnPointJobBase.desc }
+ent-SpawnPointPrisoner = заключённый
+    .desc = { ent-SpawnPointJobBase.desc }

@@ -33,3 +33,4 @@ guidebook-reagent-recipes-mix-info = {$minTemp ->
             *[false] above {NATURALFIXED($minTemp, 2)}K
         }
 }
+guidebook-reagent-effects-metabolism-group-rate = [bold]{ $group }[/bold] [color=gray]({ $rate } единиц в секунду)[/color]

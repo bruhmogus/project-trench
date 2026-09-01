@@ -42,3 +42,8 @@ ent-GrenadeEMPTarnyx = EMP artillery grenade
 
 ent-BulletGrenadeEMPTarnyx = EMP artillery shell
     .desc = { ent-GrenadeEMPTarnyx.desc }
+ent-Rocket120mmMetla = 120мм ракета
+    .desc = Тяжёлая 120мм ракета для шаттл-орудия RCT-120 «Метла».
+ent-Magazine60mmRocketLongFlight = магазин 60мм ракет
+    .suffix = увеличенная дальность
+    .desc = Вместительный магазин на 16 ракет для шаттл-системы RCT-60 "Веник".

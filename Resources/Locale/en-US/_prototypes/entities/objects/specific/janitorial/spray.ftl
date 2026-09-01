@@ -19,3 +19,7 @@ ent-Vapor = vapor
     .desc = { "" }
 ent-BigVapor = { ent-Vapor }
     .desc = { ent-Vapor.desc }
+ent-FlowerVapor = цветочный пар
+    .desc = { ent-Vapor.desc }
+ent-MegaSprayBottleSpaceCleaner = мега-распылитель очистителя
+    .desc = { ent-MegaSprayBottle.desc }

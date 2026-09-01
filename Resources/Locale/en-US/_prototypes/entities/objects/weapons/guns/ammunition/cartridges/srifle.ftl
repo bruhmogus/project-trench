@@ -10,3 +10,6 @@ ent-CartridgeSRifleFlash = cartridge (.20 rifle flash)
 ent-CartridgeSRiflePractice = cartridge (.20 rifle practice)
     .desc = { ent-CartridgeSRifleBase.desc }
     .suffix = { "" }
+ent-CartridgeSRifleHV = патрон (5,56мм высокоскоростной)
+    .desc = { ent-CartridgeSRifleBase.desc }
+    .suffix = { "" }

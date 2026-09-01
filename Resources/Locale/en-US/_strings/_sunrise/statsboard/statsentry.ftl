@@ -55,3 +55,4 @@ statsentry-total-absorbed-puddle = Players cleaned up [color=white]{ $count }[/c
 statsentry-player-with-most-puddle-absorb = The most puddles were cleaned up thanks to [color=white]{ $name }[/color].
 statsentry-total-captain-card-interacted = The Captain's Card was handled by [color=white]{ $count }[/color] players.
 statsentry-total-electrocuted-count = Players were shocked [color=white]{ $count }[/color] times.
+statsentry-bank-balance = Под конец смены баланс карго составил [color=white]{ $balance }[/color] кредитов.

@@ -18,3 +18,6 @@ surveillance-camera-setup = Setup
 surveillance-camera-setup-ui-set = Set
 
 wire-name-camera-map = MAP
+# Sunrise-Edit
+surveillance-camera-monitor-ui-flavor-left = Не смотрите в душевую капитана
+surveillance-camera-monitor-ui-flavor-right = v1.2

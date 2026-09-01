@@ -9,3 +9,4 @@ round-end-system-round-restart-eta-announcement = Restarting the round in {$time
 
 eta-units-minutes = minutes
 eta-units-seconds = seconds
+round-end-system-shuttle-curse-delayed-announcement = Эвакуационный челнок подвергся зловещему проклятию. Его прибытие задерживается.

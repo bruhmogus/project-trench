@@ -13,3 +13,6 @@ ent-BoxSRifleBoxFlash = ammunition box (.20 rifle flash)
 ent-BoxSRifleBoxPractice = ammunition box (.20 rifle practice)
     .desc = { ent-BoxSRifleBase.desc }
     .suffix = { "" }
+ent-BoxSRifleBoxHV = коробка патронов (.20 винтовочные высокоскоростные)
+    .desc = { ent-BoxSRifleBase.desc }
+    .suffix = { "" }

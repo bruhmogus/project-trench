@@ -160,3 +160,147 @@ construction-graph-tag-backpack = backpack
 
 # chemistry
 construction-graph-tag-centrifuge-compatible = centrifugable container
+# Мехи: PowerCage и контроллеры
+construction-graph-component-power-cage = энергоблок
+# Clarke
+construction-graph-tag-clarke-central-control-module = модуль центрального управления
+construction-graph-tag-clarke-peripherals-control-module = модуль управления периферией
+# Gygax
+construction-graph-tag-gygax-central-control-module = модуль центрального управления
+construction-graph-tag-gygax-peripherals-control-module = модуль управления периферией
+construction-graph-tag-gygax-weapon-control-and-targeting-module = модуль управления оружием и наведения
+# Durand
+construction-graph-tag-durand-central-control-module = модуль центрального управления
+construction-graph-tag-durand-peripherals-control-module = модуль управления периферией
+construction-graph-tag-durand-weapon-control-and-targeting-module = модуль управления оружием и наведения
+# Phazon
+construction-graph-tag-phazon-central-control-module = модуль центрального управления
+construction-graph-tag-phazon-peripherals-control-module = модуль управления периферией
+construction-graph-tag-phazon-weapon-control-and-targeting-module = модуль управления оружием и наведения
+step-trashgun-smallbattery = малая батарея
+step-trashgun-pipe = труба
+step-powercage-name = энергоблок
+construction-graph-tag-exosuit-air-tank = баллон экзокостюма
+construction-graph-tag-exosuit-thruster = двигатель экзокостюма
+construction-graph-tag-phasic-scanning-module = модуль фазового сканирования
+construction-graph-tag-capacitor = конденсатор
+construction-graph-tag-any-anomaly-core = любое ядро аномалии
+construction-graph-tag-phazon-armor-plates = бронеплиты
+construction-graph-tag-durand-armor-plates = бронеплиты
+construction-graph-tag-gygax-armor-plates = бронеплиты
+# Полы (floor tiles)
+dark-techmaint-floor = темный технический пол
+xeno-floor = ксено-пол
+# У этих нет своих ентити прототипов
+dark-squiggly-floor = темный волнистый пол
+dark-squiggly-vertical-floor = темный вертикальный волнистый пол
+construction-graph-tag-shell-shotgun-improvised-empty = импровизированная пустая гильза дробовика
+construction-graph-tag-shell-shotgun-improvised-empty-desc = описание импровизированной пустой гильзы дробовика
+construction-graph-tag-shell-shotgun-improvised = импровизированная гильза дробовика
+construction-graph-tag-shell-shotgun-improvised-desc = описание импровизированной гильзы дробовика
+construction-graph-tag-shell-shotgun-improvised-incendiary = импровизированная зажигательная гильза дробовика
+construction-graph-tag-shell-shotgun-improvised-incendiary-desc = описание импровизированной зажигательной гильзы дробовика
+construction-graph-tag-shell-shotgun-improvised-uranium = импровизированная урановая гильза дробовика
+construction-graph-tag-shell-shotgun-improvised-uranium-desc = описание импровизированной урановой гильзы дробовика
+construction-graph-tag-shell-shotgun-coin = гильза дробовика с монетой
+construction-graph-tag-shell-shotgun-coin-desc = описание гильзы дробовика с монетой
+construction-graph-tag-upgradeflaregun = улучшение сигнального пистолета
+construction-graph-tag-upgradedrozd = улучшение Дрозда
+construction-graph-tag-upgradelecter = улучшение Лектера
+construction-graph-tag-ModularReceiverAuto = автоматический модульный ресивер
+construction-graph-tag-coin = монета
+construction-graph-tag-webvest = улучшение бронежилета СБ
+construction-graph-tag-stbvest = улучшение бронежилета СБ
+construction-graph-tag-pltvest = улучшение бронежилета СБ
+construction-graph-tag-absrbvest = улучшение бронежилета СБ
+construction-graph-tag-blltvest = улучшение бронежилета СБ
+construction-graph-tag-hblltvest = улучшение бронежилета СБ
+construction-graph-tag-rflctvest = улучшение бронежилета СБ
+construction-graph-tag-riotvest = улучшение бронежилета СБ
+construction-graph-tag-gorilla-upgrade-kit = чип улучшения перчатки Г.О.Р.И.Л.Л.А.
+# Щиты и защита
+construction-graph-tag-strobe-shield = стробоскопический щит
+construction-graph-tag-flash = флешер
+construction-graph-tag-mining-goliath-hardsuit = шахтёрский скафандр голиафа
+# Манипуляторы
+step-manipulator-name = манипулятор
+# Мехи
+construction-graph-tag-lockermech-name = мех-шкафчик
+construction-graph-tag-lockermech-desc = описание мех-шкафчика
+step-lockermech-toolbox1 = любой тулбокс
+step-lockermech-toolbox2 = второй тулбокс
+step-lockermech-toolbox3 = третий тулбокс
+step-lockermech-flashlight = фонарик
+step-lockermech-oxygentank = любой баллон
+step-lockermech-treads = 5 стальных листов
+step-lockermech-powercell = энергоячейку
+step-lockermech-door-electronics = электроника двери
+# Ядерное оружие
+construction-graph-tag-plutonium-core = плутониевое ядро
+# Цветы и венки
+construction-graph-tag-geranium = герань
+construction-graph-tag-sunflower = подсолнух
+construction-graph-tag-scrap-armor = броня из лома
+construction-graph-tag-scrap-armor-desc = описание брони из лома
+construction-graph-tag-scrap-helmet = шлем из лома
+construction-graph-tag-scrap-helmet-desc = описание шлема из лома
+# Предметы
+construction-graph-tag-ground-cannabis-vita = молотая каннабис вита
+construction-graph-tag-dried-cannabis-vita = сушеная каннабис вита
+construction-graph-tag-nanopaste = нанопаста
+construction-graph-tag-blue-crystal = синий кристалл
+construction-graph-tag-crystallite = кристаллит
+construction-graph-tag-doubloon = дублон
+construction-graph-tag-credit = кредит
+construction-graph-tag-suntick = сантики
+construction-graph-tag-runic-metal = рунический металл
+# Мебель
+construction-graph-tag-double-bed = двуспальная кровать
+construction-graph-tag-double-bed-desc = описание двуспальной кровати
+construction-graph-tag-sofa = диван
+construction-graph-tag-sofa-desc = описание дивана
+construction-graph-tag-sofa-left = левая часть дивана
+construction-graph-tag-sofa-right = правая часть дивана
+construction-graph-tag-sofa-corner = угловая часть дивана
+construction-graph-tag-black-sofa = черный диван
+construction-graph-tag-black-sofa-desc = описание чёрного дивана
+construction-graph-tag-black-sofa-left = левая часть чёрного дивана
+construction-graph-tag-black-sofa-right = правая часть чёрного дивана
+construction-graph-tag-black-sofa-corner = угловая часть чёрного дивана
+construction-graph-tag-red-sofa = красный диван
+construction-graph-tag-red-sofa-desc = описание красного дивана
+construction-graph-tag-red-sofa-left = левая часть красного дивана
+construction-graph-tag-red-sofa-right = правая часть красного дивана
+construction-graph-tag-red-sofa-corner = угловая часть красного дивана
+# Предметы крафта
+construction-graph-tag-atmoscross = атмосферный крест
+construction-graph-tag-atmoscross-desc = описание атмосферного креста
+construction-graph-tag-geranium-crown = венок из герани
+construction-graph-tag-geranium-crown-desc = описание венка из герани
+construction-graph-tag-poppy-crown = венок из мака
+construction-graph-tag-poppy-crown-desc = описание венка из мака
+construction-graph-tag-sunflower-crown = венок из подсолнуха
+construction-graph-tag-sunflower-crown-desc = описание венка из подсолнуха
+# Оружие
+construction-graph-tag-trashgun = мусорная пушка
+construction-graph-tag-trashgun-desc = описание мусорной пушки
+construction-graph-tag-trashlasergun = мусорная лазерная пушка
+construction-graph-tag-trashlasergun-desc = описание мусорной лазерной пушки
+# Энергетика
+construction-graph-tag-power-cage = энергоблок
+construction-graph-tag-power-cage-desc = описание энергоблока
+# Курительные смеси
+construction-graph-tag-joint-vita = косяк вита
+construction-graph-tag-joint-vita-desc = описание косяка вита
+# Контейнеры
+construction-graph-tag-canister = канистра
+construction-graph-tag-canister-desc = описание канистры
+# Energy Sword
+construction-graph-tag-energy-sword = энергетический меч
+construction-graph-tag-energy-sword-desc = описание энергетического меча
+# Cannabis Vita
+construction-graph-tag-ground-cannabis-vita-desc = описание молотой каннабис вита
+# New tag
+construction-graph-tag-smokeablejointvita = курительный косяк вита
+# SCP Tag
+construction-graph-tag-upgradelocus = улучшение модуля Локус

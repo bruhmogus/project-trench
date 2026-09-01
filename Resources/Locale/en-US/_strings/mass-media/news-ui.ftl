@@ -40,3 +40,4 @@ news-write-ui-photos-label = Photos:
 news-write-ui-add-photo-text = Add Photo
 news-write-ui-select-photo-title = Select PDA Photo
 news-write-ui-no-photos = No photos found on PDA
+news-write-upload-disabled = Отправка фотографий отключена.

@@ -6,3 +6,5 @@ ent-BlueprintSeismicCharge = seismic charge blueprint
     .desc = A blueprint with a schematic of a seismic charge. It can be inserted into an autolathe.
 ent-BlueprintDoubleEmergencyTank = double emergency tank blueprint
     .desc = A blueprint with a schematic of a double emergency tank. It can be inserted into an autolathe.
+ent-BlueprintFlare = чертёж фальшфейера
+    .desc = Чертёж со схемой фальшфейера. Его можно вставить в автолат.

@@ -24,3 +24,4 @@ gas-tank-window-internal-disconnected = [color=red]Disconnected[/color]
 ## Valve
 comp-gas-tank-open-valve = Open Valve
 comp-gas-tank-close-valve = Close Valve
+gas-tank-window-label = Газовый баллон

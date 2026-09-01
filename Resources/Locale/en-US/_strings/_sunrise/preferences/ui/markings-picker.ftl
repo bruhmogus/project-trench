@@ -7,3 +7,4 @@ humanoid-marking-modifier-prototype-id = Prototype ID:
 markings-category-SnoutCover = Snout (Cover)
 markings-category-Dreadlocks = Dreadlocks
 markings-category-Rings = Rings
+markings-layer-Back = Спина

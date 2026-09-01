@@ -15,3 +15,5 @@ comp-space-heater-ui-High-power-consumption = High
 
 comp-space-heater-device-name = space heater
 comp-space-heater-unanchored = The {$device} is not anchored.
+comp-space-heater-ui-status-disabled = Выкл
+comp-space-heater-ui-status-enabled = Вкл

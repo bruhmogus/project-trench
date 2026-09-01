@@ -159,3 +159,6 @@ holopad-station-cargo-bay = Station - Cargo Bay
 
 # CentComm
 holopad-centcomm-evac = CentComm - Evacuation Shuttle
+# Sunrise
+holopad-salvage-shuttle = Шаттл утилизаторов
+holopad-security-shuttle = Шаттл безопасности

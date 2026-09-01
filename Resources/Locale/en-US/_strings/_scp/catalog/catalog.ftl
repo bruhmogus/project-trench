@@ -112,3 +112,9 @@ shop-name-locuskit = Upgrade Kit (Locus)
 shop-desc-locuskit = A set of specialized anomalous modules designed for installation on tactical armor or an NBC suit. Once attached, they generate a field around the wearer that blocks the teleportation effects of SCP-106. However, these modules are quite heavy, which may make them somewhat cumbersome to wear on armor.
 
 shop-desc-antiradkit = A kit containing medications designed to purge radiation from the body and treat cellular damage.
+shop-name-armorscoutntf = Набор с лёгким бронежилетом
+shop-name-armorheavyhd = Набор с тяжёлым бронежилетом
+shop-name-belt-mtf-med-operative = тактический пояс для медикаментов (личное)
+shop-name-g36box = Коробка с G36
+shop-name-revolversbox = Коробка с Авангардом
+shop-name-c4crate = Ящик взрывчатки C4

@@ -136,7 +136,7 @@ def merge_missing_entries(missing_entries, src:Locale, dst:Locale):
             # print(f"[INFO] adding {raw_entry} to {analog_path}")
             os.makedirs(os.path.dirname(analog_path), exist_ok=True)
             with open(analog_path, 'a', encoding='utf8') as file:
-                file.write(f"{raw_entry} #from {src.path.name}\n")
+                file.write(f"{raw_entry}\n")
 
 en_missing_entries = find_missing_entries(ru_loc, en_loc)
 en_missing_translations = get_missing_translations(en_loc)

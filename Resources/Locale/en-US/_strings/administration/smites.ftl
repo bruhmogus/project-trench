@@ -148,3 +148,6 @@ admin-trick-pause-map-description = Pause the selected map. Note this doesn't en
 admin-trick-snap-joints-description = Remove all physics joints from an object. Unfortunately does not snap every bone in their body.
 admin-trick-minigun-fire-description = Makes the targetted gun fire like a minigun (very fast).
 admin-trick-set-bullet-amount-description = Quickly set the amount of unspawned bullets in a gun.
+admin-smite-terminate-prompt = Я вернусь
+admin-smite-random-death-name = Случайная смерть
+admin-smite-random-death-description = Случайно выбирает очень трудно восстанавливаемую смерть.

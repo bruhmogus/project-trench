@@ -32,3 +32,5 @@ ent-SpeedLoaderHeavyRifleRAP = speed loader (7.62mmR AP)
     .desc = { ent-BaseItem.desc }
 ent-SpeedLoaderHeavyRifleRIncendiary = speed loader (7.62mmR incendiary)
     .desc = { ent-BaseItem.desc }
+ent-CartridgeRifleHeavy127mm = патрон (12,7мм)
+    .desc = { ent-BaseItem.desc }

@@ -4,3 +4,6 @@ ent-WeaponLightMachineGunRPD = RPD
     .desc = { ent-BaseWeaponLightMachineGun.desc }
 ent-WeaponMachineGunMG42 = MG-342
     .desc = { ent-BaseWeaponLightMachineGun.desc }
+ent-WeaponLightMachineGunMG60Empty = { ent-WeaponLightMachineGunMG60 }
+    .suffix = Пустой
+    .desc = { ent-WeaponLightMachineGunMG60.desc }

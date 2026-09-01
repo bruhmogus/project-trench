@@ -76,3 +76,6 @@ ent-DoorElectronicsThirdParty = { ent-DoorElectronics }
 ent-DoorElectronicsO5 = { ent-DoorElectronics }
     .suffix = O5, Locked
     .desc = { ent-DoorElectronics.desc }
+ent-DoorElectronicsScientificDirector = { ent-DoorElectronics }
+    .suffix = Директор научной слубы, Закрыт
+    .desc = { ent-DoorElectronics.desc }

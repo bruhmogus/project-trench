@@ -54,3 +54,6 @@ highlights-psychologist = Psychologist, Psychology, "Psych", Medbay, Medical, "M
 highlights-personal-ai = Personal AI, "pAI"
 highlights-cyborg = Cyborg, Silicon, Borg, Robotics, "Robot"
 highlights-station-ai = Station AI, Silicon, "AI", "sAI"
+# Station-specific
+highlights-boxer = Боксер, Ринг
+highlights-zookeeper = Смотритель зоопарка, Зоопарк

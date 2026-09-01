@@ -14,3 +14,8 @@ player-tab-is-antag-no = NO
 player-tab-character-name-antag-symbol = {$symbol} {$name}
 
 player-tab-antag-prefix = 🗡
+player-tab-antagonist = Антаг
+# Sunrise-Sponsors
+player-tab-sponsor = Спонсор
+player-tab-objectives = Цели
+player-tab-objectives-button = Цели

@@ -185,3 +185,12 @@ accent-formal-words-148 = нру
 accent-formal-words-replace-148 = to the scientific supervisor
 # Fish-edit-end
 
+# Russian abbreviations moved from chatsanitize
+accent-formal-words-97 = рнд
+accent-formal-words-replace-97 = научный отдел
+accent-formal-words-98 = сб
+accent-formal-words-replace-98 = служба безопасности
+accent-formal-words-99 = кеп
+accent-formal-words-replace-99 = капитан
+accent-formal-words-100 = кэп
+accent-formal-words-replace-100 = капитан

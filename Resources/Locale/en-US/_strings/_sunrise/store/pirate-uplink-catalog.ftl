@@ -55,3 +55,5 @@ uplink-base-scooner-name = Hire Freelancer
 uplink-base-scooner-desc = Hire and summon — directly to your location — a pirate willing to join your venture; comes equipped with basic gear.
 uplink-scrapper-scooner-name = Hire Scrapper
 uplink-scrapper-scooner-desc = Hire and summon — directly to your location — a member of a Scrapper gang who may agree to join your venture; comes equipped with basic gear and a few doubloons.
+uplink-weapon-dpmg-name = ДП-28
+uplink-eva-pirate-bundle-desc = Культовый пиратский прикид со времен древнего космоса, защита на уровне капитанского скафандра, правда ценой скорости а так же сьемный EVA шлем без какой либо защиты от вспышек

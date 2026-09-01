@@ -6,3 +6,8 @@ Additionally, your respawn timer will reset every time you return to your body.
 You have been warned.
 accept-ghost-window-accept-button = Yes
 accept-ghost-window-deny-button = No
+accept-ghost-window-text =
+    Вы действительно хотите покинуть свое тело?
+    Тело без души никто не будет спасать.
+    Так же счетчик новой жизни будет сбрасываться при каждом возвращении в тело.
+    Вы были предупреждены.

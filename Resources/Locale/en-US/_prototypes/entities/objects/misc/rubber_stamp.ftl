@@ -44,3 +44,4 @@ ent-RubberStampPsychologist = psychologist's rubber stamp
     .desc = A rubber stamp for stamping important documents. Prescribe those treatments!
 ent-RubberStampWizard = wizard's rubber stamp
     .desc = A chaotic wizard stamp for serving unchaotic paperwork, how ironic.
+wizard-stamp = Маг

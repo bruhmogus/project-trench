@@ -14,3 +14,5 @@ ent-CrateEmergencyInflatablewall = inflatable wall crate
     .desc = Three stacks of inflatable walls for when the stations metal walls don't want to hold atmosphere anymore.
 ent-CrateGenericBiosuit = emergency bio suit crate
     .desc = Contains 2 biohazard suits to ensure that no disease will distract you from what you're doing there.
+ent-CrateSlimepersonLifeSupport = ящик жизнеобеспечения слаймолюдов
+    .desc = Содержит четыре дыхательные маски и четыре больших баллона азота.

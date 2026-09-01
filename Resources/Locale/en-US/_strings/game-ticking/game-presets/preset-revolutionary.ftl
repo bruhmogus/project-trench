@@ -68,3 +68,4 @@ rev-deconverted-text =
 
     You are no longer a revolutionary, so be nice.
 rev-deconverted-confirm = Confirm
+rev-banned = You have been converted but are unable to play due to a ban for this role.
