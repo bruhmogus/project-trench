@@ -1,21 +1,21 @@
 # [AUTO_EN]
-reagent-amnesiac-a-name = Amnesiac Class A
+reagent-amnesiac-a-name = Amnestic class A
 # [AUTO_EN]
-reagent-amnesiac-a-desc = Amnesiac Class A, erases the last hour of the victim's life from their memory. Thanks to its lightness, it can be applied via sprayers.
+reagent-amnesiac-a-desc = Amnestic Class A, erases the last hour of the victim's life from their memory. Thanks to its lightness, it can be applied via sprayers.
 # [AUTO_EN]
-reagent-amnesiac-b-name = Amnesiac class B
+reagent-amnesiac-b-name = Amnestic class B
 # [AUTO_EN]
-reagent-amnesiac-b-desc = Amnesiac class B, erases the last 24 hours of the victim's life from their memory.
+reagent-amnesiac-b-desc = Amnestic class B, erases the last 24 hours of the victim's life from their memory.
 # [AUTO_EN]
-reagent-amnesiac-c-name = Amnesiac class C
+reagent-amnesiac-c-name = Amnestic class C
 # [AUTO_EN]
-reagent-amnesiac-c-desc = Amnesiac class C, erases the last month of the victim's life from their memory.
+reagent-amnesiac-c-desc = Amnestic class C, erases the last month of the victim's life from their memory.
 # [AUTO_EN]
-reagent-amnesiac-d-name = Amnesiac class D
+reagent-amnesiac-d-name = Amnestic class D
 # [AUTO_EN]
-reagent-amnesiac-d-desc = Amnesiac class D, completely erases identity.
+reagent-amnesiac-d-desc = Amnestic class D, completely erases identity.
 # [AUTO_EN]
-reagent-amnesiac-raw-name = raw material for amnesiac
+reagent-amnesiac-raw-name = raw material for Amnestic
 # [AUTO_EN]
 reagent-amnesiac-raw-desc = Raw material used to produce so-called amnesia.
 # [AUTO_EN]

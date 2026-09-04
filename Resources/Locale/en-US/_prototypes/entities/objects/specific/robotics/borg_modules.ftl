@@ -151,7 +151,7 @@ ent-BorgModuleInflatable = inflatable module
     .desc = Module with a set of inflatable structures.
 # [AUTO_EN]
 ent-BorgModuleC20r = C-20r cybernetic module
-    .desc = Weapon module with C-20r in queue mode.
+    .desc = Weapon module with C-20r in burst mode.
 # [AUTO_EN]
 ent-MothershipModule = mother ship module
     .desc = Module that helps the mothership's brain and the installation of other modules.
