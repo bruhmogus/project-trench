@@ -316,3 +316,295 @@ ent-WallRockAndesiteArtifactFragment = { ent-WallRockAndesite }
 ent-WallRockAndesiteSalt = { ent-WallRockAndesite }
     .desc = An ore vein rich with salt.
     .suffix = Salt
+# [AUTO_EN]
+ent-AsteroidRockDiamondCrab = { ent-AsteroidRockDiamond }
+    .suffix = Diamond, rock crab
+    .desc = { ent-AsteroidRockDiamond.desc }
+# [AUTO_EN]
+ent-AsteroidRockPlasmaCrab = { ent-AsteroidRockPlasma }
+    .suffix = Plasma, rock crab
+    .desc = { ent-AsteroidRockPlasma.desc }
+# [AUTO_EN]
+ent-AsteroidRockSaltCrab = { ent-AsteroidRockSalt }
+    .suffix = Salt, rock crab
+    .desc = { ent-AsteroidRockSalt.desc }
+# [AUTO_EN]
+ent-IronRockCoalCrab = { ent-IronRock }
+    .suffix = Coal, rudo-crab
+    .desc = { ent-IronRockCoal.desc }
+# [AUTO_EN]
+ent-IronRockGoldCrab = { ent-IronRock }
+    .suffix = Gold, rudo crab
+    .desc = { ent-IronRockGold.desc }
+# [AUTO_EN]
+ent-IronRockQuartzCrab = { ent-IronRock }
+    .suffix = Quartz, rudo-crab
+    .desc = { ent-IronRockQuartz.desc }
+# [AUTO_EN]
+ent-IronRockSilverCrab = { ent-IronRock }
+    .suffix = Silver, rudo crab
+    .desc = { ent-IronRockSilver.desc }
+# [AUTO_EN]
+ent-IronRockIronCrab = { ent-IronRock }
+    .suffix = Iron, Iron Crab
+    .desc = { ent-IronRockIron.desc }
+# [AUTO_EN]
+ent-IronRockUraniumCrab = { ent-IronRock }
+    .suffix = Uranium, ruddock crab
+    .desc = { ent-IronRockUranium.desc }
+# [AUTO_EN]
+ent-IronRockBananiumCrab = { ent-IronRock }
+    .suffix = Bananium, Rudo Crab
+    .desc = { ent-IronRockBananium.desc }
+# [AUTO_EN]
+ent-IronRockSaltCrab = { ent-IronRockSalt }
+    .suffix = Salt, rudo crab
+    .desc = { ent-IronRockSalt.desc }
+# [AUTO_EN]
+ent-IronRockPlasmaCrab = { ent-IronRockPlasma }
+    .suffix = Plasma, rudo crab
+    .desc = { ent-IronRockPlasma.desc }
+# [AUTO_EN]
+ent-IronRockDiamondCrab = { ent-IronRockDiamond }
+    .suffix = Diamond, rudo crab
+    .desc = { ent-IronRockDiamond.desc }
+# [AUTO_EN]
+ent-WallRockCoalCrab = { ent-WallRock }
+    .suffix = Coal, rock crab
+    .desc = { ent-WallRockCoal.desc }
+# [AUTO_EN]
+ent-WallRockGoldCrab = { ent-WallRock }
+    .suffix = Gold, Rock Crab
+    .desc = { ent-WallRockGold.desc }
+# [AUTO_EN]
+ent-WallRockDiamondCrab = { ent-WallRock }
+    .suffix = Diamond, rock crab
+    .desc = { ent-WallRockDiamond.desc }
+# [AUTO_EN]
+ent-WallRockPlasmaCrab = { ent-WallRock }
+    .suffix = Plasma, rock crab
+    .desc = { ent-WallRockPlasma.desc }
+# [AUTO_EN]
+ent-WallRockQuartzCrab = { ent-WallRock }
+    .suffix = Quartz, rock crab
+    .desc = { ent-WallRockQuartz.desc }
+# [AUTO_EN]
+ent-WallRockSilverCrab = { ent-WallRock }
+    .suffix = Silver, rock crab
+    .desc = { ent-WallRockSilver.desc }
+# [AUTO_EN]
+ent-WallRockTinCrab = { ent-WallRock }
+    .suffix = Iron, ruddock crab
+    .desc = { ent-WallRockTin.desc }
+# [AUTO_EN]
+ent-WallRockUraniumCrab = { ent-WallRock }
+    .suffix = Uranium, rock crab
+    .desc = { ent-WallRockUranium.desc }
+# [AUTO_EN]
+ent-WallRockBananiumCrab = { ent-WallRock }
+    .suffix = Bananium, rock crab
+    .desc = { ent-WallRockBananium.desc }
+# [AUTO_EN]
+ent-WallRockSaltCrab = { ent-WallRockSalt }
+    .suffix = Salt, rock crab
+    .desc = { ent-WallRockSalt.desc }
+# [AUTO_EN]
+ent-WallRockBasaltCoalCrab = { ent-WallRockBasalt }
+    .suffix = Coal, rock crab
+    .desc = { ent-WallRockBasaltCoal.desc }
+# [AUTO_EN]
+ent-WallRockBasaltGoldCrab = { ent-WallRockBasalt }
+    .suffix = Gold, rock crab
+    .desc = { ent-WallRockBasaltGold.desc }
+# [AUTO_EN]
+ent-WallRockBasaltDiamondCrab = { ent-WallRockBasalt }
+    .suffix = Diamond, rock crab
+    .desc = { ent-WallRockBasaltDiamond.desc }
+# [AUTO_EN]
+ent-WallRockBasaltPlasmaCrab = { ent-WallRockBasalt }
+    .suffix = Plasma, rock crab
+    .desc = { ent-WallRockBasaltPlasma.desc }
+# [AUTO_EN]
+ent-WallRockBasaltQuartzCrab = { ent-WallRockBasalt }
+    .suffix = Quartz, rock crab
+    .desc = { ent-WallRockBasaltQuartz.desc }
+# [AUTO_EN]
+ent-WallRockBasaltSilverCrab = { ent-WallRockBasalt }
+    .suffix = Silver, rock crab
+    .desc = { ent-WallRockBasaltSilver.desc }
+# [AUTO_EN]
+ent-WallRockBasaltTinCrab = { ent-WallRockBasalt }
+    .suffix = Iron, ruddock crab
+    .desc = { ent-WallRockBasaltTin.desc }
+# [AUTO_EN]
+ent-WallRockBasaltUraniumCrab = { ent-WallRockBasalt }
+    .suffix = Uranium, rock crab
+    .desc = { ent-WallRockBasaltUranium.desc }
+# [AUTO_EN]
+ent-WallRockBasaltBananiumCrab = { ent-WallRockBasalt }
+    .suffix = Bananium, rock crab
+    .desc = { ent-WallRockBasaltBananium.desc }
+# [AUTO_EN]
+ent-WallRockBasaltSaltCrab = { ent-WallRockBasaltSalt }
+    .suffix = Salt, rock crab
+    .desc = { ent-WallRockBasaltSalt.desc }
+# [AUTO_EN]
+ent-WallRockSnowCoalCrab = { ent-WallRockSnow }
+    .suffix = Coal, rock crab
+    .desc = { ent-WallRockSnowCoal.desc }
+# [AUTO_EN]
+ent-WallRockSnowGoldCrab = { ent-WallRockSnow }
+    .suffix = Gold, rock crab
+    .desc = { ent-WallRockSnowGold.desc }
+# [AUTO_EN]
+ent-WallRockSnowDiamondCrab = { ent-WallRockSnow }
+    .suffix = Diamond, rock crab
+    .desc = { ent-WallRockSnowDiamond.desc }
+# [AUTO_EN]
+ent-WallRockSnowPlasmaCrab = { ent-WallRockSnow }
+    .suffix = Plasma, rudo crab
+    .desc = { ent-WallRockSnowPlasma.desc }
+# [AUTO_EN]
+ent-WallRockSnowQuartzCrab = { ent-WallRockSnow }
+    .suffix = Quartz, rock crab
+    .desc = { ent-WallRockSnowQuartz.desc }
+# [AUTO_EN]
+ent-WallRockSnowSilverCrab = { ent-WallRockSnow }
+    .suffix = Silver, rock crab
+    .desc = { ent-WallRockSnowSilver.desc }
+# [AUTO_EN]
+ent-WallRockSnowTinCrab = { ent-WallRockSnow }
+    .suffix = Iron, ruddock crab
+    .desc = { ent-WallRockSnowTin.desc }
+# [AUTO_EN]
+ent-WallRockSnowUraniumCrab = { ent-WallRockSnow }
+    .suffix = Uranium, rock crab
+    .desc = { ent-WallRockSnowUranium.desc }
+# [AUTO_EN]
+ent-WallRockSnowBananiumCrab = { ent-WallRockSnow }
+    .suffix = Bananium, rudo crab
+    .desc = { ent-WallRockSnowBananium.desc }
+# [AUTO_EN]
+ent-WallRockSnowSaltCrab = { ent-WallRockSnowSalt }
+    .suffix = Salt, rock crab
+    .desc = { ent-WallRockSnowSalt.desc }
+# [AUTO_EN]
+ent-WallRockSandCoalCrab = { ent-WallRockSand }
+    .suffix = Coal, rock crab
+    .desc = { ent-WallRockSandCoal.desc }
+# [AUTO_EN]
+ent-WallRockSandGoldCrab = { ent-WallRockSand }
+    .suffix = Gold, rock crab
+    .desc = { ent-WallRockSandGold.desc }
+# [AUTO_EN]
+ent-WallRockSandDiamondCrab = { ent-WallRockSand }
+    .suffix = Diamond, rock crab
+    .desc = { ent-WallRockSandDiamond.desc }
+# [AUTO_EN]
+ent-WallRockSandPlasmaCrab = { ent-WallRockSand }
+    .suffix = Plasma, rock crab
+    .desc = { ent-WallRockSandPlasma.desc }
+# [AUTO_EN]
+ent-WallRockSandQuartzCrab = { ent-WallRockSand }
+    .suffix = Quartz, rock crab
+    .desc = { ent-WallRockSandQuartz.desc }
+# [AUTO_EN]
+ent-WallRockSandSilverCrab = { ent-WallRockSand }
+    .suffix = Silver, rock crab
+    .desc = { ent-WallRockSandSilver.desc }
+# [AUTO_EN]
+ent-WallRockSandTinCrab = { ent-WallRockSand }
+    .suffix = Iron, rock crab
+    .desc = { ent-WallRockSandTin.desc }
+# [AUTO_EN]
+ent-WallRockSandUraniumCrab = { ent-WallRockSand }
+    .suffix = Uranium, rock crab
+    .desc = { ent-WallRockSandUranium.desc }
+# [AUTO_EN]
+ent-WallRockSandBananiumCrab = { ent-WallRockSand }
+    .suffix = Bananium, rudo crab
+    .desc = { ent-WallRockSandBananium.desc }
+# [AUTO_EN]
+ent-WallRockSandSaltCrab = { ent-WallRockSandSalt }
+    .suffix = Salt, rock crab
+    .desc = { ent-WallRockSandSalt.desc }
+# [AUTO_EN]
+ent-WallRockChromiteCoalCrab = { ent-WallRockChromite }
+    .suffix = Coal, rock crab
+    .desc = { ent-WallRockChromiteCoal.desc }
+# [AUTO_EN]
+ent-WallRockChromiteGoldCrab = { ent-WallRockChromite }
+    .suffix = Gold, rock crab
+    .desc = { ent-WallRockChromiteGold.desc }
+# [AUTO_EN]
+ent-WallRockChromiteDiamondCrab = { ent-WallRockChromite }
+    .suffix = Diamond, rock crab
+    .desc = { ent-WallRockChromiteDiamond.desc }
+# [AUTO_EN]
+ent-WallRockChromitePlasmaCrab = { ent-WallRockChromite }
+    .suffix = Plasma, rock crab
+    .desc = { ent-WallRockChromitePlasma.desc }
+# [AUTO_EN]
+ent-WallRockChromiteQuartzCrab = { ent-WallRockChromite }
+    .suffix = Quartz, rock crab
+    .desc = { ent-WallRockChromiteQuartz.desc }
+# [AUTO_EN]
+ent-WallRockChromiteSilverCrab = { ent-WallRockChromite }
+    .suffix = Silver, rock crab
+    .desc = { ent-WallRockChromiteSilver.desc }
+# [AUTO_EN]
+ent-WallRockChromiteTinCrab = { ent-WallRockChromite }
+    .suffix = Iron, rock crab
+    .desc = { ent-WallRockChromiteTin.desc }
+# [AUTO_EN]
+ent-WallRockChromiteUraniumCrab = { ent-WallRockChromite }
+    .suffix = Uranium, rock crab
+    .desc = { ent-WallRockChromiteUranium.desc }
+# [AUTO_EN]
+ent-WallRockChromiteBananiumCrab = { ent-WallRockChromite }
+    .suffix = Bananium, rock crab
+    .desc = { ent-WallRockChromiteBananium.desc }
+# [AUTO_EN]
+ent-WallRockChromiteSaltCrab = { ent-WallRockChromiteSalt }
+    .suffix = Salt, rock crab
+    .desc = { ent-WallRockChromiteSalt.desc }
+# [AUTO_EN]
+ent-WallRockAndesiteCoalCrab = { ent-WallRockAndesite }
+    .suffix = Coal, rock crab
+    .desc = { ent-WallRockAndesiteCoal.desc }
+# [AUTO_EN]
+ent-WallRockAndesiteGoldCrab = { ent-WallRockAndesite }
+    .suffix = Gold, rock crab
+    .desc = { ent-WallRockAndesiteGold.desc }
+# [AUTO_EN]
+ent-WallRockAndesiteDiamondCrab = { ent-WallRockAndesite }
+    .suffix = Diamond, rock crab
+    .desc = { ent-WallRockAndesiteDiamond.desc }
+# [AUTO_EN]
+ent-WallRockAndesitePlasmaCrab = { ent-WallRockAndesite }
+    .suffix = Plasma, rudo crab
+    .desc = { ent-WallRockAndesitePlasma.desc }
+# [AUTO_EN]
+ent-WallRockAndesiteQuartzCrab = { ent-WallRockAndesite }
+    .suffix = Quartz, rock crab
+    .desc = { ent-WallRockAndesiteQuartz.desc }
+# [AUTO_EN]
+ent-WallRockAndesiteSilverCrab = { ent-WallRockAndesite }
+    .suffix = Silver, rock crab
+    .desc = { ent-WallRockAndesiteSilver.desc }
+# [AUTO_EN]
+ent-WallRockAndesiteTinCrab = { ent-WallRockAndesite }
+    .suffix = Iron, Rudo Crab
+    .desc = { ent-WallRockAndesiteTin.desc }
+# [AUTO_EN]
+ent-WallRockAndesiteUraniumCrab = { ent-WallRockAndesite }
+    .suffix = Uranium, rock crab
+    .desc = { ent-WallRockAndesiteUranium.desc }
+# [AUTO_EN]
+ent-WallRockAndesiteBananiumCrab = { ent-WallRockAndesite }
+    .suffix = Bananium, rock crab
+    .desc = { ent-WallRockAndesiteBananium.desc }
+# [AUTO_EN]
+ent-WallRockAndesiteSaltCrab = { ent-WallRockAndesiteSalt }
+    .suffix = Salt, rock crab
+    .desc = { ent-WallRockAndesiteSalt.desc }

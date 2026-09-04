@@ -12,3 +12,10 @@ ent-ReinforcementRadioSyndicateAncestorNukeops = { ent-ReinforcementRadioSyndica
     .desc = { ent-ReinforcementRadioSyndicateAncestor.desc }
 ent-ReinforcementRadioSyndicateSyndiCat = syndicat reinforcement radio
     .desc = Calls in a faithfully trained cat with a microbomb to assist you.
+# [AUTO_EN]
+ent-ReinforcementRadioSyndicateMonkey = monkey reinforcement radio syndicate
+    .desc = Summons a specially trained monkey for assistance.
+# [AUTO_EN]
+ent-ReinforcementRadioSyndicateMonkeyNukeops = { ent-ReinforcementRadioSyndicateMonkey }
+    .suffix = Nuclear Operators
+    .desc = { ent-ReinforcementRadioSyndicateMonkey.desc }

@@ -24,3 +24,7 @@ ent-PresentMasksHM = 50 blessings gift set
     .desc = For agents who want to hide their identity in style, with love by Egor Semenov.
 ent-PresentMasksSlipknot = slipknot masks gift set
     .desc = Five masks. Five souls. Numbers 7, 8, 6, 1 and 5 inside a black box — filthy Iowa fury.
+# [AUTO_EN]
+ent-PresentRandomAsh = { ent-PresentBase }
+    .suffix = Filled, Ash
+    .desc = { ent-PresentBase.desc }

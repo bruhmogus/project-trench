@@ -19,3 +19,30 @@ ent-ComputerPirateExchangerExpedition = black market exchanger
 ent-ComputerPirateExchangerWallmountExpedition = black market exchanger
     .suffix = Expedition
     .desc = { ent-ComputerPirateExchangerWallmount.desc }
+# [AUTO_EN]
+ent-DoubloonBase = doubloon
+    .desc = A dirty coin used for unscrupulous pirate deals.
+# [AUTO_EN]
+ent-Doubloon = doubloons
+    .desc = { ent-DoubloonBase.desc }
+    .suffix = 100 DB
+# [AUTO_EN]
+ent-Doubloon1 = doubloons
+    .desc = { ent-DoubloonBase.desc }
+    .suffix = 1 DB
+# [AUTO_EN]
+ent-Doubloon5 = doubloons
+    .desc = { ent-DoubloonBase.desc }
+    .suffix = 5 DB
+# [AUTO_EN]
+ent-Doubloon15 = doubloons
+    .desc = { ent-DoubloonBase.desc }
+    .suffix = 15 DB
+# [AUTO_EN]
+ent-Doubloon50 = doubloons
+    .desc = { ent-DoubloonBase.desc }
+    .suffix = 50 DB
+# [AUTO_EN]
+ent-PirateUplinkDebug = black market radio
+    .desc = If you are not an admin, please return this item to the nearest admin as soon as possible.
+    .suffix = 999, DEBUG

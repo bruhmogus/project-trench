@@ -78,3 +78,5 @@ names-xenoborg-dataset-77 = DESTRO-NIAC
 names-xenoborg-dataset-78 = Indigo Machine
 names-xenoborg-dataset-79 = MARK.ILLER-1
 names-xenoborg-dataset-80 = Battle Borg
+# [AUTO_EN]
+names-xenoborg-dataset-81 = Robust-O-Tron

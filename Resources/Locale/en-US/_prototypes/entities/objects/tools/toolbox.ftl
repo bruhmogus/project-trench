@@ -15,3 +15,6 @@ ent-ToolboxSyndicate = suspicious toolbox
     .desc = A sinister looking toolbox filled with elite syndicate tools.
 ent-ToolboxGolden = golden toolbox
     .desc = A solid gold toolbox. A rapper would kill for this.
+# [AUTO_EN]
+ent-Foolbox = foolbox
+    .desc = A box for fools, stuffed with clown gear.

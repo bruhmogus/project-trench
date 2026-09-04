@@ -125,3 +125,11 @@ alerts-stealthy-desc = Whether you are currently pickpocketing. Click to toggle.
 
 alerts-prying-name = Prying
 alerts-prying-desc = You can innately pry doors open using alternative interaction.
+# [AUTO_EN]
+alerts-changeling-chemicals-name = Chemicals
+# [AUTO_EN]
+alerts-changeling-chemicals-desc = Consume chemicals to use your abilities. They regenerate slowly.
+# [AUTO_EN]
+alerts-changeling-biomass-name = Biomass
+# [AUTO_EN]
+alerts-changeling-biomass-desc = This is your health. If it reaches 0, it is [color=red]the end of the game[/color]. Consume humans to restore part of it.

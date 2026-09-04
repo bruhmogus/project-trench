@@ -104,3 +104,18 @@ ent-ClothingUniformJumpsuitSalvageMercGreen = green scrapper jumpsuit
     .desc = Utilitarian clothing for salvagers.
 ent-ClothingUniformJumpsuitSalvageMercBrown = brown scrapper jumpsuit
     .desc = Utilitarian clothing for salvagers.
+# [AUTO_EN]
+ent-ClothingUniformJumpsuitCapTurtleneck = captain's turtleneck
+    .desc = The true captain's turtleneck.
+# [AUTO_EN]
+ent-ClothingUniformJumpsuitHoPTurtleneck = head of HR's turtleneck
+    .desc = This is the turtleneck of the head of HR.
+# [AUTO_EN]
+ent-ClothingUniformJumpsuitHoSBlack = black security chief uniform
+    .desc = This is the black security chief uniform.
+# [AUTO_EN]
+ent-ClothingUniformJumpsuitRDClassical = classical director of research jumpsuit
+    .desc = This is the classical director of research jumpsuit.
+# [AUTO_EN]
+ent-ClothingUniformJumpsuitMilirUniform = fitted military jumpsuit
+    .desc = Simple form-fitting bodysuit, adapted to the anatomy of the milir.

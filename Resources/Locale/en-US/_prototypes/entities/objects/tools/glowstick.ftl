@@ -20,3 +20,6 @@ ent-LightBehaviourTest5 = light pulse radius test
     .desc = { ent-BaseItem.desc }
 ent-LightBehaviourTest6 = light randomize radius test
     .desc = { ent-BaseItem.desc }
+# [AUTO_EN]
+ent-GlowstickGreen = green glowstick
+    .desc = { ent-GlowstickBase.desc }

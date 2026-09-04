@@ -207,3 +207,8 @@ loadout-group-reporter-head = Reporter hat
 loadout-group-reporter-outerclothing = Reporter vest
 
 loadout-group-psychologist-jumpsuit = Psychologist jumpsuit
+loadout-group-security-glasses = { loadout-group-eyes }
+# Medical
+loadout-group-medical-gloves = { loadout-group-gloves }
+loadout-group-boxer-jumpsuit = { loadout-group-jumpsuit }
+loadout-group-boxer-gloves = { loadout-group-gloves }

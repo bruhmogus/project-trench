@@ -17,3 +17,6 @@ ent-ActionRatKingOrderCheeseEm = Cheese 'Em
     .desc = Command your army to attack whoever you point at.
 ent-ActionRatKingOrderLoose = Loose
     .desc = Command your army to act at their own will.
+# [AUTO_EN]
+ent-ActionRatKingRaiseGuard = Summon guard
+    .desc = Spend a large amount of hunger to summon an elite rat guard to your service.

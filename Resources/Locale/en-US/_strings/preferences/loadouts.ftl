@@ -15,3 +15,5 @@ loadouts-count-items-in-group = {$item} and {$count} other {$count ->
 }
 
 loadouts-points-restriction = Insufficient points
+# [AUTO_EN]
+loadout-group-sex-restriction = Not available for this gender

@@ -173,3 +173,9 @@ tiles-glass-floor-plasma = plasma glass floor
 tiles-glass-floor-plasma-reinforced = reinforced plasma glass floor
 tiles-glass-floor-uranium = uranium glass floor
 tiles-glass-floor-uranium-reinforced = reinforced uranium glass floor
+# [AUTO_EN]
+tiles-light-fancy-wood = beautiful wooden floor
+# [AUTO_EN]
+tiles-light-fancy-wood-floor = beautiful wooden floor
+# [AUTO_EN]
+tiles-lattice-diagonal = diagonal lattice

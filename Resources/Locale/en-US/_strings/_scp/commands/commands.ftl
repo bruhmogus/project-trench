@@ -12,3 +12,5 @@ vigers-command-autodeadmin-enabled = Autodeadmin for users from the vigers list 
 vigers-command-autodeadmin-disabled = Autodeadmin for users from the vigers list has been disabled.
 vigers-command-protected = Users from the vigers list cannot toggle this command.
 vigers-autokick-reason = Connection denied by server policy.
+# [AUTO_EN]
+suicide-command-life-is-good = Value your character's life, don't kill yourself!

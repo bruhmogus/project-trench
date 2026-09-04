@@ -1,4 +1,4 @@
-﻿ent-GrenadeCleanadeSyndicate = { ent-GrenadeCleanade }
+ent-GrenadeCleanadeSyndicate = { ent-GrenadeCleanade }
     .desc = { ent-GrenadeCleanade.desc }
 
 ent-Grenade120mmBlast = 120mm blast grenade
@@ -42,3 +42,10 @@ ent-GrenadeEMPTarnyx = EMP artillery grenade
 
 ent-BulletGrenadeEMPTarnyx = EMP artillery shell
     .desc = { ent-GrenadeEMPTarnyx.desc }
+# [AUTO_EN]
+ent-Rocket120mmMetla = 120mm rocket
+    .desc = Heavy 120mm rocket for the RCT-120 "Metla" shuttle weapon.
+# [AUTO_EN]
+ent-Magazine60mmRocketLongFlight = 60mm rocket magazine
+    .suffix = increased range
+    .desc = Capacious magazine for 16 rockets for the RCT-60 "Broom" shuttle system.

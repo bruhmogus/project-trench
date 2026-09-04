@@ -1,4 +1,4 @@
-﻿ent-BaseMechPod = { "" }
+ent-BaseMechPod = { "" }
     .desc = { "" }
 ent-MechSecPod = Security Pod
     .desc = Despite its size, the Security Pod has incredible mobility in space thanks to its engines.
@@ -49,3 +49,14 @@ ent-MechRoverSyndieBattery = { ent-MechRoverSyndie }
 ent-MechRoverSyndieFilled = { ent-MechRoverSyndieBattery }
     .suffix = Battery, Filled
     .desc = { ent-MechRoverSyndieBattery.desc }
+# [AUTO_EN]
+ent-MechMolot = Molot M-1
+    .desc = Heavy mech created by the CCCP for work in aggressive, life-hostile conditions. Equipped with 4 weapon mounts and cabin oxygen support.
+# [AUTO_EN]
+ent-MechMolotBattery = { ent-MechMolot }
+    .desc = { ent-MechMolot.desc }
+    .suffix = Battery
+# [AUTO_EN]
+ent-MechMolotFilled = { ent-MechMolotBattery }
+    .desc = { ent-MechMolotBattery.desc }
+    .suffix = Battery, Filled

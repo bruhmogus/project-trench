@@ -137,3 +137,6 @@ ent-ScpComputerCodes = { ent-CodeConsole }
     .desc = { ent-CodeConsole.desc }
 ent-ScpComputerIcarus = { ent-ComputerIcarus }
     .desc = { ent-ComputerIcarus.desc }
+# [AUTO_EN]
+ent-ScpComputerCommunicationO4Headquarters = O4 Headquarters Communications Console
+    .desc = A console used for transmitting important alerts.

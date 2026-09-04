@@ -37,3 +37,27 @@ ent-PillCanister = pill canister
     .desc = Holds up to 10 pills.
 ent-BorgBeaker = integrated beaker
     .desc = An internal compartment installed into a cyborg. Rated for 50 units of any liquid.
+# [AUTO_EN]
+ent-BeakerSmallArith = arithrazine beaker
+    .desc = { ent-Beaker.desc }
+    .suffix = arithrazine
+# [AUTO_EN]
+ent-BeakerSmallSigy = sigynata beaker
+    .desc = { ent-Beaker.desc }
+    .suffix = sigin
+# [AUTO_EN]
+ent-BeakerSmallPhal = graduated cylinder of phalangimine
+    .desc = { ent-Beaker.desc }
+    .suffix = phalangimin
+# [AUTO_EN]
+ent-BeakerSmallDiph = graduated cylinder diphenhydramine
+    .desc = { ent-Beaker.desc }
+    .suffix = diphenhydramine
+# [AUTO_EN]
+ent-BeakerSmallBruiz = bruizine beaker
+    .desc = { ent-Beaker.desc }
+    .suffix = bruising
+# [AUTO_EN]
+ent-BeakerSmallLace = graduated cylinder lace
+    .desc = { ent-Beaker.desc }
+    .suffix = lacerinol

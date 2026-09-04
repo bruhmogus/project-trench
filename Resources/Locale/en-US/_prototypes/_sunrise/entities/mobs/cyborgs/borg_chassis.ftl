@@ -17,3 +17,9 @@ ent-BorgChassisPirate = pirate boarding cyborg
 ent-BorgChassisPirateBattery = { ent-BorgChassisPirate }
     .desc = { ent-BorgChassisPirate.desc }
     .suffix = Battery, Module, Pirate
+ent-BorgChassisSecurityCombat = { ent-PlayerBorgSecurityCombatBattery }
+    .desc = { ent-PlayerBorgSecurityCombatBattery.desc }
+# [AUTO_EN]
+ent-PlayerBorgChassisSyndicateSpiderBattery = { ent-BorgChassisSyndicateSpider }
+    .desc = { ent-BorgChassisSyndicateSpider.desc }
+    .suffix = battery, tools

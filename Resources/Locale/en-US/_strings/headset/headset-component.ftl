@@ -22,3 +22,6 @@ chat-radio-binary = Binary
 chat-radio-xenoborg = Xenoborg
 chat-radio-mothership = Mothership
 chat-radio-tsf = TSF
+# Sunrise-Edit
+# [AUTO_EN]
+chat-radio-no-id = No ID

@@ -128,3 +128,25 @@ job-title-tsf-trader = TSF Trader
 job-title-tsf-marine = TSF Marine
 job-title-tsf-marine-leader = TSF Team Leader
 job-title-tsf-MARSOC = MARSOC Marine
+# [AUTO_EN]
+job-name-centcomoperator = Centcom Operator
+# [AUTO_EN]
+job-name-centcomoff = Centcom representative
+# [AUTO_EN]
+job-name-ertleader-veteran = JOB NAME ERT LEADER VETERAN
+# [AUTO_EN]
+job-name-ertchaplain-veteran = OBRI priest (Veteran)
+# [AUTO_EN]
+job-name-ertengineer-veteran = OBRE engineer (Veteran)
+# [AUTO_EN]
+job-name-ertsecurity-veteran = OBR security officer (Veteran)
+# [AUTO_EN]
+job-name-ertmedic-veteran = OB MEDIC (Veteran)
+# [AUTO_EN]
+job-name-ertjanitor-veteran = OBR cleaner (Veteran)
+# [AUTO_EN]
+job-name-cburn-veteran = quarantine Officer Centcom (Veteran)
+# [AUTO_EN]
+JobBoxer = boxer
+# [AUTO_EN]
+JobZookeeper = animal husbandman

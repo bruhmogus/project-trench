@@ -157,3 +157,73 @@ ent-PirateMedSpawner04 = medical spawner 04
     .desc = Randomly spawns pirate medical supplies.
 ent-PirateMedSpawner05 = medical spawner 05
     .desc = Randomly spawns pirate medical supplies.
+# [AUTO_EN]
+ent-DuffelSyndicateMedicalGiftBox = medical bag
+# [AUTO_EN]
+ent-WaistbagBox = waist bag
+# [AUTO_EN]
+ent-WaistbagBoxTier1Grenade = waist bag
+# [AUTO_EN]
+ent-PiratePouchTier1KnuckleDusters = pirate pouch
+# [AUTO_EN]
+ent-PiratePouchTier1FlareGun = pirate pouch
+# [AUTO_EN]
+ent-PiratePouchTier1FireBomb = pirate pouch
+# [AUTO_EN]
+ent-PiratePouchTier3EDagger = pirate pouch
+# [AUTO_EN]
+ent-ClothingBackpackMessengerMeleeT2 = pirate bag
+# [AUTO_EN]
+ent-ClothingBackPirateMessengerT1ECutlass = pirate bag
+# [AUTO_EN]
+ent-ClothingBackPirateMessengerT1EPickaxe = pirate bag
+# [AUTO_EN]
+ent-ClothingBackPirateMessengerT1SKM24 = pirate bag
+# [AUTO_EN]
+ent-ClothingBackPirateMessengerT1SMG = pirate bag
+# [AUTO_EN]
+ent-ClothingBackPirateMessengerT2MG = pirate bag
+# [AUTO_EN]
+ent-ClothingBackPirateMessengerT2Shotgun = pirate bag
+# [AUTO_EN]
+ent-ClothingBackPirateMessengerT3SKM24 = pirate bag
+# [AUTO_EN]
+ent-ClothingBackDuffelMercenaryTier1Flintlock = pirate duffel bag
+# [AUTO_EN]
+ent-ClothingBackDuffelMercenaryTier1Pistol = pirate duffel bag
+# [AUTO_EN]
+ent-ClothingBackDuffelMercenaryTier1Medic = pirate duffel bag
+# [AUTO_EN]
+ent-ClothingBackDuffelMercenaryTier2Medic = pirate duffel bag
+# [AUTO_EN]
+ent-ClothingBackDuffelMercenaryTier3Medic = pirate duffel bag
+# [AUTO_EN]
+ent-ClothingBackDuffelMercenaryTier3Grenade = pirate duffel bag
+# [AUTO_EN]
+ent-ClothingBackDuffelMercenaryTier3Sniper = pirate duffel bag
+# [AUTO_EN]
+ent-ClothingBackScrapperMeleeT1 = garbage bag
+# [AUTO_EN]
+ent-ClothingBackScrapperRangedT1 = garbage bag
+# [AUTO_EN]
+ent-ClothingBackScrapperT1PlasmaCutter = garbage bag
+# [AUTO_EN]
+ent-ClothingBackScrapperT1Hunter = garbage bag
+# [AUTO_EN]
+ent-ClothingBackScrapperT1Smasher = garbage bag
+# [AUTO_EN]
+ent-ClothingBackScrapperRangedT2 = garbage bag
+# [AUTO_EN]
+ent-ClothingBackScrapperBoss = garbage bag
+# [AUTO_EN]
+ent-ClothingBackSyndiBagTier4Ranged = Syndicate bag
+# [AUTO_EN]
+ent-ClothingBackOreCrateTier1Mech = crate
+# [AUTO_EN]
+ent-ClothingBackOreCrateTier1Cyborg = crate
+# [AUTO_EN]
+ent-ClothingBackOreCrateTier2Cyborg = crate
+# [AUTO_EN]
+ent-ClothingBackOreCrateTier3Mech = crate
+# [AUTO_EN]
+ent-ClothingBackOreCrateBoss = crate

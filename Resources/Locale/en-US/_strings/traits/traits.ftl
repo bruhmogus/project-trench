@@ -65,3 +65,24 @@ trait-hemophilia-desc = Your body fails to make blood clots.
 
 trait-impaired-mobility-name = Impaired Mobility
 trait-impaired-mobility-desc = You have difficulty moving without a mobility aid.
+# [AUTO_EN]
+trait-pirate-accent-name = Pirate accent
+# [AUTO_EN]
+trait-pirate-accent-desc = You can't stop talking like a pirate!
+# [AUTO_EN]
+trait-cowboy-name = Cowboy accent
+# [AUTO_EN]
+trait-cowboy-desc = You speak with a noticeable cowboy accent!
+# [AUTO_EN]
+trait-italian-name = Italian accent
+# [AUTO_EN]
+trait-italian-desc = Mamma mia! Looks like you lived in Space Italy!
+# [AUTO_EN]
+trait-moldovan-name = Moldovan dialect
+# [AUTO_EN]
+trait-moldovan-desc = Gypsies, give us space!
+# Fish-edit-start
+# [AUTO_EN]
+trait-formal-name = Formal accent
+# [AUTO_EN]
+trait-formal-desc = You are speaking very formally, expanding abbreviations into full words.

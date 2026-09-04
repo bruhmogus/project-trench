@@ -38,3 +38,6 @@ ent-ImprovisedGrenadePipebomb = improvised pipe bomb grenade
     .desc = { ent-BaseGrenade.desc }
 ent-ImprovisedGrenadeGlass = improvised glass grenade
     .desc = { ent-BaseGrenade.desc }
+# [AUTO_EN]
+ent-CartridgeRocketFrag = fragmentation rocket
+    .desc = Fragmentation warhead for RPG-7. Has the shape of a tube.

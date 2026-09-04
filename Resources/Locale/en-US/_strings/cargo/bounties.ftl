@@ -142,3 +142,15 @@ bounty-description-cotton-boll = A massive swarm of mothroaches ate all the pape
 bounty-description-microwave-machine-board = Mr. Giggles thought it'd be funny to stick forks in all the kitchen microwaves. Help us replace them before the chefs start making clown burgers.
 bounty-description-flashes = GREETINGS \[Station] WE REQUIRE 6 FLASHES DUE TO A NORMAL \[TrainingExercise] WITH SECURITY. EVERYTHING IS \[Normal].
 bounty-description-ring = On this EXTRAORDINARY day there will be a wedding between the Gelts, but Mr. Gelt has lost the rings. They need a new pair.
+# [AUTO_EN]
+bounty-item-clown-mask = Clown mask
+# [AUTO_EN]
+bounty-item-clown-shoes = Clown shoes
+# [AUTO_EN]
+bounty-item-rollerskates = Roller skates
+# [AUTO_EN]
+bounty-description-clown-costume = Due to a recent problem at the contact aquarium of space carp, we unfortunately lost the clown Bonobobonobo. Please send us a new costume so the children can see him again.
+# [AUTO_EN]
+bounty-description-rollerskates = The Security Service of Centcom has proposed a new strategy that will help officers prevail in foot chases. Send them a couple so they can see how terrible an idea it is.
+# [AUTO_EN]
+bounty-description-cardobard-box = Tomorrow the premiere of the new play "The Arrival of Cardboard" will take place, and the costume designers are completely unprepared. Please send us several boxes for the set dressing.

@@ -94,3 +94,12 @@ ent-StationAiFixerCircuitboard = AI restoration console board
     .desc = A computer printed circuit board for an AI restoration console.
 ent-CargoShuttleComputerCircuitboard = cargo shuttle computer board
     .desc = A computer printed circuit board for a cargo shuttle computer.
+# [AUTO_EN]
+ent-SalvageShuttleConsoleCircuitboard = shuttle salvage console (console board)
+    .desc = Console circuit board for the salvage shuttle control console.
+# [AUTO_EN]
+ent-XenoborgCameraMonitorCircuitboard = Xenoborg camera monitor circuit board (printed circuit board)
+    .desc = Circuit board for Xenoborg wireless camera monitor.
+# [AUTO_EN]
+ent-ComputerXenoborgsControlCircuitboard = xenoborg control console (circuit board)
+    .desc = Control circuit board for Xenoborgs console.

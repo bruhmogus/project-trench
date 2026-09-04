@@ -35,3 +35,16 @@ ent-SunriseToyKatana = toy katana
 ent-SunriseToyEnergyKatana = toy energy katana
     .desc = A toy copy of an energy katana for flashy play duels.
     .suffix = Toy
+# [AUTO_EN]
+ent-HoloparasiteFakeInjector = holoparasite injector
+    .desc = A complex work of art based on... Oh wait. This is a fake. You can see the "Holoparasite" store logo from the outside.
+# [AUTO_EN]
+ent-MagazineCapBox = box (pistons)
+    .desc = L6 machine gun box. Designed for pistons.
+# [AUTO_EN]
+ent-MagazineFoamBoxSunrise = foam box (foam dart)
+    .desc = L6 rifle box. Intended for foam bullets.
+# [AUTO_EN]
+ent-ClothingBackpackDuffell6Fake = "L6 SAW" set
+    .suffix = Not real
+    .desc = Even more dakka: the legendary L6 SAW light machine gun, complete with 3 boxes of ammo.

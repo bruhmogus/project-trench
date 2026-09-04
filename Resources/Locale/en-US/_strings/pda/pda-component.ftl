@@ -56,3 +56,10 @@ comp-pda-ui-unassigned = Unassigned
 
 pda-notification-message = [font size=12][bold]PDA[/bold] { $header }: [/font]
     "{ $message }"
+# Sunrise-start
+# [AUTO_EN]
+comp-pda-ui-shuttle-call-time = Before shift change: [color=white]{ $time }[/color]
+# [AUTO_EN]
+comp-pda-ui-shuttle-arrival-time = Before shuttle arrival: [color=white]{ $time }[/color]
+# [AUTO_EN]
+comp-pda-ui-shuttle-launch-time = Before shuttle launch: [color=white]{ $time }[/color]

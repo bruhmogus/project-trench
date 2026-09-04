@@ -63,3 +63,6 @@ ent-CharonSubnuclearRupture25 = damaged subnuclear shell rupture
 
 ent-PelletClusterSubnuclearShrapnel = rad shrapnel
     .desc = Irradiated shrapnel fragment from a subnuclear payload.
+# [AUTO_EN]
+ent-BulletRocket120mmMetla = 120mm rocket
+    .desc = 120mm guided rocket with fragmentation-fuse warhead.

@@ -167,3 +167,70 @@ food-sequence-taco-gen = taco with {$content}
 # SKEWER
 
 food-sequence-skewer-gen = {$content} kebab
+food-sequence-standart-gen = { $prefix }{ $content }{ $suffix }
+# [AUTO_EN]
+food-sequence-burger-suffix = burger
+# [AUTO_EN]
+food-sequence-burger-content-chiken = chicken
+# [AUTO_EN]
+food-sequence-burger-content-duck = duck
+# [AUTO_EN]
+food-sequence-burger-content-dragon = dragon
+# [AUTO_EN]
+food-sequence-burger-content-clump = clump
+# [AUTO_EN]
+food-sequence-burger-content-snake = snake
+# [AUTO_EN]
+food-sequence-burger-content-xeno = xeno
+# [AUTO_EN]
+food-sequence-burger-content-tomato = tomato
+# [AUTO_EN]
+food-sequence-burger-content-salami = salami
+# [AUTO_EN]
+food-sequence-burger-content-clown = clown
+# [AUTO_EN]
+food-sequence-burger-content-slime = slime
+# [AUTO_EN]
+food-sequence-burger-content-pea = pea
+# [AUTO_EN]
+food-sequence-burger-content-banana = banana
+# [AUTO_EN]
+food-sequence-burger-content-mimana = mimana
+# [AUTO_EN]
+food-sequence-burger-content-lemon = lemon
+# [AUTO_EN]
+food-sequence-burger-content-orange = orange
+# [AUTO_EN]
+food-sequence-burger-content-potato = potato
+# [AUTO_EN]
+food-sequence-burger-content-apple = apple
+# [AUTO_EN]
+food-sequence-burger-content-cocoa = cocoa
+# [AUTO_EN]
+food-sequence-burger-content-corn = corn
+# [AUTO_EN]
+food-sequence-burger-content-mushroom = mushroom
+# [AUTO_EN]
+food-sequence-burger-content-chili = chili
+# [AUTO_EN]
+food-sequence-burger-content-chilly = chilly
+# [AUTO_EN]
+food-sequence-burger-content-aloe = aloe
+# [AUTO_EN]
+food-sequence-burger-content-poppy = poppy
+# [AUTO_EN]
+food-sequence-burger-content-lily = lily
+# [AUTO_EN]
+food-sequence-burger-content-cheese = cheese
+# [AUTO_EN]
+food-sequence-burger-content-brain = brains
+# [AUTO_EN]
+food-sequence-burger-content-tongue = tongue
+# [AUTO_EN]
+food-sequence-burger-content-appendix = appendix
+# [AUTO_EN]
+food-sequence-burger-content-ears = ear
+# [AUTO_EN]
+food-sequence-burger-content-stomach = #️⃣
+# [AUTO_EN]
+food-sequence-burger-content-liver = liver

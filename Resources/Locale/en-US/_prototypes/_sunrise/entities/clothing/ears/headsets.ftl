@@ -30,3 +30,14 @@ ent-ClothingHeadsetAltSpecOpsOfficer = full-headset SOO
     .desc = The headset for a special operations officer is designed to manage and coordinate special operations in the sector, it's better for you not to know what they're talking about on this walkie-talkie.
 ent-ClothingHeadsetAltRepresentativeNT = representative over-ear headset
     .desc = A headset for a corporate representative, featuring a modified intercom module.
+# [AUTO_EN]
+ent-ClothingHeadsetCommaid = commander's maid headset
+    .desc = { ent-ClothingHeadset.desc }
+# [AUTO_EN]
+ent-ClothingHeadsetFreelanceNoKey = { ent-ClothingHeadsetFreelance }
+    .suffix = No keys
+    .desc = { ent-ClothingHeadsetFreelance.desc }
+# [AUTO_EN]
+ent-ClothingHeadsetAltSyndicateNoKey = { ent-ClothingHeadsetAltSyndicate }
+    .suffix = No keys
+    .desc = { ent-ClothingHeadsetAltSyndicate.desc }

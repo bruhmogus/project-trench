@@ -16,3 +16,6 @@ ent-WeaponSubMachineGunDrozdMk2 = Drozd Mk2
     .desc = An improved variant of the Drozd submachine gun developed by NanoTrasen’s Small Arms Division. It features an exceptional rate of fire in burst mode, making it effective for holding defensive positions or engaging targets at medium to long ranges. Equipped with an automatic magazine release for faster reloads. Uses .35 SMG magazines.
 ent-WeaponSubMachineGunDrozdMk2Empty = Drozd Mk2
     .desc = { ent-WeaponSubMachineGunDrozdMk2.desc }
+# [AUTO_EN]
+ent-WeaponSubMachineGunC40r = c-40r
+    .desc = Early model of the classic bullpup submachine gun produced by the "Waffle Corp" corporation, chambered in .40 caliber high-stopping-power ammunition. Previously widely used by the "Gorlex Raiders" faction. Effective at short and medium ranges, fires in two-round bursts or fully automatic mode.

@@ -143,3 +143,15 @@ ent-BorgModuleAdvancedTopical = advanced first aid cyborg module
 ent-SunriseBorgModuleAdvancedChemical = advanced chemical cyborg module
     .desc = Advanced medical module containing the cyborg adaptation of the highly coveted hypospray. Now your cyborgs can inject crew-harmers with chloral hydrate even faster!
     .suffix = Sunrise
+# [AUTO_EN]
+ent-BorgModuleArtistry = cyborg artistry module
+    .desc = Module for creativity and drawing, while the station is on.
+# [AUTO_EN]
+ent-BorgModuleInflatable = inflatable module
+    .desc = Module with a set of inflatable structures.
+# [AUTO_EN]
+ent-BorgModuleC20r = C-20r cybernetic module
+    .desc = Weapon module with C-20r in burst mode.
+# [AUTO_EN]
+ent-MothershipModule = mother ship module
+    .desc = Module that helps the mothership's brain and the installation of other modules.

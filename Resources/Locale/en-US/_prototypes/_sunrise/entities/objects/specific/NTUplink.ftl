@@ -52,3 +52,31 @@ ent-ClothingHandsPowerGlovesUplinkNTERTGammaLeader = ERT Power Gloves
 ent-ClothingHandsPowerGlovesUplinkNTERTCBURN = CBURN Power Gloves
     .desc = Duraplast fireproof gloves laced with a drop of phlogiston — a custom modification developed for CBURN squads. Deliver NanoTrasen’s bureaucratic greetings to the infection — in flames.
     .suffix = Uplink, CBURN
+# [AUTO_EN]
+ent-UplinkNTERTAmber = { ent-BaseUplinkNTERT }
+    .suffix = 75 BK, 75K, OBR, Amber
+    .desc = { ent-BaseUplinkNTERT.desc }
+# [AUTO_EN]
+ent-UplinkNTERTRed = { ent-BaseUplinkNTERT }
+    .suffix = 100 BC, 100K, OBR, Red
+    .desc = { ent-BaseUplinkNTERT.desc }
+# [AUTO_EN]
+ent-UplinkNTERTGamma = { ent-BaseUplinkNTERT }
+    .suffix = 200 B, 200K, OBRA, Gamma
+    .desc = { ent-BaseUplinkNTERT.desc }
+# [AUTO_EN]
+ent-UplinkNTERTEpsilon = { ent-BaseUplinkNTERT }
+    .suffix = 150 BC, 150K, Epsilon
+    .desc = { ent-BaseUplinkNTERT.desc }
+# [AUTO_EN]
+ent-UplinkNTERTBlueShield = Blue Shield Vision
+    .desc = Ultra-modern portable blue space teleporter.
+    .suffix = 8BC, 10C, Blue Shield
+# [AUTO_EN]
+ent-UplinkNTERTDebug = { ent-BaseUplinkNTERT }
+    .suffix = 999, DEBUG
+    .desc = { ent-BaseUplinkNTERT.desc }
+# [AUTO_EN]
+ent-ClothingHandsPowerGlovesUplinkNTERTEpsilon = power gloves
+    .desc = Durable, fire-resistant gloves made of duraplast. No words about nanotread.
+    .suffix = Uplink, Epsilon

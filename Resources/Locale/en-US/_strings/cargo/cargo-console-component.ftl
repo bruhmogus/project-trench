@@ -100,3 +100,5 @@ cargo-acquisition-slip-body = [head=3]Asset Detail[/head]
     {"[head=3]Purchase Detail[/head]"}
     {"[bold]Orderer:[/bold]"} {$orderer}
     {"[bold]Reason:[/bold]"} {$reason}
+# [AUTO_EN]
+cargo-console-menu-order-reason-description = Reason: { $reason }

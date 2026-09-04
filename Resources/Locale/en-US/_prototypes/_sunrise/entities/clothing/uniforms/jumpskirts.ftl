@@ -50,3 +50,15 @@ ent-ClothingUniformWeddingDressBelt = wedding dress with a belt harness
     .desc = An exquisite challenge to tradition.
 ent-ClothingUniformWeddingDressSplit = wedding dress with a slit
     .desc = A wedding with a drop of extravagance.
+# [AUTO_EN]
+ent-ClothingUniformJumpskirtCapTurtleneck = captain's handle
+    .desc = The true captain's tiller.
+# [AUTO_EN]
+ent-ClothingUniformJumpskirtHoPTurtleneck = head of HR's turtleneck
+    .desc = A comfortable turtleneck for the Head of HR.
+# [AUTO_EN]
+ent-ClothingUniformJumpskirtHoSBlack = black security chief skirt
+    .desc = This is the black uniform skirt of the security chief.
+# [AUTO_EN]
+ent-ClothingUniformJumpskirtRDClassical = classical director of research skirt
+    .desc = This is the classical director of research skirt.

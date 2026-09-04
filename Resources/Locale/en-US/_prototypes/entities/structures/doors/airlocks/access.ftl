@@ -405,3 +405,15 @@ ent-AirlockMaintCommonLocked = { ent-AirlockMaint }
 ent-AirlockMaintIntLocked = { ent-AirlockMaint }
     .suffix = Interior, Locked
     .desc = { ent-AirlockMaint.desc }
+# [AUTO_EN]
+ent-AirlockXenoborgLocked = { ent-AirlockXenoborg }
+    .suffix = Xenoborg, Locked
+    .desc = { ent-AirlockXenoborg.desc }
+# [AUTO_EN]
+ent-AirlockServiceCaptainLocked = { ent-AirlockCommandLocked }
+    .suffix = Captain, Locked
+    .desc = { ent-AirlockCommandLocked.desc }
+# [AUTO_EN]
+ent-AirlockHatchSyndicate = { ent-AirlockHatch }
+    .suffix = Syndicate, Closed
+    .desc = { ent-AirlockHatch.desc }

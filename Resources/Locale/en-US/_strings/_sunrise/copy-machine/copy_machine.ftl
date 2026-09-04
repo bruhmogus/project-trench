@@ -168,3 +168,19 @@ doc-template-ordering-special-equipment-name = Order: special equipment
 doc-template-ordering-special-equipment-centcom-standard-name = Order: special equipment (CC Standard)
 doc-template-response-provide-cc-report-name = Response: central objective report
 doc-template-response-heads-presence-name = Response: station heads presence
+# [AUTO_EN]
+doc-template-report-study-object-engineering-name = Report: Object study (Engineering)
+# [AUTO_EN]
+doc-template-report-study-object-medical-name = Report: Object study (Medicine)
+# [AUTO_EN]
+doc-template-report-study-object-service-name = Report: Object study (Service)
+# [AUTO_EN]
+doc-template-request-for-promotion-name = Request: Promotion
+# [AUTO_EN]
+doc-template-trusted-staff-death-notice-name = Report: Death of trusted staff
+# [AUTO_EN]
+doc-template-station-goal-name = Station goal
+# [AUTO_EN]
+doc-template-report-decree-heads-presence-name = Report: presence of station heads
+# [AUTO_EN]
+copy-machine-default-document-title = Document

@@ -4,3 +4,6 @@ ent-SpawnMobSnowMan = snowman spawner
 ent-SpawnMobSnowManEvil = evil snowman spawner
     .suffix = NewYear | Hostile
     .desc = { ent-MarkerBase.desc }
+# [AUTO_EN]
+ent-SpawnMobGorillaLargo = Largo gorilla spawner
+    .desc = { ent-MarkerBase.desc }

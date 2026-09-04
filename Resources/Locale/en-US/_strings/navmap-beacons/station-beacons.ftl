@@ -98,3 +98,5 @@ station-beacon-escape-pod-SW = Escape Pod SW
 station-beacon-escape-pod-W = Escape Pod W
 station-beacon-escape-pod-NW = Escape Pod NW
 station-beacon-vox = Vox Break Room
+# [AUTO_EN]
+station-beacon-blueshield = Blue Shield

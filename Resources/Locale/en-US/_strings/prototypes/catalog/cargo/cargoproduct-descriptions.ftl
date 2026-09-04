@@ -10,3 +10,5 @@ cargoproduct-description-material-plasteel = 30 sheets of plasteel.
 
 cargoproduct-name-material-silver = silver ingots
 cargoproduct-description-material-silver = 30 ingots of silver.
+# [AUTO_EN]
+EngineSingularityEmitter-desc = Emitter used in the singularity engine.

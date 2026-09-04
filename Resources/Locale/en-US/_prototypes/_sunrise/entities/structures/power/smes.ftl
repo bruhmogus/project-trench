@@ -4,3 +4,11 @@ ent-SMESExtended = { ent-SMESAdvanced }
 ent-SMESSuperExtended = { ent-SMESAdvanced }
     .suffix = Super-Hyper, 64MW
     .desc = { ent-BaseSMES.desc }
+# [AUTO_EN]
+ent-SMESExtendedEmpty = { ent-SMESExtended }
+    .suffix = Empty
+    .desc = { ent-SMESExtended.desc }
+# [AUTO_EN]
+ent-SMESSuperExtendedEmpty = { ent-SMESSuperExtended }
+    .suffix = Empty
+    .desc = { ent-SMESSuperExtended.desc }

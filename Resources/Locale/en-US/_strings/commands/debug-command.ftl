@@ -6,3 +6,7 @@ cmd-showsubfloor-help = Usage: {$command}
 
 cmd-notify-desc = Send a notify client side.
 cmd-notify-help = Usage: {$command} <message>
+# [AUTO_EN]
+cmd-showsubfloorforever-desc = Makes entities below the floor always visible until the client is restarted.
+# [AUTO_EN]
+cmd-showsubfloorforever-help = Usage: { $command }

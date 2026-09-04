@@ -48,3 +48,9 @@ ent-ElectrovaeCanisterBroken = { ent-GasCanisterBrokenBase }
     .desc = { ent-GasCanisterBrokenBase.desc }
 ent-ChargedElectrovaeCanisterBroken = { ent-GasCanisterBrokenBase }
     .desc = { ent-GasCanisterBrokenBase.desc }
+# [AUTO_EN]
+ent-ElectrovaeCanister = electrovae canister
+    .desc = A canister that can contain gas of any kind. This one presumably contains electrovae. It can be attached to a connector port using a wrench.
+# [AUTO_EN]
+ent-ChargedElectrovaeCanister = charged electro-vae canister
+    .desc = A canister that can contain gas of any kind. This one presumably contains charged electrovae. It can be attached to a connector port using a wrench.

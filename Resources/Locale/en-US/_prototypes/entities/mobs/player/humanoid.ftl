@@ -79,3 +79,39 @@ ent-RandomHumanoidSpawnerCluwne = Cluwne
 ent-RandomHumanoidSpawnerCBURNUnitEVA = CBURN Agent
     .suffix = ERTRole, Heavy
     .desc = { ent-RandomHumanoidSpawnerCBURNUnit.desc }
+# [AUTO_EN]
+ent-LostCargoTechnicianSpawner = lost cargo technician spawner
+    .desc = { ent-MarkerBase.desc }
+# [AUTO_EN]
+ent-RandomHumanoidLostCargoTechnician = lost cargo technician ghost role
+    .desc = { "" }
+# [AUTO_EN]
+ent-ClownTroupeSpawner = clown troupe spawner
+    .desc = { ent-MarkerBase.desc }
+# [AUTO_EN]
+ent-RandomHumanoidClownTroupe = clown troupe ghost role
+    .desc = { "" }
+# [AUTO_EN]
+ent-TravelingChefSpawner = traveling chef-spawner
+    .desc = { ent-MarkerBase.desc }
+# [AUTO_EN]
+ent-RandomHumanoidTravelingChef = traveling chef ghost role
+    .desc = { "" }
+# [AUTO_EN]
+ent-DisasterVictimSpawner = disaster victim spawner
+    .desc = { ent-MarkerBase.desc }
+# [AUTO_EN]
+ent-RandomHumanoidDisasterVictimRD = NR disaster victim role ghost
+    .desc = { "" }
+# [AUTO_EN]
+ent-RandomHumanoidDisasterVictimCMO = Giant Virus victim role as a ghost
+    .desc = { ent-RandomHumanoidDisasterVictimRD.desc }
+# [AUTO_EN]
+ent-RandomHumanoidDisasterVictimCaptain = disaster victim Captain ghost role
+    .desc = { ent-RandomHumanoidDisasterVictimRD.desc }
+# [AUTO_EN]
+ent-SyndieDisasterVictimSpawner = Syndicate Disaster Victim Spawner
+    .desc = { ent-MarkerBase.desc }
+# [AUTO_EN]
+ent-RandomHumanoidSyndieDisasterVictim = Syndicate disaster victim role ghost
+    .desc = { "" }

@@ -10,3 +10,7 @@ ent-CartridgeClRifleFlash = cartridge (.25 caseless flash)
 ent-CartridgeClRiflePractice = cartridge (.25 caseless practice)
     .desc = { ent-CartridgeClRifleBase.desc }
     .suffix = { "" }
+# [AUTO_EN]
+ent-CartridgeClRifleHV = .25 rimless high-velocity cartridge
+    .desc = { ent-CartridgeClRifleBase.desc }
+    .suffix = { "" }

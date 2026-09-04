@@ -4,3 +4,13 @@ vending-machine-restock-start-self = You start restocking { THE($target) }.
 vending-machine-restock-start-others = { CAPITALIZE(THE($user)) } starts restocking { THE($target) }.
 vending-machine-restock-done-self = You finish restocking { THE($target) }.
 vending-machine-restock-done-others = { CAPITALIZE(THE($user)) } finishes restocking { THE($target) }.
+# [AUTO_EN]
+vending-machine-restock-start = { $user } starts restocking { $target }.
+# [AUTO_EN]
+vending-machine-restock-done =
+    { $user } { GENDER($user) ->
+        [male] finished
+        [female] finished
+        [epicene] finished
+       *[neuter] finished
+    } to restock { $target }.

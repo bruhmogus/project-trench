@@ -123,3 +123,23 @@ liar-word-replacement-38 = innocent
 
 liar-word-39 = innocent
 liar-word-replacement-39 = guilty
+liar-word-34-2 = ya
+# [AUTO_EN]
+liar-word-40 = "like"
+# [AUTO_EN]
+liar-word-replacement-40 = "dislike"
+# [AUTO_EN]
+liar-word-41 = "okay"
+# [AUTO_EN]
+liar-word-replacement-41 = "bad"
+# [AUTO_EN]
+liar-word-42 = "bad"
+# [AUTO_EN]
+liar-word-replacement-42 = "okay"
+# [AUTO_EN]
+liar-word-43 = I want
+# [AUTO_EN]
+liar-word-replacement-43 = I don't want to.
+# [AUTO_EN]
+liar-word-44 = "no"
+liar-word-replacement-44 = ""

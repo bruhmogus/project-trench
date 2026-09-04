@@ -43,13 +43,17 @@ messenger-system-user-removed-by = { $removerName } removed { $userName } from t
 messenger-emoji-recent-title = Recently used
 messenger-emoji-recent-empty-hint = Recently used emojis will appear here
 messenger-emoji-favorite-title = Favorites
-messenger-emoji-favorite-hint = ПКМ по общему списку для добавления.
-    ПКМ по избраном для удаления.
+# [AUTO_EN]
+messenger-emoji-favorite-hint = Right-click on the general list to add.
+    Right-click on favorites to remove.
 messenger-emoji-all-title = All emojis
 
-messenger-notification-message = Новое сообщение от { $name }
-messenger-group-notification-message = Новое сообщение в группе { $name }
-messenger-invite-notification-message = Вас пригласили в группу { $name }
+# [AUTO_EN]
+messenger-notification-message = New message from { $name }
+# [AUTO_EN]
+messenger-group-notification-message = New message in group { $name }
+# [AUTO_EN]
+messenger-invite-notification-message = You've been invited to the group { $name }
 messenger-user-unknown = Unknown
 messenger-system-name = System
 messenger-leave-group = Leave group
@@ -62,3 +66,11 @@ messenger-invite-user-to-group-title = Invite to { $groupName }
 messenger-delete-message = Delete message
 messenger-system-user-joined = { $userName } joined the group
 messenger-system-user-left = { $userName } left the group
+# [AUTO_EN]
+messenger-photo-button-tooltip = Send photo
+# [AUTO_EN]
+messenger-photo-picker-title = Select a photo
+# [AUTO_EN]
+messenger-image-preview-title = Image preview
+# [AUTO_EN]
+messenger-photo-flash-label = Flash

@@ -246,3 +246,71 @@ accent-cowboy-replacement-82 = hollered
 
 accent-cowboy-words-83 = yelling
 accent-cowboy-replacement-83 = hollering
+# [AUTO_EN]
+accent-cowboy-words-84 = thank you
+# [AUTO_EN]
+accent-cowboy-replacement-84 = very grateful
+# [AUTO_EN]
+accent-cowboy-words-85 = thank you
+# [AUTO_EN]
+accent-cowboy-replacement-85 = very grateful
+# [AUTO_EN]
+accent-cowboy-words-86 = thief
+# [AUTO_EN]
+accent-cowboy-replacement-86 = abductor
+# [AUTO_EN]
+accent-cowboy-words-87 = thieves
+# [AUTO_EN]
+accent-cowboy-replacement-87 = abductors
+# [AUTO_EN]
+accent-cowboy-words-88 = think
+# [AUTO_EN]
+accent-cowboy-replacement-88 = to assume
+# [AUTO_EN]
+accent-cowboy-words-89 = I think
+# [AUTO_EN]
+accent-cowboy-replacement-89 = I suppose
+# [AUTO_EN]
+accent-cowboy-words-90 = tired
+# [AUTO_EN]
+accent-cowboy-replacement-90 = exhausted
+# [AUTO_EN]
+accent-cowboy-words-91 = toilet
+# [AUTO_EN]
+accent-cowboy-replacement-91 = cleaner
+# [AUTO_EN]
+accent-cowboy-words-92 = completely
+# [AUTO_EN]
+accent-cowboy-replacement-92 = damn
+# [AUTO_EN]
+accent-cowboy-words-93 = traitor
+# [AUTO_EN]
+accent-cowboy-replacement-93 = criminal
+# [AUTO_EN]
+accent-cowboy-words-94 = traitors
+# [AUTO_EN]
+accent-cowboy-replacement-94 = criminals
+# [AUTO_EN]
+accent-cowboy-words-95 = very
+# [AUTO_EN]
+accent-cowboy-replacement-95 = damn
+# [AUTO_EN]
+accent-cowboy-words-96 = worried
+# [AUTO_EN]
+accent-cowboy-replacement-96 = worried
+# [AUTO_EN]
+accent-cowboy-words-97 = wow
+# [AUTO_EN]
+accent-cowboy-replacement-97 = not bad
+# [AUTO_EN]
+accent-cowboy-words-98 = shout
+# [AUTO_EN]
+accent-cowboy-replacement-98 = shout
+# [AUTO_EN]
+accent-cowboy-words-99 = shouted
+# [AUTO_EN]
+accent-cowboy-replacement-99 = shouted
+# [AUTO_EN]
+accent-cowboy-words-100 = shouting
+# [AUTO_EN]
+accent-cowboy-replacement-100 = shouting

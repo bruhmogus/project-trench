@@ -17,3 +17,4 @@ objectives-objective-partial-failure = {$objective} | [color=orange]Partial Fail
 objectives-objective-fail = {$objective} | [color=red]Failure![/color] ({TOSTRING($progress, "P0")})
 
 objectives-in-custody = [bold][color=red]| IN CUSTODY | [/color][/bold]
+objectives-player-user = [color=gray]{ $user }[/color]

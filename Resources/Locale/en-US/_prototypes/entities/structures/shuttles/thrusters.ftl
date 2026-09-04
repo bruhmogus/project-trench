@@ -18,3 +18,9 @@ ent-DebugGyroscope = { ent-BaseThruster }
     .desc = { ent-BaseThruster.desc }
 ent-RustedThruster = rusted thruster
     .desc = An unrepairable thruster, broken down from wear and tear. Only useful for scrapping.
+# [AUTO_EN]
+ent-ThrusterXenoborg = xenoborg thruster
+    .desc = { ent-Thruster.desc }
+# [AUTO_EN]
+ent-ThrusterLarge = large rocket engine
+    .desc = { ent-BaseThruster.desc }

@@ -60,3 +60,9 @@ health-examinable-carbon-Caustic-200 = [color=#FF5993]Most of { POSS-ADJ($target
 
 health-examinable-carbon-Radiation-50 = [color=#C6834B]{ CAPITALIZE(POSS-ADJ($target)) } skin has formed large blisters.[/color]
 health-examinable-carbon-Radiation-100 = [color=#E26804]{ CAPITALIZE(POSS-ADJ($target)) } skin is covered in lesions and is peeling off in chunks.[/color]
+# [AUTO_EN]
+health-examinable-carbon-Mangleness-15 = [color=gray]{ CAPITALIZE(SUBJECT($target)) } looks tired.[/color]
+# [AUTO_EN]
+health-examinable-carbon-Mangleness-50 = [color=#505050]{ CAPITALIZE(SUBJECT($target)) } struggles to move its legs from exhaustion![/color]
+# [AUTO_EN]
+health-examinable-carbon-Mangleness-100 = [color=#505050]{ CAPITALIZE(SUBJECT($target)) } looks like a desiccated mummy![/color]

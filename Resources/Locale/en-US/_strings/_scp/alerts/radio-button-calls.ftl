@@ -1,4 +1,4 @@
-﻿# Entity Names & Descriptions
+# Entity Names & Descriptions
 ent-BaseRadioCallButton = radio call button
     .desc = A simple and convenient button for calling assistance.
 
@@ -55,3 +55,49 @@ scp-d-class-request = D-class personnel required at {$location}!
 scp-radio-button-location-examine = Service call target: {$location}
 scp-radio-button-unknown-location = Unknown location
 scp-radio-button-request-sent = Your request has been sent
+# Названия и описания сущностей
+# [AUTO_EN]
+ent-BaseRadioButtonCall = radio call button
+    .desc = A simple and convenient button to call for help.
+# [AUTO_EN]
+ent-BaseEmergencyRadioButtonCall = emergency radio call button
+    .desc = Button for emergency help call.
+# [AUTO_EN]
+ent-ButtonCallMedicalService = medical service call button
+    .desc = Button to call Medical. For when, shockingly, someone dies in the facility full of things that kill you.
+# [AUTO_EN]
+ent-ButtonCallScientificService = button to call the scientific service
+    .desc = Button to call Research and Development over so they can send another Class D into the Class D Killer 9000.
+# [AUTO_EN]
+ent-ButtonCallEngineeringTechnicalService = button call engineering technical service
+    .desc = Button to call Engineering over. Useful for when you somehow space the building.
+# [AUTO_EN]
+ent-ButtonCallSpecialPurposeSquad = call special purpose squad button
+    .desc = Button to call for help from a special operations squad.
+# [AUTO_EN]
+ent-ButtonCallFoodAndSanitationService = button to call food and sanitation service
+    .desc = Button to call the food and sanitation service.
+# [AUTO_EN]
+ent-ButtonCallLogisticsService = Call Logistics Service button
+    .desc = Button to call logistics service help.
+# [AUTO_EN]
+ent-ButtonCallCommandantSquad = button call commandant squad
+    .desc = Button to call the commandant squad for help.
+# [AUTO_EN]
+ent-ButtonCallEthicsCommittee = button to call the Ethics Committee
+    .desc = Button to call the Ethics Committee assistance.
+# [AUTO_EN]
+ent-ButtonCallDClassRequest = D-class personnel request button
+    .desc = Button to request D-class personnel.
+# [AUTO_EN]
+ent-ButtonCallEmergencyMedicalService = emergency medical service call button
+    .desc = Button to call emergency medical service. Upon activation, it triggers the alarm and immediately calls the designated service at the location.
+# [AUTO_EN]
+ent-ButtonCallEmergencySpecialPurposeSquad = emergency call button for the special purpose squad
+    .desc = Button to call for emergency assistance from the special purpose squad. Upon activation, it triggers the alarm and immediately calls the designated service at the location.
+# [AUTO_EN]
+ent-ButtonCallEmergencyEngineeringTechnicalService = emergency engineering and technical service call button
+    .desc = Button to call emergency engineering technical service. Upon activation, it triggers the alarm and immediately calls the designated service at the point.
+# [AUTO_EN]
+ent-ButtonCallEmergencyCommandantSquad = emergency call button for the commandant's squad
+    .desc = Button to call for emergency assistance from the commandant's squad. Upon activation, it triggers the alarm and immediately calls the designated service at the location.

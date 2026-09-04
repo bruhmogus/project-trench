@@ -54,3 +54,24 @@ ent-BorgModulePirateUtility = pirate utility cyborg module
     .desc = A module with a mass scanner, pirate jetpack, material bag, and forged omnitool.
 ent-WeaponBorgPirateMusket = cyborg pirate musket
     .desc = A self-loading pirate musket modified for cyborg use.
+# [AUTO_EN]
+ent-BorgModuleRobotics = autoproduction module
+    .desc = { ent-BaseBorgModule.desc }
+# [AUTO_EN]
+ent-XenoborgModuleTurboLaser = Xenoborg Turbo Laser Module
+    .desc = Module for the heavy xenoborg with a high-rate-of-fire laser minigun.
+# [AUTO_EN]
+ent-XenoborgModuleXray = Xenoborg X-ray laser module
+    .desc = Heavy Xenoborg module with a x-ray cannon for breaching cover.
+# [AUTO_EN]
+ent-BorgModulePaperwork = office module
+    .desc = { ent-BaseBorgModuleService.desc }
+# [AUTO_EN]
+ent-BorgModuleBartender = cyborg beverage module
+    .desc = { ent-BaseBorgModuleService.desc }
+# [AUTO_EN]
+ent-BorgModuleCooking = cyborg cooking module
+    .desc = { ent-BaseBorgModuleService.desc }
+# [AUTO_EN]
+ent-BorgModuleExtensiveGardening = cyborg gardening module
+    .desc = { ent-BaseBorgModuleService.desc }

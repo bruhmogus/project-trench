@@ -1,4 +1,4 @@
-﻿nukeops-title = Nuclear Operatives
+nukeops-title = Nuclear Operatives
 nukeops-description = Nuclear operatives have targeted the station. Try to keep them from arming and detonating the nuke by protecting the nuke disk!
 
 nukeops-welcome =
@@ -33,3 +33,5 @@ nukeops-no-one-ready = No players readied up! Can't start Nukeops.
 nukeops-role-commander = Commander
 nukeops-role-agent = Corpsman
 nukeops-role-operator = Operator
+# [AUTO_EN]
+nukeops-role-medic = Medic

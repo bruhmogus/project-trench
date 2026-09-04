@@ -1,4 +1,4 @@
-﻿ent-PowerCellRobotTool = robot tool power cell
+ent-PowerCellRobotTool = robot tool power cell
     .desc = A small cell that self recharges. Used in robot tools.
 ent-WeaponDisablerBorg = robot disabler
     .desc = A self-defense weapon that exhausts organic targets, weakening them until they collapse.
@@ -76,3 +76,10 @@ ent-BorgSodaDispenser = soft drink dispenser
     .desc = A dispensing machine stocked with soda and a selection of other popular beverages. They cannot be removed, but are replenished using borg energy.
 ent-BorgBoozeDispenser = alcohol dispenser
     .desc = A dispenser for alcoholic beverages. They cannot be removed, but are replenished using borg energy.
+# [AUTO_EN]
+ent-HandheldMassScannerBorg = mass scanner
+    .desc = Handheld mass scanner powered by your own batteries.
+# [AUTO_EN]
+ent-RadioJammerSyndicateBorg = cyborg jammer
+    .desc = Communication Jammer of the Syndicate.
+    .suffix = Syndicate

@@ -18,3 +18,6 @@ ent-ClothingShoesBootsRedMist = red mist boots
     .desc = Field boots in a dark finish with reinforced shaping. Meant for long movement and short conversations.
 ent-ClothingShoesBootsSalvageMerc = scrapper boots
     .desc = Boots capable of withstanding any terrain that a salvager may encounter.
+# [AUTO_EN]
+ent-ClothingShoesBootsAbductor = abductor boots
+    .desc = Abductor boots, made of a strange material. They are also very comfortable to wear, making them a popular choice among abductors.

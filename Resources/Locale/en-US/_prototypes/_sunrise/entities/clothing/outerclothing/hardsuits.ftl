@@ -60,3 +60,29 @@ ent-ClothingOuterHardsuitInfiltration = syndicate infiltration hardsuit
     .desc = The Syndicate's Special Operations' hardsuit of choice, this hardsuit, as well as durability, has been built with stealth in mind.
 ent-ClothingOuterMaidArmorRaid = syndicate elegant raid suit
     .desc = Flexible and well-armored... a dress? Made for speed and elegance. Men won't wear this... right?
+# [AUTO_EN]
+ent-ClothingOuterHardsuitPrivateSecDamaged = damaged private security hard suit
+    .desc = You didn't think regular soap would fix this junk? It no longer protects the owner from space.
+# [AUTO_EN]
+ent-ClothingOuterHardsuitPrivateerDamaged = damaged freelancer's hard suit
+    .desc = Freelancer's hardsuit with cracked plating and punctured seals. It no longer protects its owner from space.
+    .suffix = Pirates
+# [AUTO_EN]
+ent-ClothingOuterHardsuitPrivateerArmoredDamaged = damaged freelancer's armored hard suit
+    .desc = Freelancer's armored hard-suit with cracked plating and punctured seals. It no longer protects its owner from space.
+    .suffix = Pirates
+# [AUTO_EN]
+ent-ClothingOuterHardsuitMilira = milira hardsuit
+    .desc = The suit, specially created for Milira, provides protection and allows for longer flight times.
+# [AUTO_EN]
+ent-ClothingOuterHardsuitSalvageGoliath = mining hard suit "Goliath"
+    .desc = Mining suit trimmed with patches of thick Goliath chitin skin.
+# [AUTO_EN]
+ent-ClothingOuterHardsuitSpaceHazard = hazardous environment miner hardsuit
+    .desc = Special suit for working in hazardous environments and low-pressure conditions.
+# [AUTO_EN]
+ent-ClothingOuterHardsuitAdvancedMining = advanced mining hardsuit
+    .desc = Advanced mining suit with built-in jetpack.
+# [AUTO_EN]
+ent-ClothingOuterHardsuitMining = mining hardsuit
+    .desc = Pressure suit for low-pressure mining in space.

@@ -65,3 +65,28 @@ paper-meta-garbage-failed-info =
     [bullet] No household refuse or waste materials were identified. 
     
     [italic]Conclusion:[/italic] The sanitary condition of the complex is deemed satisfactory; no intervention is required.
+# [AUTO_EN]
+document-meta-garbage-summary = conclusion of the sanitary commission
+# [AUTO_EN]
+paper-meta-garbage-successful-info =
+    [bold]CONCLUSION OF THE SANITARY COMMISSION[/bold]
+    
+    As a result of the unplanned inspection, it was established:
+    ​[bullet] Household waste was found on the premises of the complex (paper cups, food remnants, packaging materials).
+    ​[bullet] Puddles of technical liquid and uncleaned traces were recorded in the rooms.
+    ​[bullet] Lighting: part of the lamps were broken, glass shards were not removed.
+    ​[bullet] The level of sanitary maintenance was deemed unsatisfactory.
+    
+    ​[italic]Reason:[/italic] the resource group of the fund was fully engaged in the liquidation of the consequences of the incident ██-███, cleaning was not carried out.
+    
+    ​[italic]Instruction:[/italic] the current staff is required to eliminate the specified violations within the shortest possible time.
+# [AUTO_EN]
+paper-meta-garbage-failed-info =
+    [bold]SANITARY COMMISSION CONCLUSION[/bold]
+    
+    Room inspection completed. No observations:
+    [bullet] Floors are dry, no signs of contamination found.
+    [bullet] Lighting is functioning at full capacity.
+    [bullet] Household waste and refuse not detected.
+    
+    [italic]Conclusion:[/italic] the sanitary condition of the complex is deemed satisfactory, no intervention required.

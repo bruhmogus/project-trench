@@ -54,3 +54,19 @@ ent-IDCardMTFStandard = { ent-IDCardStandard }
     .desc = { ent-IDCardStandard.desc }
 ent-BaseMTFPDA = { ent-AdjutantPDA }
     .desc = { ent-AdjutantPDA.desc }
+# [AUTO_EN]
+ent-CrateAdministrationAmnesiacA = amnesiac class A test tube box
+    .desc = Contains a box of test tubes. Amnesiac effects: { reagent-amnesiac-a-desc }
+    .suffix = Filled
+# [AUTO_EN]
+ent-CrateAdministrationAmnesiacB = amnesiac B test tube box
+    .desc = Contains a box of test tubes. Amnesiac effects: { reagent-amnesiac-b-desc }
+    .suffix = Filled
+# [AUTO_EN]
+ent-CrateAdministrationAmnesiacC = amnesiac class C test tube box
+    .desc = Contains a box of test tubes. Amnesiac effects: { reagent-amnesiac-c-desc }
+    .suffix = Filled
+# [AUTO_EN]
+ent-CrateAdministrationAmnesiacD = D-class amnesiac test tube box
+    .desc = Contains a box of test tubes. Amnesiac effects: { reagent-amnesiac-d-desc }
+    .suffix = Filled

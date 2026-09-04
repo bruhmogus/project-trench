@@ -10,3 +10,6 @@ ent-WeaponRifleEstoc = Estoc DMR
     .desc = A designated marksman rifle, favored for medium-to-long range engagements. Uses .20 rifle ammo.
 ent-WeaponRifleFoam = Foam Force Astro Ace
     .desc = A premium foam rifle of the highest quality. Its plastic feels rugged, and its mechanisms sturdy.
+# [AUTO_EN]
+ent-BaseWeaponRifle = Standard rifle
+    .desc = Go for it — dive in, aim, and shoot.
