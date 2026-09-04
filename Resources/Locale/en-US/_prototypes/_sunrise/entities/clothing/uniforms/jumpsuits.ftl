@@ -105,11 +105,11 @@ ent-ClothingUniformJumpsuitSalvageMercGreen = green scrapper jumpsuit
 ent-ClothingUniformJumpsuitSalvageMercBrown = brown scrapper jumpsuit
     .desc = Utilitarian clothing for salvagers.
 # [AUTO_EN]
-ent-ClothingUniformJumpsuitCapTurtleneck = Captain's handle
-    .desc = The true captain's blade.
+ent-ClothingUniformJumpsuitCapTurtleneck = captain's turtleneck
+    .desc = The true captain's turtleneck.
 # [AUTO_EN]
-ent-ClothingUniformJumpsuitHoPTurtleneck = staff manager's handle
-    .desc = This is the handle of the personnel chief.
+ent-ClothingUniformJumpsuitHoPTurtleneck = head of HR's turtleneck
+    .desc = This is the turtleneck of the head of HR.
 # [AUTO_EN]
 ent-ClothingUniformJumpsuitHoSBlack = black security chief uniform
     .desc = This is the black security chief uniform.

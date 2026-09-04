@@ -46,14 +46,14 @@ ent-ClothingHeadHelmetHardsuitPirateSwashbuckler = swashbuckler hardsuit helmet
 ent-ClothingHeadHelmetHardsuitInfiltration = syndicate infiltration hardsuit helmet
     .desc = { ent-ClothingHeadHardsuitBase.desc }
 # [AUTO_EN]
-ent-ClothingHeadHelmetHardsuitSalvageGoliath = Goliath hard-suit helmet
-    .desc = Sturdy helmet adorned with Goliath's eyes and carapace. The helmet's flashlight appears to have been replaced with a PNV.
+ent-ClothingHeadHelmetHardsuitSalvageGoliath = goliath hardsuit helmet
+    .desc = Sturdy helmet adorned with a goliath's eyes and carapace. The helmet's flashlight appears to have been replaced with a PNV.
 # [AUTO_EN]
-ent-ClothingHeadHelmetHardsuitSpaceHazard = helmet of the hazardous environment
+ent-ClothingHeadHelmetHardsuitSpaceHazard = hazardous environment helmet
     .desc = Protects against the hostile and cold space environment.
 # [AUTO_EN]
-ent-ClothingHeadHelmetHardsuitAdvancedMining = helmet of the advanced mining hard suit
+ent-ClothingHeadHelmetHardsuitAdvancedMining = advanced mining hardsuit helmet
     .desc = Specialized helmet for mining operations.
 # [AUTO_EN]
-ent-ClothingHeadHelmetHardsuitMining = helmet of the mining hard suit
+ent-ClothingHeadHelmetHardsuitMining = mining hardsuit helmet
     .desc = Helmet for working in hazardous environments and low-pressure conditions.

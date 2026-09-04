@@ -26,5 +26,5 @@ ent-PatchPackHeat = burn patch pack
 ent-BluespacePillPatchCanister = bluespace drug storage
     .desc = A technologically advanced device for storing small-sized medications such as patches and pills. It has two containers of different shapes connected to a central storage compartment.
 # [AUTO_EN]
-ent-PatchBruteSmall = small bandage for injuries
+ent-PatchBruteSmall = small brute pack
     .desc = { ent-BasePatch.desc }

@@ -3,7 +3,7 @@ messenger-auto-group-common-name = Common
 # [AUTO_EN]
 department-engineering = Engineering
 # [AUTO_EN]
-department-security = Security Department
+department-security = Security
 # [AUTO_EN]
 department-medical = Medical
 # [AUTO_EN]

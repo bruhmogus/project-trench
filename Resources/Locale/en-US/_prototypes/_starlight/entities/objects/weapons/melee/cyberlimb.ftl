@@ -15,8 +15,8 @@ ent-CyberPistolCHIMP = { ent-WeaponPistolCHIMP }
 ent-CyberPistolCHIMPUpgraded = { ent-WeaponPistolCHIMPUpgraded }
     .desc = { ent-WeaponPistolCHIMPUpgraded.desc }
 # [AUTO_EN]
-ent-CyberGorillaArmUpgraded = experimental Gorilla glove
-    .desc = Standard G.O.R.I.L.L.A glove with factory restrictions disabled. With immense strength, it can open powered gates, rip up flooring, and send enemies flying.
+ent-CyberGorillaArmUpgraded = experimental G.O.R.I.L.L.A gauntlet
+    .desc = Standard G.O.R.I.L.L.A gauntlet with factory restrictions disabled. With immense strength, it can open powered gates, rip up flooring, and send enemies flying.
 # [AUTO_EN]
 ent-CyberGrenadeThrowerAtmos = Grenade Launcher "Atmosianina"
     .desc = A unique prototype of an emergency repair module embedded in the hand, utilizing various configurations of engineer grenades.

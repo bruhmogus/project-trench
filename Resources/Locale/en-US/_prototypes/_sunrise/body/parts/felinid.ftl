@@ -4,7 +4,7 @@ ent-OrganFelinidEyes = { ent-OrganHumanEyes }
 ent-OrganFelinidTorso = felinid torso
     .desc = { ent-PartHuman.desc }
 # [AUTO_EN]
-ent-OrganFelinidHead = head of a felinid
+ent-OrganFelinidHead = felinid head
     .desc = { ent-PartHuman.desc }
 # [AUTO_EN]
 ent-OrganFelinidArmLeft = left arm of a felinid

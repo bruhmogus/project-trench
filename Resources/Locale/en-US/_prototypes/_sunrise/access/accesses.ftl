@@ -4,9 +4,9 @@ id-card-access-level-cadet = Cadet
 id-card-access-level-robotics = Robotics
 id-card-access-level-pirate = Pirate
 # [AUTO_EN]
-id-card-access-level-blueshield = Blue Shield
+id-card-access-level-blueshield = Blueshield
 # [AUTO_EN]
-id-card-access-level-ntrep = O4 Representative
+id-card-access-level-ntrep = O5 Representative
 # [AUTO_EN]
 id-card-access-level-magistrat = Magistrate
 # [AUTO_EN]

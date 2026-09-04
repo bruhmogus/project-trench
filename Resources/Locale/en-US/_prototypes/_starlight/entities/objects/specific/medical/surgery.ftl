@@ -28,7 +28,7 @@ ent-BoneSetterRipper = { ent-BoneSetterCyber }
     .desc = { ent-BoneSetterCyber.desc }
 # [AUTO_EN]
 ent-SawRipper = circular saw
-    .desc = It seems with it you can cut anything.
+    .desc = You can cut anything with this! Except steel. Or SCPs. Or your superiors. Not that much, actually...
 # [AUTO_EN]
 ent-BoneGelRipper = bone gel bottle
     .desc = Container for bone gel, which often has to be filled in a special machine.

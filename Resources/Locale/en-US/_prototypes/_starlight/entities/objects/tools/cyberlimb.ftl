@@ -10,13 +10,13 @@ ent-WelderCyber = welding tool
     .desc = Melts anything as long as it's fueled, don't forget your eye protection!
 # [AUTO_EN]
 ent-PowerDrillCyber = electric drill
-    .desc = A simple electric drill in your hand.
+    .desc = A simple electric drill that fits in your hand.
 # [AUTO_EN]
 ent-JawsOfLifeCyber = jaws of life
     .desc = A set of jaws of life, assembled with the magic of science in your hand.
 # [AUTO_EN]
 ent-WelderExperimentalCyber = prototype welding machine
-    .desc = Melts anything as long as it's fueled... actually always fueled, don't forget minimal eye protection!
+    .desc = Melts anything as long as it's fueled... actually, it's always fueled. Don't forget minimal eye protection!
 # [AUTO_EN]
 ent-CyberMiniHoe = mini hoe
     .desc = They are used to remove weeds, though they can also be used to scratch one's back.
@@ -27,10 +27,10 @@ ent-CyberClippers = pruner
 ent-CyberScythe = scythe
     .desc = A sharp curved blade on a short handle, this tool makes it easy to reap what you sow.
 # [AUTO_EN]
-ent-CyberHatchet = axe
+ent-CyberHatchet = hatchet
     .desc = A very sharp axe blade on a short handle. It has a long history of chopping things, but is now used for splitting firewood.
 # [AUTO_EN]
-ent-CyberSpade = blade
+ent-CyberSpade = spade
     .desc = A small tool for digging and moving soil.
 # [AUTO_EN]
 ent-AdvMopCyber = advanced cyber mop

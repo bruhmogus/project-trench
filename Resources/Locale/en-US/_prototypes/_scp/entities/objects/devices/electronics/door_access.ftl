@@ -78,5 +78,5 @@ ent-DoorElectronicsO5 = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
 # [AUTO_EN]
 ent-DoorElectronicsScientificDirector = { ent-DoorElectronics }
-    .suffix = Director of the Scientific Department, Closed
+    .suffix = Research Director, Locked
     .desc = { ent-DoorElectronics.desc }

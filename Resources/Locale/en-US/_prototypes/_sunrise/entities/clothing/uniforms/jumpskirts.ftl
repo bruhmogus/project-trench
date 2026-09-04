@@ -54,7 +54,7 @@ ent-ClothingUniformWeddingDressSplit = wedding dress with a slit
 ent-ClothingUniformJumpskirtCapTurtleneck = captain's handle
     .desc = The true captain's tiller.
 # [AUTO_EN]
-ent-ClothingUniformJumpskirtHoPTurtleneck = staff manager's handle
+ent-ClothingUniformJumpskirtHoPTurtleneck = head of HR's turtleneck
     .desc = This is the handle of the personnel chief.
 # [AUTO_EN]
 ent-ClothingUniformJumpskirtHoSBlack = black security chief skirt

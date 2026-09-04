@@ -29,7 +29,7 @@ ent-ClothingEyesGlassesThermalSyndieBiocode = { ent-ClothingEyesGlassesThermalSy
 # [AUTO_EN]
 ent-ClothingEyesGlassesSniperThermalSyndie = optical thermal sniper glasses
     .suffix = Syndicate
-    .desc = Thermal scopes in the form of quality glasses for eliminating scoundrels and important heads from nanotrace, sniper version with a nuclear battery.
+    .desc = Thermal scopes in the form of quality glasses for eliminating scoundrels and important heads from Nanotrasen. This is a sniper version with a nuclear battery.
 # [AUTO_EN]
 ent-ClothingEyesGlassesThermalChameleon = thermal chameleon scanner
     .desc = Thermal glasses with a chameleon module; change appearance and provide a thermal vision.

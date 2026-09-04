@@ -139,4 +139,4 @@ ent-ScpComputerIcarus = { ent-ComputerIcarus }
     .desc = { ent-ComputerIcarus.desc }
 # [AUTO_EN]
 ent-ScpComputerCommunicationO4Headquarters = O4 Headquarters Communications Console
-    .desc = console used for transmitting important alerts.
+    .desc = A console used for transmitting important alerts.

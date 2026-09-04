@@ -33,7 +33,7 @@ ent-PosterLegitKillersClinic = "Killer's Clinic"
     .desc = Clinic for killers? Seems like they play music during treatment.
 # [AUTO_EN]
 ent-PosterContrabandWantedTraitor = WANTED, UNKNOWN
-    .desc = Poster for the wanted person in very impressive gear. I would like such a mask and isolated combat gloves.
+    .desc = Poster for the wanted person in very impressive gear. I would like such a mask and insulated combat gloves.
 # [AUTO_EN]
 ent-PosterLegitSaline = NO PHYSIOLOGICAL SOLUTION!
-    .desc = NanoTrasen Medical Department reminder: check the patient's condition before administering asthma medication. Normal saline can kill!
+    .desc = NanoTrasen Medical Department reminder: check the patient's condition before administering airloss medication. Normal saline can kill!

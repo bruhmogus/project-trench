@@ -64,7 +64,7 @@ ent-BaseEmergencyRadioButtonCall = emergency radio call button
     .desc = Button for emergency help call.
 # [AUTO_EN]
 ent-ButtonCallMedicalService = medical service call button
-    .desc = Button to call medical service.
+    .desc = Button to call Medical. For when, shockingly, someone dies in the facility full of things that kill you.
 # [AUTO_EN]
 ent-ButtonCallScientificService = button to call the scientific service
     .desc = Button to call the scientific service.

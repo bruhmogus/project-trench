@@ -7,5 +7,5 @@ ent-ClothingEyesHudDiagnosticERT = ERT Mech pilot visor
 ent-ClothingEyesGlassesHiddenSecurityChameleon = {ent-ClothingEyesGlassesHiddenSecurity}
     .desc = {ent-ClothingEyesGlassesHiddenSecurity.desc}
 # [AUTO_EN]
-ent-ClothingEyesHudMilira = Milira visor
+ent-ClothingEyesHudMilira = milira visor
     .desc = Visor adapted for Milira, combining the benefits of a medical scanner and flash protection.

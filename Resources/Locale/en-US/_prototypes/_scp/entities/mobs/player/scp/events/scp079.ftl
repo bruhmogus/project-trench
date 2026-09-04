@@ -20,4 +20,4 @@ ent-PosterScp079 = SCP-079 poster
     .suffix = SCP-079 poster
 str-079-eye-name = { ent-Scp079Holo }
 # [AUTO_EN]
-str-079-CommunicationsConsole-title = [DATA DELETED]
+str-079-CommunicationsConsole-title = [DATA EXPUNGED]

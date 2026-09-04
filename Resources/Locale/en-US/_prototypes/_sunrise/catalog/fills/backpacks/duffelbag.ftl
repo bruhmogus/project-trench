@@ -76,4 +76,4 @@ ent-ClothingBackpackDuffelWeaponLightMachineGunM492CBURN = M492 "Burner" Set
     .desc = M492 set with 3 flamethrower canisters, specifically for chemical, biological, radiological and nuclear defense units.
 # [AUTO_EN]
 ent-ClothingBackpackDuffelSyndicateSuperAmmoFilled = "Arms Dealer" set
-    .desc = Large ammo loadout for the entire squad! The set includes: a box of mags for the C-20r, a box of drum mags for the Bulldog, a box of mags for the L6 SAW, loose rounds, a box of mags for the Estok, a box of mags for the Dragunov, and a box of rimless rounds.
+    .desc = Large ammo loadout for the entire squad! The set includes: a box of mags for the C-20r, a box of drum mags for the Bulldog, a box of mags for the L6 SAW, loose rounds, a box of mags for the Estok, a box of mags for the Dragunov, and a box of caseless rounds.

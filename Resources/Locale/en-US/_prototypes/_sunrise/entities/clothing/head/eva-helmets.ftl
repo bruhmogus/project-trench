@@ -14,5 +14,5 @@ ent-ClothingHeadHelmetHardsuitScaf = EVA scuba helmet
     .desc = Sturdy helmet. Inside, it smells of the former owner's malice.
     .suffix = Pirate
 # [AUTO_EN]
-ent-ClothingHeadHelmetEVAMilira = EVA Milira helmet
+ent-ClothingHeadHelmetEVAMilira = EVA milira helmet
     .desc = EVA helmet specifically for Milira.

@@ -65,7 +65,7 @@ ent-ClothingOuterHardsuitPrivateSecDamaged = damaged private security hard suit
     .desc = You didn't think regular soap would fix this junk? It no longer protects the owner from space.
 # [AUTO_EN]
 ent-ClothingOuterHardsuitPrivateerDamaged = damaged freelancer's hard suit
-    .desc = Freelancer's hard suit with cracked plating and punctured seals. It no longer protects its owner from space.
+    .desc = Freelancer's hardsuit with cracked plating and punctured seals. It no longer protects its owner from space.
     .suffix = Pirates
 # [AUTO_EN]
 ent-ClothingOuterHardsuitPrivateerArmoredDamaged = damaged freelancer's armored hard suit

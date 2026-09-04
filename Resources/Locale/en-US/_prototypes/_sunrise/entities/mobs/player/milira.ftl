@@ -1,3 +1,3 @@
 # [AUTO_EN]
-ent-MobMilira = Urist MacMillira
+ent-MobMilira = Urist McMilira
     .desc = { ent-BaseMobSpeciesOrganic.desc }
