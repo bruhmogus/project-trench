@@ -72,17 +72,17 @@ ent-ClothingOuterHardsuitPrivateerArmoredDamaged = damaged freelancer's armored 
     .desc = Freelancer's armored hard-suit with cracked plating and punctured seals. It no longer protects its owner from space.
     .suffix = Pirates
 # [AUTO_EN]
-ent-ClothingOuterHardsuitMilira = Milira Hard Suit
+ent-ClothingOuterHardsuitMilira = milira hardsuit
     .desc = The suit, specially created for Milira, provides protection and allows for longer flight times.
 # [AUTO_EN]
 ent-ClothingOuterHardsuitSalvageGoliath = mining hard suit "Goliath"
     .desc = Mining suit trimmed with patches of thick Goliath chitin skin.
 # [AUTO_EN]
-ent-ClothingOuterHardsuitSpaceHazard = hazardous environment miner suit
+ent-ClothingOuterHardsuitSpaceHazard = hazardous environment miner hardsuit
     .desc = Special suit for working in hazardous environments and low-pressure conditions.
 # [AUTO_EN]
-ent-ClothingOuterHardsuitAdvancedMining = Advanced Mining Hard Suit
+ent-ClothingOuterHardsuitAdvancedMining = advanced mining hardsuit
     .desc = Advanced mining suit with built-in jetpack.
 # [AUTO_EN]
-ent-ClothingOuterHardsuitMining = mining hard suit
+ent-ClothingOuterHardsuitMining = mining hardsuit
     .desc = Pressure suit for low-pressure mining in space.

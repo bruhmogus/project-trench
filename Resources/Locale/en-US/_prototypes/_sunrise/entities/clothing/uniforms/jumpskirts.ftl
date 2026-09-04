@@ -55,7 +55,7 @@ ent-ClothingUniformJumpskirtCapTurtleneck = captain's handle
     .desc = The true captain's tiller.
 # [AUTO_EN]
 ent-ClothingUniformJumpskirtHoPTurtleneck = head of HR's turtleneck
-    .desc = This is the handle of the personnel chief.
+    .desc = A comfortable turtleneck for the Head of HR.
 # [AUTO_EN]
 ent-ClothingUniformJumpskirtHoSBlack = black security chief skirt
     .desc = This is the black uniform skirt of the security chief.

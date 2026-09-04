@@ -67,10 +67,10 @@ ent-ButtonCallMedicalService = medical service call button
     .desc = Button to call Medical. For when, shockingly, someone dies in the facility full of things that kill you.
 # [AUTO_EN]
 ent-ButtonCallScientificService = button to call the scientific service
-    .desc = Button to call the scientific service.
+    .desc = Button to call Research and Development over so they can send another Class D into the Class D Killer 9000.
 # [AUTO_EN]
 ent-ButtonCallEngineeringTechnicalService = button call engineering technical service
-    .desc = Button to call engineering technical service.
+    .desc = Button to call Engineering over. Useful for when you somehow space the building.
 # [AUTO_EN]
 ent-ButtonCallSpecialPurposeSquad = call special purpose squad button
     .desc = Button to call for help from a special operations squad.

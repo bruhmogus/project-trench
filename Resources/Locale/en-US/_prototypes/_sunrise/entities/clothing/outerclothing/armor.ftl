@@ -50,5 +50,5 @@ ent-ClothingOuterArmorBulletproofHeavy = Type III+ body armor
 ent-ClothingOuterArmorMiliraHeavy = Heavy milira armor
     .desc = Heavy armor designed specifically for Milira, enhancing protection and allowing you to stay airborne longer.
 # [AUTO_EN]
-ent-ClothingOuterArmorMiliraLight = Light Milira Armor
+ent-ClothingOuterArmorMiliraLight = Light milira Armor
     .desc = Light armor for Milira, slightly increasing protection and allowing you to stay airborne longer.
