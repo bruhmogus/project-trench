@@ -58,10 +58,10 @@ ent-WeaponBorgPirateMusket = cyborg pirate musket
 ent-BorgModuleRobotics = autoproduction module
     .desc = { ent-BaseBorgModule.desc }
 # [AUTO_EN]
-ent-XenoborgModuleTurboLaser = Xenoborg Turbo Laser Module
+ent-XenoborgModuleTurboLaser = xenoborg turbo laser module
     .desc = Module for the heavy xenoborg with a high-rate-of-fire laser minigun.
 # [AUTO_EN]
-ent-XenoborgModuleXray = Xenoborg X-ray laser module
+ent-XenoborgModuleXray = xenoborg x-ray laser module
     .desc = Heavy Xenoborg module with a x-ray cannon for breaching cover.
 # [AUTO_EN]
 ent-BorgModulePaperwork = office module

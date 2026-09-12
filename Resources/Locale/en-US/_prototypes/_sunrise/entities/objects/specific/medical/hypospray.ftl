@@ -20,7 +20,7 @@ ent-JetInjectorSyndicate = { ent-JetInjector }
 ent-JetInjectorSyndicateBox = hacked medical jetinjector
     .desc = Sterile injector box for rapid administration of medications to patients. The packaging disintegrates upon opening, leaving no residue.
 # [AUTO_EN]
-ent-BlankMediPen = empty MediPen
+ent-BlankMediPen = empty medipen
     .desc = Empty MediPen with infinite potential. Prevents deviations from the formula.
 # [AUTO_EN]
 ent-PolyAutoInjector = oligomer polythiophene autoinjector

@@ -29,4 +29,4 @@ stamp-component-stamped-name-adj = Adjutant
 # [AUTO_EN]
 stamp-component-stamped-name-magistrat = Magistrate
 # [AUTO_EN]
-stamp-component-stamped-name-commander-blueshield = Commander "Blue Shield"
+stamp-component-stamped-name-commander-blueshield = Commander Blueshield

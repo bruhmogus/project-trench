@@ -12,4 +12,4 @@ ent-UEGPen = pen-UEG-name
     .desc = pen-UEG-description
 # [AUTO_EN]
 ent-CommaidPen = pink maid pen
-    .desc = Cute pink pen is no less cute than the station worker.
+    .desc = Cute pink pen is no less cute than the [DATA EXPUNGED].

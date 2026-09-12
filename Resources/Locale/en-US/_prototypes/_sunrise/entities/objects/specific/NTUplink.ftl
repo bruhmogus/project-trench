@@ -78,5 +78,5 @@ ent-UplinkNTERTDebug = { ent-BaseUplinkNTERT }
     .desc = { ent-BaseUplinkNTERT.desc }
 # [AUTO_EN]
 ent-ClothingHandsPowerGlovesUplinkNTERTEpsilon = power gloves
-    .desc = Durable, fire-resistant gloves made of duraplast. No words about nanotread.
+    .desc = Durable, fire-resistant gloves made of duraplast. No words about Nanotrasen.
     .suffix = Uplink, Epsilon

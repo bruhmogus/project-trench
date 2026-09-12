@@ -3,10 +3,10 @@ ent-Lockbox = Protected suitcase
 ent-LockboxCaptain = { ent-Lockbox }
     .desc = { ent-Lockbox.desc }
 # [AUTO_EN]
-ent-BaseImplantCase = Case
+ent-BaseImplantCase = case
     .desc = A small locked case with an ID, containing a cyber implant.
 # [AUTO_EN]
-ent-SecurityImplantCase = Protected Case
+ent-SecurityImplantCase = secure case
     .desc = Locked case with ID, containing a cyber implant.
 # [AUTO_EN]
 ent-ImplantCaseNightVision = Case: Cyber Eye "Night Vision"

@@ -37,7 +37,7 @@ ent-SunriseToyEnergyKatana = toy energy katana
     .suffix = Toy
 # [AUTO_EN]
 ent-HoloparasiteFakeInjector = holoparasite injector
-    .desc = A complex work of art based on... Oh wait. This is a fake. You can see the "Holoparasite" store logo from the outside.
+    .desc = A complex work of art based on... Oh wait. This is a fake. You can see the tag on it.
 # [AUTO_EN]
 ent-MagazineCapBox = box (pistons)
     .desc = L6 machine gun box. Designed for pistons.

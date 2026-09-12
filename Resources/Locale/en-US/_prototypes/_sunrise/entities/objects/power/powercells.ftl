@@ -25,6 +25,6 @@ ent-PowerCellXenoborg = xenoborg battery
 ent-PowerCellXenoborgAdvance = improved xenoborg battery
     .desc = Standardized rechargeable power cell. The rarest and most powerful combat variant for xenoborgs, featuring automatic recharging.
 # [AUTO_EN]
-ent-PowerCageOmega = Omega energy cell
+ent-PowerCageOmega = omega energy cell
     .desc = High-class energy cell for heavy-duty systems. Designed for extreme output power and sustained load.
     .suffix = Full

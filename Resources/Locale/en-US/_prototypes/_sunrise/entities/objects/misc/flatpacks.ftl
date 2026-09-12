@@ -6,8 +6,8 @@ ent-MechMiningPodFlatpack = mining pod flatpack
 ent-ShuttleSecurityFlatpack = packed shuttle security console
     .desc = Packaging that can be used to create a console.
 # [AUTO_EN]
-ent-ShuttleGunKineticFlatpack = packed PTK-800 "Dematerializer of Matter"
-    .desc = A package that can be used to assemble the PTK-800 "Dematerializer of Matter".
+ent-ShuttleGunKineticFlatpack = packed PTK-800 "Matter Dematerializer"
+    .desc = A package that can be used to assemble the PTK-800 "Matter Dematerializer".
 # [AUTO_EN]
 ent-SlopDispenserFlatpack = packaged nutrient paste dispenser
     .desc = Packaging used to assemble the nutrient paste dispenser.
