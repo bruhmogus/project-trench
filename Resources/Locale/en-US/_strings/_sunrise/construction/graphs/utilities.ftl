@@ -1,114 +1,228 @@
-recipe-camera-name = камера
-recipe-camera-description = Камера наблюдения.
-recipe-WallmountTelescreen-name = телеэкран
-recipe-WallmountTelescreen-description = Наконец-то тут появился нормальный сигнал.
-recipe-StationMap-name = карта комплекса
-recipe-StationMap-description = Карта комплекса.
-recipe-APC-name = ЛКП
-recipe-APC-description = Контроллер питания.
-recipe-SolarPanel-name = солнечная панель
-recipe-SolarPanel-description = Можно превратить в солнечную панель или солнечный трекер.
-recipe-CableTerminal-name = кабельный терминал
-recipe-CableTerminal-description = На красных кабелях вы видите небольшое предупреждение. "ПОДКЛЮЧИТЬ КРАСНЫМ К АККУМУЛЯТОРУ ДЛЯ ЕГО ЗАРЯДКИ".
-recipe-WallmountSubstation-name = микросхема настенной подстанции
-recipe-WallmountSubstation-description = Микросхема, используемая в создании настенной подстанции.
-recipe-WallmountGenerator-name = микросхема настенного генератора
-recipe-WallmountGenerator-description = Микросхема, используемая в создании настенного генератора.
-recipe-WallmountGeneratorAPU-name = микросхема настенной ВСУ
-recipe-WallmountGeneratorAPU-description = Микросхема, используемая в создании настенной ВСУ.
-recipe-DisposalUnit-name = утилизационный блок
-recipe-DisposalUnit-description = Пневматическая установка для утилизации отходов.
-recipe-MailingUnit-name = почтовый блок
-recipe-MailingUnit-description = Пневматическая установка для доставки почты.
-recipe-DisposalPipe-name = участок утилизационной трубы
-recipe-DisposalPipe-description = Большой сегмент трубы, используемый при создании системы утилизации.
-recipe-DisposalTagger-name = маркировщик утилизационной трубы
-recipe-DisposalTagger-description = Труба, маркирующая объекты для отправки определённому адресату.
-recipe-DisposalTrunk-name = ствол утилизационной трубы
-recipe-DisposalTrunk-description = Труба, используемая в качестве точки входа в систему утилизации.
-recipe-DisposalRouter-name = маршрутизатор утилизационной трубы
-recipe-DisposalRouter-description = Трёхсторонний маршрутизатор. Объекты с совпадающими маркерами уходят в сторону с помощью настраиваемых фильтров.
-recipe-DisposalRouterFlipped-name = перевёрнутый маршрутизатор утилизационной трубы
-recipe-DisposalRouterFlipped-description = Трёхсторонний маршрутизатор. Объекты с совпадающими маркерами уходят в сторону с помощью настраиваемых фильтров.
-recipe-DisposalSignalRouter-name = сигнальный утилизационный маршрутизатор
-recipe-DisposalSignalRouter-description = Трёхсторонний маршрутизатор, управляемый сигналами.
-recipe-DisposalSignalRouterFlipped-name = сигнальный утилизационный маршрутизатор [Перевёрнутый]
-recipe-DisposalSignalRouterFlipped-description = Трёхсторонний маршрутизатор, управляемый сигналами.
-recipe-DisposalJunction-name = развязка утилизационной трубы
-recipe-DisposalJunction-description = Трёхсторонняя развязка. Стрелка указывает на место выхода объектов.
-recipe-DisposalJunctionFlipped-name = перевёрнутая развязка утилизационной трубы
-recipe-DisposalJunctionFlipped-description = Трёхсторонняя развязка. Стрелка указывает на место выхода объектов.
-recipe-DisposalYJunction-name = Y-развязка утилизационной трубы
-recipe-DisposalYJunction-description = Трёхсторонняя развязка с альтернативным местом выхода.
-recipe-DisposalBend-name = изгиб утилизационной трубы
-recipe-DisposalBend-description = Труба, согнутая под прямым углом.
-recipe-AirAlarmFixture-name = воздушная сигнализация
-recipe-AirAlarmFixture-description = Воздушная сигнализация. Сигнализация... воздуха?
-recipe-FireAlarm-name = пожарная сигнализация
-recipe-FireAlarm-description = Пожарная сигнализация. Огонь!
-recipe-AirSensor-name = сенсор воздуха
-recipe-AirSensor-description = Воздушный сенсор. Чувствует воздух.
-recipe-GasPipeHalf-name = труба
-recipe-GasPipeHalf-description = Содержит газ.
-recipe-GasPipeStraight-name = прямая труба
-recipe-GasPipeStraight-description = Содержит газ.
-recipe-GasPipeBend-name = угловая труба
-recipe-GasPipeBend-description = Содержит газ.
-recipe-GasPipeTJunction-name = т-образная труба
-recipe-GasPipeTJunction-description = Содержит газ.
-recipe-GasPipeFourway-name = четверная труба
-recipe-GasPipeFourway-description = Содержит газ.
-recipe-GasVentPump-name = вентиляция
-recipe-GasVentPump-description = Имеет клапан и прикреплённый к нему насос.
-recipe-GasPassiveVent-name = пассивная вентиляция
-recipe-GasPassiveVent-description = Это открытая вентиляция.
-recipe-GasVentScrubber-name = скруббер
-recipe-GasVentScrubber-description = Он же вытяжка. Имеет клапан и прикреплённый к нему насос.
-recipe-GasOutletInjector-name = инжектор
-recipe-GasOutletInjector-description = Он же форсунка. Имеет клапан и прикреплённый к нему насос.
-recipe-GasPressurePump-name = газовый насос
-recipe-GasPressurePump-description = Насос, перемещающий газ под определённым давлением.
-recipe-GasVolumePump-name = объёмный газовый насос
-recipe-GasVolumePump-description = Насос, перемещающий газ с определённым объёмом.
-recipe-GasPassiveGate-name = пассивный клапан
-recipe-GasPassiveGate-description = Односторонний воздушный клапан, не требующий питания.
-recipe-GasValve-name = ручной клапан
-recipe-GasValve-description = Труба с клапаном, которым можно перекрыть поток проходящего по ней газа.
-recipe-SignalControlledValve-name = сигнальный клапан
-recipe-SignalControlledValve-description = Труба с клапаном, который можно контролировать при помощи сигналов.
-recipe-GasPort-name = соединительный порт
-recipe-GasPort-description = Для подключения портативных устройств, связанных с управлением атмосферой.
-recipe-GasDualPortVentPump-name = двухпортовая вентиляция
-recipe-GasDualPortVentPump-description = Имеет клапан и прикреплённый к нему насос. Один вход для закачивания воздуха, другой - для откачивания.
-recipe-HeatExchanger-name = радиатор
-recipe-HeatExchanger-description = Переносит тепло между трубой и окружающей средой.
-recipe-GasFilter-name = газовый фильтр
-recipe-GasFilter-description = Очень полезен для фильтрации газов.
-recipe-GasFilterFlipped-name = перевёрнутый газовый фильтр
-recipe-GasFilterFlipped-description = Очень полезен для фильтрации газов.
-recipe-GasMixer-name = газовый смеситель
-recipe-GasMixer-description = Очень полезен для смешивания газов.
-recipe-GasMixerFlipped-name = перевёрнутый газовый смеситель
-recipe-GasMixerFlipped-description = Очень полезен для смешивания газов.
-recipe-PressureControlledValve-name = пневматический клапан
-recipe-PressureControlledValve-description = Клапан, регулируемый давлением.
-recipe-IntercomAssesmbly-name = каркас интеркома
-recipe-IntercomAssesmbly-description = Интерком. На данный момент он бесполезен.
-recipe-SignalTimer-name = таймер сигнала
-recipe-SignalTimer-description = Это таймер для подачи на устройства сигналов через определённое время.
-recipe-ScreenTimer-name = таймер сигнала с экраном
-recipe-ScreenTimer-description = Это таймер для подачи на устройства сигналов через определённое время, со встроенным экраном.
-recipe-BrigTimer-name = бриг-таймер
-recipe-BrigTimer-description = Это таймер для камер брига.
-recipe-supplybot-name = грузобот
-recipe-supplybot-description = Доствляет грузы!
-recipe-jonkbot-name = кринжбот
-recipe-jonkbot-description = Ужасающе.
-recipe-mimebot-name = мимбот
-recipe-mimebot-description = Почему бы не помахать мимботу?
-recipe-honkbot-name = хонкбот
-recipe-honkbot-description = Ужасающе.
-recipe-cleanbot-name = чистобот
-recipe-cleanbot-description = Ужас автоматизации теперь угрожает и космическим уборщикам.
-recipe-medibot-name = медбрат помощник
-recipe-medibot-description = Мне кажеться он завернул не в ту галактику? Или у меня глюки. Во всяком случае он явно не плохой.
+# [AUTO_EN]
+recipe-camera-name = camera
+# [AUTO_EN]
+recipe-camera-description = Surveillance camera.
+# [AUTO_EN]
+recipe-WallmountTelescreen-name = television
+# [AUTO_EN]
+recipe-WallmountTelescreen-description = Finally, a normal signal is here.
+# [AUTO_EN]
+recipe-StationMap-name = complex map
+# [AUTO_EN]
+recipe-StationMap-description = Complex map.
+# [AUTO_EN]
+recipe-APC-name = LKP
+# [AUTO_EN]
+recipe-APC-description = Power controller.
+# [AUTO_EN]
+recipe-SolarPanel-name = solar panel
+# [AUTO_EN]
+recipe-SolarPanel-description = Can be converted into a solar panel or solar tracker.
+# [AUTO_EN]
+recipe-CableTerminal-name = cable terminal
+# [AUTO_EN]
+recipe-CableTerminal-description = On the red cables you see a small warning: "CONNECT RED TO BATTERY FOR CHARGING".
+# [AUTO_EN]
+recipe-WallmountSubstation-name = microchip wall-mounted substation
+# [AUTO_EN]
+recipe-WallmountSubstation-description = Microchip used in the creation of a wall-mounted substation.
+# [AUTO_EN]
+recipe-WallmountGenerator-name = wallmount generator microchip
+# [AUTO_EN]
+recipe-WallmountGenerator-description = Microchip used in the creation of the wall-mounted generator.
+# [AUTO_EN]
+recipe-WallmountGeneratorAPU-name = wallmount generator APU microchip
+# [AUTO_EN]
+recipe-WallmountGeneratorAPU-description = Microchip used in the creation of the wall-mounted VU.
+# [AUTO_EN]
+recipe-DisposalUnit-name = disposal unit
+# [AUTO_EN]
+recipe-DisposalUnit-description = Pneumatic waste disposal unit.
+# [AUTO_EN]
+recipe-MailingUnit-name = mailing unit
+# [AUTO_EN]
+recipe-MailingUnit-description = Pneumatic mail delivery unit.
+# [AUTO_EN]
+recipe-DisposalPipe-name = disposal pipe section
+# [AUTO_EN]
+recipe-DisposalPipe-description = Large pipe segment used when creating a disposal system.
+# [AUTO_EN]
+recipe-DisposalTagger-name = disposal pipe tagger
+# [AUTO_EN]
+recipe-DisposalTagger-description = A pipe that marks objects for delivery to a specific recipient.
+# [AUTO_EN]
+recipe-DisposalTrunk-name = disposal trunk barrel
+# [AUTO_EN]
+recipe-DisposalTrunk-description = Pipe used as the entry point to the disposal system.
+# [AUTO_EN]
+recipe-DisposalRouter-name = disposal pipe router
+# [AUTO_EN]
+recipe-DisposalRouter-description = Three-way router. Objects with matching markers are routed away using configurable filters.
+# [AUTO_EN]
+recipe-DisposalRouterFlipped-name = inverted disposal router
+# [AUTO_EN]
+recipe-DisposalRouterFlipped-description = Three-way router. Objects with matching markers are routed away using configurable filters.
+# [AUTO_EN]
+recipe-DisposalSignalRouter-name = signal disposal router
+# [AUTO_EN]
+recipe-DisposalSignalRouter-description = Three-way signal-controlled router.
+# [AUTO_EN]
+recipe-DisposalSignalRouterFlipped-name = signal disposal router [Flipped]
+# [AUTO_EN]
+recipe-DisposalSignalRouterFlipped-description = Three-way signal-controlled router.
+# [AUTO_EN]
+recipe-DisposalJunction-name = disposal junction
+# [AUTO_EN]
+recipe-DisposalJunction-description = Three-way junction. The arrow indicates the exit point for objects.
+# [AUTO_EN]
+recipe-DisposalJunctionFlipped-name = flipped disposal junction
+# [AUTO_EN]
+recipe-DisposalJunctionFlipped-description = Three-way junction. The arrow indicates the exit point for objects.
+# [AUTO_EN]
+recipe-DisposalYJunction-name = Y-disposal pipe junction
+# [AUTO_EN]
+recipe-DisposalYJunction-description = Three-way junction with an alternative exit point.
+# [AUTO_EN]
+recipe-DisposalBend-name = bend of disposal pipe
+# [AUTO_EN]
+recipe-DisposalBend-description = Pipe bent at a right angle.
+# [AUTO_EN]
+recipe-AirAlarmFixture-name = air alarm
+# [AUTO_EN]
+recipe-AirAlarmFixture-description = Air alarm. An air alarm?
+# [AUTO_EN]
+recipe-FireAlarm-name = fire alarm
+# [AUTO_EN]
+recipe-FireAlarm-description = Fire alarm. Fire!
+# [AUTO_EN]
+recipe-AirSensor-name = air sensor
+# [AUTO_EN]
+recipe-AirSensor-description = Air sensor. Feels the air.
+# [AUTO_EN]
+recipe-GasPipeHalf-name = pipe
+# [AUTO_EN]
+recipe-GasPipeHalf-description = Contains gas.
+# [AUTO_EN]
+recipe-GasPipeStraight-name = straight pipe
+# [AUTO_EN]
+recipe-GasPipeStraight-description = Contains gas.
+# [AUTO_EN]
+recipe-GasPipeBend-name = elbow pipe
+# [AUTO_EN]
+recipe-GasPipeBend-description = Contains gas.
+# [AUTO_EN]
+recipe-GasPipeTJunction-name = T-shaped pipe
+# [AUTO_EN]
+recipe-GasPipeTJunction-description = Contains gas.
+# [AUTO_EN]
+recipe-GasPipeFourway-name = four-way pipe
+# [AUTO_EN]
+recipe-GasPipeFourway-description = Contains gas.
+# [AUTO_EN]
+recipe-GasVentPump-name = ventilation
+# [AUTO_EN]
+recipe-GasVentPump-description = It has a valve and a pump attached to it.
+# [AUTO_EN]
+recipe-GasPassiveVent-name = passive ventilation
+# [AUTO_EN]
+recipe-GasPassiveVent-description = This is an open vent.
+# [AUTO_EN]
+recipe-GasVentScrubber-name = scrubber
+# [AUTO_EN]
+recipe-GasVentScrubber-description = It's also a vent. It has a valve and a pump attached to it.
+# [AUTO_EN]
+recipe-GasOutletInjector-name = injector
+# [AUTO_EN]
+recipe-GasOutletInjector-description = It is also an injector. It has a valve and a pump attached to it.
+# [AUTO_EN]
+recipe-GasPressurePump-name = gas pressure pump
+# [AUTO_EN]
+recipe-GasPressurePump-description = Pump that moves gas at a certain pressure.
+# [AUTO_EN]
+recipe-GasVolumePump-name = volumetric gas pump
+# [AUTO_EN]
+recipe-GasVolumePump-description = Pump that moves gas with a certain volume.
+# [AUTO_EN]
+recipe-GasPassiveGate-name = passive valve
+# [AUTO_EN]
+recipe-GasPassiveGate-description = One-way air valve, no power required.
+# [AUTO_EN]
+recipe-GasValve-name = manual valve
+# [AUTO_EN]
+recipe-GasValve-description = A pipe with a valve that can be used to stop the flow of gas passing through it.
+# [AUTO_EN]
+recipe-SignalControlledValve-name = signal valve
+# [AUTO_EN]
+recipe-SignalControlledValve-description = A pipe with a valve that can be controlled using signals.
+# [AUTO_EN]
+recipe-GasPort-name = connector port
+# [AUTO_EN]
+recipe-GasPort-description = For connecting portable devices related to atmosphere control.
+# [AUTO_EN]
+recipe-GasDualPortVentPump-name = dual-port ventilation
+# [AUTO_EN]
+recipe-GasDualPortVentPump-description = It has a valve with an attached pump. One inlet for pumping in air, another for pumping out.
+# [AUTO_EN]
+recipe-HeatExchanger-name = radiator
+# [AUTO_EN]
+recipe-HeatExchanger-description = Transfers heat between the pipe and the surrounding environment.
+# [AUTO_EN]
+recipe-GasFilter-name = gas filter
+# [AUTO_EN]
+recipe-GasFilter-description = Very useful for gas filtration.
+# [AUTO_EN]
+recipe-GasFilterFlipped-name = upside-down gas filter
+# [AUTO_EN]
+recipe-GasFilterFlipped-description = Very useful for gas filtering.
+# [AUTO_EN]
+recipe-GasMixer-name = gas mixer
+# [AUTO_EN]
+recipe-GasMixer-description = Very useful for mixing gases.
+# [AUTO_EN]
+recipe-GasMixerFlipped-name = upside-down gas mixer
+# [AUTO_EN]
+recipe-GasMixerFlipped-description = Very useful for mixing gases.
+# [AUTO_EN]
+recipe-PressureControlledValve-name = pneumatic valve
+# [AUTO_EN]
+recipe-PressureControlledValve-description = Pressure-controlled valve.
+# [AUTO_EN]
+recipe-IntercomAssesmbly-name = Intercom assembly framework
+# [AUTO_EN]
+recipe-IntercomAssesmbly-description = Intercom. At the moment, it is useless.
+# [AUTO_EN]
+recipe-SignalTimer-name = signal timer
+# [AUTO_EN]
+recipe-SignalTimer-description = This is a timer for sending signals to devices after a certain period.
+# [AUTO_EN]
+recipe-ScreenTimer-name = screen timer signal
+# [AUTO_EN]
+recipe-ScreenTimer-description = This is a timer for sending signals to devices after a set time, with an integrated screen.
+# [AUTO_EN]
+recipe-BrigTimer-name = brig timer
+# [AUTO_EN]
+recipe-BrigTimer-description = This is a timer for brigade cameras.
+# [AUTO_EN]
+recipe-supplybot-name = cargo bot
+# [AUTO_EN]
+recipe-supplybot-description = Allows loading items!
+# [AUTO_EN]
+recipe-jonkbot-name = cringebot
+# [AUTO_EN]
+recipe-jonkbot-description = Terrifying.
+# [AUTO_EN]
+recipe-mimebot-name = mimebot
+# [AUTO_EN]
+recipe-mimebot-description = Why not wave at Mimbot?
+# [AUTO_EN]
+recipe-honkbot-name = honkbot
+# [AUTO_EN]
+recipe-honkbot-description = Terrifying.
+# [AUTO_EN]
+recipe-cleanbot-name = cleanbot
+# [AUTO_EN]
+recipe-cleanbot-description = The horror of automation now threatens even the cosmic cleaners.
+# [AUTO_EN]
+recipe-medibot-name = medibot assistant
+# [AUTO_EN]
+recipe-medibot-description = I think he wrapped himself in the wrong galaxy? Or maybe I'm glitching. Either way, he's clearly not bad.

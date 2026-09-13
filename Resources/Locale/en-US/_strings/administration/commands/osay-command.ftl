@@ -7,3 +7,7 @@ osay-command-arg-message = message
 
 osay-command-error-args = Invalid number of arguments
 osay-command-error-euid = {$arg} is not a valid entity uid.
+# [AUTO_EN]
+osay-command-description = Forces another entity to attempt sending a message.
+# [AUTO_EN]
+osay-command-help-text = Usage: { $command } <uid> <type> <message>

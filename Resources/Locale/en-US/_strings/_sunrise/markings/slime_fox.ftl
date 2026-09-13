@@ -1,3 +1,6 @@
-marking-SlimeFoxEars = Лисьи ушки из слизи
-marking-SlimeFoxEars-ears_slime_fox_outer = Наружное ухо
-marking-SlimeFoxEars-ears_slime_fox_inner = Внутреннее ухо
+# [AUTO_EN]
+marking-SlimeFoxEars = Slime fox ears
+# [AUTO_EN]
+marking-SlimeFoxEars-ears_slime_fox_outer = Outer ear
+# [AUTO_EN]
+marking-SlimeFoxEars-ears_slime_fox_inner = Inner ear

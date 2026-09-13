@@ -1,4 +1,4 @@
-﻿player-tab-player-count = Players: { $count }
+player-tab-player-count = Players: { $count }
 player-tab-username = Username
 player-tab-character = Character
 player-tab-job = Job
@@ -14,3 +14,12 @@ player-tab-is-antag-no = NO
 player-tab-character-name-antag-symbol = {$symbol} {$name}
 
 player-tab-antag-prefix = 🗡
+# [AUTO_EN]
+player-tab-antagonist = Antag
+# Sunrise-Sponsors
+# [AUTO_EN]
+player-tab-sponsor = Sponsor
+# [AUTO_EN]
+player-tab-objectives = Objectives
+# [AUTO_EN]
+player-tab-objectives-button = Objectives

@@ -42,3 +42,6 @@ ent-DrinkEspressoMartiniGlass = { ent-DrinkGlass }
 ent-DrinkMoscowMuleGlass = { ent-DrinkGlass }
     .suffix = moscow mule
     .desc = { ent-DrinkGlass.desc }
+# [AUTO_EN]
+ent-DrinkNastoykaRomashki = chamomile tincture
+    .desc = { ent-DrinkGlassBase.desc }

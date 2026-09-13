@@ -37,3 +37,6 @@ ui-options-tts-enabled = TTS Integration
 ui-options-tts-queue = Use queue for radio TTS?
 ui-options-tts-radio-ghost-enabled = Radio TTS while in ghost mode
 ui-options-function-open-messenger = Open Messenger
+# [AUTO_EN]
+ui-options-trace-tooltip =
+    If you have lag when shooting, uncheck this option, and the hitscan will not display the smoke texture behind the flying bullet.

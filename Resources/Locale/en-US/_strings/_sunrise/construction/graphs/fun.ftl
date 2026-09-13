@@ -1,2 +1,4 @@
-recipe-HornBananium-name = бананиумовый клаксон
-recipe-HornBananium-description = Клаксон, сделанный из бананиума.
+# [AUTO_EN]
+recipe-HornBananium-name = bananaum horn
+# [AUTO_EN]
+recipe-HornBananium-description = A horn made of bananium.

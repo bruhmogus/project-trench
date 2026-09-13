@@ -1,37 +1,56 @@
-recipe-ColorLight-description = Мощная лампа, внутри которой находится маленький цветной кристалл.
-recipe-CrystalLightTube = кристальная лампа-трубка
-recipe-CrystalLightBlub = кристальная лампа накаливания
+# [AUTO_EN]
+recipe-ColorLight-description = A powerful lamp containing a small colored crystal inside.
+# [AUTO_EN]
+recipe-CrystalLightTube = crystal lamp-tube
+# [AUTO_EN]
+recipe-CrystalLightBlub = crystal incandescent lamp
 
-recipe-CyanLightBulb-name = голубая { recipe-CrystalLightBlub }
+# [AUTO_EN]
+recipe-CyanLightBulb-name = blue { recipe-CrystalLightBlub }
 recipe-CyanLightBulb-description = { recipe-ColorLight-description }
-recipe-CyanLight-name = голубая { recipe-CrystalLightTube }
+# [AUTO_EN]
+recipe-CyanLight-name = blue { recipe-CrystalLightTube }
 recipe-CyanLight-description = { recipe-ColorLight-description }
-recipe-BlueLightBulb-name = синяя { recipe-CrystalLightBlub }
+# [AUTO_EN]
+recipe-BlueLightBulb-name = blue { recipe-CrystalLightBlub }
 recipe-BlueLightBulb-description = { recipe-ColorLight-description }
-recipe-BlueLight-name = синяя { recipe-CrystalLightTube }
+# [AUTO_EN]
+recipe-BlueLight-name = blue { recipe-CrystalLightTube }
 recipe-BlueLight-description = { recipe-ColorLight-description }
-recipe-PinkLightBulb-name = розовая { recipe-CrystalLightBlub }
+# [AUTO_EN]
+recipe-PinkLightBulb-name = pink { recipe-CrystalLightBlub }
 recipe-PinkLightBulb-description = { recipe-ColorLight-description }
-recipe-PinkLight-name = розовая { recipe-CrystalLightTube }
+# [AUTO_EN]
+recipe-PinkLight-name = pink { recipe-CrystalLightTube }
 recipe-PinkLight-description = { recipe-ColorLight-description }
-recipe-OrangeLightBulb-name = оранжевая { recipe-CrystalLightBlub }
+# [AUTO_EN]
+recipe-OrangeLightBulb-name = orange { recipe-CrystalLightBlub }
 recipe-OrangeLightBulb-description = { recipe-ColorLight-description }
-recipe-OrangeLight-name = оранжевая { recipe-CrystalLightTube }
+# [AUTO_EN]
+recipe-OrangeLight-name = orange { recipe-CrystalLightTube }
 recipe-OrangeLight-description = { recipe-ColorLight-description }
-recipe-RedLightBulb-name = красная { recipe-CrystalLightBlub }
+# [AUTO_EN]
+recipe-RedLightBulb-name = red { recipe-CrystalLightBlub }
 recipe-RedLightBulb-description = { recipe-ColorLight-description }
-recipe-RedLight-name = красная { recipe-CrystalLightTube }
+# [AUTO_EN]
+recipe-RedLight-name = red { recipe-CrystalLightTube }
 recipe-RedLight-description = { recipe-ColorLight-description }
-recipe-GreenLightBulb-name = зеленая { recipe-CrystalLightBlub }
+# [AUTO_EN]
+recipe-GreenLightBulb-name = green { recipe-CrystalLightBlub }
 recipe-GreenLightBulb-description = { recipe-ColorLight-description }
-recipe-GreenLight-name = зелёная { recipe-CrystalLightTube }
+# [AUTO_EN]
+recipe-GreenLight-name = green { recipe-CrystalLightTube }
 recipe-GreenLight-description = { recipe-ColorLight-description }
-recipe-BlackLightBulb-name = чёрная { recipe-CrystalLightBlub }
+# [AUTO_EN]
+recipe-BlackLightBulb-name = black { recipe-CrystalLightBlub }
 recipe-BlackLightBulb-description = { recipe-ColorLight-description }
-recipe-BlackLight-name = чёрная { recipe-CrystalLightTube }
+# [AUTO_EN]
+recipe-BlackLight-name = black { recipe-CrystalLightTube }
 recipe-BlackLight-description = { recipe-ColorLight-description }
-recipe-YellowLightBulb-name = жёлтая { recipe-CrystalLightBlub }
+# [AUTO_EN]
+recipe-YellowLightBulb-name = yellow { recipe-CrystalLightBlub }
 recipe-YellowLightBulb-description = { recipe-ColorLight-description }
-recipe-YellowLight-name = жёлтая { recipe-CrystalLightTube }
+# [AUTO_EN]
+recipe-YellowLight-name = yellow { recipe-CrystalLightTube }
 recipe-YellowLight-description = { recipe-ColorLight-description }
 

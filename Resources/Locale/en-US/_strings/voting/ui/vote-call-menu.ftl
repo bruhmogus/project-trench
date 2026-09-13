@@ -41,3 +41,15 @@ ui-vote-fluff = Powered by Robust™ Anti-Tamper Technology
 
 cmd-votemenu-desc = Opens the voting menu.
 cmd-votemenu-help = Usage: votemenu
+# Vote option only available for specific users.
+# [AUTO_EN]
+ui-vote-trusted-users-notice-whitelist =
+    This voting option is available only for whitelisted players.
+    Additionally, you must be a ghost for { $timeReq } minutes.
+# [AUTO_EN]
+ui-vote-trusted-users-notice-time-req =
+    This voting option is available only to players who have played for more than { $timeReq } hours. Additionally, you must be a ghost for { $ghostTimeReq } minutes.
+# [AUTO_EN]
+ui-vote-menu-command-description = Opens the voting menu
+# [AUTO_EN]
+ui-vote-menu-command-help-text = Usage: votemenu

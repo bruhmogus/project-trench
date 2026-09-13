@@ -14,3 +14,5 @@ ent-BaseBorgChassisDerelict = { ent-BaseBorgChassis }
     .desc = { ent-BaseBorgChassis.desc }
 ent-BaseXenoborgChassis = xenoborg
     .desc = A man-machine hybrid that aims to replicate itself. They love extracting brains to insert into fresh xenoborg chassis to grow their army.
+ent-BaseBorgChassisSyndicateDerelict = { ent-BaseBorgChassisDerelict }
+    .desc = { ent-BaseBorgChassisDerelict.desc }

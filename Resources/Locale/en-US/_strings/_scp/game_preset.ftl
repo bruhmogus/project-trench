@@ -40,3 +40,15 @@ scp-description-thaumiel =
     | Safe: YES
     | Euclid: YES
     | Keter: YES
+# [AUTO_EN]
+scp-title-chaos-raid = Chaos Rebels Raid
+# [AUTO_EN]
+scp-description-chaos-raid =
+    This shift may be the last one for you. In this life.
+    { scp-description-euclid }
+# [AUTO_EN]
+scp-title-chaos-spy = Chaos Rebels Spies
+# [AUTO_EN]
+scp-description-chaos-spy =
+    Among the staff, agents of the Chaos Rebels have been lurking.
+    { scp-description-euclid }

@@ -85,3 +85,5 @@ mentor-help-statistics-period-week = Past Week
 mentor-help-statistics-period-month = Past Month
 mentor-help-statistics-period-all-time = All Time
 mentor-help-statistics-no-data = No mentor statistics data available
+# [AUTO_EN]
+mentor-help-status-label = Status: {$status}

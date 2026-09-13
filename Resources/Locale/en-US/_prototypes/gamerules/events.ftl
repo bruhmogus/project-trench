@@ -76,3 +76,7 @@ ent-DerelictMiningCyborgSpawn = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 ent-DerelictSyndicateAssaultCyborgSpawn = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
+ent-MeteorSwarm = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-SleeperAgentsRule = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }

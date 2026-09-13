@@ -21,3 +21,7 @@ ent-ClothingShoesBootsMercFilled = { ent-ClothingShoesBootsMerc }
 ent-ClothingShoesBootsSyndieFilled = { ent-ClothingShoesBootsCombat }
     .suffix = Filled, Throwing Knife
     .desc = { ent-ClothingShoesBootsCombat.desc }
+# [AUTO_EN]
+ent-ClothingShoesBootsUSSPFilled = { ent-ClothingShoesBootsCombat }
+    .suffix = Filled, Finca
+    .desc = { ent-ClothingShoesBootsCombat.desc }

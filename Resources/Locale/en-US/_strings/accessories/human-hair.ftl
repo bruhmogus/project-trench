@@ -201,3 +201,5 @@ marking-HumanHairWisp = Wisp
 marking-HumanHairLongWithBangs = Long With Bangs
 marking-HumanHairCatTail = Cattail
 marking-HumanHairOverEyePigtail = Pigtail (Over Eye)
+# [AUTO_EN]
+marking-HumanHairShoulderLengthOverEye = To the shoulder, over the eye

@@ -4,3 +4,6 @@ ent-ActionSurvCameraLights = Toggle camera lights
     .desc = Enable surveillance camera lights near wherever you're viewing.
 ent-ActionAIViewLaws = View Laws
     .desc = View the laws that you must follow.
+# [AUTO_EN]
+ent-ActionShowJobIcons = Show profession icons
+    .desc = Displays profession icons for crew members.

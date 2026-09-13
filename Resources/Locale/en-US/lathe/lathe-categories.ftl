@@ -52,3 +52,16 @@ lathe-category-command = Command
 lathe-category-hats = Hats
 lathe-category-jumpsuits = Jumpsuits
 lathe-category-neck = Neck
+# Cutter
+# [AUTO_EN]
+lathe-category-concrete = Concrete
+# [AUTO_EN]
+lathe-category-dark = Dark
+# [AUTO_EN]
+lathe-category-maints = Maintenance
+# [AUTO_EN]
+lathe-category-steel = Steel
+# [AUTO_EN]
+lathe-category-white = White
+# [AUTO_EN]
+lathe-category-wood = Wood

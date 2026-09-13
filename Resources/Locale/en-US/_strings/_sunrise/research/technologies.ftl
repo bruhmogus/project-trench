@@ -38,3 +38,9 @@ research-technology-budget-cyber-organs = Budget Cyberorgans
 research-technology-advanced-cyberlimbs = Advanced Cyberlimbs
 research-technology-ion-weaponry = Ion Weaponry
 research-technology-full-metal-jacket-ammunition = Full Metal Jacket Ammunition
+# [AUTO_EN]
+research-technology-advance-secborgs-combat = Advanced Secborg combat modules
+# [AUTO_EN]
+research-technology-milira-equipment = Milira Equipment
+# [AUTO_EN]
+research-technology-bluespace-ammo = Ammunition for the Bluespace shotgun

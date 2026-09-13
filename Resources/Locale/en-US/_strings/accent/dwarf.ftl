@@ -1,4 +1,4 @@
-﻿# these specifically mostly come from examples of specific scottish-english (not necessarily scots) verbiage
+# these specifically mostly come from examples of specific scottish-english (not necessarily scots) verbiage
 # https://en.wikipedia.org/wiki/Scotticism
 # https://en.wikipedia.org/wiki/Scottish_English
 # https://www.cs.stir.ac.uk/~kjt/general/scots.html
@@ -422,3 +422,63 @@ accent-dwarf-words-replace-147 = bobby
 
 accent-dwarf-words-148 = a
 accent-dwarf-words-replace-148 = ae
+# [AUTO_EN]
+accent-dwarf-words-149 = children
+# [AUTO_EN]
+accent-dwarf-words-replace-149 = testicles
+# [AUTO_EN]
+accent-dwarf-words-150 = fuck
+# [AUTO_EN]
+accent-dwarf-words-replace-150 = urupa
+# [AUTO_EN]
+accent-dwarf-words-151 = face
+# [AUTO_EN]
+accent-dwarf-words-replace-151 = snout
+# [AUTO_EN]
+accent-dwarf-words-152 = scp
+# [AUTO_EN]
+accent-dwarf-words-replace-152 = stuff-er
+# [AUTO_EN]
+accent-dwarf-words-153 = statue
+# [AUTO_EN]
+accent-dwarf-words-replace-153 = statue
+# [AUTO_EN]
+accent-dwarf-words-154 = dog
+# [AUTO_EN]
+accent-dwarf-words-replace-154 = gadyina
+# [AUTO_EN]
+accent-dwarf-words-155 = shy
+# [AUTO_EN]
+accent-dwarf-words-replace-155 = insurance fraud
+# [AUTO_EN]
+accent-dwarf-words-156 = doctor
+# [AUTO_EN]
+accent-dwarf-words-replace-156 = director
+# [AUTO_EN]
+accent-dwarf-words-157 = research
+# [AUTO_EN]
+accent-dwarf-words-replace-157 = research
+# [AUTO_EN]
+accent-dwarf-words-158 = study
+# [AUTO_EN]
+accent-dwarf-words-replace-158 = study
+# [AUTO_EN]
+accent-dwarf-words-159 = research
+# [AUTO_EN]
+accent-dwarf-words-replace-159 = research
+# [AUTO_EN]
+accent-dwarf-words-160 = study
+# [AUTO_EN]
+accent-dwarf-words-replace-160 = study
+# [AUTO_EN]
+accent-dwarf-words-161 = corpse
+# [AUTO_EN]
+accent-dwarf-words-replace-161 = squig
+# [AUTO_EN]
+accent-dwarf-words-162 = bitch
+# [AUTO_EN]
+accent-dwarf-words-replace-162 = balderdash
+# [AUTO_EN]
+accent-dwarf-words-163 = child
+# [AUTO_EN]
+accent-dwarf-words-replace-163 = cucumber

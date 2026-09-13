@@ -1,26 +1,52 @@
-recipe-MetalRod-name = металический стержень
-recipe-MetalRod-description = Металический прут.
-recipe-SheetRGlass-name = бронестекло
-recipe-SheetRGlass-description = Лист армированного стекла.
-recipe-SheetClockworkGlass-name = заводное стекло
-recipe-SheetClockworkGlass-description = Лист укреплённого латунью стекла, в основном используемый любителями часовых механизмов и остатками культа Ратвара.
-recipe-SheetPGlass-name = плазменное стекло
-recipe-SheetPGlass-description = Лист полупрозрачной плазмы.
-recipe-SheetRPGlass-name = плазменное бронестекло
-recipe-SheetRPGlass-description = Лист армированной полупрозрачной плазмы.
-recipe-SheetRPGlass0-name = плазменное бронестекло
-recipe-SheetRPGlass0-description = Лист армированной полупрозрачной плазмы.
-recipe-SheetRPGlass1-name = плазменное бронестекло
-recipe-SheetRPGlass1-description = Лист армированной полупрозрачной плазмы.
-recipe-MaterialDurathread-name = дюраткань
-recipe-MaterialDurathread-description = Сырьё
-recipe-SheetUGlass-name = урановое стекло
-recipe-SheetUGlass-description = Лист уранового стекла.
-recipe-SheetRUGlass-name = урановое бронестекло
-recipe-SheetRUGlass-description = Лист армированного уранового стекла.
-recipe-SheetRUGlass0-name = урановое бронестекло
-recipe-SheetRUGlass0-description = Лист армированного уранового стекла.
-recipe-SheetRUGlass1-name = урановое бронестекло
-recipe-SheetRUGlass1-description = Лист армированного уранового стекла.
-recipe-SilkWovenCloth-name = Ткань
-recipe-SilkWovenCloth-description = Сырьё
+# [AUTO_EN]
+recipe-MetalRod-name = metallic rod
+# [AUTO_EN]
+recipe-MetalRod-description = Metallic rod.
+# [AUTO_EN]
+recipe-SheetRGlass-name = bulletproof glass
+# [AUTO_EN]
+recipe-SheetRGlass-description = Reinforced glass sheet.
+# [AUTO_EN]
+recipe-SheetClockworkGlass-name = winding glass
+# [AUTO_EN]
+recipe-SheetClockworkGlass-description = Sheet of reinforced brass glass, mainly used by clockwork enthusiasts and remnants of the Ratar cult.
+# [AUTO_EN]
+recipe-SheetPGlass-name = plasma glass
+# [AUTO_EN]
+recipe-SheetPGlass-description = Plasma sheet.
+# [AUTO_EN]
+recipe-SheetRPGlass-name = plasma ballistic glass
+# [AUTO_EN]
+recipe-SheetRPGlass-description = Sheet of reinforced semi-transparent plasma.
+# [AUTO_EN]
+recipe-SheetRPGlass0-name = plasma ballistic glass
+# [AUTO_EN]
+recipe-SheetRPGlass0-description = Plasma reinforced translucent sheet.
+# [AUTO_EN]
+recipe-SheetRPGlass1-name = plasma ballistic glass
+# [AUTO_EN]
+recipe-SheetRPGlass1-description = Sheet of reinforced semi-transparent plasma.
+# [AUTO_EN]
+recipe-MaterialDurathread-name = durathread
+# [AUTO_EN]
+recipe-MaterialDurathread-description = Raw material
+# [AUTO_EN]
+recipe-SheetUGlass-name = uranium glass
+# [AUTO_EN]
+recipe-SheetUGlass-description = Uranium glass sheet.
+# [AUTO_EN]
+recipe-SheetRUGlass-name = uranium bulletproof glass
+# [AUTO_EN]
+recipe-SheetRUGlass-description = Sheet of reinforced uranium glass.
+# [AUTO_EN]
+recipe-SheetRUGlass0-name = uranium bulletproof glass
+# [AUTO_EN]
+recipe-SheetRUGlass0-description = Uranium glass sheet.
+# [AUTO_EN]
+recipe-SheetRUGlass1-name = uranium bulletproof glass
+# [AUTO_EN]
+recipe-SheetRUGlass1-description = Uranium glass sheet.
+# [AUTO_EN]
+recipe-SilkWovenCloth-name = Fabric
+# [AUTO_EN]
+recipe-SilkWovenCloth-description = Ingredients

@@ -84,3 +84,18 @@ ent-MiningPDA = mining PDA
     .desc = there is dirt in every crack.
 ent-BlueShieldPDA = blue shield officer's PDA
     .desc = { ent-BasePDA.desc }
+# [AUTO_EN]
+ent-PilotPDA = pilot's PDA
+    .desc = It has protection against cosmic radiation.
+# [AUTO_EN]
+ent-CommaidPDA = command maid's PDA
+    .desc = { ent-BasePDA.desc }
+# [AUTO_EN]
+ent-PiratePDAMusic = pirate PDA
+    .suffix = Music
+    .desc = Black is stylish! Skulls and bones are cool! Now you can rob to music!
+ent-PiratePDAMusicPassengerId = { ent-PiratePDAMusic }
+    .desc = { ent-PiratePDAMusic.desc }
+# [AUTO_EN]
+ent-SecuritySergeantPDA = sergeant's PDA
+    .desc = Still working. Unlike the owner, it doesn't yell at you.

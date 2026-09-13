@@ -388,3 +388,51 @@ ghost-role-information-tsf-aligned-rules =
     You are to serve the interests of the Trans-Solar Federation.
     Remember, you do [color=red]NOT[/color] serve the crew.
     You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
+# [AUTO_EN]
+ghost-role-information-expedition-pirate-name = Pirate from the Complex
+# [AUTO_EN]
+ghost-role-information-expedition-pirate-description = You are a member of the pirate team. Do not let the Utilizers raid your base.
+# [AUTO_EN]
+ghost-role-information-syndicate-monkey-reinforcement-rules = You are [color=red][bold]Team Antagonist[/bold][/color], in a team with the agent who summoned you.
+# [AUTO_EN]
+ghost-role-information-syndicate-kobold-reinforcement-rules = You are [color=red][bold]Team Antagonist[/bold][/color], in a team with the agent who summoned you.
+# [AUTO_EN]
+ghost-role-information-derelict-generic-cyborg-name = Abandoned ordinary cyborg
+# [AUTO_EN]
+ghost-role-information-derelict-generic-cyborg-description = You are an ordinary cyborg who has become lost in space. After many years of exposure to ion storms, you find yourself near a space station.
+# [AUTO_EN]
+ghost-role-information-lost-cargo-technical-name = Missing loader
+# [AUTO_EN]
+ghost-role-information-lost-cargo-technical-description = Something went wrong, and your cargo shuttle with its cargo was teleported to another station in the sector.
+# [AUTO_EN]
+ghost-role-information-clown-troupe-name = Cosmic Clown
+# [AUTO_EN]
+ghost-role-information-clown-troupe-description = You and your troupe have arrived to entertain this station with your best jokes. Honk!
+# [AUTO_EN]
+ghost-role-information-traveling-chef-name = Traveling chef
+# [AUTO_EN]
+ghost-role-information-traveling-chef-description = You are a chef on an exotic cuisine traveling shuttle. Delight the station with delicious dishes!
+# [AUTO_EN]
+ghost-role-information-syndie-assaultborg-name = Assault Cyborg of the Syndicate
+# [AUTO_EN]
+ghost-role-information-syndie-assaultborg-description = Nuclear operatives need reinforcements. You, cold-silicon killing machine, will help them. More dakka!
+# [AUTO_EN]
+ghost-role-information-expedition-pirate-rules = You are [color=red][bold]Smart Pirate[/bold][/color], smarter than your companions, so do not let the disposers rob you. You are [color=red][bold]forbidden[/bold][/color] from leaving the complex or the expedition itself on a shuttle.
+# [AUTO_EN]
+ghost-role-information-rules-expedition-pirate-antagonist =
+    You are a [color=red][bold]NPC pirate[/bold][/color]. Your intentions harm the station and its crew.
+    You must [bold]defend[/bold] your territory and cooperate with other pirates.
+    You [color=red][bold]CANNOT[/bold][/color] leave the expedition on a shuttle.
+    Remember that as a [color=red][bold]NPC pirate[/bold][/color] you are [bold]limited[/bold] in time: after [color=red][bold]20 minutes[/bold][/color] you will be automatically moved to spectator.
+    You do not remember anything from your previous life and do not remember anything you learned while being a ghost.
+# [AUTO_EN]
+ghost-role-information-expedition-soviet-name = Soldier from the Bunker
+# [AUTO_EN]
+ghost-role-information-expedition-soviet-description = At ease, soldier! Do not let years of service and alcoholism break you. You are a combatant of the Armed Forces of the USSR. Carry out the order and defend the outpost.
+# [AUTO_EN]
+ghost-role-information-rules-expedition-soviet-antagonist =
+    You are a [color=red][bold]NPC-soldier[/bold][/color]. Your intentions harm the station and its crew.
+    You must [bold]defend[/bold] your territory and cooperate with other NPCs.
+    You [color=green][bold]may[/bold][/color] leave the expedition on the shuttle, but [color=red][bold]only[/bold][/color] if [color=orange][bold]utilizers[/bold][/color] (alive or dead) are on the shuttle.
+    Remember that as a [color=red][bold]NPC-pirate[/bold][/color] you are [bold]limited[/bold] in time: after [color=red][bold]20 minutes[/bold][/color] you will be automatically moved to the observer.
+    You do not remember anything from your previous life and do not remember anything you learned while being a ghost.

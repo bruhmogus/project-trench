@@ -64,3 +64,9 @@ ent-ClothingBeltSalvageMercWebbing = scrapper webbing
     .desc = Ideal for storing everything from tools, ammo, and salvage.
 ent-ClothingBeltMilitaryBeltGrenade = grenade belt
     .desc = A tactical belt for Gorlex Marauder grenadiers. Holds hand grenades and grenade magazines and can be worn on the belt or suit storage slot.
+# [AUTO_EN]
+ent-ClothingBeltMilitaryWebbingMedRaidFilled = Military Raider RPS
+    .desc = The tactical belt system worn by raiding operatives has an additional durathread fabric coating to protect chemicals in combat conditions.
+# [AUTO_EN]
+ent-ClothingSovietBandolier = Soviet bandolier
+    .desc = It smells like oil, sweat, and questionable decisions.

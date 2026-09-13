@@ -8,3 +8,6 @@ ent-WeaponRifleARG = ARG
     .desc = An old galactic standard assault rifle, used by various paramilitary groups and former militias ever since. Uses .30 rifle ammo.
 ent-WeaponRifleM52 = Aussec Armory M-52
     .desc = One of the least popular examples of heavy assault rifles. It has impressive firepower.
+# [AUTO_EN]
+ent-WeaponRifleLarker = Larker
+    .desc = Marksman rifle with scope for medium-range combat, based on the Larker platform. Chambered for .308 caliber.

@@ -23,3 +23,6 @@ ent-DoorRemoteAll = super door remote
     .desc = { ent-DoorRemoteDefault.desc }
 ent-DoorRemoteXenoborg = xenoborg door remote
     .desc = { ent-DoorRemoteDefault.desc }
+# [AUTO_EN]
+ent-DoorRemoteFirefight = door remote
+    .desc = A gadget that can open and close fire hatches remotely.

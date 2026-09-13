@@ -12,3 +12,10 @@ ent-BlastDoorXenoOpen = { ent-BlastDoorXeno }
     .desc = { ent-BlastDoorXeno.desc }
 ent-BlastDoorXenoFrame = xeno blast door frame
     .desc = This one says 'BLAST DONGER'.
+# [AUTO_EN]
+ent-BlastDoorXenoborg = xenoborg blast door
+    .desc = { ent-BlastDoor.desc }
+# [AUTO_EN]
+ent-BlastDoorXenoborgOpen = { ent-BlastDoorXenoborg }
+    .suffix = Open
+    .desc = { ent-BlastDoorXenoborg.desc }

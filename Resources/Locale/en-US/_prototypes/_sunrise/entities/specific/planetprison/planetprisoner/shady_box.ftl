@@ -1,2 +1,3 @@
-ent-PresentRandomPrisoner = мутная коробка
-    .desc = Маленький подарок от сомнительного барыги.
+# [AUTO_EN]
+ent-PresentRandomPrisoner = cloudy box
+    .desc = A small gift from a dubious rogue.

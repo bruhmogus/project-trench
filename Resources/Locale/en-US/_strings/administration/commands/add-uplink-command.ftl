@@ -5,4 +5,7 @@ add-uplink-command-completion-1 = Username (defaults to self)
 add-uplink-command-completion-2 = Uplink uid (default to PDA)
 add-uplink-command-completion-3 = Is uplink discount enabled
 add-uplink-command-error-1 = Selected player doesn't control any entity
+# [AUTO_EN]
 add-uplink-command-error-2 = Failed to add uplink to the player
+# [AUTO_EN]
+add-uplink-command-help = Usage: adduplink [username] [item-id]

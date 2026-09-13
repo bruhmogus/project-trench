@@ -14,3 +14,6 @@ ent-DrinkIceBucket = ice bucket
     .desc = A special bucket of refreshy ice. Prohibited use for challenge with the same name!
 ent-Pitcher = metal pitcher
     .desc = A stainless steel insulated pitcher. Everyone's best friend in the morning.
+# [AUTO_EN]
+ent-DrinkShakerGold = gold shaker
+    .desc = A gold-plated shaker, presented as a token of appreciation for years of service. It has no effect on the taste of the drinks.

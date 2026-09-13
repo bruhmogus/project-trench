@@ -9,3 +9,5 @@ round-end-system-round-restart-eta-announcement = Restarting the round in {$time
 
 eta-units-minutes = minutes
 eta-units-seconds = seconds
+# [AUTO_EN]
+round-end-system-shuttle-curse-delayed-announcement = The evacuation shuttle has been cursed. Its arrival is delayed.

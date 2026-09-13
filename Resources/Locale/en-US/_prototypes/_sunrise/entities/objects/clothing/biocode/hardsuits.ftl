@@ -22,3 +22,11 @@ ent-ClothingOuterMaidArmorRaidBiocode = { ent-ClothingOuterMaidArmorRaid }
 ent-ClothingOuterHardsuitInfiltrationBiocode = { ent-ClothingOuterHardsuitInfiltration }
     .suffix = BIOCODE
     .desc = { ent-ClothingOuterHardsuitInfiltration.desc }
+# [AUTO_EN]
+ent-ClothingShoesChameleonNoSlipsBiocode = { ent-ClothingShoesChameleonNoSlips }
+    .suffix = BIOCODE
+    .desc = { ent-ClothingShoesChameleonNoSlips.desc }
+# [AUTO_EN]
+ent-CornivoreGlovesBiocode = { ent-CornivoreGloves }
+    .suffix = BIOCODE
+    .desc = { ent-CornivoreGloves.desc }

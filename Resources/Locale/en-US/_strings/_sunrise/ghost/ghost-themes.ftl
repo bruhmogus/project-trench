@@ -53,3 +53,13 @@ ghost-theme-holo-carp = Holographic Carp
 ghost-theme-holo-girl = Holographic Girl
 ghost-theme-pirate = Bloodthirsty Pirate
 ghost-theme-draedon = Draedon
+# [AUTO_EN]
+ghost-theme-clown = Clown
+# [AUTO_EN]
+ghost-theme-moth = Moth
+# [AUTO_EN]
+ghost-theme-scurret = Scurrett
+# [AUTO_EN]
+ghost-theme-mothroach = Tarakamol
+# [AUTO_EN]
+ghost-theme-ian-cute = Ian

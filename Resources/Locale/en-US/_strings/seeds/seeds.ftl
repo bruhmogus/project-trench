@@ -144,3 +144,15 @@ seeds-anomaly-berry-name = anomaly berry
 seeds-anomaly-berry-display-name = anomaly berries
 seeds-bloonion-name = bloonion
 seeds-bloonion-display-name = bloonion bulbs
+# [AUTO_EN]
+seeds-explosive-banana-name = boom
+# [AUTO_EN]
+seeds-explosive-banana-display-name = banana bush
+# [AUTO_EN]
+seeds-coffee-arabica-name = arabica coffee
+# [AUTO_EN]
+seeds-coffee-arabica-display-name = coffee bush arabica
+# [AUTO_EN]
+seeds-coffee-robust-name = coffee robusta
+# [AUTO_EN]
+seeds-coffee-robust-display-name = coffee robusta bush

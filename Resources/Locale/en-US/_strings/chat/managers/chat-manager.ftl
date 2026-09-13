@@ -170,3 +170,5 @@ chat-speech-verb-wawa-1 = intones
 chat-speech-verb-wawa-2 = states
 chat-speech-verb-wawa-3 = declares
 chat-speech-verb-wawa-4 = ponders
+# Sunrise-Sponsor-End
+chat-manager-send-ooc-admin-wrap-message = OOC: [bold]{ $patronTitle }{ $playerName }:[/bold] { $message }

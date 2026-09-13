@@ -42,3 +42,7 @@ reagent-desc-table-salt = Commonly known as salt, Sodium Chloride is often used 
 
 reagent-name-syrup = syrup
 reagent-desc-syrup = Delicious syrup made from tree sap, somehow stickier than glue.
+# [AUTO_EN]
+reagent-name-frostoil = cold sauce
+# [AUTO_EN]
+reagent-desc-frostoil = Makes the tongue numb.

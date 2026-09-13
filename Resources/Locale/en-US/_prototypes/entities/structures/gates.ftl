@@ -26,3 +26,6 @@ ent-PowerSensor = power sensor
     .desc = Generates signals in response to powernet changes. Can be cycled between cable voltages.
 ent-MemoryCell = memory cell
     .desc = A D-Latch circuit that stores a signal which can be changed depending on input and enable ports.
+# [AUTO_EN]
+ent-RandomGate = random logic gate
+    .desc = A logic element that outputs a random signal when the input changes.

@@ -1,10 +1,20 @@
-advertisement-honkers-1 = Тебе нужны гранаты, чтобы напугать, а не подорвать? У меня есть для тебя решение... ПУФ!
-advertisement-honkers-2 = Ядерный оперативник? Да, конечно... Ну, почти. А ты проверяй на людях!
-advertisement-honkers-3 = Голопаразит? Больше похоже на голоФАРС! Зато весело!
-advertisement-honkers-4 = Ищешь аномалии? У меня фальшивые, но убедительные — даже учёные будут ломать голову!
-advertisement-honkers-5 = Зачем настоящие гранаты, когда есть эти? Шуму много, а вреда ноль! Безопасно и весело!
-advertisement-honkers-6 = Фальшивый костюм оперативника — для тех, кто хочет выглядеть опасно, но на деле… клоун!
-advertisement-honkers-7 = Никаких реальных голопаразитов, только качественная иллюзия! Ну и что, что бутафория?
-advertisement-honkers-8 = Аномалии такие фальшивые, что ты сам начнёшь в них верить! Обман на высшем уровне!
-advertisement-honkers-9 = Эй, клоун! Эти штуки взорвут только твои шутки, а не твоих друзей!
-advertisement-honkers-10 = Костюм оперативника — чтобы тебя не только боялись, но и смеялись. Настоящий хит сезона!
+# [AUTO_EN]
+advertisement-honkers-1 = Do you need grenades to scare, not blow up? I have a solution for you... A CUSHION!
+# [AUTO_EN]
+advertisement-honkers-2 = Nuclear operative? Yes, of course... Well, almost. You check it out in public!
+# [AUTO_EN]
+advertisement-honkers-3 = Head parasite? Looks more like head farce! But it's fun!
+# [AUTO_EN]
+advertisement-honkers-4 = Looking for anomalies? I have fake ones, but convincing — even scientists will be scratching their heads!
+# [AUTO_EN]
+advertisement-honkers-5 = Why use real grenades when you have these? Lots of noise, zero harm! Safe and fun!
+# [AUTO_EN]
+advertisement-honkers-6 = Fake police uniform — for those who want to look dangerous, but in reality... a clown!
+# [AUTO_EN]
+advertisement-honkers-7 = No real head parasites, just a high-quality illusion! So what, it's a prop?
+# [AUTO_EN]
+advertisement-honkers-8 = Anomalies are so fake that you'll start believing them yourself! Deception at the highest level!
+# [AUTO_EN]
+advertisement-honkers-9 = Hey, clown! These things will only blow up your jokes, not your friends!
+# [AUTO_EN]
+advertisement-honkers-10 = Police uniform — to make you not only feared but also laughed at. The real hit of the season!

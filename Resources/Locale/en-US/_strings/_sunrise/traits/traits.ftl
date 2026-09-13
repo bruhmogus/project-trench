@@ -4,11 +4,17 @@ trait-colorblindness-desc = You see the world differently than everyone else
 trait-OwOAccent-name = OwO accent
 trait-OwOAccent-desc = You just want to UwU
 
-trait-monochromacy-name = Монохроматизм
-trait-monochromacy-desc = Вы полностью дальтоник: всё вокруг — оттенки от чёрного до белого.
+# [AUTO_EN]
+trait-monochromacy-name = Monochromacy
+# [AUTO_EN]
+trait-monochromacy-desc = You are completely colorblind: everything around you is shades from black to white.
 
-trait-hemophilia-name = Гемофилия
-trait-hemophilia-desc = Ваша кровь плохо сворачивается.
+# [AUTO_EN]
+trait-hemophilia-name = Hemophilia
+# [AUTO_EN]
+trait-hemophilia-desc = Your blood does not clot well.
 
-trait-impaired-mobility-name = Ограниченная подвижность
-trait-impaired-mobility-desc = Вам сложно передвигаться без средства помощи.
+# [AUTO_EN]
+trait-impaired-mobility-name = Limited mobility
+# [AUTO_EN]
+trait-impaired-mobility-desc = You have difficulty moving without assistance.

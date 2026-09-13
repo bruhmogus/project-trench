@@ -1,14 +1,24 @@
 collective-mind-chat-wrap-message = [bold]{ $channel }: { $message }[/bold]
 collective-mind-chat-wrap-message-with-author = [bold]{ $channel } ({ $source }): { $message }[/bold]
 collective-mind-chat-wrap-message-admin = { $source } ({ $channel }): { $message }
-collective-mind-flesh-cult = Плоть
-collective-mind-xeno = Ксено
-collective-mind-blob = Блоб
-collective-mind-dioneas = Дионея
-collective-mind-arachnids = Арахниды
-collective-mind-carp = Карпы
-collective-mind-zombie = Зомби
-collective-mind-changeling = Генокрад
-collective-mind-blood-cult = Культ Крови
+# [AUTO_EN]
+collective-mind-flesh-cult = Flesh
+# [AUTO_EN]
+collective-mind-xeno = Xeno
+# [AUTO_EN]
+collective-mind-blob = Blob
+# [AUTO_EN]
+collective-mind-dioneas = Dionea
+# [AUTO_EN]
+collective-mind-arachnids = Arachnids
+# [AUTO_EN]
+collective-mind-carp = Carps
+# [AUTO_EN]
+collective-mind-zombie = Zombie
+# [AUTO_EN]
+collective-mind-changeling = Genocra
+# [AUTO_EN]
+collective-mind-blood-cult = Blood Cult
 collective-mind-abductor = Abductors
-collective-mind-pirate = Пираты
+# [AUTO_EN]
+collective-mind-pirate = Pirates

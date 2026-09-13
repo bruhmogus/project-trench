@@ -50,3 +50,19 @@ injector-component-spray-injecting-target = {CAPITALIZE(THE($user))} is trying t
 
 ## Target Popup Success messages
 injector-component-feel-prick-message = You feel a tiny prick!
+# [AUTO_EN]
+injector-invalid-injector-toggle-mode = Invalid mode
+# [AUTO_EN]
+injector-component-drawing-text = Content is being loaded
+# [AUTO_EN]
+injector-component-injecting-text = Content is injected
+# [AUTO_EN]
+injector-component-drawing-user = You start drawing up the syringe.
+# [AUTO_EN]
+injector-component-injecting-user = You begin to inject the contents of the syringe.
+# [AUTO_EN]
+injector-component-drawing-target = { CAPITALIZE($user) } starts drawing a syringe from you!
+# [AUTO_EN]
+injector-component-injecting-target = { CAPITALIZE($user) } starts injecting the contents of the syringe into you!
+# [AUTO_EN]
+injector-component-failure-hardsuit = You won't be able to push the needle through the thick coating!

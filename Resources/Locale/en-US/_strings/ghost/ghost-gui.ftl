@@ -36,3 +36,12 @@ ghost-roles-window-rules-footer = The button will enable after {$time} seconds (
 
 ghost-return-to-body-title = Return to Body
 ghost-return-to-body-text = You are being revived! Return to your body?
+# [AUTO_EN]
+ghost-gui-toggle-ghost-visibility-popup = Other ghosts' visibility has been changed.
+# [AUTO_EN]
+ghost-gui-toggle-lighting-manager-popup = Light rendering toggle is on.
+# [AUTO_EN]
+ghost-roles-window-rules-role-button = Rules
+# Sunrise-edit
+# [AUTO_EN]
+ghost-gui-change-server = Other servers

@@ -10,3 +10,6 @@ janitorial-trolley-slot-component-slot-name-spray = Spray
 janitorial-trolley-slot-component-slot-name-bucket = Bucket
 janitorial-trolley-slot-component-slot-name-trashbag = Trash Bag
 janitorial-trolley-slot-component-slot-name-mop = Mop
+# mop bucket
+# [AUTO_EN]
+mop-bucket-slot-component-slot-name-shark = Shark

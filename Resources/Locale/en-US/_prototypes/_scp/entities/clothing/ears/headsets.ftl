@@ -14,3 +14,6 @@ ent-ClothingHeadsetLogistics = { ent-ClothingHeadset }
     .desc = { ent-ClothingHeadset.desc }
 ent-ClothingHeadsetFoodAndSanitation = { ent-ClothingHeadset }
     .desc = { ent-ClothingHeadset.desc }
+# [AUTO_EN]
+ent-ClothingHeadsetEmpty = empty { ent-ClothingHeadset }
+    .desc = { ent-ClothingHeadset.desc } Initially has no encryption keys.

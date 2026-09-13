@@ -45,3 +45,23 @@ job-description-serviceworker = Learn the basics of bartending, cooking, and gro
 job-description-station-ai = Follow your laws, serve the crew.
 job-description-visitor = Enjoy your visit to the station.
 job-description-warden = Patrol the Security department, ensure that no one is stealing from the armory, and make sure that all prisoners are processed and let out when their time is up.
+# [AUTO_EN]
+job-description-boxer = Climb to the top! Challenge the head of personnel and get arrested when you win. This position is available at Kore, Origin, and Avert stations.
+# [AUTO_EN]
+job-description-centcomoff = Act as an ambassador on the newest ultra-modern space station as part of the Nanotrace fleet.
+# [AUTO_EN]
+job-description-ertchaplain-veteran = Ensure that the station crew's last right is respected. A veteran position requiring extensive experience.
+# [AUTO_EN]
+job-description-ertengineer-veteran = Ensure that the station has power and clean air. This veteran position requires extensive experience.
+# [AUTO_EN]
+job-description-ertjanitor-veteran = Make sure the station is properly cleaned – to maintain morale. A veteran position requiring extensive experience.
+# [AUTO_EN]
+job-description-ertleader-veteran = Lead the rapid response team to neutralize the threat to Nanotrexon's assets. A veteran position requiring extensive experience.
+# [AUTO_EN]
+job-description-ertmedic-veteran = Ensure the station crew is alive and healthy. Veteran position requiring extensive experience.
+# [AUTO_EN]
+job-description-ertsecurity-veteran = Ensure all active threats to the station are eliminated. The Veteran position requires extensive experience.
+# [AUTO_EN]
+job-description-cburn-veteran = Quarantine and containment of biological threats. Veteran position requiring extensive experience.
+# [AUTO_EN]
+job-description-zookeeper = Host a fun show featuring cute animals and space carp so that all crew members can enjoy them. This position is available at Gemini and Avaria stations.

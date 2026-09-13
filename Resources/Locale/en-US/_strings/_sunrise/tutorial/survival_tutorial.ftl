@@ -68,3 +68,7 @@ survival-tut-finish-tts = First get out of immediate danger or protect yourself.
 ent-TutorialClosetEmergencyFilledOxygen = { ent-ClosetEmergency }
     .suffix = Filled, Guaranteed Oxygen
     .desc = { ent-ClosetEmergency.desc }
+# [AUTO_EN]
+ent-SunriseClosetEmergencyFilledOxygen = { ent-ClosetEmergency }
+    .suffix = Filled, guaranteed oxygen
+    .desc = { ent-ClosetEmergency.desc }

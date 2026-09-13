@@ -1,4 +1,4 @@
-﻿scp-wall-metal-damaged-1 = The wall looks intact.
+scp-wall-metal-damaged-1 = The wall looks intact.
 scp-wall-metal-damaged-2 = There's some scratches here and there on the metal.
 scp-wall-metal-damaged-3 = There are some dents and the paint is a little chipped.
 scp-wall-metal-damaged-4 = The metal's visibly deformed and cracked.
@@ -37,7 +37,8 @@ scp-wall-scp096-containment-damaged-1 = The wall looks untouched; the sound-abso
 scp-wall-scp096-containment-damaged-2 = Thin, longitudinal distortions appeared on the wall, as if the surface had been compressed by a sound wave.
 scp-wall-scp096-containment-damaged-3 = Longitudinal deformations are intensifying; in places, the surfacing is crumpled and has lost its shape.
 scp-wall-scp096-containment-damaged-4 = The wall is covered with deep longitudinal grooves; the layers of acoustic insulation are torn.
-scp-wall-scp096-containment-damaged-5 = ВWave-like fissures run across the entire surface; the structure of the wall is noticeably distorted.
+# [AUTO_EN]
+scp-wall-scp096-containment-damaged-5 = Waves-like fissures run across the entire surface; the structure of the wall is noticeably distorted.
 scp-wall-scp096-containment-damaged-6 = The wall is disfigured by massive longitudinal damage, as if it had been “pushed in” by a continuous sound wave!
 
 scp-wall-metal-damaged-engineering-1 = The structure is in good condition. Its integrity and load-bearing capacity correspond to the design values. No maintenance is required.

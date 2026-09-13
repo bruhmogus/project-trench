@@ -153,3 +153,19 @@ reagent-desc-haloperidol = Removes most stimulating and hallucinogenic drugs. Re
 
 reagent-name-heparin = heparin
 reagent-desc-heparin = Commonly used as an anticoagulant medication. Causes blood to have difficulty forming clots. Can cause internal bleeding when overdosed.
+# [AUTO_EN]
+reagent-name-necrosol = necrosol
+# [AUTO_EN]
+reagent-desc-necrosol = Necrotic substance that seems capable of healing frostbitten corpses. In small doses, it can heal and revive plants. Works on both the dead and the living.
+# [AUTO_EN]
+reagent-name-hemostatic-powder = hemostatic powder
+# [AUTO_EN]
+reagent-desc-hemostatic-powder = Hemostatic powder based on a mixture of tranexamic acid and ferrous silicide. Overdose causes severe poisoning of the body with toxins.
+# [AUTO_EN]
+reagent-name-retroindralyne = retroindralyne
+# [AUTO_EN]
+reagent-desc-retroindralyne = very old anti-radiation drug, refined by modern scientists, has side effects.
+# [AUTO_EN]
+reagent-name-barozine-plus = Barozine Plus
+# [AUTO_EN]
+reagent-desc-barozine-plus = Barozine Plus, an improved version specifically for medical foams. Less toxic.

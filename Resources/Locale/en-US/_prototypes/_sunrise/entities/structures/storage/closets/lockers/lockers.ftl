@@ -86,3 +86,7 @@ ent-PrisonCellLocker7 = { ent-PrisonCellLocker }
 ent-PrisonCellLocker8 = { ent-PrisonCellLocker }
     .suffix = Sunrise, 8
     .desc = { ent-PrisonCellLocker.desc }
+# [AUTO_EN]
+ent-GunSafeRPGNanotrasen = safe
+    .suffix = RPG
+    .desc = { ent-GunSafe.desc }

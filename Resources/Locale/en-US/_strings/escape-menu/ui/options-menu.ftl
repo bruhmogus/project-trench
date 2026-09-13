@@ -407,3 +407,11 @@ ui-options-admin-enable-overlay-starting-job = Show starting job
 ui-options-admin-overlay-merge-distance = Stack merge distance
 ui-options-admin-overlay-ghost-fade-distance = Ghost overlay fade range from mouse
 ui-options-admin-overlay-ghost-hide-distance = Ghost overlay hide range from mouse
+# [AUTO_EN]
+ui-options-header-extra = Extra
+# [AUTO_EN]
+ui-options-accessability-header-visuals = Visual effects
+# [AUTO_EN]
+ui-options-accessability-header-content = Content
+# [AUTO_EN]
+ui-options-censor-nudity = Censor character nudity

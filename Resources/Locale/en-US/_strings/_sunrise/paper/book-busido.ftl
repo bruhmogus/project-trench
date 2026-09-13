@@ -50,3 +50,78 @@ book-text-bushido =
     In a "this or that" situation, choose death without hesitation. It is not difficult. Summon your resolve and act. 
     Only the faint-hearted attempt to justify themselves with the argument that to die without having achieved one's objective is to die a "dog's death." 
     To make the *correct* choice in a "this or that" situation is, in practice, impossible.
+# [AUTO_EN]
+book-text-busido =
+    Preface
+    
+    The samurai must constantly remember—day and night, from the morning he picks up his staff to taste the New Year's feast until the last night of the old year when he pays his debts—that he must die. This is his main task.
+    
+    If he always keeps this in mind, he will be able to live a life in accordance with loyalty and filial piety, avoid myriad evils and misfortunes, protect himself from illness and poverty, and enjoy a long life.
+    
+    He will be an exceptional individual endowed with noble qualities. For life is fleeting, like a drop of evening dew and morning frost, and even more so the life of a warrior.
+    
+    Right and Wrong
+    
+    The warrior must deeply understand these two qualities. If he knows how to do one and avoid the other, he has attained bushido.
+    
+    Right and wrong are nothing other than good and evil. Although I do not deny that the distinction between the words is insignificant, acting right and doing good is considered tiresome, while acting wrong and doing evil is easy and pleasant; therefore, it is natural that many incline toward the wrong or evil and dislike the right and good.
+    
+    The reason is an inability to control oneself. By itself, this may not sound so bad, but if we look deeper, we will see that it all stems from cowardice. Therefore, I assert that the samurai must refrain from the wrong and strive for the right.
+    
+    Choosing Friends
+    
+    The most important thing for a samurai in service is to associate and make friends only among those comrades who are brave, loyal to their duty, wise, and influential.
+    
+    But since such people are few, one should choose among many friends one upon whom, in case of necessity, one can fully rely.
+    
+    In general, a samurai is advised to make close friends among those he loves and with whom he prefers to eat, drink, and travel.
+    
+    Friendship
+    
+    Reliability is one of the qualities of the Way of the Warrior necessary for the samurai, but under no circumstances is it advisable to lend a hand without cause, to become involved in matters of no significance, or to take on obligations that do not concern you personally, merely to do this or that or to give advice.
+    
+    Even if a matter concerns you to some degree, it is better to stay out of it if no one asks you to intervene.
+    
+    Miscellaneous
+    
+    It is unprincipled to believe that you cannot achieve everything that the great masters achieved. Masters are human beings, and you are also a human being.
+    
+    If you know that you can become like them, you are already on the path to it.
+    
+    A warrior should never speak with uncertainty. A warrior must be prepared for everything in advance. Even in daily affairs, the depth of the soul is revealed.
+    
+    The priest Tan-nen said: "A prudent servant does not strive to take a higher position. Meanwhile, fools are rarely promoted."
+    
+    Truly, human life lasts for a moment, so live and do what you wish. It is foolish to live in this world, like a dream, meeting unpleasantness every day and doing only what you do not like.
+    
+    Personally, I love sleeping. Over time, I intend to retreat more often to my own home and spend the rest of my life in sleep.
+    
+    The basic principle of martial arts consists of attacking without thinking about life and death. If the opponent does the same, then you and he are equals. In this case, the outcome of the duel is decided by the strength of the spirit and fate.
+    
+    Nakano Jinemon said: "Studying subjects such as military tactics is useless. If a warrior does not rush at the enemy and does not cut him down with his eyes closed, he will be useless, because in battle he will not advance even one step." The same opinion was held by Iyanaga Sasuke.
+    
+    If a person behaved worthily before death, he is truly a brave man. We know many examples of such people. He who boasts of his bravery but becomes confused before death cannot be called truly brave.
+    
+    End
+    
+    Every samurai, great or small, high or low in rank, must first and foremost think about how to meet the inevitable death.
+    
+    No matter how wise and talented he may be, if he is careless and not sufficiently cool-headed, and therefore, when faced with death, appears flustered, all his previous good deeds will lose their meaning, and all upright people will despise him, and an indelible stain of shame will rest upon him.
+    
+    For if a samurai goes into battle, performs brave and majestic deeds, and covers his name with glory, it is only because he has set his heart on death.
+    
+    If the worst happens and he is destined to part with his life, then when his opponent asks for his name, he should answer loudly and clearly and bid farewell to life with a smile on his lips, showing no sign of fear at all.
+    
+    If he is severely wounded so that no healer can help him, then, as befits a samurai, he should, while still conscious, answer the questions of his commanders and comrades and tell them how he was wounded, after which he should calmly, without any ceremony, meet his death.
+    
+    Although the samurai must first and foremost honor the Way of the Samurai, it is beyond doubt that we are all negligent. Therefore, if in our days one is asked: "What is the true meaning of the Way of the Samurai?", only a few will answer without hesitation.
+    
+    And all because no one prepares in advance for an answer to such questions. This indicates that people have forgotten the Way. Negligence is dangerous.
+    
+    I have come to understand that the Way of the Samurai is death.
+    
+    In a situation of "or-or," choose death without hesitation. It is not difficult. Fulfill your resolve and act.
+    
+    Only cowards justify themselves with reasoning that dying without achieving one's goal means dying a dog's death.
+    
+    Making the right choice in a situation of "or-or" is practically impossible.

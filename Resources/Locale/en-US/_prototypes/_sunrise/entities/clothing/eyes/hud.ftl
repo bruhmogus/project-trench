@@ -4,3 +4,8 @@ ent-ClothingEyesHudSyndicateMech = syndicate Mech pilot visor
     .desc = The syndicate Mech pilote`s professional head-up display, designed for quick diagnosis of their Mech's status.
 ent-ClothingEyesHudDiagnosticERT = ERT Mech pilot visor
     .desc = Mech pilote`s professional head-up display, designed for quick diagnosis of their Mech's status.
+ent-ClothingEyesGlassesHiddenSecurityChameleon = {ent-ClothingEyesGlassesHiddenSecurity}
+    .desc = {ent-ClothingEyesGlassesHiddenSecurity.desc}
+# [AUTO_EN]
+ent-ClothingEyesHudMilira = milira visor
+    .desc = Visor adapted for Milira, combining the benefits of a medical scanner and flash protection.
