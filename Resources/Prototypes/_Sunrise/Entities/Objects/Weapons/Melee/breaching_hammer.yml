@@ -82,5 +82,11 @@
     slots:
     - back
     - suitStorage
+  - type: Wieldable
+  - type: IncreaseDamageOnWield # trench start
+    damage:
+      types:
+        Blunt: 20
+        Structural: 110 # trench end
 
 
