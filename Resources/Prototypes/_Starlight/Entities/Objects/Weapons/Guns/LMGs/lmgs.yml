@@ -18,6 +18,7 @@
     - Back
     - suitStorage
   - type: GunRequiresWield
+  - type: Wieldable
   - type: GunWieldBonus
     minAngle: 0
     maxAngle: 0
