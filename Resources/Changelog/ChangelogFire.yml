@@ -5588,3 +5588,232 @@
     message: исправлен баг с лёгкими SCP-049
   id: 520
   url: https://github.com/makura-games/project-fire/pull/1134
+- author: timur
+  time: '2026-08-27T16:45:24.0000000+00:00'
+  changes:
+  - type: Add
+    message: Добавлены руки и инвентарь человека для SCP-059-1
+  - type: Remove
+    message: Убран пацифизм с SCP-059-1
+  - type: Tweak
+    message: Рецепт гризеофульвина был упрощён до 1 фалангимина и 4 субстанции SCP-059
+  - type: Fix
+    message: Осколки SCP-059 больше не сохраняются между раундами
+  - type: Fix
+    message: Огромный кристалл SCP-059 больше нельзя взять в руки как предмет
+  - type: Fix
+    message: Исправлен баг с нерабочим биологическим костюмом СБ от SCP-059
+  id: 521
+  url: https://github.com/makura-games/project-fire/pull/1138
+- author: timur
+  time: '2026-08-28T10:08:19.0000000+00:00'
+  changes:
+  - type: Tweak
+    message: Теперь гермозатворы нельзя вскрыть ломом
+  - type: Tweak
+    message: Шанс открытия шлюзов способностью "Осквернить" SCP-173 повышен с 35% до 50%
+  - type: Tweak
+    message: Шейдер экрана РИИ был ослаблен
+  - type: Tweak
+    message: Уменьшен размер SCP-005 в инвентаре
+  - type: Tweak
+    message: Из аплинка было убрано множество ЛРП вещей и категорий
+  - type: Remove
+    message: Ванильные антагонисты убраны из меню персонализации
+  - type: Remove
+    message: уши, хвосты и рога убраны из меню персонализации
+  id: 522
+  url: https://github.com/makura-games/project-fire/pull/1135
+- author: timur
+  time: '2026-08-29T21:56:41.0000000+00:00'
+  changes:
+  - type: Tweak
+    message: респрайт одежды научного отдела
+  - type: Tweak
+    message: белые кеды были заменены на шнурованные туфли в снаряжении научного отдела
+  - type: Tweak
+    message: фиолетовый галстук был удален из снаряжения научного отдела
+  - type: Tweak
+    message: красный и черный галстуки были добавлены в снаряжение научного отдела
+  - type: Tweak
+    message: чёрная водолазка была добавлена в снаряжение научного отдела
+  - type: Tweak
+    message: фиолетовые перчатки были заменены на чёрные в снаряжении научного отдела
+  id: 523
+  url: https://github.com/makura-games/project-fire/pull/1141
+- author: timur
+  time: '2026-08-30T10:05:46.0000000+00:00'
+  changes:
+  - type: Add
+    message: Добавлен биом для карты сектор No02
+  id: 524
+  url: https://github.com/makura-games/project-fire/pull/1142
+- author: timur
+  time: '2026-08-30T10:19:41.0000000+00:00'
+  changes:
+  - type: Add
+    message: Добавлен личный нож для SCP-082, которым он сможет вырезать органы
+  - type: Add
+    message: Добавлен новая эмоция "стиснуть зубы" для SCP-082
+  - type: Add
+    message: Добавлено множество новых костюмов для SCP-082 в его лодаут
+  - type: Tweak
+    message: Добавлен спрайт к эмоции крика от боли
+  - type: Tweak
+    message: Теперь SCP-082 может выбрать костюм в лодауте
+  id: 525
+  url: https://github.com/makura-games/project-fire/pull/1140
+- author: timur
+  time: '2026-08-30T17:48:29.0000000+00:00'
+  changes:
+  - type: Add
+    message: Добавлен SCP-3199
+  - type: Remove
+    message: SCP-2054 был убран из геймрула и эффектов от узла
+  id: 526
+  url: https://github.com/makura-games/project-fire/pull/1143
+- author: timur
+  time: '2026-08-31T07:09:32.0000000+00:00'
+  changes:
+  - type: Tweak
+    message: Измерение SCP-106 переработано
+  id: 527
+  url: https://github.com/makura-games/project-fire/pull/1145
+- author: Wardex
+  time: '2026-09-01T11:37:32.0000000+00:00'
+  changes:
+  - type: Tweak
+    message: SCP-457 теперь каждые 5 секунд всасывает ближайшие сущности поблизости, которые могут гореть
+  id: 528
+  url: https://github.com/makura-games/project-fire/pull/1146
+- author: Data_deleted
+  time: '2026-09-03T18:27:42.0000000+00:00'
+  changes:
+  - type: Add
+    message: Добавлены огнетушители в терминал Эпсилон-11
+  - type: Add
+    message: 'Добавлены: АК-103, AR 18 M в терминал Эпсилон-11'
+  - type: Add
+    message: 'Добавлены: АШ-12, АК-103, AR18 M в терминал Ню-7'
+  - type: Add
+    message: Добавлены дробовики в терминал Бета-7
+  - type: Add
+    message: Всем Мобильным Оперативный Группам в терминал добавлены Векторы
+  - type: Add
+    message: Лазерное оружие удалено из терминалов всех МОГ, за исключением Альфа-1
+  id: 529
+  url: https://github.com/makura-games/project-fire/pull/1149
+- author: timur
+  time: '2026-09-04T14:25:43.0000000+00:00'
+  changes:
+  - type: Tweak
+    message: Респрайт обычного противогаза и противопульного щита
+  id: 530
+  url: https://github.com/makura-games/project-fire/pull/1150
+- author: timur
+  time: '2026-09-04T14:59:31.0000000+00:00'
+  changes:
+  - type: Add
+    message: Добавлена новая карта Sector No02
+  id: 531
+  url: https://github.com/makura-games/project-fire/pull/1144
+- author: Wardex
+  time: '2026-09-04T15:33:45.0000000+00:00'
+  changes:
+  - type: Tweak
+    message: 'Карты обновлены до последней версии: Compact, Standard, Modular'
+  id: 532
+  url: https://github.com/makura-games/project-fire/pull/1151
+- author: timur
+  time: '2026-09-05T13:38:28.0000000+00:00'
+  changes:
+  - type: Tweak
+    message: Изменён шанс спавна яйца SCP-3199 с 0.001% до 0.005%
+  - type: Tweak
+    message: Карта Sector-02 обновлена
+  - type: Fix
+    message: Исправлено отображение одежды SCP-082
+  - type: Fix
+    message: Исправлен баг с возможностью вскрыть гермозатвор
+  - type: Fix
+    message: Исправлен баг со спавном клонов в раунде
+  id: 533
+  url: https://github.com/makura-games/project-fire/pull/1152
+- author: Data_deleted
+  time: '2026-09-13T14:04:48.0000000+00:00'
+  changes:
+  - type: Fix
+    message: Удален лазерный пистолет из лодаута Ню-7
+  - type: Tweak
+    message: Респрайт противо-пулевого щита
+  - type: Tweak
+    message: Спрайт противо-ударного щита теперь корректен
+  - type: Tweak
+    message: Респрайт криминалистичесткого сканера
+  id: 534
+  url: https://github.com/makura-games/project-fire/pull/1153
+- author: Wardex
+  time: '2026-09-13T14:36:06.0000000+00:00'
+  changes:
+  - type: Fix
+    message: Лицо Scp-096 теперь нормально лечится
+  - type: Fix
+    message: Пробирки амнезиака более не пустые с начала раунда
+  - type: Fix
+    message: Игроки теперь могут таскать других игроков
+  id: 535
+  url: https://github.com/makura-games/project-fire/pull/1154
+- author: timur
+  time: '2026-09-18T13:39:13.0000000+00:00'
+  changes:
+  - type: Fix
+    message: ржавые стены больше не спавнятся в проходах
+  - type: Add
+    message: SCP-457, SCP-035 и SCP-059 были добавлены на карту sector No02
+  id: 536
+  url: https://github.com/makura-games/project-fire/pull/1156
+- author: Wardex
+  time: '2026-09-18T13:43:53.0000000+00:00'
+  changes:
+  - type: Fix
+    message: Комнатные растения теперь не спавнятся по два на тайл
+  - type: Fix
+    message: Лицо скромника теперь корректно лечится
+  id: 537
+  url: https://github.com/makura-games/project-fire/pull/1159
+- author: timur
+  time: '2026-09-20T10:18:59.0000000+00:00'
+  changes:
+  - type: Add
+    message: Добавлены заказы на волокно SCP-2295 и аномальную ткань
+  - type: Tweak
+    message: Эффект узла на притяжение ослаблен
+  - type: Tweak
+    message: Выручка за заказы в логистике была значительно повышена
+  - type: Remove
+    message: Убраны заказы из логистики, не связанные с СЦП
+  - type: Remove
+    message: Удален эффект узла на телепортацию и болтировку шлюзов
+  id: 538
+  url: https://github.com/makura-games/project-fire/pull/1161
+- author: timur
+  time: '2026-09-20T10:35:54.0000000+00:00'
+  changes:
+  - type: Add
+    message: Добавлены новые аксессуары для SCP-082
+  - type: Add
+    message: В начале раунда с шансом 50% в сумке SCP-049 может появиться его трость
+  - type: Add
+    message: Добавлена жидкость SCP-035
+  - type: Add
+    message: Добавлена новая способность призыва щупалец для SCP-035
+  - type: Tweak
+    message: Теперь SCP-082, SCP-3288, SCP-1589 неуклюже обращаются с огнестрельным оружием и другими вещами
+  - type: Tweak
+    message: Ожидание лотереи гост-роли SCP-035 снизилось с 30 до 10 секунд
+  - type: Tweak
+    message: Теперь никотин (т.е. сигареты) немного уменьшает страх
+  - type: Fix
+    message: Исправлен баг с боязнью от SCP-247
+  id: 539
+  url: https://github.com/makura-games/project-fire/pull/1157

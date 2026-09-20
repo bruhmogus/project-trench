@@ -21,3 +21,30 @@
     strippingWindowPos: 1,4
     displayName: Pocket 2
     stripHidden: true
+  - name: jumpsuit
+    slotTexture: uniform
+    slotFlags: INNERCLOTHING
+    stripTime: 6
+    uiWindowPos: 1,0
+    strippingWindowPos: 0,2
+    displayName: Jumpsuit
+  - name: head
+    slotTexture: head
+    slotFlags: HEAD
+    uiWindowPos: 0,2
+    strippingWindowPos: 0,0
+    displayName: Head
+    offset: 0.015625, -0.09375
+  - name: eyes
+    slotTexture: glasses
+    slotFlags: EYES
+    stripTime: 3
+    uiWindowPos: 0,3
+    strippingWindowPos: 0,0
+    displayName: Eyes
+  - name: mask
+    slotTexture: mask
+    slotFlags: MASK
+    uiWindowPos: 0,1
+    strippingWindowPos: 0,1
+    displayName: Mask

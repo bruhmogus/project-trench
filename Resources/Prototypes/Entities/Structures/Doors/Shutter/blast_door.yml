@@ -26,16 +26,13 @@
         layer:
         - WallLayer
   - type: Door
+    canPry: false # Fire edit
     closeTimeOne: 0.4
     closeTimeTwo: 0.4
     openTimeOne: 0.4
     openTimeTwo: 0.4
     openingAnimationTime: 1.0
     closingAnimationTime: 1.0
-    # Fire edit start
-    canPry: true
-    pryTime: 10
-    # Fire edit end
     crushDamage:
       types:
         Blunt: 50 # yowch
